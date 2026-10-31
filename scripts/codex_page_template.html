@@ -1,0 +1,150 @@
+<title>Codex v5</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: archive drawer — sticky header with the RETIRED stamp, file index on the left, reading pane on the right; stacks on phones. */
+:root{
+  --bg:#e9ece8; --panel:#f5f6f3; --ink:#1f2622; --soft:#4b5650; --faint:#7c8781;
+  --rule:#c9cfca; --accent:#2f5d62; --stamp:#2f5d62; --mark:#f1d98a;
+  --display:"Spectral",Georgia,"Times New Roman",serif;
+  --body:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#141917; --panel:#1b2220; --ink:#dfe5e1; --soft:#a9b4ae; --faint:#75807a;
+  --rule:#2e3834; --accent:#7fb5ba; --stamp:#7fb5ba; --mark:#5b4c1c; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#141917; --panel:#1b2220; --ink:#dfe5e1; --soft:#a9b4ae; --faint:#75807a;
+  --rule:#2e3834; --accent:#7fb5ba; --stamp:#7fb5ba; --mark:#5b4c1c; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);line-height:1.6}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.wrap{max-width:1180px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 64px}
+header{display:flex;gap:20px;align-items:flex-start;flex-wrap:wrap;border-bottom:1px solid var(--rule);padding-bottom:20px}
+.stamp{font-family:var(--mono);font-weight:600;letter-spacing:.24em;font-size:13px;color:var(--stamp);border:2px solid var(--stamp);padding:6px 12px;transform:rotate(-3deg);flex:none;margin-top:6px}
+.htext{flex:1;min-width:0}
+h1{font-family:var(--display);font-weight:600;font-size:clamp(28px,4.5vw,40px);line-height:1.1;margin:0;text-wrap:balance}
+.dek{color:var(--soft);max-width:68ch;margin:10px 0 0}
+.dek b{color:var(--ink)}
+.layout{display:grid;grid-template-columns:270px minmax(0,1fr);gap:28px;margin-top:24px;align-items:start}
+@media (max-width:820px){.layout{grid-template-columns:1fr}}
+aside{position:sticky;top:calc(env(safe-area-inset-top,0px) + 12px);max-height:calc(100vh - 24px);overflow:auto}
+@media (max-width:820px){aside{position:static;max-height:none}}
+label.s{display:block;font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--faint);margin-bottom:6px}
+#q{width:100%;font:inherit;padding:9px 11px;border:1px solid var(--rule);background:var(--panel);color:var(--ink);border-radius:4px}
+#q:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.hint{font-size:12px;color:var(--faint);margin:6px 0 0;min-height:1.2em}
+.grp{font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--faint);margin:20px 0 6px}
+nav ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:2px}
+nav a{display:flex;justify-content:space-between;gap:10px;text-decoration:none;color:var(--soft);padding:6px 9px;border-radius:4px;font-size:14px}
+nav a:hover{background:var(--panel);color:var(--ink)}
+nav a[aria-current="true"]{background:var(--panel);color:var(--ink);box-shadow:inset 2px 0 0 var(--accent)}
+nav a:focus-visible{outline:2px solid var(--accent)}
+nav .n{font-family:var(--mono);font-size:11px;color:var(--faint);font-variant-numeric:tabular-nums;white-space:nowrap}
+nav .hit{color:var(--accent);font-weight:600}
+nav li.dim a{opacity:.4}
+.extra{margin-top:20px;font-size:13px;color:var(--soft);border-top:1px solid var(--rule);padding-top:14px}
+.extra a{color:var(--accent)}
+main{min-width:0;background:var(--panel);border:1px solid var(--rule);border-radius:6px;padding:clamp(18px,3vw,36px)}
+.meta{font-family:var(--mono);font-size:11.5px;color:var(--faint);letter-spacing:.06em;display:flex;gap:14px;flex-wrap:wrap;border-bottom:1px dashed var(--rule);padding-bottom:12px;margin-bottom:18px}
+.meta .r{color:var(--stamp)}
+.doc{max-width:74ch;overflow-wrap:anywhere}
+.doc h1,.doc h2,.doc h3,.doc h4{font-family:var(--display);font-weight:600;line-height:1.25;text-wrap:balance}
+.doc h1{font-size:28px;margin:.4em 0 .5em}.doc h2{font-size:22px;margin:1.6em 0 .5em;border-bottom:1px solid var(--rule);padding-bottom:4px}
+.doc h3{font-size:18px;margin:1.4em 0 .4em}.doc h4{font-size:16px}
+.doc blockquote{margin:1em 0;padding:4px 14px;border-left:3px solid var(--rule);color:var(--soft)}
+.doc code{font-family:var(--mono);font-size:.88em;background:var(--bg);padding:1px 4px;border-radius:3px}
+.doc pre{overflow-x:auto;background:var(--bg);padding:12px;border-radius:4px}
+.doc pre code{background:none;padding:0}
+.doc table{border-collapse:collapse;font-size:13.5px;display:block;overflow-x:auto;max-width:100%}
+.doc th,.doc td{border:1px solid var(--rule);padding:6px 9px;vertical-align:top;text-align:left}
+.doc hr{border:none;border-top:1px solid var(--rule);margin:2em 0}
+.doc a{color:var(--accent)}
+mark{background:var(--mark);color:inherit;padding:0 1px;border-radius:2px}
+.jump{position:sticky;bottom:12px;float:right;font-family:var(--mono);font-size:12px;display:flex;gap:6px;align-items:center;background:var(--panel);border:1px solid var(--rule);border-radius:999px;padding:4px 6px 4px 12px}
+.jump button{font:inherit;background:var(--bg);color:var(--ink);border:1px solid var(--rule);border-radius:999px;padding:3px 10px;cursor:pointer}
+.jump button:focus-visible{outline:2px solid var(--accent)}
+@media (prefers-reduced-motion: reduce){html{scroll-behavior:auto}}
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="stamp" aria-label="Current canon">CANON · V5</div>
+    <div class="htext">
+      <h1>Codex v5</h1>
+      <p class="dek"><b>The current codex.</b> All codex v5 files as of 31 October 2026, after the late-October pass. This is the source of truth for the saga. The trackers at the bottom list what is still <b>open</b>: never treat those items as settled. Stability markers: 🔒 law, ⚖️ flexible, 🌊 open, 🟡 story, 🚫 retired.</p>
+    </div>
+  </header>
+  <div class="layout">
+    <aside>
+      <label class="s" for="q">Search all files</label>
+      <input id="q" type="search" placeholder="e.g. changeling, Tower, Lirael" autocomplete="off">
+      <p class="hint" id="hint"></p>
+      <nav id="nav" aria-label="Archived files"></nav>
+      <div class="extra">Snapshot of the project docs in <code>codex_v5/</code>. If the project and this page ever differ, the project wins.</div>
+    </aside>
+    <main>
+      <div class="meta" id="meta"></div>
+      <article class="doc" id="doc"></article>
+      <div class="jump" id="jump" hidden><span id="jc"></span><button id="prev" type="button">Prev</button><button id="next" type="button">Next</button></div>
+    </main>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<script>
+window.ARCHIVE=__ARCHIVE_JSON__;
+(function(){
+  const docs=window.ARCHIVE, byId={}; docs.forEach(d=>byId[d.id]=d);
+  const nav=document.getElementById('nav'), q=document.getElementById('q'), hint=document.getElementById('hint');
+  const docEl=document.getElementById('doc'), meta=document.getElementById('meta');
+  const jump=document.getElementById('jump'), jc=document.getElementById('jc');
+  let current=null, term='', marks=[], mi=-1;
+  function esc(s){return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}
+  function count(d,t){if(!t)return 0;const m=d.text.match(new RegExp(esc(t),'gi'));return m?m.length:0}
+  function buildNav(){
+    nav.innerHTML='';let g=null,ul;
+    let total=0,files=0;
+    docs.forEach(d=>{
+      if(d.group!==g){g=d.group;const h=document.createElement('div');h.className='grp';h.textContent=g;nav.appendChild(h);ul=document.createElement('ul');nav.appendChild(ul)}
+      const c=count(d,term);total+=c;if(c)files++;
+      const li=document.createElement('li');if(term&&!c)li.className='dim';
+      const a=document.createElement('a');a.href='#'+d.id;if(current&&current.id===d.id)a.setAttribute('aria-current','true');
+      a.innerHTML='<span></span><span class="n'+(c?' hit':'')+'"></span>';
+      a.firstChild.textContent=d.label;a.lastChild.textContent=term?(c?c+' hits':'—'):d.words.toLocaleString()+' w';
+      li.appendChild(a);ul.appendChild(li);
+    });
+    hint.textContent=term?(total?total+' matches in '+files+' files':'No matches'):'';
+  }
+  function highlight(){
+    marks=[];mi=-1;
+    if(!term){jump.hidden=true;return}
+    const re=new RegExp(esc(term),'gi');
+    const walker=document.createTreeWalker(docEl,NodeFilter.SHOW_TEXT);const nodes=[];
+    while(walker.nextNode())nodes.push(walker.currentNode);
+    nodes.forEach(n=>{
+      const s=n.nodeValue;if(!re.test(s))return;re.lastIndex=0;
+      const f=document.createDocumentFragment();let last=0,m;
+      while((m=re.exec(s))){f.appendChild(document.createTextNode(s.slice(last,m.index)));const k=document.createElement('mark');k.textContent=m[0];f.appendChild(k);marks.push(k);last=m.index+m[0].length}
+      f.appendChild(document.createTextNode(s.slice(last)));n.parentNode.replaceChild(f,n);
+    });
+    jump.hidden=!marks.length;if(marks.length)go(0);
+  }
+  function go(i){if(!marks.length)return;mi=(i+marks.length)%marks.length;jc.textContent=(mi+1)+' / '+marks.length;marks[mi].scrollIntoView({block:'center',behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'})}
+  document.getElementById('prev').onclick=()=>go(mi-1);
+  document.getElementById('next').onclick=()=>go(mi+1);
+  function show(id){
+    const d=byId[id]||docs[0];current=d;
+    meta.innerHTML='';[['r','CANON · V5'],['',d.name],['',d.words.toLocaleString()+' words'],['',d.group]].forEach(([c,t])=>{const s=document.createElement('span');if(c)s.className=c;s.textContent=t;meta.appendChild(s)});
+    try{docEl.innerHTML=window.marked?marked.parse(d.text):''}catch(e){docEl.innerHTML=''}
+    if(!docEl.innerHTML){const p=document.createElement('pre');p.textContent=d.text;docEl.appendChild(p)}
+    docEl.querySelectorAll('a[href^="http"]').forEach(a=>{a.target='_blank';a.rel='noopener'});
+    buildNav();highlight();
+    if(!term)window.scrollTo(0,0);
+  }
+  function route(){show(location.hash.slice(1))}
+  let tmr;q.addEventListener('input',()=>{clearTimeout(tmr);tmr=setTimeout(()=>{term=q.value.trim();if(term&&current&&!count(current,term)){const f=docs.find(d=>count(d,term));if(f){location.hash=f.id;return}}buildNav();show(current?current.id:'')},200)});
+  window.addEventListener('hashchange',route);route();
+})();
+</script>

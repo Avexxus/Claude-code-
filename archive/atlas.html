@@ -1,0 +1,1257 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{color-scheme:light}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}</style></head><body>
+<title>An Atlas of the Saga</title>
+<style>
+  :root{
+    --ground:#0d1220; --panel:#141b2e; --panel-2:#101627; --panel-3:#0e1424;
+    --ink:#e9ddc0; --ink-soft:#c8bd9f; --muted:#868da6; --faint:#5b6178;
+    --gold:#c9a24b; --gold-soft:#e0c079;
+    --teal:#59b0a0; --crimson:#c05159; --violet:#8f7fc4;
+    --warn:#d08b3c; --bad:#c05159; --note:#c9b45c;
+    --hair:rgba(201,162,75,.20); --hair-soft:rgba(201,162,75,.10);
+    --plate-sh:0 1px 0 rgba(255,255,255,.03), 0 18px 40px -24px rgba(0,0,0,.8);
+    --serif:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    --mono:"SFMono-Regular",Menlo,Consolas,"Liberation Mono",monospace;
+  }
+  @media (prefers-color-scheme: light){
+    :root{
+      --ground:#e9e0cc; --panel:#f4eddc; --panel-2:#efe6d2; --panel-3:#eadfc8;
+      --ink:#2a2416; --ink-soft:#4a4230; --muted:#6d6552; --faint:#93876c;
+      --gold:#8a6a24; --gold-soft:#a9852f;
+      --teal:#2c7365; --crimson:#9c3540; --violet:#5c4d93;
+      --warn:#a4632a; --bad:#9c3540; --note:#8a7a24;
+      --hair:rgba(138,106,36,.28); --hair-soft:rgba(138,106,36,.14);
+      --plate-sh:0 1px 0 rgba(255,255,255,.5), 0 16px 34px -24px rgba(80,60,20,.5);
+    }
+  }
+  :root[data-theme="dark"]{
+    --ground:#0d1220; --panel:#141b2e; --panel-2:#101627; --panel-3:#0e1424;
+    --ink:#e9ddc0; --ink-soft:#c8bd9f; --muted:#868da6; --faint:#5b6178;
+    --gold:#c9a24b; --gold-soft:#e0c079; --teal:#59b0a0; --crimson:#c05159; --violet:#8f7fc4;
+    --warn:#d08b3c; --bad:#c05159; --note:#c9b45c;
+    --hair:rgba(201,162,75,.20); --hair-soft:rgba(201,162,75,.10);
+    --plate-sh:0 1px 0 rgba(255,255,255,.03), 0 18px 40px -24px rgba(0,0,0,.8);
+  }
+  :root[data-theme="light"]{
+    --ground:#e9e0cc; --panel:#f4eddc; --panel-2:#efe6d2; --panel-3:#eadfc8;
+    --ink:#2a2416; --ink-soft:#4a4230; --muted:#6d6552; --faint:#93876c;
+    --gold:#8a6a24; --gold-soft:#a9852f; --teal:#2c7365; --crimson:#9c3540; --violet:#5c4d93;
+    --warn:#a4632a; --bad:#9c3540; --note:#8a7a24;
+    --hair:rgba(138,106,36,.28); --hair-soft:rgba(138,106,36,.14);
+    --plate-sh:0 1px 0 rgba(255,255,255,.5), 0 16px 34px -24px rgba(80,60,20,.5);
+  }
+
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  @media (prefers-reduced-motion: reduce){ html{scroll-behavior:auto} }
+  .wrap{
+    background:
+      radial-gradient(120% 70% at 50% -8%, rgba(143,127,196,.10), transparent 60%),
+      var(--ground);
+    color:var(--ink); font-family:var(--sans); line-height:1.6;
+    padding:0 clamp(12px,3.5vw,40px) 80px; min-height:100%;
+  }
+  .sheet{max-width:1020px;margin:0 auto}
+
+  /* ---- sticky nav ---- */
+  .atlasnav{
+    position:sticky; top:0; z-index:50; margin:0 calc(-1 * clamp(12px,3.5vw,40px));
+    padding:10px clamp(12px,3.5vw,40px);
+    background:color-mix(in srgb, var(--ground) 88%, transparent);
+    backdrop-filter:blur(8px); -webkit-backdrop-filter:blur(8px);
+    border-bottom:1px solid var(--hair-soft);
+  }
+  .navrow{max-width:1020px;margin:0 auto;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+  .navmark{font-family:var(--serif);font-size:15px;color:var(--gold-soft);white-space:nowrap;letter-spacing:.03em}
+  .navlinks{display:flex;gap:2px;flex-wrap:wrap;flex:1;min-width:0}
+  .navlinks a{
+    font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--muted);text-decoration:none;padding:5px 8px;border-radius:4px;white-space:nowrap;
+  }
+  .navlinks a:hover{color:var(--ink);background:var(--hair-soft)}
+  .navlinks a:focus-visible{outline:2px solid var(--gold);outline-offset:1px}
+  .toggle{flex:none;font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--ink-soft);background:var(--panel);border:1px solid var(--hair);border-radius:999px;
+    padding:6px 12px;cursor:pointer}
+  .toggle:hover{border-color:var(--gold);color:var(--ink)}
+  .toggle:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+
+  /* ---- masthead ---- */
+  .mast{padding:52px 0 12px}
+  .eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.28em;text-transform:uppercase;color:var(--gold);margin:0 0 14px}
+  h1{font-family:var(--serif);font-weight:600;font-size:clamp(34px,6.6vw,60px);line-height:1.02;margin:0;text-wrap:balance;letter-spacing:.01em}
+  h1 em{font-style:italic;color:var(--gold-soft)}
+  .dek{color:var(--ink-soft);max-width:66ch;margin:18px 0 0;font-size:clamp(15px,1.6vw,17px)}
+  .keyrow{display:flex;flex-wrap:wrap;gap:8px 22px;margin:22px 0 8px;font-size:12.5px;color:var(--muted);font-family:var(--mono)}
+  .keyrow span{display:inline-flex;align-items:center;gap:7px}
+  .sw{width:11px;height:11px;border-radius:2px;flex:none}
+
+  /* ---- plates ---- */
+  .plate{background:linear-gradient(180deg,var(--panel),var(--panel-2));
+    border:1px solid var(--hair);border-radius:6px;box-shadow:var(--plate-sh);
+    padding:clamp(18px,3vw,32px);margin:26px 0; scroll-margin-top:64px}
+  .plate-head{display:flex;align-items:baseline;gap:14px;margin-bottom:6px;flex-wrap:wrap}
+  .plate-num{font-family:var(--mono);font-size:12px;color:var(--gold);letter-spacing:.12em}
+  h2{font-family:var(--serif);font-weight:600;font-size:clamp(21px,3vw,28px);margin:0;letter-spacing:.01em}
+  .cap{color:var(--muted);font-size:14px;margin:2px 0 22px;max-width:70ch}
+  .cap b{color:var(--ink-soft);font-weight:600}
+  .foot-note{color:var(--faint);font-size:12px;font-family:var(--mono);margin-top:14px;letter-spacing:.03em}
+
+  svg{display:block;width:100%;height:auto}
+  .scroll{overflow-x:auto;padding-bottom:6px}
+  .scroll svg{min-width:640px}
+  .scroll.xl svg{min-width:1280px}
+  text{font-family:var(--sans)}
+  .t-serif{font-family:var(--serif)}
+  .t-mono{font-family:var(--mono)}
+
+  .legend{display:flex;flex-wrap:wrap;gap:8px 20px;margin-top:16px;font-size:12.5px;color:var(--muted)}
+  .legend span{display:inline-flex;align-items:center;gap:7px}
+
+  /* tripwire chips */
+  .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}
+  .chip{font-family:var(--mono);font-size:11px;color:var(--muted);border:1px dashed var(--hair);
+    border-radius:999px;padding:4px 12px;text-decoration:line-through;text-decoration-color:var(--crimson);text-decoration-thickness:1.5px}
+  .chips-label{font-family:var(--mono);font-size:10.5px;letter-spacing:.18em;text-transform:uppercase;color:var(--crimson);margin:20px 0 0}
+
+  /* tooltip */
+  #tip{position:fixed;z-index:99;pointer-events:none;max-width:300px;opacity:0;transition:opacity .12s;
+    background:var(--panel-3);border:1px solid var(--hair);border-radius:6px;padding:10px 12px;
+    color:var(--ink);font-size:12.5px;line-height:1.5;box-shadow:0 10px 26px -12px rgba(0,0,0,.7)}
+  #tip .tt{font-family:var(--serif);font-size:14px;color:var(--gold-soft);display:block;margin-bottom:3px}
+  @media (prefers-reduced-motion: reduce){ #tip{transition:none} }
+  [data-tip]{cursor:help}
+
+  /* tables */
+  .tbl-wrap{overflow-x:auto;border:1px solid var(--hair-soft);border-radius:6px}
+  table{border-collapse:collapse;width:100%;min-width:820px;font-size:13px}
+  thead th{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);
+    text-align:left;padding:12px 14px;border-bottom:1px solid var(--hair);background:var(--panel-3)}
+  tbody td{padding:12px 14px;border-bottom:1px solid var(--hair-soft);vertical-align:top;color:var(--ink-soft)}
+  tbody tr:last-child td{border-bottom:none}
+  td.race, td.beat{font-family:var(--serif);font-size:14.5px;color:var(--ink);white-space:nowrap}
+  td .sub{display:block;font-family:var(--mono);font-size:10px;color:var(--faint);letter-spacing:.06em;margin-top:2px;white-space:nowrap}
+  td.hole{color:var(--warn);font-family:var(--mono);font-size:11.5px}
+  td.hole::before{content:"⚠ ";}
+  .pill{display:inline-block;font-family:var(--mono);font-size:10px;letter-spacing:.08em;border-radius:999px;padding:2px 9px;border:1px solid var(--hair)}
+  .pill.locked{color:var(--teal);border-color:var(--teal)}
+  .pill.open{color:var(--warn);border-color:var(--warn)}
+  .pill.debt{color:var(--crimson);border-color:var(--crimson)}
+
+  /* gap tiles */
+  .tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px;margin-top:8px}
+  .tile{border:1px solid var(--hair-soft);border-left:3px solid var(--muted);border-radius:5px;
+    background:var(--panel-3);padding:13px 15px}
+  .tile h4{font-family:var(--serif);font-weight:600;font-size:15px;margin:0 0 5px;color:var(--ink)}
+  .tile p{margin:0;font-size:12.5px;color:var(--muted);line-height:1.5}
+  .tile .where{font-family:var(--mono);font-size:10px;color:var(--faint);letter-spacing:.06em;display:block;margin-top:8px}
+  .tile.sev-r{border-left-color:var(--crimson)}
+  .tile.sev-o{border-left-color:var(--warn)}
+  .tile.sev-y{border-left-color:var(--note)}
+  .sev-head{font-family:var(--mono);font-size:11px;letter-spacing:.2em;text-transform:uppercase;margin:26px 0 10px}
+  .sev-head.r{color:var(--crimson)} .sev-head.o{color:var(--warn)} .sev-head.y{color:var(--note)}
+
+  /* elder web hover */
+  .web .edge{transition:opacity .15s}
+  .web .node{cursor:pointer;transition:opacity .15s}
+  .web.focus .edge,.web.focus .node{opacity:.14}
+  .web.focus .edge.lit,.web.focus .node.lit{opacity:1}
+  @media (prefers-reduced-motion: reduce){ .web .edge,.web .node{transition:none} }
+
+  footer{color:var(--muted);font-size:12.5px;margin-top:40px;text-align:center;font-family:var(--mono);letter-spacing:.06em;line-height:2}
+
+  /* ---- print / PDF export: force light ink-friendly theme, one plate per page ---- */
+  @media print{
+    :root, :root[data-theme="dark"], :root[data-theme="light"]{
+      --ground:#ffffff; --panel:#faf6ec; --panel-2:#f6f0e0; --panel-3:#f1e9d5;
+      --ink:#231e12; --ink-soft:#42392a; --muted:#5f5744; --faint:#8a7f63;
+      --gold:#7d6021; --gold-soft:#96762a; --teal:#256357; --crimson:#8d2f39; --violet:#524488;
+      --warn:#94581f; --bad:#8d2f39; --note:#7a6c1f;
+      --hair:rgba(125,96,33,.35); --hair-soft:rgba(125,96,33,.16);
+      --plate-sh:none;
+    }
+    .atlasnav,#tip,.toggle{display:none !important}
+    .wrap{background:#fff !important;padding:0 8px}
+    .plate{break-inside:avoid;page-break-inside:avoid;margin:10px 0}
+    .scroll,.scroll.xl{overflow:visible}
+    .scroll svg,.scroll.xl svg{min-width:0}
+    .tbl-wrap{overflow:visible}
+    table{min-width:0;font-size:11px}
+  }
+</style>
+
+<div class="wrap">
+
+<nav class="atlasnav" aria-label="Atlas sections">
+  <div class="navrow">
+    <span class="navmark">Atlas of the Saga</span>
+    <div class="navlinks">
+      <a href="#engine">Engine</a><a href="#cosmos">Cosmos</a><a href="#ladder">Ladder</a><a href="#ages">Ages</a><a href="#blood">Blood</a><a href="#web">Web</a><a href="#sins">Sins</a><a href="#skeleton">Skeleton</a><a href="#timewar">Time-War</a><a href="#cycle">Cycle</a><a href="#gaps">Gaps</a>
+    </div>
+    <button class="toggle" id="tg" aria-label="Toggle light and dark theme">◐ Theme</button>
+  </div>
+</nav>
+
+<div class="sheet">
+
+  <header class="mast">
+    <p class="eyebrow">The Codex · Complete Visual Companion · Plates I–XI</p>
+    <h1>An Atlas of <em>the Saga</em></h1>
+    <p class="dek">Eleven plates rendering the whole codex as a visual system — the magic engine, the cosmology, the ladder of being, ten thousand years of chronology, the bloodline, the web of races, the structural skeleton of all four books, the time-war's machinery, and the map of what remains unbuilt. Hover anything marked with a dotted underline or a node; every figure is canon or flagged as open.</p>
+    <div class="keyrow" aria-hidden="true">
+      <span><i class="sw" style="background:var(--gold)"></i> structure · the books</span>
+      <span><i class="sw" style="background:var(--teal)"></i> cohesion · consent · the One</span>
+      <span><i class="sw" style="background:var(--crimson)"></i> shatter · consumption · the Blight</span>
+      <span><i class="sw" style="background:var(--violet)"></i> time · the loop</span>
+    </div>
+  </header>
+
+  <!-- ================= PLATE I — THE WORLD-ENGINE ================= -->
+  <section class="plate" id="engine">
+    <div class="plate-head"><span class="plate-num">PLATE I</span><h2>The World-Engine</h2></div>
+    <p class="cap">The whole magic system on one sheet. One undivided act — a being gripping reality — passing three gates and no others. <b>No physics audit, ever.</b> The flavor is named after the act; the external systems run outside the Remnant economy entirely.</p>
+    <div class="scroll">
+    <svg viewBox="0 0 960 600" role="img" aria-label="Flow diagram of the magic system">
+      <defs>
+        <marker id="ar" markerWidth="10" markerHeight="10" refX="7" refY="3.5" orient="auto">
+          <path d="M0,0 L7,3.5 L0,7" fill="none" stroke="var(--gold)" stroke-width="1.4"/>
+        </marker>
+        <marker id="arT" markerWidth="10" markerHeight="10" refX="7" refY="3.5" orient="auto">
+          <path d="M0,0 L7,3.5 L0,7" fill="none" stroke="var(--teal)" stroke-width="1.4"/>
+        </marker>
+        <marker id="arC" markerWidth="10" markerHeight="10" refX="7" refY="3.5" orient="auto">
+          <path d="M0,0 L7,3.5 L0,7" fill="none" stroke="var(--crimson)" stroke-width="1.4"/>
+        </marker>
+      </defs>
+
+      <!-- spine -->
+      <g data-tip="The origin of consciousness only — OUR universe's One. The physical universe pre-exists it. Master = wielder-in-chief, never author.">
+        <rect x="330" y="18" width="300" height="52" rx="6" fill="var(--panel-3)" stroke="var(--teal)" stroke-width="1.5"/>
+        <text x="480" y="40" text-anchor="middle" class="t-serif" font-size="17" fill="var(--ink)">THE ONE</text>
+        <text x="480" y="58" text-anchor="middle" class="t-mono" font-size="10" fill="var(--teal)">origin of consciousness · our level's only</text>
+      </g>
+      <line x1="480" y1="70" x2="480" y2="98" stroke="var(--teal)" stroke-width="1.5" marker-end="url(#arT)"/>
+      <text x="494" y="90" class="t-mono" font-size="9.5" fill="var(--muted)">the shatter</text>
+
+      <g data-tip="The chunk of the One that you ARE. Identity, not fuel — not mana, not a pool, never spent per cast. Fixed in the living; raisable only by harvesting (which fragments you).">
+        <rect x="330" y="100" width="300" height="52" rx="6" fill="var(--panel-3)" stroke="var(--gold)" stroke-width="1.5"/>
+        <text x="480" y="122" text-anchor="middle" class="t-serif" font-size="16" fill="var(--ink)">REMNANT</text>
+        <text x="480" y="140" text-anchor="middle" class="t-mono" font-size="10" fill="var(--muted)">what you ARE — identity, never fuel</text>
+      </g>
+      <line x1="480" y1="152" x2="480" y2="180" stroke="var(--gold)" stroke-width="1.5" marker-end="url(#ar)"/>
+      <text x="494" y="172" class="t-mono" font-size="9.5" fill="var(--muted)">used, consciously</text>
+
+      <g data-tip="The name for active Remnant magic — a being consciously manipulating reality. Having Spirit is what separates a being from inert flesh. One undivided system; the old Body/Spirit split is retired.">
+        <rect x="330" y="182" width="300" height="52" rx="6" fill="var(--panel-3)" stroke="var(--gold)" stroke-width="1.5"/>
+        <text x="480" y="204" text-anchor="middle" class="t-serif" font-size="16" fill="var(--ink)">SPIRIT</text>
+        <text x="480" y="222" text-anchor="middle" class="t-mono" font-size="10" fill="var(--muted)">the act — reaching out and gripping reality</text>
+      </g>
+
+      <!-- three gates -->
+      <line x1="480" y1="234" x2="480" y2="262" stroke="var(--gold)" stroke-width="1.5" marker-end="url(#ar)"/>
+      <text x="290" y="256" class="t-mono" font-size="10.5" fill="var(--gold)" letter-spacing="2">THE ONLY THREE GATES</text>
+      <g data-tip="Capacity — how much reality you can grip at once. The natural ceiling. Innate and fixed.">
+        <rect x="180" y="266" width="180" height="58" rx="6" fill="none" stroke="var(--gold)"/>
+        <text x="270" y="290" text-anchor="middle" class="t-serif" font-size="14.5" fill="var(--ink)">REMNANT</text>
+        <text x="270" y="308" text-anchor="middle" class="t-mono" font-size="10" fill="var(--muted)">how much</text>
+      </g>
+      <g data-tip="How well you grip, shape, and blend. Learned; grows with training and time. Two beings of equal Remnant produce utterly different results.">
+        <rect x="390" y="266" width="180" height="58" rx="6" fill="none" stroke="var(--gold)"/>
+        <text x="480" y="290" text-anchor="middle" class="t-serif" font-size="14.5" fill="var(--ink)">SKILL</text>
+        <text x="480" y="308" text-anchor="middle" class="t-mono" font-size="10" fill="var(--muted)">how well</text>
+      </g>
+      <g data-tip="Working magic is work — the universal soft limit. Overreach past what body and Remnant can pay is dangerous. Magic MAY add energy; there is no energy ledger.">
+        <rect x="600" y="266" width="180" height="58" rx="6" fill="none" stroke="var(--gold)"/>
+        <text x="690" y="290" text-anchor="middle" class="t-serif" font-size="14.5" fill="var(--ink)">FATIGUE</text>
+        <text x="690" y="308" text-anchor="middle" class="t-mono" font-size="10" fill="var(--muted)">the bill</text>
+      </g>
+      <text x="480" y="348" text-anchor="middle" class="t-mono" font-size="10.5" fill="var(--crimson)" letter-spacing="1.5">NO PHYSICS AUDIT — EVER</text>
+
+      <!-- two branches -->
+      <line x1="390" y1="360" x2="280" y2="396" stroke="var(--gold)" stroke-width="1.5" marker-end="url(#ar)"/>
+      <line x1="570" y1="360" x2="680" y2="396" stroke="var(--crimson)" stroke-width="1.5" marker-end="url(#arC)"/>
+      <g data-tip="Dead physics can't push back — the safe target. What the act looks like (fire, gravity, transmutation) is description applied AFTER, never a type. No users, no builds, no elemental affinities.">
+        <rect x="120" y="400" width="320" height="74" rx="6" fill="var(--panel-3)" stroke="var(--gold)"/>
+        <text x="280" y="424" text-anchor="middle" class="t-serif" font-size="15" fill="var(--ink)">GRIPPING MATTER</text>
+        <text x="280" y="443" text-anchor="middle" class="t-mono" font-size="10" fill="var(--muted)">the common case — flavor named after the act</text>
+        <text x="280" y="461" text-anchor="middle" class="t-mono" font-size="10" fill="var(--faint)">"fire" · "gravity" · "EM" · "weak" = vocabulary, not types</text>
+      </g>
+      <g data-tip="Spirit turned on another fragment of the One — mind, memory, will, soul. Will vs. will; two-way; what you grip can grip you. The limiter is SELF-RISK, not fatigue. Unifies harvesting, binding, the elven bond, changeling acquisition, demon siphons.">
+        <rect x="520" y="400" width="320" height="74" rx="6" fill="var(--panel-3)" stroke="var(--crimson)"/>
+        <text x="680" y="424" text-anchor="middle" class="t-serif" font-size="15" fill="var(--ink)">SOUL MAGIC</text>
+        <text x="680" y="443" text-anchor="middle" class="t-mono" font-size="10" fill="var(--crimson)">the rare branch — will against will</text>
+        <text x="680" y="461" text-anchor="middle" class="t-mono" font-size="10" fill="var(--faint)">limiter: self-risk — overreach fractures YOU</text>
+      </g>
+
+      <!-- external systems strip -->
+      <text x="120" y="512" class="t-mono" font-size="10.5" fill="var(--violet)" letter-spacing="2">OUTSIDE THE REMNANT ECONOMY</text>
+      <g data-tip="Any deal-with-a-being for a cut of its power, paid by a tithe. Demons, god-blessings, blood rituals, Blight-favor, Unified-One boons — one system, differing only by patron and price. Someone holds the leash.">
+        <rect x="120" y="522" width="228" height="56" rx="6" fill="none" stroke="var(--violet)" stroke-dasharray="4 3"/>
+        <text x="234" y="546" text-anchor="middle" class="t-serif" font-size="14" fill="var(--ink)">PACTS</text>
+        <text x="234" y="564" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--muted)">patron + price · borrowed power</text>
+      </g>
+      <g data-tip="Power stored in matter: reservoirs (stored charge), attunement objects (amplifiers), bound effects (a working locked into an object). The equalizer for low-Remnant characters. A learnable craft — dwarves the candidate masters.">
+        <rect x="366" y="522" width="228" height="56" rx="6" fill="none" stroke="var(--violet)" stroke-dasharray="4 3"/>
+        <text x="480" y="546" text-anchor="middle" class="t-serif" font-size="14" fill="var(--ink)">ENCHANTMENTS</text>
+        <text x="480" y="564" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--muted)">power stored in matter · finite</text>
+      </g>
+      <g data-tip="The in-betweeners' alien operating system — they pre-date the One and never had Remnant. A binding condition on a bounded space that traps everyone inside, the imposer included. Fuel = transition; price = coherence.">
+        <rect x="612" y="522" width="228" height="56" rx="6" fill="none" stroke="var(--violet)" stroke-dasharray="4 3"/>
+        <text x="726" y="546" text-anchor="middle" class="t-serif" font-size="14" fill="var(--ink)">THE RULE</text>
+        <text x="726" y="564" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--muted)">the older OS · transition &amp; coherence</text>
+      </g>
+    </svg>
+    </div>
+    <p class="chips-label">Tripwires — retired, never reintroduce</p>
+    <div class="chips" role="list">
+      <span class="chip" role="listitem">steer-only / conservation</span>
+      <span class="chip" role="listitem">mana / Remnant-as-fuel</span>
+      <span class="chip" role="listitem">Body vs. Spirit split</span>
+      <span class="chip" role="listitem">force / element "users"</span>
+      <span class="chip" role="listitem">racial elemental affinities</span>
+      <span class="chip" role="listitem">feasibility audits</span>
+      <span class="chip" role="listitem">reachability ladders</span>
+      <span class="chip" role="listitem">character ⇄ ability derivation</span>
+    </div>
+  </section>
+
+  <!-- ================= PLATE II — THE INFINITE REGRESS ================= -->
+  <section class="plate" id="cosmos">
+    <div class="plate-head"><span class="plate-num">PLATE II</span><h2>The Infinite Regress</h2></div>
+    <p class="cap">The cosmology as a column: dimensions that created dimensions, endlessly in both directions. The Blight are <b>the same kind of being we are</b> — just from higher levels. The bubble is the only wall; the Between sits <b>beside</b> our level, not above it.</p>
+    <div class="scroll">
+    <svg viewBox="0 0 960 640" role="img" aria-label="Vertical diagram of the cosmological levels">
+      <!-- endless above -->
+      <g opacity=".38">
+        <rect x="200" y="12" width="560" height="26" rx="4" fill="var(--panel-3)" stroke="var(--hair-soft)"/>
+        <text x="480" y="30" text-anchor="middle" class="t-mono" font-size="10" fill="var(--faint)">… dimensions that created dimensions, endlessly up …</text>
+      </g>
+      <g opacity=".62" data-tip="Each level has its own One-equivalent and the same KIND of beings — often stronger the higher you go.">
+        <rect x="170" y="48" width="620" height="34" rx="4" fill="var(--panel-3)" stroke="var(--hair-soft)"/>
+        <text x="480" y="70" text-anchor="middle" class="t-mono" font-size="11" fill="var(--muted)">HIGHER LEVELS — same kind of beings, often stronger</text>
+      </g>
+
+      <!-- the Blight -->
+      <g data-tip="A varied population — predatory, benevolent, indifferent. Not a maw, not a doctrine. Some feed on the Remnant below. To mortals, a god-tier invasion.">
+        <rect x="140" y="94" width="680" height="56" rx="5" fill="var(--crimson)" opacity=".10"/>
+        <rect x="140" y="94" width="680" height="56" rx="5" fill="none" stroke="var(--crimson)" stroke-width="1.3"/>
+        <text x="480" y="118" text-anchor="middle" class="t-serif" font-size="16" fill="var(--ink)">THE BLIGHT</text>
+        <text x="480" y="138" text-anchor="middle" class="t-mono" font-size="10" fill="var(--crimson)">consciousness from the levels above — varied: predatory · benevolent · indifferent</text>
+      </g>
+
+      <!-- pressure arrows -->
+      <g stroke="var(--crimson)" stroke-width="1.4">
+        <line x1="330" y1="152" x2="330" y2="180" marker-end="url(#arC)"/>
+        <line x1="480" y1="152" x2="480" y2="180" marker-end="url(#arC)"/>
+        <line x1="630" y1="152" x2="630" y2="180" marker-end="url(#arC)"/>
+      </g>
+
+      <!-- the bubble -->
+      <g data-tip="Created by the Unified Ones — the ones who didn't split. Sovereign living absolutes, NOT in harmony. Derrek's patron is one of them: it wants only to remain exactly what it is, forever.">
+        <path d="M 120 214 Q 480 158 840 214" fill="none" stroke="var(--teal)" stroke-width="2.4"/>
+        <text x="480" y="204" text-anchor="middle" class="t-serif" font-size="14" fill="var(--teal)">THE BUBBLE — raised by the Unified Ones</text>
+      </g>
+      <!-- the breach -->
+      <g data-tip="Derrek's project: each of Jon's resets secretly widened the breach — and also swept the invaders back out. By the late loops it is broken wide open; paradox seals it. When Jon stops resetting, the flood finally lands.">
+        <line x1="588" y1="168" x2="588" y2="252" stroke="var(--crimson)" stroke-width="1.6" stroke-dasharray="3 4" marker-end="url(#arC)"/>
+        <circle cx="588" cy="207" r="13" fill="none" stroke="var(--crimson)" stroke-width="1.4" stroke-dasharray="2 3"/>
+        <text x="612" y="240" class="t-mono" font-size="10" fill="var(--crimson)">the breach — widened by every reset</text>
+      </g>
+
+      <!-- OUR LEVEL -->
+      <rect x="120" y="256" width="720" height="212" rx="6" fill="var(--panel-3)" stroke="var(--gold)" stroke-width="1.5"/>
+      <text x="140" y="282" class="t-mono" font-size="11" fill="var(--gold)" letter-spacing="2">OUR LEVEL</text>
+
+      <g data-tip="Once a singular consciousness that split to know itself. Background only — never followed on-page. Subject to physics like everything else.">
+        <circle cx="300" cy="352" r="44" fill="none" stroke="var(--teal)" stroke-width="1.6"/>
+        <text x="300" y="348" text-anchor="middle" class="t-serif" font-size="14" fill="var(--ink)">the One</text>
+        <text x="300" y="366" text-anchor="middle" class="t-mono" font-size="9" fill="var(--teal)">the shatter</text>
+      </g>
+      <!-- shatter rays to beings -->
+      <g stroke="var(--teal)" stroke-width="1.1" opacity=".8">
+        <line x1="342" y1="330" x2="420" y2="308"/>
+        <line x1="348" y1="352" x2="424" y2="352"/>
+        <line x1="342" y1="374" x2="420" y2="396"/>
+      </g>
+      <g data-tip="Every being = a physical body + a fragment of the One inhabiting it. All races coalesced in the one shatter; fragment SIZE (not creation order) sets durability, lifespan, and memory-depth.">
+        <rect x="428" y="290" width="180" height="124" rx="6" fill="none" stroke="var(--teal)"/>
+        <text x="518" y="316" text-anchor="middle" class="t-serif" font-size="14" fill="var(--ink)">BEINGS</text>
+        <text x="518" y="336" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--muted)">fragments in flesh</text>
+        <text x="518" y="360" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--muted)">gods · elders · latecomers</text>
+        <text x="518" y="378" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--muted)">· scraps — one spectrum</text>
+        <text x="518" y="402" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--teal)">magic = the fragment gripping</text>
+      </g>
+      <g data-tip="Pure physics — pre-existing, authorless, untouched. A rock holds no fragment; matter cannot do magic. The two domains meet at exactly one point: magic.">
+        <rect x="646" y="290" width="170" height="124" rx="6" fill="none" stroke="var(--muted)" stroke-dasharray="5 4"/>
+        <text x="731" y="322" text-anchor="middle" class="t-serif" font-size="14" fill="var(--ink)">MATTER</text>
+        <text x="731" y="344" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--muted)">just physics</text>
+        <text x="731" y="366" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--muted)">pre-dates the One</text>
+        <text x="731" y="388" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--muted)">no fragment · no magic</text>
+      </g>
+      <text x="480" y="446" text-anchor="middle" class="t-mono" font-size="10" fill="var(--faint)">the dead universe: real, lifeless beyond Earth — the One "chose" this world</text>
+
+      <!-- the Between (lateral) -->
+      <g data-tip="An ancient lineage that PRE-DATES the One — never its consciousness, so they run the Rule instead of Remnant. They obey physics (shared substrate). Time does not run in the Between — even Jon cannot reach inside.">
+        <rect x="20" y="300" width="84" height="120" rx="8" fill="none" stroke="var(--violet)" stroke-width="1.4" stroke-dasharray="6 4"/>
+        <text x="62" y="340" text-anchor="middle" class="t-serif" font-size="12.5" fill="var(--ink)">the</text>
+        <text x="62" y="356" text-anchor="middle" class="t-serif" font-size="12.5" fill="var(--ink)">Between</text>
+        <text x="62" y="378" text-anchor="middle" class="t-mono" font-size="8.5" fill="var(--violet)">in-betweeners</text>
+        <text x="62" y="392" text-anchor="middle" class="t-mono" font-size="8.5" fill="var(--violet)">the Rule-OS</text>
+      </g>
+      <line x1="104" y1="360" x2="120" y2="360" stroke="var(--violet)" stroke-width="1.2" stroke-dasharray="2 3"/>
+      <text x="62" y="440" text-anchor="middle" class="t-mono" font-size="8.5" fill="var(--faint)">beside, not above</text>
+
+      <!-- endless below -->
+      <g opacity=".62">
+        <rect x="170" y="492" width="620" height="34" rx="4" fill="var(--panel-3)" stroke="var(--hair-soft)"/>
+        <text x="480" y="514" text-anchor="middle" class="t-mono" font-size="11" fill="var(--muted)">LOWER LEVELS — fragments that passed beyond our floor</text>
+      </g>
+      <g opacity=".38">
+        <rect x="200" y="538" width="560" height="26" rx="4" fill="var(--panel-3)" stroke="var(--hair-soft)"/>
+        <text x="480" y="556" text-anchor="middle" class="t-mono" font-size="10" fill="var(--faint)">… the same scattering at every level, endlessly down …</text>
+      </g>
+
+      <text x="480" y="606" text-anchor="middle" class="t-serif" font-size="13.5" fill="var(--ink-soft)" font-style="italic">any "origin" we can name is only the ceiling of our perception</text>
+    </svg>
+    </div>
+  </section>
+
+  <!-- ================= PLATE III — THE LADDER OF BEING ================= -->
+  <section class="plate" id="ladder">
+    <div class="plate-head"><span class="plate-num">PLATE III</span><h2>The Ladder of Being</h2></div>
+    <p class="cap">Lifespan rises with Remnant — <b>resistance, never immunity</b>. One continuous mortal scale (bars illustrative, not literal years); the true immortals sit <b>off the scale</b>, deathless by mechanism, not magnitude. Hover a rung.</p>
+    <div class="scroll">
+    <svg viewBox="0 0 900 400" role="img" aria-label="Ranked lifespan ladder of the races">
+      <defs>
+        <linearGradient id="barG" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0" stop-color="var(--gold)" stop-opacity=".55"/>
+          <stop offset="1" stop-color="var(--gold-soft)"/>
+        </linearGradient>
+      </defs>
+      <line x1="150" y1="20" x2="150" y2="286" stroke="var(--hair)" />
+      <g class="t-mono" font-size="13" fill="var(--ink)">
+        <g data-tip="Shortest-lived, fastest clock — a horizon so close 'later' barely exists. The clock steals the future and cheapens the past; greed as desperation.">
+          <text x="140" y="42" text-anchor="end">Orcs</text>
+          <rect x="150" y="30" width="70" height="18" rx="3" fill="url(#barG)"/>
+          <text x="230" y="43" font-size="11" fill="var(--muted)">shortest · fastest clock</text>
+        </g>
+        <g data-tip="Short lives, endless birth, perpetual scarcity — the wound under the pride. Breed far more than elves; far higher attunement than orcs.">
+          <text x="140" y="76" text-anchor="end">Humans</text>
+          <rect x="150" y="64" width="150" height="18" rx="3" fill="url(#barG)"/>
+        </g>
+        <g data-tip="Long-lived. The empire that never fell — unbroken continuity as managed plateau: dips and reclimbs, never rise-and-fall, forged by never reaching for the throne.">
+          <text x="140" y="110" text-anchor="end">Dwarves</text>
+          <rect x="150" y="98" width="250" height="18" rx="3" fill="url(#barG)"/>
+        </g>
+        <g data-tip="Ancient but MORTAL — they age slowly and can be killed. A handful of elves span hundreds of human generations: why a bloodline is followable, and why the saga is elven.">
+          <text x="140" y="144" text-anchor="end">Elves</text>
+          <rect x="150" y="132" width="430" height="18" rx="3" fill="url(#barG)"/>
+          <text x="590" y="145" font-size="11" fill="var(--teal)">the bloodline throughline</text>
+        </g>
+        <g data-tip="Elder-tier long-lived; exact rung deliberately open 🌊. Assumption reshapes flesh, but the founder-fragment's age-clock is its own — wearing a young form does not make you young.">
+          <text x="140" y="178" text-anchor="end">Changelings</text>
+          <rect x="150" y="166" width="360" height="18" rx="3" fill="none" stroke="var(--gold)" stroke-dasharray="4 3"/>
+          <text x="520" y="179" font-size="11" fill="var(--muted)">rung open 🌊 — elder-tier</text>
+        </g>
+        <g data-tip="Largest fragments → most age-resistant flesh → longest mortal lives, BY FAR. A single giant can personally span all three eras — the living bridge. Still mortal; they age and die.">
+          <text x="140" y="212" text-anchor="end">Giants</text>
+          <rect x="150" y="200" width="640" height="18" rx="3" fill="url(#barG)"/>
+          <text x="800" y="213" font-size="11" fill="var(--muted)">longest mortal</text>
+        </g>
+        <g data-tip="'God' = a larger chunk of Remnant in flesh — not a separate kind of being. So long-lived it SEEMS eternal. It is not. Entropy magic works on gods for exactly this reason.">
+          <text x="140" y="246" text-anchor="end">Great gods</text>
+          <rect x="150" y="234" width="720" height="18" rx="3" fill="url(#barG)"/>
+          <text x="150" y="272" font-size="11" fill="var(--muted)">— seem eternal · are not · resistance, never immunity</text>
+        </g>
+      </g>
+      <line x1="20" y1="296" x2="880" y2="296" stroke="var(--hair-soft)" stroke-dasharray="2 4"/>
+      <g>
+        <text x="20" y="324" class="t-mono" font-size="11" fill="var(--crimson)" letter-spacing="1.5">OFF THE SCALE — TRUE IMMORTALS (BY MECHANISM)</text>
+        <g class="t-serif" font-size="14" fill="var(--ink)">
+          <g data-tip="The time-fusion — existing across all sequence at once. Their only GIVEN power is time; everything else was learned across eternity.">
+            <rect x="20" y="334" width="180" height="30" rx="4" fill="none" stroke="var(--violet)"/>
+            <text x="110" y="354" text-anchor="middle">Jon &amp; Derrek</text>
+          </g>
+          <g data-tip="Immortal WITHIN their own domain — 'cannot die, but can feel.' The sacrifice scene's engine: an eternity of living inside a sun.">
+            <rect x="212" y="334" width="200" height="30" rx="4" fill="none" stroke="var(--violet)"/>
+            <text x="312" y="354" text-anchor="middle">Rule-beasts</text>
+          </g>
+          <text x="430" y="354" class="t-mono" font-size="11" fill="var(--muted)">time-fusion · Rule-nature — mechanism, never magnitude</text>
+        </g>
+      </g>
+    </svg>
+    </div>
+  </section>
+
+  <!-- ================= PLATE IV — THE LOOM OF AGES ================= -->
+  <section class="plate" id="ages">
+    <div class="plate-head"><span class="plate-num">PLATE IV</span><h2>The Loom of Ages</h2></div>
+    <p class="cap">The full chronology on four threads — <b>the family, Jon, Derrek, and the Blight</b> — from the unchanging deep past, across the anchor, down the ~10,000-year forward run to the finale. The deep history happened <b>once, identically, beneath every loop</b>. Hover any event. Scroll sideways; the loom is wide.</p>
+    <div class="scroll xl">
+    <svg viewBox="0 0 1560 560" role="img" aria-label="Layered timeline of the whole saga">
+      <defs>
+        <marker id="arG2" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto">
+          <path d="M0,0 L6,3 L0,6" fill="none" stroke="var(--gold)" stroke-width="1.3"/>
+        </marker>
+      </defs>
+
+      <!-- ==== deep history zone ==== -->
+      <rect x="16" y="56" width="330" height="420" rx="6" fill="var(--crimson)" opacity=".06"/>
+      <rect x="16" y="56" width="330" height="420" rx="6" fill="none" stroke="var(--hair-soft)"/>
+      <text x="28" y="44" class="t-mono" font-size="10.5" fill="var(--crimson)" letter-spacing="1.5">DEEP HISTORY — BEFORE THE ANCHOR · NEVER REWOUND · NOT TO SCALE</text>
+      <g class="t-serif" font-size="13" fill="var(--ink)">
+        <g data-tip="The world's first order: iron-handed caretaker-rule from warped compassion — forced protection, love-led, the gentlest bondage the world would know. Its name was later ERASED.">
+          <rect x="36" y="80" width="290" height="44" rx="5" fill="var(--panel-3)" stroke="var(--gold)"/>
+          <text x="181" y="99" text-anchor="middle">The Empire of Giants</text>
+          <text x="181" y="116" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--muted)">pride-as-duty · the Erased Age</text>
+        </g>
+        <line x1="181" y1="124" x2="181" y2="146" stroke="var(--hair)" marker-end="url(#arG2)"/>
+        <g data-tip="The dragons — the giants' seconds — manufactured the coalition and its lie: freedom as equals after victory. Human war-users and orc legions did the killing; the giants' heroes died at their wards' hands.">
+          <rect x="36" y="150" width="290" height="44" rx="5" fill="var(--panel-3)" stroke="var(--crimson)"/>
+          <text x="181" y="169" text-anchor="middle">The Revolt &amp; the Fall</text>
+          <text x="181" y="186" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--muted)">a broken vocation · igniting event kept mythic 🌊</text>
+        </g>
+        <line x1="181" y1="194" x2="181" y2="216" stroke="var(--hair)" marker-end="url(#arG2)"/>
+        <g data-tip="Dragon rule — the era dragons call the Age of Dragons; everyone else calls it the Darkest Age. Races as instruments; orcs re-chained within the hour; humans an indentured backbone.">
+          <rect x="36" y="220" width="290" height="44" rx="5" fill="var(--panel-3)" stroke="var(--crimson)"/>
+          <text x="181" y="239" text-anchor="middle">The Darkest Age</text>
+          <text x="181" y="256" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--muted)">dragon rule · "the Age of Dragons"</text>
+        </g>
+        <line x1="181" y1="264" x2="181" y2="286" stroke="var(--hair)" marker-end="url(#arG2)"/>
+        <g data-tip="Fast-breeding humans overran the ground; the dragons receded to their taken halls. The third apex — and in the orcs' experience, each master worse than the last.">
+          <rect x="36" y="290" width="290" height="44" rx="5" fill="var(--panel-3)" stroke="var(--gold)"/>
+          <text x="181" y="309" text-anchor="middle">The Rise of Humans</text>
+          <text x="181" y="326" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--muted)">the recession of dragons · the third chain</text>
+        </g>
+        <text x="181" y="376" text-anchor="middle" class="t-mono" font-size="10" fill="var(--crimson)">giants → dragons → humans</text>
+        <text x="181" y="392" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--muted)">each apex toppled by what rose beneath it</text>
+        <text x="181" y="428" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--faint)">happened ONCE — identical beneath</text>
+        <text x="181" y="442" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--faint)">every loop · untouched bedrock</text>
+      </g>
+
+      <!-- ==== the anchor ==== -->
+      <line x1="378" y1="40" x2="378" y2="500" stroke="var(--violet)" stroke-width="2.2"/>
+      <text x="378" y="28" text-anchor="middle" class="t-mono" font-size="10.5" fill="var(--violet)">THE RESET ANCHOR</text>
+      <text x="378" y="518" text-anchor="middle" class="t-mono" font-size="10" fill="var(--muted)">−10,000 yrs · Jon's deepest rip-site · every reset rewound to here</text>
+
+      <!-- ==== forward-run scale ==== -->
+      <!-- mapping: x = 378 + (10000 - yrs_before_finale) * 0.114  → finale at x=1518 -->
+      <line x1="378" y1="470" x2="1518" y2="470" stroke="var(--hair)" stroke-width="1.4"/>
+      <polygon points="1518,470 1508,465 1508,475" fill="var(--gold)"/>
+      <g class="t-mono" font-size="9.5" fill="var(--faint)" text-anchor="middle">
+        <text x="606" y="490">−8,000</text><line x1="606" y1="466" x2="606" y2="474" stroke="var(--hair)"/>
+        <text x="834" y="490">−6,000</text><line x1="834" y1="466" x2="834" y2="474" stroke="var(--hair)"/>
+        <text x="1062" y="490">−4,000</text><line x1="1062" y1="466" x2="1062" y2="474" stroke="var(--hair)"/>
+        <text x="1290" y="490">−2,000</text><line x1="1290" y1="466" x2="1290" y2="474" stroke="var(--hair)"/>
+        <text x="1495" y="490">finale ≈ 0</text>
+      </g>
+      <text x="948" y="514" text-anchor="middle" class="t-mono" font-size="10" fill="var(--muted)">THE FORWARD RUN — the ~10,000 years measure THIS, not the gaps between books</text>
+
+      <!-- ==== lane labels ==== -->
+      <g class="t-mono" font-size="10" letter-spacing="1.2">
+        <text x="398" y="96" fill="var(--gold)">THE FAMILY</text>
+        <text x="398" y="196" fill="var(--teal)">JON</text>
+        <text x="398" y="296" fill="var(--crimson)">DERREK</text>
+        <text x="398" y="396" fill="var(--violet)">THE BLIGHT</text>
+      </g>
+      <g stroke="var(--hair-soft)">
+        <line x1="390" y1="110" x2="1530" y2="110"/>
+        <line x1="390" y1="210" x2="1530" y2="210"/>
+        <line x1="390" y1="310" x2="1530" y2="310"/>
+        <line x1="390" y1="410" x2="1530" y2="410"/>
+      </g>
+
+      <!-- ==== book columns ==== -->
+      <g>
+        <rect x="1280" y="60" width="22" height="400" fill="var(--gold)" opacity=".10"/>
+        <text x="1291" y="52" text-anchor="middle" class="t-serif" font-size="14" fill="var(--ink)">I</text>
+        <rect x="1358" y="60" width="22" height="400" fill="var(--gold)" opacity=".10"/>
+        <text x="1369" y="52" text-anchor="middle" class="t-serif" font-size="14" fill="var(--ink)">II</text>
+        <rect x="1496" y="60" width="22" height="400" fill="var(--gold)" opacity=".14"/>
+        <text x="1507" y="52" text-anchor="middle" class="t-serif" font-size="14" fill="var(--ink)">III</text>
+      </g>
+      <text x="1330" y="533" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--faint)">~700 yrs decline</text>
+      <text x="1438" y="533" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--faint)">~1,250 yrs uplift</text>
+
+      <!-- ==== FAMILY lane events ==== -->
+      <g fill="var(--gold)">
+        <circle cx="1291" cy="110" r="6" data-tip="BOOK I — Mika, elven prince, Lirael's hot-headed younger brother. The orc war arrives at the capital; the human king is Derrek; the family is the target because the bloodline is Jon's lever."/>
+        <circle cx="1369" cy="110" r="6" data-tip="BOOK II — Mika's female descendant returns on the massive recolonization seedship to a grey, human-dominated Earth. Bloodline AND returnee, both true."/>
+        <circle cx="1507" cy="110" r="7" data-tip="BOOK III — the elf king: self-made, healed, the one who cares about the orcs. Wins a Rule in fair contest (the Victor). Interrupts Jon's acceptance and charges Derrek."/>
+      </g>
+      <line x1="1291" y1="110" x2="1507" y2="110" stroke="var(--gold)" stroke-width="1.2" stroke-dasharray="2 4"/>
+      <text x="1240" y="110" text-anchor="end" class="t-mono" font-size="9.5" fill="var(--muted)">one lineage, three faces</text>
+
+      <!-- ==== JON lane events ==== -->
+      <g fill="var(--teal)">
+        <circle cx="450" cy="210" r="6" data-tip="Jon lands at the anchor and begins the DEEP GARDENING: ~8,000 years of placed institutions, seeded ideas, centuries embedded among the elves — where he finally SEES what his jumps do (the unmade, the grief for the unrememberable)."/>
+        <circle cx="700" cy="210" r="5" data-tip="THE COUNCIL FORMS — the elven king's guard reassigned as elven seers detect Derrek's meddling: the elves' OWN immune system (canon does not credit Jon with founding it; it rises during his embedded centuries). It will drift into moral compromise."/>
+        <circle cx="1220" cy="210" r="5" data-tip="The exodus gardened — never convinced, only tilted: a dread the elves already half-carried, steered toward the door across centuries. No one can point to the moment they were steered."/>
+        <circle cx="1291" cy="210" r="6" data-tip="B1: the quiet companion — grave news, the rescue of Mika, the training, the leaving. The war with the human king rages mostly off-screen."/>
+        <circle cx="1330" cy="210" r="5" data-tip="THE EXODUS COLD-WAR — Derrek cracks Earth's old order; Jon gets the elves out just in time on the seedship. The largest visible clash before the finale."/>
+        <circle cx="1369" cy="210" r="6" data-tip="B2: the tired-eyed mentor who heals the returnee and vanishes. Tips off the dwarves — the ASI proxy-loss, Derrek's first visible confusion."/>
+        <circle cx="1507" cy="210" r="7" data-tip="B3: the mysterious companion who weeps 'Lirael' in sleep. At the window he REFUSES to reset — the whole war turns on this single forward step."/>
+      </g>
+      <line x1="450" y1="210" x2="1507" y2="210" stroke="var(--teal)" stroke-width="1.2" opacity=".5"/>
+      <text x="770" y="234" class="t-mono" font-size="9.5" fill="var(--teal)">the deep gardening — patient, native to forward time, compounding</text>
+
+      <!-- ==== DERREK lane events ==== -->
+      <g fill="var(--crimson)">
+        <circle cx="450" cy="310" r="6" data-tip="Derrek lands intact (the cognitive head start) and walks off to tend his seeds — institutions, bloodlines, technologies, cultivating civilization toward its load-bearing god-leader."/>
+        <circle cx="1291" cy="310" r="6" data-tip="MASK I — THE HUMAN KING. Manufactures the orc war through the Orc King (a witting demon-pact proxy) to strike at the bloodline. The failure-ladder's first flicker."/>
+        <circle cx="1369" cy="310" r="6" data-tip="MASK II — THE MAGNATE. Rules from the opulent skyscraper that wraps the Tower (his narcissism made architecture). Inflames the orc revolt; loses the ASI proxy-war outright."/>
+        <circle cx="1507" cy="310" r="7" data-tip="MASK III — THE MAD SCIENTIST. The orc-device trap baited for the compassionate elf. Escalating distress: the being who 'knows when he is at all times' is visibly losing. Then — recognition."/>
+      </g>
+      <line x1="450" y1="310" x2="1507" y2="310" stroke="var(--crimson)" stroke-width="1.2" opacity=".5"/>
+      <text x="770" y="334" class="t-mono" font-size="9.5" fill="var(--crimson)">the failure-ladder: flicker → proxy-loss → distress → recognition</text>
+
+      <!-- ==== BLIGHT lane ==== -->
+      <path d="M 420 430 C 700 428, 1100 420, 1500 392" fill="none" stroke="var(--violet)" stroke-width="2" stroke-dasharray="6 4"/>
+      <g fill="var(--violet)">
+        <circle cx="520" cy="429" r="5" data-tip="With no more resets sweeping them back out, the beasts cross once — and stay crossed. The crossing is slow and costly; the universe is vast and dead; nobody notices for millennia."/>
+        <circle cx="1240" cy="416" r="5" data-tip="Far, dead space begins to go quiet. Nothing anyone at our level can see yet."/>
+        <circle cx="1460" cy="397" r="6" data-tip="By Book III: a news-feed of dying worlds. Eldritch entities consuming planets across the universe — the bleak backdrop of the final battle."/>
+      </g>
+      <text x="800" y="456" class="t-mono" font-size="9.5" fill="var(--violet)">crossing quietly, uninterrupted, for ten thousand years</text>
+
+      <!-- finale marker -->
+      <g data-tip="THE FINALE — the window, the laugh, the charge. Jon steps forward unaccounted-for; the swap (Jon calm, Derrek terrified); the elf king's charge with the invisible Rule on his back. Universe ends or brink: still the open question.">
+        <circle cx="1507" cy="440" r="9" fill="none" stroke="var(--gold-soft)" stroke-width="1.6"/>
+        <circle cx="1507" cy="440" r="3.5" fill="var(--gold-soft)"/>
+      </g>
+    </svg>
+    </div>
+    <div class="legend">
+      <span><i class="sw" style="background:var(--gold)"></i> the family / the books</span>
+      <span><i class="sw" style="background:var(--teal)"></i> Jon's thread</span>
+      <span><i class="sw" style="background:var(--crimson)"></i> Derrek's thread</span>
+      <span><i class="sw" style="background:var(--violet)"></i> the Blight / the loop</span>
+    </div>
+    <p class="foot-note">Book 4 does not sit on this axis — it opens BEFORE all of it, on the original timeline (Plate X).</p>
+  </section>
+
+  <!-- ================= PLATE V — THE BLOODLINE ================= -->
+  <section class="plate" id="blood">
+    <div class="plate-head"><span class="plate-num">PLATE V</span><h2>The Bloodline</h2></div>
+    <p class="cap">One elven family, three eras — the monument's material, <b>cherished and spent at once</b>. Solid nodes are drafted; hollow nodes are unbuilt or unnamed. The ghost-line is a love story that exists only in the notes — no reader ever reads it.</p>
+    <div class="scroll">
+    <svg viewBox="0 0 900 480" role="img" aria-label="Family tree of the elven bloodline across the three eras">
+      <!-- era bands -->
+      <g class="t-mono" font-size="10" letter-spacing="1.5">
+        <text x="20" y="30" fill="var(--gold)">BOOK I — MEDIEVAL</text>
+        <text x="20" y="248" fill="var(--gold)">BOOK II — INDUSTRIAL</text>
+        <text x="20" y="366" fill="var(--gold)">BOOK III — FAR FUTURE</text>
+      </g>
+      <line x1="20" y1="222" x2="880" y2="222" stroke="var(--hair-soft)" stroke-dasharray="2 5"/>
+      <line x1="20" y1="340" x2="880" y2="340" stroke="var(--hair-soft)" stroke-dasharray="2 5"/>
+
+      <!-- royal line -->
+      <g data-tip="✅ THE ELVEN KING — Mika's and Lirael's FATHER. Dies in the battle at the city walls: Jon's deliberate, reset-practiced escalation turns a border incursion into a fight demanding the king's sacrifice. His death triggers Mika's coronation and, downstream, the seedship launch. The Council was born as his personal guard.">
+        <rect x="370" y="44" width="160" height="42" rx="5" fill="var(--panel-3)" stroke="var(--gold)" stroke-width="1.4"/>
+        <text x="450" y="62" text-anchor="middle" class="t-serif" font-size="13.5" fill="var(--ink)">the Elven King</text>
+        <text x="450" y="78" text-anchor="middle" class="t-mono" font-size="9" fill="var(--muted)">their father · dies at the walls</text>
+      </g>
+      <line x1="450" y1="86" x2="450" y2="108" stroke="var(--muted)" stroke-dasharray="3 4"/>
+      <line x1="290" y1="108" x2="610" y2="108" stroke="var(--muted)" stroke-dasharray="3 4"/>
+      <line x1="290" y1="108" x2="290" y2="126" stroke="var(--muted)" stroke-dasharray="3 4"/>
+      <line x1="610" y1="108" x2="610" y2="126" stroke="var(--muted)" stroke-dasharray="3 4"/>
+
+      <!-- Lirael -->
+      <g data-tip="LIRAEL (name locked) — elf, master of gravity-workings, the Council's finest anomaly-silencer. Two deniable on-page beats in the whole trilogy; her love and her death live only in the notes. The saga is the monument to Jon's dead love for her.">
+        <rect x="180" y="126" width="220" height="54" rx="5" fill="var(--panel-3)" stroke="var(--teal)" stroke-width="1.5"/>
+        <text x="290" y="148" text-anchor="middle" class="t-serif" font-size="15.5" fill="var(--ink)">Lirael</text>
+        <text x="290" y="166" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--teal)">the Council's silencer · two feather-touches</text>
+      </g>
+      <!-- Mika -->
+      <g data-tip="MIKA ('Mika' is the placeholder) — elven prince, Lirael's hot-headed younger brother — and the author's FIRST-EVER hero, repurposed: the ranger, the good man, the hand of the king who raised Derrek into a paladin. 'Jon' was HIS name first; the time-god stole it. ✅ MIKA IS THE PRINCE (duplication merged): witnesses the Council's drift → becomes king after his father's death at the walls → elevates Jon. He is whom Lirael is sent to silence — her own brother. The untested youth of the three-face archetype.">
+        <rect x="500" y="126" width="220" height="54" rx="5" fill="var(--panel-3)" stroke="var(--gold)" stroke-width="1.5"/>
+        <text x="610" y="148" text-anchor="middle" class="t-serif" font-size="15.5" fill="var(--ink)">Mika — the Prince</text>
+        <text x="610" y="166" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--muted)">B1 protagonist · crowned at the walls</text>
+      </g>
+      <text x="450" y="120" text-anchor="middle" class="t-mono" font-size="9" fill="var(--faint)">siblings</text>
+
+      <!-- Jon ghost -->
+      <g data-tip="JON — the time-god. 'Jon' is the author's OLDEST name — his first-ever hero's name; in-lore, the time-god stole it from the Book-1 hero, who was that first hero repurposed. His love for Lirael died eras beyond counting ago; what remains is a scar with no accessible object. He murmurs her name in sleep, once, in Book III.">
+        <rect x="20" y="126" width="120" height="54" rx="27" fill="none" stroke="var(--violet)" stroke-width="1.4" stroke-dasharray="6 4"/>
+        <text x="80" y="148" text-anchor="middle" class="t-serif" font-size="14.5" fill="var(--ink)">Jon</text>
+        <text x="80" y="166" text-anchor="middle" class="t-mono" font-size="9" fill="var(--violet)">the time-god</text>
+      </g>
+      <path d="M 140 153 C 158 143, 162 143, 180 153" fill="none" stroke="var(--violet)" stroke-width="1.3" stroke-dasharray="2 4"/>
+      <text x="160" y="196" text-anchor="middle" class="t-mono" font-size="9" fill="var(--violet)">a love written only in the notes —</text>
+      <text x="160" y="209" text-anchor="middle" class="t-mono" font-size="9" fill="var(--violet)">no reader ever reads it</text>
+
+      <!-- descent to B2 -->
+      <line x1="610" y1="180" x2="610" y2="262" stroke="var(--gold)" stroke-width="1.3" stroke-dasharray="1 5"/>
+      <text x="626" y="230" class="t-mono" font-size="9.5" fill="var(--muted)">~700 yrs · generations uncounted</text>
+      <g data-tip="B2 PROTAGONIST — Mika's female descendant, aboard the massive recolonization seedship: bloodline AND returnee, both true. Unnamed; personality and abilities open ⚠. The hero in doubt.">
+        <rect x="500" y="262" width="220" height="54" rx="5" fill="none" stroke="var(--warn)" stroke-width="1.5" stroke-dasharray="6 4"/>
+        <text x="610" y="284" text-anchor="middle" class="t-serif" font-size="15" fill="var(--ink)">the Returnee</text>
+        <text x="610" y="302" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--warn)">⚠ unnamed · Mika's descendant · the doubter</text>
+      </g>
+
+      <!-- descent to B3 -->
+      <line x1="610" y1="316" x2="610" y2="380" stroke="var(--gold)" stroke-width="1.3" stroke-dasharray="1 5"/>
+      <text x="626" y="352" class="t-mono" font-size="9.5" fill="var(--muted)">~1,250 yrs · the uplift generations</text>
+      <g data-tip="HIS FATHER — source of the inherited transmutation art the finale's charge runs on. Unnamed, unbuilt ⚠.">
+        <rect x="330" y="380" width="150" height="42" rx="5" fill="none" stroke="var(--muted)" stroke-dasharray="5 4"/>
+        <text x="405" y="398" text-anchor="middle" class="t-serif" font-size="12.5" fill="var(--ink)">his father</text>
+        <text x="405" y="414" text-anchor="middle" class="t-mono" font-size="8.5" fill="var(--faint)">the transmutation art ⚠</text>
+      </g>
+      <line x1="480" y1="401" x2="500" y2="401" stroke="var(--muted)" stroke-dasharray="3 4"/>
+      <g data-tip="B3 PROTAGONIST — the elf king: a DIFFERENT king of the same royal line as Mika (the bloodline carries the crown down the eras). Self-made ascendant, healed and whole, the one who cares about the orcs. Carries the won Rule (the Victor). Interrupts Jon's acceptance; charges Derrek with the invisible hand on his back. Unnamed ⚠.">
+        <rect x="500" y="374" width="220" height="54" rx="5" fill="var(--panel-3)" stroke="var(--gold)" stroke-width="1.5"/>
+        <text x="610" y="396" text-anchor="middle" class="t-serif" font-size="15" fill="var(--ink)">the Elf King</text>
+        <text x="610" y="414" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--muted)">B3 protagonist · the healer · the Victor</text>
+      </g>
+
+      <!-- annotation right -->
+      <g class="t-serif" font-size="13" fill="var(--ink-soft)" font-style="italic">
+        <text x="770" y="286" text-anchor="middle">a tomb he tends</text>
+        <text x="770" y="304" text-anchor="middle">and robs</text>
+      </g>
+      <path d="M 770 316 C 770 350, 740 380, 726 392" fill="none" stroke="var(--hair)" stroke-width="1" marker-end="url(#arG2)"/>
+
+      <text x="450" y="462" text-anchor="middle" class="t-mono" font-size="10" fill="var(--faint)">the three heroes never meet — the braid exists only in the reader's view · Derrek strikes at this line in every era; Jon spends it to beat him</text>
+    </svg>
+    </div>
+  </section>
+
+  <!-- ================= PLATE VI — THE ELDER WEB & THE CHURN ================= -->
+  <section class="plate" id="web">
+    <div class="plate-head"><span class="plate-num">PLATE VI</span><h2>The Elder Web &amp; the Churn</h2></div>
+    <p class="cap">Every race defined by <b>entanglement, not essence</b> — who uses whom, on which clock, behind which mask. Hover a race to isolate its threads. The catastrophe is emergent and authorless; Derrek only tilts an ocean he doesn't control.</p>
+    <div class="scroll">
+    <svg class="web" id="webSvg" viewBox="0 0 960 600" role="img" aria-label="Relationship web of all the races">
+      <defs>
+        <marker id="arC3" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto">
+          <path d="M0,0 L6,3 L0,6" fill="none" stroke="var(--crimson)" stroke-width="1.3"/>
+        </marker>
+      </defs>
+
+      <!-- ==== edges (behind nodes) ==== -->
+      <!-- Game of the NOW -->
+      <g class="edge" data-nodes="dr ch">
+        <line x1="255" y1="130" x2="705" y2="130" stroke="var(--gold)" stroke-width="1.6" stroke-dasharray="1 6" stroke-linecap="round"/>
+        <text x="480" y="118" text-anchor="middle" class="t-mono" font-size="10.5" fill="var(--gold)">GAME OF THE NOW — infiltration vs. proxy</text>
+      </g>
+      <!-- Game of the FUTURE -->
+      <g class="edge" data-nodes="dr gi">
+        <line x1="200" y1="185" x2="200" y2="415" stroke="var(--gold)" stroke-width="1.6"/>
+        <text x="184" y="300" text-anchor="middle" class="t-mono" font-size="10.5" fill="var(--gold)" transform="rotate(-90 184 300)">GAME OF THE FUTURE — attrition wins</text>
+      </g>
+      <!-- bond rejects -->
+      <g class="edge" data-nodes="ch el">
+        <line x1="760" y1="185" x2="760" y2="415" stroke="var(--crimson)" stroke-width="1.4" stroke-dasharray="5 4"/>
+        <circle cx="760" cy="300" r="11" fill="var(--panel)" stroke="var(--crimson)"/>
+        <text x="760" y="304.5" text-anchor="middle" font-size="11" fill="var(--crimson)">⊘</text>
+        <text x="778" y="300" class="t-mono" font-size="10" fill="var(--crimson)" transform="rotate(90 778 300)">the bond rejects the foreign "I"</text>
+      </g>
+      <!-- mirror peers -->
+      <g class="edge" data-nodes="dr el">
+        <line x1="252" y1="168" x2="708" y2="392" stroke="var(--hair)" stroke-width="1.2"/>
+        <text x="512" y="262" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--muted)" transform="rotate(26 512 262)">equal apex mirrors — opposite temperaments</text>
+      </g>
+      <!-- poles -->
+      <g class="edge" data-nodes="el hu">
+        <line x1="705" y1="452" x2="537" y2="320" stroke="var(--teal)" stroke-width="1.4" stroke-dasharray="7 4"/>
+        <text x="648" y="372" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--teal)" transform="rotate(38 648 372)">reunion vs. shatter — the poles</text>
+      </g>
+      <!-- parasite borrowings -->
+      <g class="edge" data-nodes="hu gi">
+        <line x1="425" y1="308" x2="255" y2="435" stroke="var(--hair)" stroke-width="1.1" stroke-dasharray="2 4"/>
+        <text x="330" y="360" text-anchor="middle" class="t-mono" font-size="9" fill="var(--muted)" transform="rotate(-37 330 360)">borrows architecture</text>
+      </g>
+      <g class="edge" data-nodes="hu dr">
+        <line x1="437" y1="252" x2="258" y2="152" stroke="var(--hair)" stroke-width="1.1" stroke-dasharray="2 4"/>
+        <text x="345" y="190" text-anchor="middle" class="t-mono" font-size="9" fill="var(--muted)" transform="rotate(29 345 190)">borrows law</text>
+      </g>
+      <!-- dwarves: sells to all -->
+      <g class="edge" data-nodes="dw hu">
+        <line x1="480" y1="118" x2="480" y2="252" stroke="var(--gold)" stroke-width="1.2"/>
+        <text x="494" y="196" class="t-mono" font-size="9.5" fill="var(--muted)">coerced computing · indispensable</text>
+      </g>
+      <g class="edge" data-nodes="dw gi">
+        <line x1="418" y1="92" x2="228" y2="418" stroke="var(--hair)" stroke-width="1.1" stroke-dasharray="4 4"/>
+        <text x="288" y="240" text-anchor="middle" class="t-mono" font-size="9" fill="var(--muted)" transform="rotate(60 288 240)">craft learned in the giants' age · ship partners</text>
+      </g>
+      <!-- three chains to orcs -->
+      <g class="edge" data-nodes="gi or">
+        <path d="M 250 470 C 330 520, 390 528, 432 522" fill="none" stroke="var(--crimson)" stroke-width="1.3" marker-end="url(#arC3)"/>
+        <text x="318" y="536" class="t-mono" font-size="9" fill="var(--crimson)">1st chain — forced protection</text>
+      </g>
+      <g class="edge" data-nodes="dr or">
+        <path d="M 232 182 C 300 330, 380 450, 442 496" fill="none" stroke="var(--crimson)" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#arC3)"/>
+        <text x="300" y="404" text-anchor="middle" class="t-mono" font-size="9" fill="var(--crimson)" transform="rotate(58 300 404)">2nd chain — instrumental control</text>
+      </g>
+      <g class="edge" data-nodes="hu or">
+        <line x1="480" y1="308" x2="480" y2="484" stroke="var(--crimson)" stroke-width="1.3" marker-end="url(#arC3)"/>
+        <text x="494" y="420" class="t-mono" font-size="9" fill="var(--crimson)">3rd chain — parasitic consumption</text>
+      </g>
+      <!-- orcs to minors -->
+      <g class="edge" data-nodes="or mi">
+        <line x1="548" y1="522" x2="648" y2="522" stroke="var(--crimson)" stroke-width="1.2" stroke-dasharray="3 3" marker-end="url(#arC3)"/>
+        <text x="598" y="510" text-anchor="middle" class="t-mono" font-size="8.5" fill="var(--crimson)">trauma-replication</text>
+      </g>
+
+      <!-- ==== nodes ==== -->
+      <g text-anchor="middle">
+        <g class="node" data-id="dr" data-tip="DRAGONS — self-justified fitness ('we would rule BETTER' — a common expression of pride, never an assignment). ✅ Factions: explicitly NONE by nature — tiger-territory politics, individual rivalries, no dragon bloc ever. Which is exactly what the Vengeful giants exploited.">
+          <circle cx="200" cy="140" r="52" fill="var(--panel-2)" stroke="var(--gold)" stroke-width="1.6"/>
+          <text x="200" y="136" class="t-serif" font-size="16.5" fill="var(--ink)">Dragons</text>
+          <text x="200" y="156" class="t-mono" font-size="9" fill="var(--muted)">impunity · burst</text>
+        </g>
+        <g class="node" data-id="ch" data-tip="CHANGELINGS — consumption-as-unity: many souls forced into one vessel, the One parodied. Institutions, not people; warmth as performance; the coldness developmental, never innate.">
+          <circle cx="760" cy="140" r="52" fill="var(--panel-2)" stroke="var(--crimson)" stroke-width="1.6"/>
+          <text x="760" y="132" class="t-serif" font-size="15" fill="var(--ink)">Change-</text>
+          <text x="760" y="150" class="t-serif" font-size="15" fill="var(--ink)">lings</text>
+          <text x="760" y="168" class="t-mono" font-size="8.5" fill="var(--crimson)">consumption</text>
+        </g>
+        <g class="node" data-id="gi" data-tip="GIANTS — pride-as-duty: care that needed no consent. ✅ Schism: the WITHDRAWN (grief → glacial isolation, the visible culture) vs. the VENGEFUL (hunted survivors who faked compliance and sabotaged the cathedral-ships — arming rival dragons against each other; the hidden cause of the dragons' decline). The mission complete and spent before anyone knew it was owed.">
+          <circle cx="200" cy="460" r="52" fill="var(--panel-2)" stroke="var(--gold)" stroke-width="1.6"/>
+          <text x="200" y="456" class="t-serif" font-size="16.5" fill="var(--ink)">Giants</text>
+          <text x="200" y="476" class="t-mono" font-size="9" fill="var(--muted)">attrition · builders</text>
+        </g>
+        <g class="node" data-id="el" data-tip="ELVES — the exception the churn cannot dissolve (the bond rejects the foreign 'I'). Most common expression: vainglory — their-way-is-universal; the abundance blindness that arms the whole galaxy's greed. ⏳ Pattern still to formalize.">
+          <circle cx="760" cy="460" r="52" fill="var(--panel-2)" stroke="var(--teal)" stroke-width="1.6"/>
+          <text x="760" y="456" class="t-serif" font-size="16.5" fill="var(--ink)">Elves</text>
+          <text x="760" y="476" class="t-mono" font-size="9" fill="var(--teal)">consent · the bond</text>
+        </g>
+        <g class="node" data-id="hu" data-tip="HUMANS — pride masking necessity (their most common expression, never an assigned sin). Every pillar borrowed from a longer-lived race; the churn eats them first and worst; the parasite's primary host is itself. Derrek is this pattern made living and eternal.">
+          <circle cx="480" cy="280" r="46" fill="var(--panel-2)" stroke="var(--gold)" stroke-width="1.6"/>
+          <text x="480" y="276" class="t-serif" font-size="15.5" fill="var(--ink)">Humans</text>
+          <text x="480" y="296" class="t-mono" font-size="8.5" fill="var(--muted)">pride / necessity</text>
+        </g>
+        <g class="node" data-id="dw" data-tip="DWARVES — greed's successful, institutionalized face. Neutrality is a learned strategy, never a trait; free through entanglement too deep to remove; the one line that never broke.">
+          <circle cx="480" cy="80" r="40" fill="var(--panel-2)" stroke="var(--gold)" stroke-width="1.6"/>
+          <text x="480" y="77" class="t-serif" font-size="14.5" fill="var(--ink)">Dwarves</text>
+          <text x="480" y="95" class="t-mono" font-size="8.5" fill="var(--muted)">sells to all sides</text>
+        </g>
+        <g class="node" data-id="or" data-tip="ORCS — humanity's sin with the mask off. Three chains, never self-freed; grievance without archive ('hate' — the bruise, named); subjugated for defiance, not weakness. 'They earned it' is purely the world's lie.">
+          <circle cx="480" cy="524" r="42" fill="var(--panel-2)" stroke="var(--crimson)" stroke-width="1.6"/>
+          <text x="480" y="521" class="t-serif" font-size="15" fill="var(--ink)">Orcs</text>
+          <text x="480" y="539" class="t-mono" font-size="8.5" fill="var(--crimson)">greed unmasked</text>
+        </g>
+        <g class="node" data-id="mi" data-tip="✅ ALL THREE BUILT — GNOMES: the one bright place in the world; believe passivity earned them safety (it didn't — nothing is owed in the churn); 2nd only to changelings at assassination. GOBLINS: total erasure, one ratchet past the orcs — no name, no Age, nothing left to recover. TROLLS: the ember that didn't go out — a few still whisper in the ghettos.">
+          <circle cx="700" cy="524" r="34" fill="var(--panel-2)" stroke="var(--muted)" stroke-width="1.3"/>
+          <text x="700" y="521" class="t-serif" font-size="11.5" fill="var(--ink)">the minors</text>
+          <text x="700" y="537" class="t-mono" font-size="8" fill="var(--muted)">built ✅</text>
+        </g>
+      </g>
+      <text x="480" y="588" text-anchor="middle" class="t-mono" font-size="10" fill="var(--faint)">no engine, no author — a churning web of users · peace is the rare, against-the-grain thing</text>
+    </svg>
+    </div>
+  </section>
+
+  <!-- ================= PLATE VII — THE SIN-MASK MATRIX ================= -->
+  <section class="plate" id="sins">
+    <div class="plate-head"><span class="plate-num">PLATE VII</span><h2>The Pattern Matrix</h2></div>
+    <p class="cap">The churn model's four questions per race: the <b>hunger</b>, the <b>mask</b>, the <b>clock</b>, the <b>web position</b>. ✅ <b>Sins are DECOUPLED from races</b> — every being has the full vice-set; what a row describes is that people's <i>most common, historically-shaped expression</i>, never an assignment. ("Master-sin = PRIDE" is retired as a locked-identity violation.)</p>
+    <div class="tbl-wrap">
+    <table>
+      <thead><tr><th>Race</th><th>Hunger — the wound</th><th>Mask — the story</th><th>Clock</th><th>Woven into the web</th><th>Status</th></tr></thead>
+      <tbody>
+        <tr>
+          <td class="race">Humans<span class="sub">most common: pride</span></td>
+          <td>Necessity — short lives, endless birth, perpetual scarcity. Always short on land, food, time.</td>
+          <td><b>Pride</b> — "we take because we're <i>owed</i>." The alibi for appetite; defensiveness is the tell.</td>
+          <td>Short — and fragmented; no shared aim.</td>
+          <td>Borrows every pillar from a longer-lived race; the largest, most chaotic node; eats itself first.</td>
+          <td><span class="pill locked">built ✅</span></td>
+        </tr>
+        <tr>
+          <td class="race">Orcs<span class="sub">most common: greed, unmasked</span></td>
+          <td>The same wound, acute — a horizon so close "later" barely exists. Grabbing now is the only rational move.</td>
+          <td><b>Victimhood as total explanation</b> — a true grievance inside a false cosmology; greed felt as <i>restitution</i>.</td>
+          <td>Fastest of all — the past thins to myth by disinterest, never defect.</td>
+          <td>Bottom of every chain (three masters, never self-freed); replicate the only power they ever knew onto the minors.</td>
+          <td><span class="pill locked">built ✅</span></td>
+        </tr>
+        <tr>
+          <td class="race">Dwarves<span class="sub">most common: greed, succeeding</span></td>
+          <td>Greed — the indiscriminate merchant; maximally satiated by having no friends.</td>
+          <td><b>Neutrality</b> — a learned optimal strategy the world forged, never a core trait (🚫 tripwire).</td>
+          <td>Long — managed plateau; the one line that never broke.</td>
+          <td>Free through entanglement too deep to remove; embedded in every society while holding their own kingdoms.</td>
+          <td><span class="pill locked">built ✅</span></td>
+        </tr>
+        <tr>
+          <td class="race">Dragons<span class="sub">most common: self-justified fitness</span></td>
+          <td>Control — races as instruments pointed at dragon ends.</td>
+          <td><b>"We would rule BETTER"</b> — the oldest revolutionary lie; won the apex by other hands.</td>
+          <td>Burst — explosive now, drained by patience; capable century-players, outmatched at millennia.</td>
+          <td>Recede behind proxies with earned impunity; occupy the giants' halls; take, never build. <b>✅ No factions, by nature</b> — tiger-territory politics, never a bloc.</td>
+          <td><span class="pill locked">built ✅</span></td>
+        </tr>
+        <tr>
+          <td class="race">Giants<span class="sub">most common: pride-as-duty</span></td>
+          <td>Order — the largest fragments felt a duty to keep the world safe.</td>
+          <td><b>Pride-as-duty</b> — care that needs no consent; totalizing paternalism, love-led.</td>
+          <td>The longest of all — a single giant spans all three eras.</td>
+          <td>Built everyone's scenery and were remembered as scenery. <b>✅ Schism: the Withdrawn</b> (the visible culture) <b>vs. the Vengeful</b> (spent — the sabotaged cathedral-ships behind the dragons' decline).</td>
+          <td><span class="pill locked">built ✅</span></td>
+        </tr>
+        <tr>
+          <td class="race">Changelings<span class="sub">consumption-as-unity</span></td>
+          <td>Continuity — attachments only to things built to survive death: guilds, houses, crowns.</td>
+          <td><b>Warmth as performance</b> — survival adaptation refined into instinct; the founder governs a crowd it knows is influencing it.</td>
+          <td>Centuries, multiple faces; engineered successions read as ordinary time.</td>
+          <td>Inside every society except the elves'; leverage over force, always; unrecognized, unrecognizable.</td>
+          <td><span class="pill locked">built ✅</span></td>
+        </tr>
+        <tr>
+          <td class="race">Elves<span class="sub">most common: vainglory</span></td>
+          <td>Coherence — the bond; many who consent to be functionally one.</td>
+          <td><b>Their-way-is-universal</b> — the abundance blindness: mistook bond-born peace for a gift any race could receive.</td>
+          <td>Millennia, collective, frictionless — why they advance fastest.</td>
+          <td>The exception: un-assimilable, apart, never dependent — and the giver of the gift that armed the galaxy's greed.</td>
+          <td><span class="pill debt">⏳ formalize</span></td>
+        </tr>
+        <tr>
+          <td class="race">Gnomes<span class="sub">the bright exception</span></td>
+          <td>Contentment — genuinely present-minded; education and free thought over wealth or status.</td>
+          <td><b>"Our passivity earned us safety"</b> — believed by outsiders AND by gnomes themselves; both wrong (the churn owes nothing; their peace is an unpriced target, not a mechanism).</td>
+          <td>Near-dwarven Remnant and lifespan; the one bright, cheerful place in the world.</td>
+          <td>Quietly 2nd only to changelings at assassination — a people who could defend themselves and won't test it. Schism: those who see the illusion vs. those defending it.</td>
+          <td><span class="pill locked">built ✅</span></td>
+        </tr>
+        <tr>
+          <td class="race">Goblins<span class="sub">erasure completed</span></td>
+          <td colspan="4" style="color:var(--ink-soft)">Total erasure, one ratchet past the orcs — cultural memory reduced to pain; treated (and now largely acting) as pets of the orcs; folded into a blanket "orc" label. Metaphysically identical to every race — a victim of the churn, never a lesser kind of being. 🔒 Nothing left to recover; never undercut with a hidden-rich-culture reveal.</td>
+          <td><span class="pill locked">built ✅</span></td>
+        </tr>
+        <tr>
+          <td class="race">Trolls<span class="sub">erasure stalled</span></td>
+          <td colspan="4" style="color:var(--ink-soft)">A race, not a monster — grouped with the goblins in bondage, but an ember survived: a few still whisper to one another in the ghettos. Not resistance, not a hidden culture — the smallest possible unit of memory and connection.</td>
+          <td><span class="pill locked">built ✅</span></td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <!-- ================= PLATE VIII — THE SKELETON GRID ================= -->
+  <section class="plate" id="skeleton">
+    <div class="plate-head"><span class="plate-num">PLATE VIII</span><h2>The Skeleton Grid</h2></div>
+    <p class="cap">The locked per-book spine — <b>orc attack → Jon rescues → face Derrek</b> — with each book's flavor filled in where it exists. This grid doubles as the drafting dashboard: every ⚠ cell is a slot the skeleton needs before that book can be written.</p>
+    <div class="tbl-wrap">
+    <table>
+      <thead><tr><th>Beat</th><th>Book I — Wonder</th><th>Book II — Grit</th><th>Book III — Mastery</th></tr></thead>
+      <tbody>
+        <tr><td class="beat">1 · The page-one race<span class="sub">through the capital, in motion</span></td>
+          <td>The elven capital <span class="pill open">city unbuilt ⚠</span></td>
+          <td>The human sprawl <span class="pill open">city unbuilt ⚠</span></td>
+          <td>The symbolic elven-capital equivalent <span class="pill open">unbuilt ⚠</span></td></tr>
+        <tr><td class="beat">2 · Jon brings grave news</td>
+          <td>Seeks urgent audience with the king; Mika challenges the man he can't feel</td>
+          <td class="hole">unbuilt</td>
+          <td class="hole">unbuilt</td></tr>
+        <tr><td class="beat">3 · Races to save a loved one</td>
+          <td>Mika races in to protect Lirael against the Orc King</td>
+          <td class="hole">NO OBJECT — she knows no one on Earth; needs a seedship loved-one, an Earth-remnant kin, or an arrival-bond</td>
+          <td>His family/tribe exist as a list; scene unbuilt ⚠</td></tr>
+        <tr><td class="beat">4 · Jon rescues</td>
+          <td>Catches Mika first — Derrek had seen the race across loops and was ready</td>
+          <td>The tired-eyed man heals her and vanishes</td>
+          <td>Pulls him from the orc-device trap at the Tower</td></tr>
+        <tr><td class="beat">5 · Training arc</td>
+          <td>The hidden mentor</td>
+          <td>Helps her use her abilities</td>
+          <td>The laddered ascension — aid unseen, growth genuinely his</td></tr>
+        <tr><td class="beat">6 · Jon leaves<span class="sub">busy elsewhere — never jumping</span></td>
+          <td colspan="3" style="text-align:center;color:var(--faint)">constant in all three — other fronts of the hidden war, in linear time</td></tr>
+        <tr><td class="beat">7 · The journey · falls in love</td>
+          <td class="hole">no love interest</td>
+          <td class="hole">no love interest</td>
+          <td class="hole">no love interest ("the girl he kissed young" is past-tense)</td></tr>
+        <tr><td class="beat">8 · Jon returns — the turn</td>
+          <td>The infiltration of the human king's Tower begins</td>
+          <td>She learns a <i>human</i> riled up the orcs</td>
+          <td>The converging climax launches</td></tr>
+        <tr><td class="beat">9 · Face Derrek at the Tower</td>
+          <td>The human king revealed</td>
+          <td>The magnate in the opulent skyscraper</td>
+          <td>The window · the laugh · the charge</td></tr>
+        <tr><td class="beat">10 · Resolution</td>
+          <td>Two-layer reveal: the family was the target (politics on the surface, loop-mechanics beneath)</td>
+          <td>The big reveal lands for in-order readers <span class="pill open">midpoint TBD ⚠</span></td>
+          <td>Losses stand · ends-or-brink still open 🌊</td></tr>
+        <tr><td class="beat">Tower miniboss<span class="sub">the uncanny gatekeeper</span></td>
+          <td>A changeling <span class="pill open">unbuilt ⚠ — cannot resolve via a witnessed shift</span></td>
+          <td>Derrek's ASI in the skyscraper <span class="pill open">encounter unbuilt ⚠</span> <span style="color:var(--faint);font-size:11px">(the sketched ASI scene is the separate dwarves'-cage proxy war)</span></td>
+          <td>The rule-beast — the severed room <span class="pill locked">showpiece ✅</span></td></tr>
+        <tr><td class="beat">Derrek's mask</td>
+          <td>The human king</td>
+          <td>The business magnate</td>
+          <td>The mad scientist in the tower</td></tr>
+        <tr><td class="beat">The orc tragic arc<span class="sub">descending hope</span></td>
+          <td>Mightiest they've ever been → defeated, enslaved</td>
+          <td>Still people — revolt <i>with hope</i> → crushed</td>
+          <td>Not even people — cattle of the galaxy → the first true liberation? 🟡</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <!-- ================= PLATE IX — THE TIME-WAR MACHINERY ================= -->
+  <section class="plate" id="timewar">
+    <div class="plate-head"><span class="plate-num">PLATE IX</span><h2>The Time-War Machinery</h2></div>
+    <p class="cap">The tether, the shared jump, and the loop that ran beyond counting — then the single forward step that dismantles all of it. <b>The head start was never temporal; the leash was also a seawall.</b></p>
+    <div class="scroll">
+    <svg viewBox="0 0 960 330" role="img" aria-label="The tether and the shared jump">
+      <text x="30" y="30" class="t-mono" font-size="11" letter-spacing="2" fill="var(--violet)">THE TETHER — one curse, two verdicts</text>
+      <!-- entity -->
+      <g data-tip="THE ENTITY at the portal — cursed the demand, rewarded the blackout. The moral hinge of the whole cosmology. ⚠ UNBUILT and load-bearing: Book 4 opens on this scene.">
+        <rect x="380" y="46" width="200" height="46" rx="23" fill="none" stroke="var(--warn)" stroke-width="1.5" stroke-dasharray="6 4"/>
+        <text x="480" y="66" text-anchor="middle" class="t-serif" font-size="14.5" fill="var(--ink)">the Entity</text>
+        <text x="480" y="83" text-anchor="middle" class="t-mono" font-size="9" fill="var(--warn)">⚠ unbuilt — load-bearing</text>
+      </g>
+      <line x1="416" y1="92" x2="330" y2="136" stroke="var(--teal)" stroke-width="1.3" marker-end="url(#arT)"/>
+      <line x1="544" y1="92" x2="630" y2="136" stroke="var(--crimson)" stroke-width="1.3" marker-end="url(#arC)"/>
+      <text x="332" y="118" text-anchor="end" class="t-mono" font-size="9.5" fill="var(--teal)">blacked out → FULL CONTROL</text>
+      <text x="628" y="118" class="t-mono" font-size="9.5" fill="var(--crimson)">demanded → CARRIED</text>
+      <!-- Jon / Derrek -->
+      <g data-tip="Full control: rewind, fast-forward, reset (examples, not a complete list). Fragile conscious mind — every arrival shatters it; he rebuilds himself from fragments.">
+        <rect x="180" y="140" width="180" height="56" rx="6" fill="var(--panel-3)" stroke="var(--teal)" stroke-width="1.6"/>
+        <text x="270" y="164" text-anchor="middle" class="t-serif" font-size="16" fill="var(--ink)">JON</text>
+        <text x="270" y="183" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--teal)">the driver · fragile mind</text>
+      </g>
+      <g data-tip="No time-motion of his own at all — stationary unless Jon jumps. What once read as random flings was always Jon pulling him. Mind never erased: the awareness advantage.">
+        <rect x="600" y="140" width="180" height="56" rx="6" fill="var(--panel-3)" stroke="var(--crimson)" stroke-width="1.6"/>
+        <text x="690" y="164" text-anchor="middle" class="t-serif" font-size="16" fill="var(--ink)">DERREK</text>
+        <text x="690" y="183" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--crimson)">carried · mind intact</text>
+      </g>
+      <!-- tether chain -->
+      <g stroke="var(--violet)" stroke-width="1.8" fill="none" data-tip="When Jon jumps, Derrek jumps. Every horror Derrek manufactured to break Jon into resetting was also Derrek pressing his own jump button — Jon is the steering wheel on a power Derrek can't drive.">
+        <path d="M 366 168 q 12 -9 24 0 q 12 9 24 0 q 12 -9 24 0 q 12 9 24 0 q 12 -9 24 0 q 12 9 24 0 q 12 -9 24 0 q 12 9 24 0 q 12 -9 24 0 q 5 4 12 2"/>
+      </g>
+      <text x="480" y="152" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--violet)">the tether — when Jon jumps, Derrek jumps</text>
+      <!-- jump flow -->
+      <g class="t-mono" font-size="10.5" fill="var(--ink-soft)">
+        <text x="30" y="248" class="t-mono" font-size="11" letter-spacing="2" fill="var(--violet)">THE SHARED JUMP — set by the first instant, never changed</text>
+        <text x="40" y="284" fill="var(--teal)">Jon collapses</text>
+        <line x1="150" y1="280" x2="186" y2="280" stroke="var(--hair)" marker-end="url(#arG2)"/>
+        <text x="196" y="284" fill="var(--violet)">BOTH jump</text>
+        <line x1="290" y1="280" x2="326" y2="280" stroke="var(--hair)" marker-end="url(#arG2)"/>
+        <text x="336" y="284">arrive simultaneously</text>
+        <line x1="510" y1="280" x2="546" y2="280" stroke="var(--hair)" marker-end="url(#arG2)"/>
+        <text x="556" y="276" fill="var(--teal)">Jon shattered — rebuilds from fragments</text>
+        <text x="556" y="296" fill="var(--crimson)">Derrek intact — walks off to his seeds</text>
+      </g>
+      <text x="480" y="322" text-anchor="middle" class="t-serif" font-size="13.5" font-style="italic" fill="var(--ink-soft)">the head start is memory, not time</text>
+    </svg>
+    </div>
+    <div class="scroll" style="margin-top:26px">
+    <svg viewBox="0 0 960 430" role="img" aria-label="The window loop and the refusal">
+      <text x="30" y="30" class="t-mono" font-size="11" letter-spacing="2" fill="var(--violet)">THE WINDOW LOOP — ran beyond counting</text>
+      <!-- circle of 5 -->
+      <g fill="none" stroke="var(--violet)" stroke-width="1.4">
+        <path d="M 300 78 A 150 128 0 0 1 434 190" marker-end="url(#arG2)"/>
+        <path d="M 428 232 A 150 128 0 0 1 322 316" marker-end="url(#arG2)"/>
+        <path d="M 236 318 A 150 128 0 0 1 136 232" marker-end="url(#arG2)"/>
+        <path d="M 132 186 A 150 128 0 0 1 236 82" marker-end="url(#arG2)"/>
+      </g>
+      <g text-anchor="middle">
+        <g data-tip="His whole eternal method: manufacture the horror that breaks Jon's heart into resetting — while showing him the Blight through the window: 'reset or reality ends.' Literally true, which is what made it unbreakable.">
+          <rect x="196" y="52" width="176" height="44" rx="5" fill="var(--panel-3)" stroke="var(--crimson)"/>
+          <text x="284" y="71" class="t-serif" font-size="12.5" fill="var(--ink)">Derrek manufactures</text>
+          <text x="284" y="87" class="t-serif" font-size="12.5" fill="var(--ink)">a horror · the window</text>
+        </g>
+        <g data-tip="Across the loops this trained him: reset = save reality. The leash.">
+          <rect x="372" y="188" width="140" height="44" rx="5" fill="var(--panel-3)" stroke="var(--teal)"/>
+          <text x="442" y="207" class="t-serif" font-size="12.5" fill="var(--ink)">Jon's heart breaks</text>
+          <text x="442" y="223" class="t-serif" font-size="12.5" fill="var(--ink)">— he RESETS</text>
+        </g>
+        <g data-tip="The reset's two opposite functions: it widened the breach (Derrek's plan runs on it) AND swept the invaders back out (they must re-pay the crossing every loop). The leash was also the seawall.">
+          <rect x="196" y="312" width="176" height="44" rx="5" fill="var(--panel-3)" stroke="var(--violet)"/>
+          <text x="284" y="331" class="t-serif" font-size="12.5" fill="var(--ink)">breach widens ·</text>
+          <text x="284" y="347" class="t-serif" font-size="12.5" fill="var(--ink)">invaders swept out</text>
+        </g>
+        <g data-tip="Each reset hands Derrek pieces that have no idea the game changed — an information monopoly over an amnesiac world. His whole playstyle is tuned for this fog.">
+          <rect x="52" y="188" width="150" height="44" rx="5" fill="var(--panel-3)" stroke="var(--crimson)"/>
+          <text x="127" y="207" class="t-serif" font-size="12.5" fill="var(--ink)">the fog falls —</text>
+          <text x="127" y="223" class="t-serif" font-size="12.5" fill="var(--ink)">only Derrek remembers</text>
+        </g>
+      </g>
+      <text x="284" y="212" text-anchor="middle" class="t-serif" font-size="15" font-style="italic" fill="var(--muted)">∞</text>
+
+      <!-- the refusal branch -->
+      <line x1="512" y1="210" x2="600" y2="210" stroke="var(--gold)" stroke-width="2" marker-end="url(#ar)"/>
+      <text x="556" y="198" text-anchor="middle" class="t-mono" font-size="9.5" fill="var(--gold)">the REFUSAL</text>
+      <g data-tip="Persistence, not mastery: he steps forward still doubting, still flawed — having finally learned that no run can be perfect (every save unmakes others; the perfect run CANNOT exist).">
+        <rect x="604" y="184" width="150" height="52" rx="6" fill="var(--panel-3)" stroke="var(--gold)" stroke-width="1.8"/>
+        <text x="679" y="206" text-anchor="middle" class="t-serif" font-size="13.5" fill="var(--ink)">Jon steps forward</text>
+        <text x="679" y="224" text-anchor="middle" class="t-mono" font-size="9" fill="var(--gold)">no more resets — ever</text>
+      </g>
+      <!-- consequences cascade -->
+      <g stroke="var(--hair)" stroke-width="1.2">
+        <line x1="754" y1="196" x2="800" y2="130" marker-end="url(#arG2)"/>
+        <line x1="754" y1="210" x2="800" y2="210" marker-end="url(#arG2)"/>
+        <line x1="754" y1="224" x2="800" y2="290" marker-end="url(#arG2)"/>
+      </g>
+      <g class="t-mono" font-size="10" fill="var(--ink-soft)">
+        <text x="808" y="120" data-tip="No Jon-jump = no Derrek-jump. The prize he mutilated himself for, switched off — and the switch was always Jon's hand."><tspan fill="var(--crimson)">Derrek DISARMED</tspan></text>
+        <text x="808" y="134" fill="var(--muted)">grounded 10,000 yrs</text>
+        <text x="808" y="204" data-tip="In unbroken linear years, people and institutions remember, adapt, compound. Reset-tuned genius degrades against opponents who accumulate."><tspan fill="var(--crimson)">the fog never falls</tspan></text>
+        <text x="808" y="218" fill="var(--muted)">the world remembers</text>
+        <text x="808" y="284" data-tip="Crossing costs the Blight enormously — but nothing sweeps them back out anymore. They cross once, stay crossed, and pour in for ten thousand years."><tspan fill="var(--violet)">the flood lands</tspan></text>
+        <text x="808" y="298" fill="var(--muted)">nothing bails the water</text>
+      </g>
+
+      <!-- failure ladder strip -->
+      <text x="30" y="396" class="t-mono" font-size="11" letter-spacing="2" fill="var(--crimson)">THE FAILURE-LADDER — the war's only visible surface</text>
+      <g class="t-mono" font-size="10.5" fill="var(--ink-soft)">
+        <text x="40" y="420">B1 · a flicker</text>
+        <line x1="136" y1="416" x2="168" y2="416" stroke="var(--hair)" marker-end="url(#arG2)"/>
+        <text x="178" y="420">B2 · the proxy-loss (the ASI fails to return)</text>
+        <line x1="474" y1="416" x2="506" y2="416" stroke="var(--hair)" marker-end="url(#arG2)"/>
+        <text x="516" y="420">B3 · escalating distress</text>
+        <line x1="682" y1="416" x2="714" y2="416" stroke="var(--hair)" marker-end="url(#arG2)"/>
+        <text x="724" y="420" fill="var(--crimson)">recognition — the swap</text>
+      </g>
+    </svg>
+    </div>
+  </section>
+
+  <!-- ================= PLATE X — THE OUROBOROS ================= -->
+  <section class="plate" id="cycle">
+    <div class="plate-head"><span class="plate-num">PLATE X</span><h2>The Four-Book Ouroboros</h2></div>
+    <p class="cap">The trilogy runs forward across the eras; <b>Book IV opens where Book III ends — but in the original, unbroken world</b>, the first of many loops, before they shattered reality forever. Finish the saga, turn the page, and you are back at the beginning: the structure enacts the loop.</p>
+    <div class="scroll">
+    <svg viewBox="0 0 900 330" role="img" aria-label="The four-book cyclical structure">
+      <line x1="170" y1="120" x2="330" y2="120" stroke="var(--gold)" stroke-width="1.5" marker-end="url(#ar)"/>
+      <line x1="410" y1="120" x2="570" y2="120" stroke="var(--gold)" stroke-width="1.5" marker-end="url(#ar)"/>
+      <line x1="650" y1="120" x2="810" y2="120" stroke="var(--gold)" stroke-width="1.5" marker-end="url(#ar)"/>
+      <path d="M 730 158 C 730 268, 170 268, 112 158" fill="none" stroke="var(--violet)" stroke-width="1.7" stroke-dasharray="5 5" marker-end="url(#ar)"/>
+      <text x="450" y="256" text-anchor="middle" class="t-mono" font-size="10.5" fill="var(--violet)">the reader turns the page — and is back at the beginning</text>
+      <g text-anchor="middle">
+        <g data-tip="The Age of Discovery — wonder; the untested youth; cosmology invisible.">
+          <circle cx="110" cy="120" r="42" fill="var(--panel-2)" stroke="var(--gold)"/>
+          <text x="110" y="116" class="t-serif" font-size="16" fill="var(--ink)">I</text>
+          <text x="110" y="136" class="t-mono" font-size="8.5" fill="var(--muted)">medieval</text>
+        </g>
+        <g data-tip="The Age of Application — grit; the hero in doubt; the darkest book by design.">
+          <circle cx="370" cy="120" r="42" fill="var(--panel-2)" stroke="var(--gold)"/>
+          <text x="370" y="116" class="t-serif" font-size="16" fill="var(--ink)">II</text>
+          <text x="370" y="136" class="t-mono" font-size="8.5" fill="var(--muted)">industrial</text>
+        </g>
+        <g data-tip="The Age of Absolutes — mastery; the hero who heals; the brightness is the horror.">
+          <circle cx="610" cy="120" r="42" fill="var(--panel-2)" stroke="var(--gold)"/>
+          <text x="610" y="116" class="t-serif" font-size="16" fill="var(--ink)">III</text>
+          <text x="610" y="136" class="t-mono" font-size="8.5" fill="var(--muted)">far future</text>
+        </g>
+        <g data-tip="THE FIRST JUMP — the original timeline, the way the world truly was. The rereader's reward is contrast: everything the trilogy showed was already the broken version. The historian time-god — the author's original observer, the ancestor of the whole saga — lives here.">
+          <circle cx="790" cy="120" r="42" fill="var(--panel-2)" stroke="var(--violet)" stroke-width="1.6"/>
+          <text x="790" y="116" class="t-serif" font-size="16" fill="var(--ink)">IV</text>
+          <text x="790" y="136" class="t-mono" font-size="8.5" fill="var(--violet)">the first jump</text>
+        </g>
+      </g>
+      <text x="450" y="38" text-anchor="middle" class="t-serif" font-size="14" fill="var(--ink-soft)" font-style="italic">the elven family, forward across the eras — then the origin of the men beneath it</text>
+      <text x="790" y="66" text-anchor="middle" class="t-mono" font-size="9" fill="var(--violet)">the ORIGINAL, unbroken world</text>
+      <text x="450" y="300" text-anchor="middle" class="t-mono" font-size="10" fill="var(--faint)">watch Jon end the cycle — then open Book IV and see the beginning · the reader grieves a world only Book IV ever shows</text>
+    </svg>
+    </div>
+  </section>
+
+  <!-- ================= PLATE XI — THE GAP MAP ================= -->
+  <section class="plate" id="gaps">
+    <div class="plate-head"><span class="plate-num">PLATE XI</span><h2>The Gap Map</h2></div>
+    <p class="cap">What remains unbuilt where a sibling is already full — ranked by how load-bearing the hole is. This plate mirrors `17_OPEN_THREADS.md` §B; when a tile is resolved in the codex, retire it here.</p>
+
+    <p class="sev-head r">▮ Load-bearing — a locked structure cannot fire</p>
+    <div class="tiles">
+      <div class="tile sev-r"><h4>The Entity</h4><p>Cursed the demand, rewarded the blackout — the cosmology's moral hinge. No name, nature, tier, or motive. Book IV opens on this scene.</p><span class="where">15_BOOK_4 · 11_ETERNAL_CAST</span></div>
+      <div class="tile sev-r"><h4>B2's loved one</h4><p>Skeleton beat 3 has no object — the returnee knows no one on Earth. Seedship kin, Earth-remnant kin, or an arrival-bond.</p><span class="where">13_BOOK_2</span></div>
+      <div class="tile sev-r"><h4>Three love interests</h4><p>"Falls in love" is a locked beat in every book. All three slots are empty.</p><span class="where">12–14_BOOK</span></div>
+      <div class="tile sev-r"><h4>The hinge</h4><p>How Jon learned to retain memory — the single pivot of the war. No scene, no mechanism, no cost.</p><span class="where">11_ETERNAL_CAST</span></div>
+      <div class="tile sev-r"><h4>Why the watchers watch</h4><p>The time-god society records reality's shattering and does nothing. Needs a code rooted in their nature, or it's a plot hole.</p><span class="where">06_BEINGS · 15_BOOK_4</span></div>
+    </div>
+
+    <p class="sev-head o">▮ Structural — a claimed pattern has one specimen</p>
+    <div class="tiles">
+      <div class="tile sev-o"><h4>Varied populations, single specimens</h4><p>Blight: only predators. Demons: only the Orc King's. Unified Ones: only the patron. Pacts: blessing a stub, blood-ritual zero.</p><span class="where">03 · 05 · 06</span></div>
+      <div class="tile sev-o"><h4>The Afflicted</h4><p>A described demi-boss template — a mortal given a Rule unasked, scarred by it — with no occupant anywhere.</p><span class="where">05_EXTERNAL_POWERS</span></div>
+      <div class="tile sev-o"><h4>B1's changeling miniboss</h4><p>No identity, no scene — and it cannot resolve via a witnessed shift (the pre-write check). Needs deliberate design.</p><span class="where">12_BOOK_1</span></div>
+      <div class="tile sev-o"><h4>Tier 1 is empty</h4><p>Gods &amp; demons — the tier Book IV fights — has zero built individuals. The pantheon is due.</p><span class="where">06_BEINGS · 17</span></div>
+    </div>
+
+    <p class="sev-head y">▮ Texture — siblings uneven, not blocking</p>
+    <div class="tiles">
+      <div class="tile sev-y"><h4>Book II overall</h4><p>Least cast, midpoint TBD, protagonist unnamed with open abilities. The thin sibling in every parallel structure.</p><span class="where">13_BOOK_2</span></div>
+      <div class="tile sev-y"><h4>Warm individuals</h4><p>Partially answered ✅ — the gnomish cities are now the world's one bright place. Still missing: warm *people* in each book's cast, real enough to hurt.</p><span class="where">07 · all books</span></div>
+      <div class="tile sev-y"><h4>The capital city</h4><p>Every book opens with a race through it; it doesn't exist in any era. Medieval geography: none.</p><span class="where">12_BOOK_1 · 10</span></div>
+      <div class="tile sev-y"><h4>Named exemplars</h4><p>Framework established ✅ (register · person-first · deed · memory-gap · magic last); dragons in progress, three directions unpicked. Zero figures built yet.</p><span class="where">07 · 17</span></div>
+      <div class="tile sev-y"><h4>Dissolution's light face</h4><p>Unity has consent and consumption; separation-as-virtue is still undecided structural debt.</p><span class="where">03_COSMOLOGY</span></div>
+      <div class="tile sev-y"><h4>The elves' game</h4><p>Named the true dual-timescale player of the Elder Web — their actual play is never described.</p><span class="where">07_RACES</span></div>
+      <div class="tile sev-y"><h4>B1's opening draft</h4><p>The codex referenced a drafted opening scene that isn't in the scenes file. Recover or re-draft.</p><span class="where">16_SCENES</span></div>
+    </div>
+  </section>
+
+  <footer>
+    AN ATLAS OF THE SAGA · rendered from the codex, v2 structure · every figure canon or flagged open<br>
+    plates I–XI · hover for canon notes · the codex files remain the single source of truth
+  </footer>
+
+</div><!-- /sheet -->
+</div><!-- /wrap -->
+
+<div id="tip" role="tooltip" aria-hidden="true"></div>
+
+<script>
+(function(){
+  /* theme toggle */
+  var btn=document.getElementById('tg');
+  btn.addEventListener('click',function(){
+    var r=document.documentElement, cur=r.getAttribute('data-theme');
+    if(!cur){cur=window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';}
+    r.setAttribute('data-theme', cur==='dark'?'light':'dark');
+  });
+
+  /* tooltip */
+  var tip=document.getElementById('tip');
+  function show(e){
+    var el=e.target.closest('[data-tip]'); if(!el){hide();return;}
+    var txt=el.getAttribute('data-tip'); if(!txt){hide();return;}
+    tip.innerHTML='<span class="tt"></span>';
+    tip.firstChild.textContent='';
+    tip.textContent=txt;
+    tip.style.opacity='1'; tip.setAttribute('aria-hidden','false');
+    move(e);
+  }
+  function move(e){
+    var pad=14, w=tip.offsetWidth, h=tip.offsetHeight;
+    var x=e.clientX+pad, y=e.clientY+pad;
+    if(x+w>window.innerWidth-8) x=e.clientX-w-pad;
+    if(y+h>window.innerHeight-8) y=e.clientY-h-pad;
+    tip.style.left=x+'px'; tip.style.top=y+'px';
+  }
+  function hide(){tip.style.opacity='0';tip.setAttribute('aria-hidden','true');}
+  document.addEventListener('mouseover',show);
+  document.addEventListener('mousemove',function(e){ if(tip.style.opacity==='1') move(e); });
+  document.addEventListener('mouseout',function(e){ if(!e.relatedTarget||!e.relatedTarget.closest||!e.relatedTarget.closest('[data-tip]')) hide(); });
+
+  /* elder-web focus */
+  var svg=document.getElementById('webSvg');
+  if(svg){
+    var nodes=svg.querySelectorAll('.node'), edges=svg.querySelectorAll('.edge');
+    nodes.forEach(function(n){
+      n.addEventListener('mouseenter',function(){
+        var id=n.getAttribute('data-id'); svg.classList.add('focus');
+        var lit={}; lit[id]=true;
+        edges.forEach(function(ed){
+          var ids=(ed.getAttribute('data-nodes')||'').split(' ');
+          if(ids.indexOf(id)>-1){ ed.classList.add('lit'); ids.forEach(function(i){lit[i]=true;}); }
+          else ed.classList.remove('lit');
+        });
+        nodes.forEach(function(m){ m.classList.toggle('lit', !!lit[m.getAttribute('data-id')]); });
+      });
+      n.addEventListener('mouseleave',function(){
+        svg.classList.remove('focus');
+        edges.forEach(function(ed){ed.classList.remove('lit');});
+        nodes.forEach(function(m){m.classList.remove('lit');});
+      });
+    });
+  }
+})();
+</script>
+
+</body></html>

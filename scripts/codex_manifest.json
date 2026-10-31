@@ -1,0 +1,149 @@
+[
+ {
+  "id": "00-index",
+  "name": "00_INDEX-5.md",
+  "label": "00 · Index",
+  "group": "Codex v5",
+  "words": 3426
+ },
+ {
+  "id": "01-glossary",
+  "name": "01_GLOSSARY-5.md",
+  "label": "01 · Glossary",
+  "group": "Codex v5",
+  "words": 13453
+ },
+ {
+  "id": "02-constitution",
+  "name": "02_CONSTITUTION-5.md",
+  "label": "02 · Constitution",
+  "group": "Codex v5",
+  "words": 10893
+ },
+ {
+  "id": "03-cosmology",
+  "name": "03_COSMOLOGY-5.md",
+  "label": "03 · Cosmology",
+  "group": "Codex v5",
+  "words": 7656
+ },
+ {
+  "id": "04-magic-substrate",
+  "name": "04_MAGIC_SUBSTRATE-5.md",
+  "label": "04 · Magic Substrate",
+  "group": "Codex v5",
+  "words": 6756
+ },
+ {
+  "id": "05-powers-banked",
+  "name": "05_POWERS_BANKED-5.md",
+  "label": "05 · Powers Banked",
+  "group": "Codex v5",
+  "words": 1847
+ },
+ {
+  "id": "06-external-powers",
+  "name": "06_EXTERNAL_POWERS-5.md",
+  "label": "06 · External Powers",
+  "group": "Codex v5",
+  "words": 6979
+ },
+ {
+  "id": "07-beings",
+  "name": "07_BEINGS-5.md",
+  "label": "07 · Beings",
+  "group": "Codex v5",
+  "words": 22225
+ },
+ {
+  "id": "08-characters",
+  "name": "08_CHARACTERS-5.md",
+  "label": "08 · Characters",
+  "group": "Codex v5",
+  "words": 22177
+ },
+ {
+  "id": "09-structure",
+  "name": "09_STRUCTURE-5.md",
+  "label": "09 · Structure",
+  "group": "Codex v5",
+  "words": 18756
+ },
+ {
+  "id": "10-world",
+  "name": "10_WORLD-5.md",
+  "label": "10 · World",
+  "group": "Codex v5",
+  "words": 16208
+ },
+ {
+  "id": "11-open-threads",
+  "name": "11_OPEN_THREADS-5.md",
+  "label": "11 · Open Threads",
+  "group": "Codex v5",
+  "words": 8408
+ },
+ {
+  "id": "12-method",
+  "name": "12_METHOD-5.md",
+  "label": "12 · Method",
+  "group": "Codex v5",
+  "words": 5274
+ },
+ {
+  "id": "13-prose-and-scenes",
+  "name": "13_PROSE_AND_SCENES-5.md",
+  "label": "13 · Prose And Scenes",
+  "group": "Codex v5",
+  "words": 11607
+ },
+ {
+  "id": "14-physics-reference",
+  "name": "14_PHYSICS_REFERENCE-5.md",
+  "label": "14 · Physics Reference",
+  "group": "Codex v5",
+  "words": 2168
+ },
+ {
+  "id": "world-overview",
+  "name": "WORLD_OVERVIEW.md",
+  "label": "World Overview",
+  "group": "Companions",
+  "words": 6637
+ },
+ {
+  "id": "magic-system-explained",
+  "name": "MAGIC_SYSTEM_EXPLAINED-5.md",
+  "label": "Magic System Explained",
+  "group": "Companions",
+  "words": 5609
+ },
+ {
+  "id": "property-inventory-working",
+  "name": "PROPERTY_INVENTORY_WORKING-5.md",
+  "label": "Property Inventory Working",
+  "group": "Companions",
+  "words": 4658
+ },
+ {
+  "id": "scenes-compiled",
+  "name": "SCENES_COMPILED-5.md",
+  "label": "Scenes Compiled",
+  "group": "Companions",
+  "words": 15530
+ },
+ {
+  "id": "needs-patrick",
+  "name": "NEEDS_PATRICK.md",
+  "label": "Needs Patrick",
+  "group": "Trackers (open, not settled)",
+  "words": 11598
+ },
+ {
+  "id": "flagged-additions",
+  "name": "FLAGGED_ADDITIONS.md",
+  "label": "Flagged Additions",
+  "group": "Trackers (open, not settled)",
+  "words": 6249
+ }
+]
