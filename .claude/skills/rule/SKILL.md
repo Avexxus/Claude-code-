@@ -5,6 +5,8 @@ description: Record one of Patrick's saga decisions and apply it everywhere — 
 
 # Rule workflow
 
+**Bank first, pass later.** Outside a pass, a ruling only gets appended to `decisions/BANK.md` (his words, date, IDs), and that's it. Run the steps below only when Patrick calls a pass, and run them once for everything banked: one R### per item, one codex-editor run, one canon-checker run, one rebuild, one commit. Then clear the bank.
+
 1. **Confirm the ruling.** Restate it back to Patrick in one or two lines. If his words leave a real ambiguity, ask one short question first. Don't record your interpretation as his words.
 2. **Record it.** Add the next `R###` entry to `decisions/RULINGS.md`, quoting Patrick verbatim with the date. Include the question and its IDs, the decision, its stability (🔒 only if he said lock, otherwise ✅), and what it closes or opens.
 3. **Apply it.** Spawn the `codex-editor` agent with the R### ID. Then spawn `canon-checker` on the diff (`git diff codex_v5/`) to catch anything the edit broke or missed.

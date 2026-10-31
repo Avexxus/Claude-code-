@@ -18,6 +18,12 @@ This repo is the **home of Patrick's saga codex**. As of 2026-10-31, the codex l
 | `.claude/agents/` | `canon-checker`, `options-writer`, `idea-scout`, `codex-editor`. | — |
 | `.claude/skills/` | Workflows: `options`, `rule`, `ideas`, `sync`. | — |
 
+## Bank first, pass later (Patrick's rule, 2026-10-31)
+**Don't run agents every time Patrick says something.** Bank it and apply it in one pass when he calls for it.
+- When Patrick rules or says something worth keeping, Claude appends it to `decisions/BANK.md` with a quick edit: his words, the date, and the item IDs. No agents, no codex edits.
+- **Passes run only when Patrick calls one** ("do a pass", "write it in"). In a pass, each banked item becomes an R### entry in `RULINGS.md`, then codex-editor and canon-checker run **once for the whole batch**, then the page is rebuilt and republished once. Afterwards the bank is cleared.
+- Pose questions from the notes Claude already has whenever possible. Use options-writer or idea-scout only when the notes really aren't enough, or when Patrick asks.
+
 ## The workflows
 - **Work a loose end:** `options` (paper, then canon check, then numbered choices for Patrick).
 - **Patrick decides something:** `rule` (ledger entry, then codex edits, then check, then page rebuild and republish, then commit).
