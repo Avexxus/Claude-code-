@@ -14,21 +14,21 @@ Eli did. The ache started in his thighs and climbed into his chest, and every br
 
 Eli could have stopped him. One reach and the guard would be a stain on the wall. But a reach that size in the street would be seen, and someone would know whose it was. So he ran.
 
-The city ended here, and it ended badly. The towers behind him rose pale and seamless out of the bedrock. Ahead was a fence of plain wire, and past it the yards: slag flats, cranes, open sheds, the pens. The air smelled of hot fat and ozone.
+The city ended here. The towers behind him rose white and seamless out of the bedrock. Ahead was a fence of plain wire, and past it the yards: slag flats, cranes, open sheds, the pens. The air smelled of hot fat and ozone.
 
 He went over the fence. It bit him on the way, and he landed hard on one hip and got up and kept going.
 
-The pens were full. Orcs stood in rows under the shed roofs, hundreds deep, men and women both, heavy-shouldered and bare to the waist, waiting their turn on the ramps that ran up into the hull-presses. Each had a neat pale scar at the base of the skull. A young one at the rail had wrapped a rag round his hand where the wire had cut it. He looked at Eli as he ran past, and then looked away, the way you look away from trouble that isn't yours.
+The pens were full. Orcs stood in rows under the shed roofs, hundreds deep, men and women both, heavy-shouldered and bare to the waist, waiting their turn on the ramps that ran up into the hull-presses. Each had a neat pale scar at the base of the skull. A young one at the rail had wrapped a rag round his hand where the wire had cut it. He looked at Eli as he ran past, then down at his feet.
 
 At the fence the guard didn't bother climbing. He lifted a hand-slate and spoke into it.
 
 Every orc in the yard turned their head at once.
 
-They came out of the pens in a slow wave, climbing the rails, hands open and reaching for him. Their bodies came. Their faces didn't. The young one with the rag was crying. An old man near the front with a split lip was saying something over and over while his legs walked him forward, and as he came closer Eli heard that it was a name.
+They came out of the pens in a slow wave, climbing the rails, hands open and reaching for him. The young one with the rag was crying. An old man near the front with a split lip was saying something over and over while his legs walked him forward, and as he came closer Eli heard that it was a name.
 
 Eli reached.
 
-The air in front of him went hard, and he swung it, and the front rank went over into the rank behind. He felt bones break. He heard them. More orcs came on over the ones he'd dropped, and the ones on the ground were trying to get up, and some of them couldn't.
+The air in front of him went hard, and he swung it, and the front rank went over into the rank behind. He felt bones break, and heard them. More orcs came on over the ones he'd dropped, and the ones on the ground were trying to get up, and some of them couldn't.
 
 He could have cleared the yard. He didn't want to touch them again, even at a distance.
 
@@ -102,7 +102,7 @@ He turned up for a week on a salvage hull where Eli and Teo were cutting cable o
 
 Eli learned what food cost. He went hungry for three days on a station where no one would hire a man with soft hands, and on the fourth he broke a dock boss's knee for a job and took the job. Teo didn't speak to him for a week. Half the shopfronts on that station kept a little shrine to the Emperor's god, lit with a cheap bulb, and none of them had the Emperor's face, because nobody knew it. A dockhand kicked a cargo loader that had stopped to think too long. "Battery," he said, and spat.
 
-On a post outside a customs hall, in the fourth month, Eli found himself.
+In the fourth month Eli found his own face on a post outside a customs hall.
 
 RECOVER IMPERIAL PROPERTY, the warrant said, under the seal. It described him down to the scar on his chin. By the date, it had gone up seven days after he ran, two days before the hull-press yard.
 
@@ -122,7 +122,7 @@ When Jon next turned up, Eli told him. Jon listened without interrupting. Then h
 
 "Then you'll need people," he said. "And you'll need to be a great deal better than you are."
 
-Eli did not ask him about the guard. He found he wanted Jon to stay more than he wanted the answer.
+Eli did not ask him about the guard.
 
 ---
 
@@ -154,7 +154,7 @@ The master went to the temple door and looked out over the glassy ground and the
 
 "My master went up to that Tower," he said. "Fifty years ago. He was the best I ever saw, and he was tired of watching boys burn out over a hole in the ground for men who never came near it. He said he'd go and see who sat in the chair." He didn't turn round. "He didn't come back. Nobody ever told me how far he got. No. I won't walk into that place behind a boy with a grudge. Go and die somewhere better than this."
 
-Eli didn't argue. A prince who argued after a refusal had already lost.
+Eli didn't argue.
 
 On the ship Teo said, "We'll find someone else."
 
@@ -210,7 +210,7 @@ Jon took them to the elves because, he said, they were the only people left who 
 
 It stood on a world of high cold rivers, grown whole like the old giant cities, but finer. Its towers leaned toward each other as if in conversation.
 
-It took three hours to get in. Papers. A search. An inquisitor in grey asked Eli the same eleven questions three times in the same order and watched his eyes. At the end Jon spoke to the inquisitor in elvish and showed him a token on a chain, and the inquisitor stamped the papers like a man stamping on a hand.
+It took three hours to get in. Papers. A search. An inquisitor in grey asked Eli the same eleven questions three times in the same order and watched his eyes. At the end Jon spoke to the inquisitor in elvish and showed him a token on a chain, and the inquisitor stamped the papers without another word.
 
 "I helped the king once, when he was a boy," Jon said, inside. "It buys a day pass. Don't steal anything."
 
@@ -220,9 +220,9 @@ On the second day they crossed a square where an elf knelt on the stones with hi
 
 "Disagreed," said Jon. "Out loud."
 
-Nobody jostled in the streets. Nobody spoke to pass in a doorway. Crowds parted and closed without a word or a glance, and Eli, who had grown up in a palace where every corridor was a negotiation, could not get used to it. The king's name was on the arches and the coins and said quietly in the markets: Mika. Every order came from him.
+Nobody jostled in the streets. Nobody spoke to pass in a doorway. Crowds parted and closed without a word or a glance, and Eli, who had grown up in a palace full of whispering, could not get used to it. The king's name was on the arches and the coins and said quietly in the markets: Mika. Every order came from him.
 
-A young archivist, ordered to be helpful, told them about the dark elves in two sentences. They were born in the prison realm with the soul thieves and the traitors, and they came out of it full of hate. They were not elves any more, not in any way that mattered.
+A young archivist, ordered to be helpful, told them about the dark elves in two sentences. They were born in the prison realm with the soul thieves and the traitors, and they came out of it full of hate. They were not really elves any more.
 
 On their last afternoon they crossed a long square with a statue at its centre.
 
@@ -242,7 +242,7 @@ She looked at him with wet, ancient eyes.
 
 The others walked on. Eli turned to say something to Jon, and Jon wasn't beside him.
 
-He was standing in front of the statue with his hands in his coat pockets, looking up at the stone face. He stayed there long enough that the old woman glanced up at him, long enough that Eli started to open his mouth.
+He was standing in front of the statue with his hands in his coat pockets, looking up at the stone face. He stayed there long enough that the old woman glanced up at him and Eli started to say his name.
 
 Then Jon turned round.
 
@@ -272,7 +272,7 @@ Jon didn't come. He had elves to see.
 
 ---
 
-They watched from the crater rim for a day. On the evening of the ninth, inquisitors in grey walked a line of chained figures across the black floor to the dwarven ship. Every one of them was starved thin and shackled wrist to wrist, and their eyes caught the station lights silver. They walked like people who had come a very long way and didn't expect it to end. At the ramp a dwarf in a good coat counted them, and an inquisitor counted the money.
+They watched from the crater rim for a day. On the evening of the ninth, inquisitors in grey walked a line of chained figures across the black floor to the dwarven ship. Every one of them was starved thin and shackled wrist to wrist, and their eyes caught the station lights silver. They walked with their heads down and didn't look at the ship. At the ramp a dwarf in a good coat counted them, and an inquisitor counted the money.
 
 Overhead, a human freighter blinked out of the sky above the crater, and the air over the black floor shuddered after it like water after a stone.
 
@@ -296,7 +296,7 @@ One, an old man with no teeth, stayed. He stood at the edge of the place where t
 
 "Someone's there," he said. "I know that shake. I made it once, from the other side. Someone's at the door."
 
-Eli couldn't feel souls; nobody had ever said he could. But he could feel the world a little now, and the air over the black floor was thin, like ice underfoot. It was bulging very slightly toward him, as a door bulges when someone on the other side has their whole weight against it.
+Eli couldn't feel souls; nobody had ever said he could. But he could feel the world a little now, and the air over the black floor was thin, and it was bulging very slightly toward him.
 
 "They've been at it a while," said Doc quietly. "Look how the floor's worn."
 
@@ -314,7 +314,7 @@ She was starved thin, in rags tied over rags, with a short curved knife in each 
 
 Then she turned and looked back across the black floor at Eli, kneeling with blood running out of his nose. Her eyes were silver.
 
-*Oh*, thought Eli, and was ashamed of it, and thought it again.
+*Oh*, thought Eli, and was ashamed of it.
 
 She walked back to him and looked at the blood on his lip and the place in the air behind him.
 
@@ -342,7 +342,7 @@ It took her four months to stop sleeping with a knife in her hand.
 
 Eli had been raised on the same stories as the archivist, and he unlearned them slowly. She ate fast and silently with her arm curled round her plate. She couldn't stand closed doors, or being thanked. She had trained on the road, she said, fifty years of it, with whoever would teach her, and paid for every lesson in ways she didn't describe.
 
-And she felt elves, always. Even out in the dark between stars there was a light at the edge of her: the homeworld, trillions of them, shining from across the galaxy like a lamp in a window she would never be let in through.
+And she felt elves, always. Even out in the dark between stars there was a light at the edge of her: the homeworld, trillions of them, shining from across the galaxy.
 
 "It never goes out," she said once, in the galley, not looking at him. "That's the worst thing they did. They let us keep that."
 
@@ -364,7 +364,7 @@ He went back down the corridor, whistling.
 
 ## Five: The Queen and the Giant
 
-The colony was on a desert world at the far end of nowhere, forgotten so long it had forgotten everyone else. An elven seedship had come down in the middle of its oldest myth, broken-backed in the dunes. The colonists took the elves for invaders, the elves took the colonists for vermin, and both had started killing. The dead were stacked in the dunes on either side of a dry riverbed.
+The colony was on a desert world at the far end of nowhere, cut off so long it had lost track of everyone else. An elven seedship had come down in the middle of its oldest myth, broken-backed in the dunes. The colonists took the elves for invaders, the elves took the colonists for vermin, and both had started killing. The dead were stacked in the dunes on either side of a dry riverbed.
 
 Jon had brought them there for water, he said. Eli put the ship down in the riverbed between the two camps and walked out alone under both sets of guns.
 
@@ -446,7 +446,7 @@ She sent the message. The reply came in eleven hours. Eli never saw it. He saw h
 
 After that she stopped calling him *the human*, or anything else. She sparred with him every day and put him on the deck as before. But she no longer walked away while he was getting up. She stood and watched until he was on his feet.
 
-They left the forge world the next morning. The giant had told them to go home, and they went.
+They left the forge world the next morning.
 
 ---
 
@@ -472,7 +472,7 @@ He opened his mouth and drove the chamber far past anything it was built to take
 
 ---
 
-From the surface it looked like a line drawn with a ruler. It went in at the forge-heart and the forge-heart was gone. Then the shipyards. Then the cradles, and the cathedral ships in them, buckling one after another. Then the crust came up in a ring and kept coming, a wave of red rock taller than mountains rolling out across the face of the world.
+From the surface it looked like a line drawn with a ruler. It went in at the forge-heart and the forge-heart was gone, and then the shipyards, and the cradles with the cathedral ships buckling in them one after another. Then the crust came up in a ring and kept coming, a wave of red rock taller than mountains rolling out across the face of the world.
 
 Afterwards the dragon's ship drifted dark in orbit. Its crew sat in their stations, cooked inside their scales. Its master hung in the cradle with his neck broken in three places and his eyes open.
 
@@ -484,7 +484,7 @@ Nobody spoke. The dark elf's hand was in his. Teo was crying without seeming to 
 
 Nobody answered. Jon stood at the back of the bridge, looking at the screen, with a cup of tea he hadn't touched.
 
-Within three days fleets came out of shipyards on worlds nobody had known the giants still held. There were hundreds of cathedral ships. Everyone had known the giants were dying out, and everyone had been wrong.
+Within three days fleets came out of shipyards on worlds nobody had known the giants still held. There were hundreds of cathedral ships.
 
 ---
 
@@ -584,7 +584,7 @@ Jon looked up. "We tire him out."
 
 The master stood up, slowly. He stood in the dark of the cabin with his bag at his feet, and Eli saw that he was going to pick it up and walk off the lander, here, the night before, and that nobody would stop him.
 
-"Your master," Jon said to him, gently. "He went up on his own. No crew. Nobody to make the man in the chair work for it." He looked up at the old man. "You've got a crew. You've got the boy you made. You don't have to go up alone. That's the only difference there is, and it's everything."
+"Your master," Jon said to him, gently. "He went up on his own. No crew. Nobody to make the man in the chair work for it." He looked up at the old man. "You've got a crew. You've got the boy you made. You don't have to go up alone. That's the difference."
 
 The master stood there a while longer. Then he sat down again and pushed the bag under his seat, and didn't speak for the rest of the night.
 
@@ -598,11 +598,9 @@ Earth was one city, edge to edge, and it was on fire.
 
 The Tower stood at its heart, pearl-white, so tall its top was lost, and the war broke round its base like surf. Giant ships hung in the upper air. Dragons burned lines through the clouds. The Legion's guns fired from every rooftop, and the sky over the capital was a ceiling of smoke and falling things.
 
-Jon flew them in. He stood at the lander's open door with the wind tearing at his coat and stepped out, and the rest of them came with him and fell no faster than he did. They fell through a mile of war. A cathedral ship broke in half directly overhead, its ribs coming apart, and Jon moved one hand, and the wreckage went past them on both sides close enough to touch. He didn't look up at it. He didn't speak the whole way down.
+Jon flew them in. He stood at the lander's open door with the wind tearing at his coat and stepped out, and the rest of them came with him and fell no faster than he did. They fell through a mile of war. A cathedral ship broke in half directly overhead, its ribs coming apart, and Jon moved one hand, and the wreckage went past them on both sides close enough to touch. He didn't look up at it, or speak the whole way down.
 
-They landed on a terrace two-thirds of the way up the Tower, where a door stood open.
-
-They went in.
+They landed on a terrace two-thirds of the way up the Tower, where a door stood open, and went in.
 
 One step inside, and the war was gone. Eli looked back through the open door and could see the sky burning, ships breaking, fire falling, all of it in perfect silence.
 
@@ -612,7 +610,7 @@ They were in a pale, seamless corridor that curved gently away. The light had no
 
 Eli reached without meaning to, as you put out a hand in the dark. He reached further than he ever had, with a hold so fine he could feel the threads in Teo's sleeve from across the corridor. He looked at his hands. They were the same hands.
 
-Doc laid his palm flat on the pale wall, held it there, and took it away.
+Doc laid his palm flat on the wall, held it there, and took it away.
 
 Jon walked on ahead without waiting for them.
 
@@ -624,7 +622,7 @@ The master solved them. He sat with his eyes shut in each room and felt out the 
 
 The third room he couldn't solve by touch.
 
-The ceiling was coming down, an inch a breath, a whole floor's weight of pale stone, and the way out was a slot at the far end that opened only while something held the ceiling up. The master felt for a trick and found none. There was only weight.
+The ceiling was coming down, an inch a breath, a whole floor's weight of stone, and the way out was a slot at the far end that opened only while something held the ceiling up. The master felt for a trick and found none. There was only weight.
 
 "Well," said the master. "That one's yours."
 
@@ -640,7 +638,7 @@ At the end of the corridor was a last room, round and white and empty, with a do
 
 It was hard to look at: a little like a man and a little like a spider and a little like a hole, with too many joints in the wrong order. It sat there as if it always had.
 
-"Visitors," it said, in a voice like a hinge in an empty house. "It's been so long." It unfolded slightly. "The man upstairs put me here. I came for him once. I built him a room just like this one and put him in it, and he walked in and smiled and told me he'd had this conversation thousands of times and had got very good at it." It made a sound that might have been laughter. "So now I'm the one in the room. Until a new foe comes in and loses."
+"Visitors," it said, in a dry, creaking voice. "It's been so long." It unfolded slightly. "The man upstairs put me here. I came for him once. I built him a room just like this one and put him in it, and he walked in and smiled and told me he'd had this conversation thousands of times and had got very good at it." It made a sound that might have been laughter. "So now I'm the one in the room. Until a new foe comes in and loses."
 
 "And if one does?" said the master.
 
@@ -694,11 +692,11 @@ He turned to Eli.
 
 He walked into the middle of the round white room, and the beast unfolded around him, and a wall closed between them and the rest.
 
-It was a pane, milky and smooth. Since nothing could leave that room, not even light, what it showed was the beast's own picture of the inside, painted on its outer face because it wanted them to watch. It showed the beast setting its game. It showed the master sitting down on the floor, cross-legged, as he had sat in the temple every morning, and closing his eyes.
+It was a pane, milky and smooth. Nothing could leave that room, not even light, so what showed on it was a picture the beast painted for them to watch. It showed the beast setting its game. It showed the master sitting down on the floor, cross-legged, as he had sat in the temple every morning, and closing his eyes.
 
 Then the picture began to fail.
 
-It failed from the middle outward, where the master was, and Eli never saw what the master did to himself. He saw the picture fray and pull, as if the hand painting it had begun to shake. At the rim the beast was stretching, its limbs reaching back for the walls of its own room, the room it had sworn three times would let nothing out. The edges of the picture curled in toward the centre like paper in a flame. The beast's mouths were open.
+It failed from the middle outward, where the master was, and Eli never saw what the master did to himself. He saw the picture fray and pull, as if the hand painting it had begun to shake. At the rim the beast was stretching, its limbs reaching back for the walls of its own room. The edges of the picture curled in toward the centre like paper in a flame. The beast's mouths were open.
 
 The pane went black.
 
@@ -708,7 +706,7 @@ When it cleared, the round white room was empty, and the door on the far side st
 
 Somewhere far above them the whole Tower shuddered once, and the light dimmed and came back.
 
-Eli stood in the doorway. He counted without wanting to. The master. Teo. The Queen. Doc. Her. He had found every one of them. He had gone back for the master with a cheap trick, and the master had come.
+Eli stood in the doorway. He had gone back for the master with a cheap trick, and the master had come.
 
 The Queen stopped beside him on her way to the door.
 
@@ -724,9 +722,9 @@ The throne room was enormous and almost empty.
 
 The ceiling was lost in shadow. A great curved window ran the whole height of one wall, and through it the war turned in silence over Earth. At the far end, on a dais, there was a chair, and a man sitting in it.
 
-He was older than Eli had let himself expect: lean, grey at the temples, plainly dressed, with an intelligent, tired, unremarkable face. Eli had never seen his father's face. Nobody had. He knew it anyway, all at once, like a missing step in the dark.
+He was older than Eli had let himself expect: lean, grey at the temples, plainly dressed, with an intelligent, tired, unremarkable face. Eli had never seen his father's face. Nobody had. He knew it anyway.
 
-Beside the chair stood a younger man in black armour with a pale ribbed sword at his hip, watching them come with frightened hate.
+Beside the chair stood a younger man in black armour with a ribbed sword at his hip, watching them come with frightened hate.
 
 "Jon," said the man in the chair.
 
@@ -744,7 +742,7 @@ Across the room Teo's head jerked back, as if a great palm had cupped his face, 
 
 Eli reached for him.
 
-It went out of him like a shout, everything he had and everything the Tower would give. The dark elf's arms locked round him from behind and dragged him back, and Jon's hand came down on his shoulder, lightly, and the reach spilled out of him across the floor between them and the dais. It scored a long gouge in the pale stone that stopped six feet short of the chair.
+It went out of him like a shout, everything he had and everything the Tower would give. The dark elf's arms locked round him from behind and dragged him back, and Jon's hand came down on his shoulder, lightly, and the reach spilled out of him across the floor between them and the dais. It scored a long gouge in the stone that stopped six feet short of the chair.
 
 Derrek didn't look at the gouge. He looked at Jon.
 
@@ -762,7 +760,7 @@ The sheath slid off it like skin. The blade underneath was pale and alive, a lon
 
 The apprentice came down off the dais.
 
-He was human, young, broad and scarred, built as if he'd been bred for it, and his eyes were red-rimmed and wet. He drew his pale sword and came across the floor at her like a falling wall.
+He was human, young, broad and scarred, built as if he'd been bred for it, and his eyes were red-rimmed and wet. He drew his sword and came across the floor at her like a falling wall.
 
 She met him.
 
@@ -778,7 +776,7 @@ He reached down. Into the floor, into the walls, into the Tower itself, deeper t
 
 The apprentice began to shine. Light came up through his skin, and his blade blazed white. He moved faster than she did, faster than anything Eli had seen, and he struck, and she caught it.
 
-She caught every blow. He hit her with the whole city behind him, again and again, and every time her blade was there, and every time something in her gave. A wrist. A forearm. The long bones of her arms, one after another. She didn't cry out. Her arms bent where arms don't bend and she kept blocking with them, giving ground a step at a time, straight back, until her heels were at the foot of the dais.
+She caught every blow. He hit her with the whole city behind him, again and again, and every time her blade was there, and every time something in her gave: a wrist, a forearm, the long bones of her arms one after another. She didn't cry out. Her arms bent where arms don't bend and she kept blocking with them, giving ground a step at a time, straight back, until her heels were at the foot of the dais.
 
 Then the light around the apprentice turned to fire, and the blows came through.
 
@@ -810,7 +808,7 @@ Nobody saw her go; that was the point of her. One moment her arms were round him
 
 She closed her hand.
 
-The space around Derrek folded inward, all of it at once: the air, the light, the chair, the dais. The stone of the floor ran toward him like water toward a drain. In the Tower, with the whole dead city behind her, it had him. His sleeve went first, and then the skin of his forearm, pulled toward a point in front of his chest.
+The space around Derrek folded inward, all of it at once: the air, the light, the chair, the dais. The stone of the floor ran toward him like water toward a drain. In the Tower, it had him. His sleeve went first, and then the skin of his forearm, pulled toward a point in front of his chest.
 
 Derrek stood up.
 
@@ -836,7 +834,7 @@ He walked out into the middle of the floor, past the Queen and the black thing t
 
 He opened his arms.
 
-Eli saw nothing come out of him. There was no light and no shape. There was weight: a pressure that came off the little man and leaned on Eli's chest from across the room, like deep water, more and more of it, as if a crowd were pushing out through a door too small for them. The air round Doc wavered like air over a summer road. The floor under him scored in long lines toward the dais, and on the other side of the room Derrek took a step back.
+Eli saw nothing come out of him. There was no light and no shape. There was weight: a pressure that came off the little man and leaned on Eli's chest from across the room, more and more of it, as if a crowd were pushing out through a door too small for them. The air round Doc wavered like air over a summer road. The floor under him scored in long lines toward the dais, and on the other side of the room Derrek took a step back.
 
 Derrek put up his good hand. Then his ruined one as well.
 
@@ -864,7 +862,7 @@ His face went slack and easy, like a man falling asleep.
 
 Then he was dust, and the dust lay on the pale floor in the shape of a small round man sitting down, and then even that slid apart.
 
-Jon was watching the dust, his face still. One eye was wet. A single tear ran down beside his nose, and he didn't wipe it.
+Jon was watching the dust. A single tear ran down beside his nose, and he didn't wipe it.
 
 "Jon," said Derrek.
 
@@ -878,21 +876,21 @@ Derrek stood swaying on the edge of the dais, slack-mouthed, bleeding from his n
 
 Eli went first.
 
-He was up off the floor and running across the long pale room before he knew he would, and he reached with everything the master had taught him and everything the Tower would give, more than the ceiling, more than the dragon's heart. He went for the man on the dais. His father.
+He was up off the floor and running across the long room before he knew he would, and he reached with everything the master had taught him and everything the Tower would give, more than the ceiling, more than the dragon's heart. He went for the man on the dais. His father.
 
-It hit Derrek in the chest like a battering ram and took him off his feet and back three steps, and the dais cracked end to end under his heels. Derrek's bloodied face showed what might have been surprise.
+It hit Derrek in the chest and took him off his feet and back three steps, and the dais cracked end to end under his heels. Derrek's bloodied face showed what might have been surprise.
 
 Then he flicked his good hand, and Eli was on the floor fifty feet away with his ribs broken and his reach gone out of him like breath. He couldn't get up.
 
 Derrek still hadn't looked at him.
 
-Jon walked past Eli without looking down.
+Jon walked past him.
 
 They fought. Eli saw three things and nothing in between. He saw the great window star from top to bottom and hold. He saw Jon standing perfectly still in the centre of the floor with his eyes shut while the far wall of the throne room came apart around Derrek and put itself back together. He saw Derrek fall to one knee, get up, and fall again.
 
 At the end of it Derrek was on his knees and stayed there.
 
-Jon stood over him, breathing hard. Then he did something with both hands, carefully, like a man tying a difficult knot, and Derrek's arms went behind his back and stayed there, held by nothing Eli could see. His head went back, and he stopped fighting it.
+Jon stood over him, breathing hard. Then he did something careful with both hands, and Derrek's arms went behind his back and stayed there, held by nothing Eli could see. His head went back, and he stopped fighting it.
 
 He was alive. Tired men can be held, Jon had said.
 
