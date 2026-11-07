@@ -322,7 +322,7 @@ She walked back to him. She looked at the blood on his lip and the place in the 
 
 "Someone was pushing."
 
-She looked at him with plain contempt, as if he were the stupidest thing she had ever seen come out of the dark.
+She looked at him with plain contempt, as if he were the stupidest thing she had ever seen.
 
 "There were thirty of us when we started," she said. "No one escapes alone. That's what they say, down there." She looked at the closed air. "I was a child."
 
@@ -341,6 +341,8 @@ He had been raised on the same stories as the archivist. He had to unlearn them 
 And she felt elves. Always. Even out here, in the dark between stars, there was a light at the edge of her: the homeworld, trillions of them, shining at her from across the galaxy like a lamp in a window she would never be let in through. She could not stop feeling it. She could not stop feeling the people who had sold her.
 
 "It never goes out," she said once, in the galley, not looking at him. "That's the worst thing they did. They let us keep that."
+
+Another time Teo called her a dark elf, without thinking, the way the archivist had. She didn't look up from her plate. "There's a sun down there," she said. "It's a world, like any of these. They named it hell, and then they named us after it." Teo didn't use the word again. Eli found he had stopped using it some time ago, and couldn't say when.
 
 Once, late, Eli came down the corridor and found her alone in the hold, practising. She stood in the middle of the empty deck with one hand raised, fingers slightly curled, and closed them, slowly, and the air in front of her folded in on itself with a small, flat sound like a book being shut. A cargo strap a yard away went into it, and was not there any more.
 
@@ -366,9 +368,9 @@ It took nine days. The palace had taught him this much: he was very good at it. 
 
 On the twelfth day an elven ship came down out of the sky, and a woman walked down its ramp.
 
-She was taller than any elf he'd met, armoured, young-looking in the way that meant nothing with elves. Her sword hung at her hip in a sheath of something pale and faintly ribbed that shifted against her leg when she moved, like a sleeping animal. The elves of the seedship went down on one knee as she passed.
+She was taller than any elf he'd met, armoured, young-looking in the way that meant nothing with elves. Her sword hung at her hip in a sheath of something pale and faintly ribbed that shifted against her leg when she moved, like a sleeping animal. The elves of the seedship stood straighter as she passed, and stopped talking.
 
-"They call her the Queen," Jon said quietly beside him. "Not his wife. His first blade. It's a title they give the best one."
+"They call her the Queen," Jon said quietly beside him. "It's a game piece, not a crown. The strongest one on the board."
 
 She stopped in front of Eli and looked at his face, his clothes and his hands, and her mouth curled very slightly.
 
@@ -392,7 +394,7 @@ The Queen was a better fighter than Eli in every way that could be measured, and
 
 The giant lived on a forge world. Eli wanted to see him, and that time it was Eli's idea.
 
-The war Eli meant to finish would need ships, and the giants built ships. Everyone knew they were dying out. Everyone had always known it. They built the cathedral ships for the dragons and sold them and kept to themselves, and there were fewer of them every century. But Jon said there was one left who would still talk to a human, and Eli wanted to ask.
+The war Eli meant to finish would need ships, and the giants built ships. Everyone knew they were dying out. Everyone had always known it. They built the cathedral ships for the dragons and sold them and kept to themselves, and there were fewer of them every century. But Jon knew one who would talk to a human, and Eli wanted to ask.
 
 It was a world of black rock and red sky and enormous shipyards. From orbit you could see a dozen cathedral ships in their cradles, each the length of a city, ribbed and pale and half-made, like the skeletons of whales.
 
@@ -402,7 +404,7 @@ The giant met them in a hall so large it had its own weather. Sitting, he was th
 
 "Hello, old friend."
 
-"I am not your friend," said the giant. "But I am friendly. As far as I know, I am the last of us who is." He looked down at the rest of them. "Sit, little ones."
+"I am not your friend," said the giant. "But I am friendly." He looked down at the rest of them. "Sit, little ones."
 
 Eli didn't sit. He told the giant what he wanted: passage, and a ship, and the giants' quarrel with the dragons pointed at the one man who sat above all of them. The giant listened in silence. When Eli was done, he said, "And why would I lend a ship to a human?"
 
@@ -510,7 +512,7 @@ Doc fought when they had to fight, and fought badly. He was slow and short-winde
 
 They went through hell once, on a human transit hull, because it was the only way across.
 
-The moment the hull dropped through, the dark elf went rigid. Out among the stars the homeworld had always shone at the edge of her, a lamp in a window. In hell there was no window. The bond cut like a severed nerve, and in its place was a noise, an enormous angry pressure of hundreds of millions of her own kind in the dark outside the hull, everyone she had escaped, pressing on her from every side.
+The moment the hull dropped through, the dark elf went rigid. Out among the stars the homeworld had always shone at the edge of her, a lamp in a window. In hell there was no window. The bond cut like a severed nerve, and in its place was a noise, an enormous angry pressure of hundreds of millions of her own kind on the world outside the hull, everyone she had escaped, pressing on her from every side.
 
 She sat with her back against the bulkhead and her eyes shut and held his hand. Over the eleven hours of the crossing she broke two of his fingers, one at a time. He didn't make a sound. He didn't take his hand away.
 
@@ -714,22 +716,6 @@ The Queen stopped beside him on her way to the door.
 
 The stair beyond the door wound up through the heart of the Tower. There were rooms along it, half seen through arches. A hall of ancient weapons, every one of them grown, pale and ribbed. A hall hung with banners from wars nobody had written down.
 
-In one alcove, on a plinth, there was a cage.
-
-It was small and beautifully made, gold wire as fine as hair. Inside it, in a crystal vase, there was a single white rose, in full bloom, its leaves fresh. It was missing one petal.
-
-Jon stopped in front of it.
-
-He looked at it for a while with his head on one side.
-
-"Hm," he said. "This time it seems more full."
-
-Teo was beside him. Teo always asked. "This time?" he said. "You've been here before?"
-
-Jon walked on up the stair.
-
-"Not for a long time," he said.
-
 ---
 
 The throne room was enormous and almost empty.
@@ -737,8 +723,6 @@ The throne room was enormous and almost empty.
 The ceiling was lost in shadow. Along one side ran a great curved window the whole height of the room, and through it the war turned in silence over Earth. At the far end, on a dais, there was a chair, and a man sitting in it.
 
 He was older than Eli had let himself expect: lean, grey at the temples, plainly dressed, with a face that was intelligent and tired and unremarkable. Eli had never seen his father's face. Nobody had. He knew it anyway, all at once, the way you know a step is missing in the dark.
-
-The man's left hand lay on the arm of the chair, closed. Not resting. Closed hard, the knuckles white, the way a man holds a door shut against wind. A line of blood had dried under his nose. The floor near the foot of the stair they had come up was cracked in fine lines, all of them running the same way.
 
 Beside the chair stood a younger man in black armour with a pale ribbed sword at his hip, watching them come with an expression of pure, frightened hate.
 
@@ -752,11 +736,9 @@ Teo had gone ahead of them all. He always went first through doors; it was what 
 
 "—the Emperor," said Derrek, at the same moment, in the same rhythm, word for word, flat, still looking at Jon.
 
-He lifted his right hand a little, without looking, and closed it.
+He lifted a hand a little, without looking, and closed it.
 
 Across the room Teo's head jerked back, as if a great palm had cupped his face, fingers over his eyes and mouth, and lifted him off the floor. One short wet sound. Derrek opened his hand. Teo dropped and didn't move.
-
-But the left hand had slipped. For an instant, as the right hand closed, the left had loosened on the arm of the chair, and the floor jumped under all of them, and the cracks at the stair-foot ran a yard further, and fresh blood came out of Derrek's nose. He closed the left hand again, slowly, with visible effort, and wiped his lip with the back of the right.
 
 Eli reached for him.
 
@@ -786,11 +768,11 @@ Eli had sparred with her every day for more than a year. He had thought he knew 
 
 The apprentice looked back at the dais.
 
-Derrek was yawning. He had his head resting on his right hand, and he was looking out of the great window at the burning sky, and he wasn't watching. His left hand stayed closed on the arm of the chair.
+Derrek was yawning. He had his head resting on his right hand, and he was looking out of the great window at the burning sky,, and he wasn't watching.
 
 Something happened to the apprentice's face.
 
-He reached. Not outward, the way you reach for a thing. Down. Into the floor, into the walls, into the Tower itself, deep, far deeper than anyone had told him was safe. The lights along the walls dimmed all at once. The floor shivered. And on the dais Derrek's head came up off his hand, sharp, and his left fist clenched so hard the arm of the chair cracked under it, because whatever the apprentice was pulling up out of the Tower's walls, he was pulling it out from under his master.
+He reached. Not outward, the way you reach for a thing. Down. Into the floor, into the walls, into the Tower itself, deep, far deeper than anyone had told him was safe. The lights along the walls dimmed all at once. The floor shivered. And on the dais Derrek's head came up off his hand, sharp, because whatever the apprentice was pulling up out of the Tower's walls, he was pulling it out from under his master.
 
 The apprentice began to shine. Light came up through his skin as if he were a lantern someone had lit from inside. His blade blazed white. He moved, and he was faster than she was, faster than anything, and he struck, and she caught it.
 
@@ -802,7 +784,7 @@ They came one after another, a long burning series of them, and she took each on
 
 The living blade left her hands like something let off a leash, and went up the steps of the dais at the man in the chair.
 
-Derrek caught it. He had to let go with his left hand to do it, and he caught it by the blade, and it bit him, flexing in his grip like an eel, and opened his palm to the bone before he crushed it. The floor jumped again. The cracks from the stair-foot raced halfway across the room. Derrek closed his bleeding left hand back onto the arm of the chair, and held it there, and now he was breathing through his mouth.
+Derrek caught it. He caught it by the blade, and it bit him, flexing in his grip like an eel, and opened his palm to the bone before he crushed it. He let the pieces fall, and now he was breathing through his mouth.
 
 She was dead before the blade stopped moving.
 
@@ -817,10 +799,6 @@ Derrek looked at him.
 The apprentice didn't hear it. He was already screaming. The fire wasn't around him now. It was in him, coming out through his skin and his mouth and his eyes and the joints of his armour. He had pulled too much of the Tower through too little of himself. He burned out the way the boy at the rift had, but faster and worse, from the inside, all at once. The scream went on and on. Then there was a shape on the floor, black and smoking and very small.
 
 Derrek looked round the room, at each of them in turn, as if waiting for someone to have heard what he'd said. Nobody had. He sighed, a short irritated breath through his nose.
-
-Then, with a long slow effort, like a man lifting something at the end of a long day, he closed his left hand all the way.
-
-Far below them something went quiet. The lights steadied. The cracks in the floor stopped running.
 
 Derrek sat back in his chair and yawned again, and covered his mouth politely with his bleeding hand. The hand was shaking. He looked at it, as if it belonged to somebody else, and put it in his lap.
 
@@ -858,7 +836,7 @@ He walked out into the middle of the floor, past the Queen and the black thing t
 
 He opened his arms.
 
-Nothing came out of him that Eli could see. That was the worst of it. There was no light and no shape. There was only the air around Doc, bending, the way air bends over a road in summer, and the floor under him scoring in long lines toward the dais, and Derrek, on the other side of the room, taking a step back.
+Nothing came out of him that Eli could see. That was the worst of it. There was no light and no shape. There was only weight: a pressure that poured off the little man and leaned on Eli's chest from across the room, the way deep water leans, more and more of it, as if a crowd were pushing out through a door too small for them. The air around Doc bent the way air bends over a road in summer, and the floor under him scored in long lines toward the dais, and Derrek, on the other side of the room, took a step back.
 
 Derrek put up his good hand. Then, after a moment, his ruined one as well.
 
@@ -874,7 +852,7 @@ Doc was smaller. His face was sinking. His skin was going loose, like fruit left
 
 "And last," said Doc, and his voice had gone thin and old. "My brother."
 
-The air in front of Doc went still for a moment. Just for a moment, nothing at all moved there, as if something had stopped on its way out and turned to look back at him. Doc looked at it. Then the air bent once more and flung, and Derrek, staggering, swept it aside with the back of his ruined hand.
+The weight went out of the room for a moment. Just for a moment, nothing pressed at all, as if something had stopped on its way out and turned back toward him. Doc looked at the empty air. Then the pressure came once more, all of it, and flung, and Derrek, staggering, swept it aside with the back of his ruined hand.
 
 Doc sat down.
 
@@ -987,9 +965,10 @@ Neither of them turned.
 - **POV:** close third on Eli, plus one dragon section (ch 6). Patrick's two inner lines (Derrek's "one-liners" sigh, t768; Doc "found it peaceful", t774) are rendered as things Eli can see. **Flag for Patrick:** keep them observable, or restore his words as deliberate wry breaks in POV.
 - **No force-type words in narration** (wk W01–W06; BRIEF World). "Lirael's Collapse" is the in-world name (t390).
 - **Soul-sensing:** Eli never senses a soul. He feels matter: the guns, the thin place bulging, the dragon's heart (the inner sense, wk W03). Soul-aware characters are the two elves (the bond: beacon at range, full up close; BANK 11-01 L9), the master once with Doc (master-level, wk W07), the apprentice (t768), Doc, Derrek and Jon. *(Corrects v1's ledger, which wrongly claimed nobody untrained senses souls while Eli sensed a woman's fury.)*
-- **Time travel is hinted only through exactly four things** (BANK 11-01 UPSTREAM time travel, showing it; BRIEF): rifts as ground sites (ch 2, ch 9); the elves' unnamed grief (ch 3); Derrek's foreknowledge (the unison line, ch 7, plus the beast's canon account of his rehearsals, t134–t136); and the rose beat (ch 7). Jon's late-run memory shows only as knowing (the trade date, his "I knew you would", the master's master), never as stated time travel (BANK 11-07 NP#3). Cut from v1: "last time I do this", "Doesn't time fly", "Whatever you are", "a page he's read before", "I know how you love that one", "a word said too many times", "I had it framed", "at peace", "waited for it".
+- **Time travel is hinted only through exactly three things** (BANK 11-01 UPSTREAM time travel, showing it; BANK 11-07 Lirael's fragments; BRIEF): rifts as ground sites (ch 2, ch 9); the elves' unnamed grief (ch 3); Derrek's foreknowledge (the unison line, ch 7, plus the beast's canon account of his rehearsals, t134–t136). The rose beat is cut (BANK 11-07). Jon's late-run memory shows only as knowing (the trade date, his "I knew you would", the master's master), never as stated time travel (BANK 11-07 NP#3). Cut from v1: "last time I do this", "Doesn't time fly", "Whatever you are", "a page he's read before", "I know how you love that one", "a word said too many times", "I had it framed", "at peace", "waited for it".
 - **The Blight is never named** (BANK 11-01 L12 follow-up). It's shown only as "the ground opening" at the old wounds. No colour or form is chosen.
 - **No skin colour for anyone** (attack_lore BREAK 2). Dark elves are marked by gauntness, shackles and silver eyes.
+- **"Dark elf" is the elves' own cruel label** for those sentenced to the prison and their descendants, not an accurate name: an elf born anywhere is just an elf, bond included (BANK 11-07 fight-log answers 1). The narration keeps "the dark elf" as her working tag (she has no name on the page); the label's cruelty is registered once, by her (ch 4). **"Hell" is a normal world like ours** that the elves just call hell (BANK 11-07, 2); bleak by elven design, never supernaturally dark.
 - **No "would remember" tags from ch 7 on**, and none earlier either.
 - **The narrator never interprets Jon.** Only his actions, words, timing and where he looks.
 
@@ -1001,22 +980,24 @@ Neither of them turned.
 ## Ch 2: The Master
 - **Canon used:** the faceless Emperor and his god's shrines (t364, t488). The public calls Remnant a "battery", in dialogue only (BANK 11-02 public understanding). A rift as a ground site where Remnant leaks, war never stops and the powerful gather (BANK 11-01 showing time travel #1). Remnant wells (BANK 11-02 tech 2). Amplifier rigs and burnout as the soldier's death; the body goes and Remnant is untouched (BANK 11-02 tech 4; BANK 10-31 NP#2). The three dials and inner sense (wk W03). The son learns from the master and convinces him to journey with him (t756); the master "rejoins" (t332), so here he refuses first and is recruited later (ch 6).
 - **Invented:** the warrant beat (Eli works out that Jon's argument for the kill was empty, and stays); **Eli's stated goal: take the chair from his father** (fixes attack_logic #2); the dock-boss knee; the salvage hull (no alien life; v1's water-world fish is gone); the rift world and the shelled temple; the burned-out boy; the master's training; **the master's stake: his own master went up to the Tower and never came back**.
-- **Unsure:** **rifts off Earth.** WORLD_OVERVIEW says "another rift has appeared every time time has been torn open", so I keep one on a colony world, but where rifts form isn't ruled (attack_lore 31). The master's identity and how he's convinced are open (t781); mine is a placeholder.
+- **Rifts off Earth are canon:** rifts form wherever Jon has jumped (BANK 11-07 fight-log answers 3), so the colony-world rift stands.
+- **Unsure:** the master's identity and how he's convinced are open (t781); mine is a placeholder.
 
 ## Ch 3: The Healer and the Statue
-- **Canon used:** the changeling hidden as a cheerful gnome (BRIEF Crew). His healer method is **backstory only**: the village shaman whose people brought their sick, and "I wasn't able to save your loved one" (BANK 11-01 L24). In Book 1's present he heals honestly. The line is planted as an innocent remark here and revealed in the Tower. Changelings are a threat nobody guards against (BANK 11-01 changeling paranoia). Gnomes indentured to dwarves (WORLD_OVERVIEW, Dwarves). Selling a being is possible, selling a soul isn't (BANK 11-02 money). **Trolls sit between goblin and orc**: a head taller than Doc, a head short of a man's shoulder (BANK 11-01 trolls). The elven city first (t396). Lirael's statue, and Jon lingers a moment too long (t392–t396). Lirael is Mika's sister (wk W45). Elves authoritarian and harsh (WORLD_OVERVIEW, Elves; t454). Mika fully in control; Jon an outsider with some favor (BANK 11-01 W44/t550, L10). Elves grieve people no one can name (BANK 11-01 showing time travel #2). Dark elves told of as evil, from hell (t394; BANK 11-01 NP#5).
+- **Canon used:** the changeling hidden as a cheerful gnome (BRIEF Crew). His healer method is **backstory only**: the village shaman whose people brought their sick, and "I wasn't able to save your loved one" (BANK 11-01 L24). In Book 1's present he heals honestly. The line is planted as an innocent remark here and revealed in the Tower. Changelings are a threat nobody guards against (BANK 11-01 changeling paranoia). Gnomes indentured to dwarves (WORLD_OVERVIEW, Dwarves). Selling a being is possible, selling a soul isn't (BANK 11-02 money). **Trolls sit between goblin and orc**: a head taller than Doc, a head short of a man's shoulder (BANK 11-01 trolls). The elven city first (t396). Lirael's statue, and Jon lingers a moment too long (t392–t396). Lirael is Mika's sister (wk W45). Elves authoritarian and harsh (WORLD_OVERVIEW, Elves; t454). Mika fully in control; Jon an outsider with some favor (BANK 11-01 W44/t550, L10). Elves grieve people no one can name (BANK 11-01 showing time travel #2). Dark elves told of as evil, from hell (t394; BANK 11-01 NP#5), the archivist's account being elven propaganda (BANK 11-07, 1).
 - **Invented:** Eli choosing Doc against Teo's unease, buying the contract and burning it; "Where would I go?"; the stolen troll stick; the honest clinic scene; the day-pass token; the elf with his mouth wired shut; elves moving "like water through a channel" (collective ease in place of v1's child-falling image, which read as individual tracking, wk W08); the old woman at the statue.
 - **Unsure:** whether "Back home I was the healer for a whole village" is too strong a plant.
 
 ## Ch 4: The Door
 - **Canon used:** the weak place between hell and our world (t382, t608–t610). She's at the end of a long escape: "no one escapes alone", and **"he only opens the door"** (t758). Jon set it up (t610), here only as an offhand mention of the dwarves' buying day. The "*oh*" moment (t398). Bigotry corrected through contact (t394–t398). Human FTL through hell, shown once (BANK 11-01 NP#5). Elves cross by shrinking a dimension and lose the bond in transit (BRIEF World; WORLD_OVERVIEW). Dwarves squeeze dimensions (WORLD_OVERVIEW). The Inquisition sells dark elves through dwarven traffickers to rich humans (WORLD_OVERVIEW, Elves; wk W68). The stolen Returned† ship (wk W65 🟡; the people's name is a codex placeholder, `07`). She feels the homeworld beacon at any range (BANK 11-01 L9). Lirael's Collapse learned as homage (t612; chat t305). Her escape could take 50–200 years (t610).
-- **Invented:** the dead moon; Eli's choice to go (the buyers are his Empire); the toothless old man who notices the door; Eli prying it open by feel; Doc fighting badly with the stick; "When you've earned it"; leaving the dwarf with no water (Eli's call); her training on the road; the Collapse practised alone in the hold (moved from v1's love scene per attack_craft #9).
+- **Invented:** the dead moon; Eli's choice to go (the buyers are his Empire); the toothless old man who notices the door; Eli prying it open by feel; Doc fighting badly with the stick; "When you've earned it"; leaving the dwarf with no water (Eli's call); her training on the road; the Collapse practised alone in the hold (moved from v1's love scene per attack_craft #9); her one line on the label ("They named it hell, and then they named us after it"), registering its cruelty without a lecture (BANK 11-07, 1–2).
 - **Judge fix:** the freed old man no longer senses who is behind the door. The bond works inside each world but not between them (WORLD_OVERVIEW, Elves), so he now reads a visible tremor in the air from his own escape.
-- **Unsure:** whether the human drop zone and the elves' door should be one place (leans on NP#5). **Whether hell-born dark elves share the bond with the homeworld** is unruled; I assume they do (attack_logic #9, a new open question).
+- **Ruled:** hell-born elves are just elves and share the bond (BANK 11-07, 1); the bond still doesn't cross between worlds, so in the prison world she feels only the elves there (ch 6).
+- **Unsure:** whether the human drop zone and the elves' door should be one place (leans on NP#5).
 
 ## Ch 5: The Queen and the Giant
-- **Canon used:** the queen joins at a forgotten desert colony with a crashed seedship, where the son negotiates (wk W65 🟡; jul23 t182–t190). **Jon nudged Mika to send her (wk W65), but she comes through Mika's own interest**: the elves are sworn to kill the human Emperor (t532; WORLD_OVERVIEW, far future). She's the rival, disdainful of humans (t764; t454). She's a nameless pawn (chat t201). Her living blade (BANK 11-01 L11, flesh weapons ✅). The bond up close: elves feel each other (BANK 11-01 L9). The last friendly giant tells of the giant empire (t334). Giants build cathedral ships; "dying out" is a false belief (WORLD_OVERVIEW, Giants). Betrayal day: the advisor dragon's breath, and the emperor converging his city as a shield (BANK 11-01 L7). The souls are still in the walls, run together (BANK 11-01 L7 follow-up).
-- **Invented:** Eli handing over the colonist boy; **"the Queen" as the title of Mika's first blade** (the codex never explains the title; placeholder); her opening speech; the constant bond-pressure between the two elves; **Eli revealing himself to the giant to bargain for ships**; the giant's refusal; **the Queen's attack and Mika's reply, "Continue"**; Jon reeling her back.
+- **Canon used:** the queen joins at a forgotten desert colony with a crashed seedship, where the son negotiates (wk W65 🟡; jul23 t182–t190). **Jon nudged Mika to send her (wk W65), but she comes through Mika's own interest**: the elves are sworn to kill the human Emperor (t532; WORLD_OVERVIEW, far future). She's **Eli's** rival through the story, not Jon's, disdainful of humans (t764; t454; BANK 11-07, 7). She's nameless (chat t201); the "pawn" is Eli, the son (chat t201; BANK 11-07, 6). Her living blade (BANK 11-01 L11, flesh weapons ✅). The bond up close: elves feel each other (BANK 11-01 L9). A friendly giant tells of the giant empire (t334); "the last friendly giant" is retired as a special figure, since giants exist widely and some are simply friendly (BANK 11-07, 4). Giants build cathedral ships; "dying out" is a false belief (WORLD_OVERVIEW, Giants). Betrayal day: the advisor dragon's breath, and the emperor converging his city as a shield (BANK 11-01 L7). The souls are still in the walls, run together (BANK 11-01 L7 follow-up).
+- **Invented:** Eli handing over the colonist boy; **"the Queen" as a chess name, not royalty**: Eli the pawn, the dark elf the bishop, the queen the strongest elven piece (BANK 11-07, 6); on the page only Jon's "a game piece, not a crown", and no kneeling or royal rank; her opening speech; the constant bond-pressure between the two elves; **Eli revealing himself to the giant to bargain for ships**; the giant's refusal; **the Queen's attack and Mika's reply, "Continue"**; Jon reeling her back.
 - **Unsure:** W65's seedship detail is compressed. The giant's fate is left off the page on purpose (t334; R-J23).
 
 ## Ch 6: The Strike
@@ -1025,14 +1006,15 @@ Neither of them turned.
 - **Unsure:** whether the moon fight's dragon should be named as a lord's son.
 
 ## Ch 7: The Tower
-- **Canon used:** the run to the Tower led by Jon (t362). **Jon cold in his true form from the Tower entry** (wk W49). Silence inside while war rages (t424). The Void laid over real rooms, with puzzles and the beast at the end (t430). Derrek trapped the beast by rehearsing the encounter thousands of times, and it's bound until a new foe loses (t134–t136). Everyone at peak in the Tower (BANK 11-01 L8). The master's triple oath, "do you swear this room will not allow any energy to leave?" (13, the bones of the scene). **A black hole, not a blast** (t432, Patrick: "remove the supernova… becoming black hole"). The body only, his death is the body destroyed, and Remnant is never spent (BRIEF; BANK 10-31 NP#2; BANK 11-01 L34). **The pane is the beast's own display** of its interior, so nothing actually leaves the room (13 spectator device; NP #86). The rose in a cage missing a petal, with Patrick's lines verbatim (BANK 11-01 Lirael's fragments, a **"maybe"** beat; now consistent with BANK 11-07, Jon remembers late in the run). Derrek knows impossible things (BANK 11-01 showing time travel #3), shown once, as the unison line. The friend killed by a face-grab as they enter the throne room (t202, t762). The son has never seen the faceless Emperor (t364).
-- **Invented:** the ceiling room that needs Eli's raw strength; "Can you do it?" / "Yes. And then I'd have nothing left for upstairs."; the master's "Then nothing reaches them. And nothing gets out. Including you."; **the display failing as the beast is drawn in** (the master's body is never shown folding); the Tower's single shudder; Eli counting the crew; **Derrek's left hand holding something closed** (the after-effect of the master's act) and slipping when he kills Teo (my device to make the master's and Teo's deaths cost Derrek); Eli's reach at Teo's death leaving a gouge; "You brought children."
-- **Unsure:** **the held-closed hand is a 🌊 device of mine, left unexplained on the page.** *Judge:* it must NOT mean the master's point leaked out of the beast's room. That would break the triple oath and "nothing leaves the room" (BRIEF; 13), the severed-domain rule (02 Law 7c), and "gravity succeeds first" (t434). Read it only as Derrek paying for the Void's end, cause unstated. It's the riskiest invention in the draft. Patrick may prefer the cost to show some other way. The beast's fate is open (t433). The rose beat is a "maybe".
+- **Canon used:** the run to the Tower led by Jon (t362). **Jon cold in his true form from the Tower entry** (wk W49). Silence inside while war rages (t424). The Void laid over real rooms, with puzzles and the beast at the end (t430). Derrek trapped the beast by rehearsing the encounter thousands of times, and it's bound until a new foe loses (t134–t136). Everyone at peak in the Tower (BANK 11-01 L8). The master's triple oath, "do you swear this room will not allow any energy to leave?" (13, the bones of the scene). **A black hole, not a blast** (t432, Patrick: "remove the supernova… becoming black hole"). The body only, his death is the body destroyed, and Remnant is never spent (BRIEF; BANK 10-31 NP#2; BANK 11-01 L34). **The pane is the beast's own display** of its interior, so nothing actually leaves the room (13 spectator device; NP #86). **The rose beat is cut**, and with it every hint that Derrek gathers Lirael's soul: W46 is retired, since vague specks of Remnant long since swirled back into the world can't be found (BANK 11-07 Lirael's fragments). Lirael stays only as the statue, Jon's pause and her Collapse. Derrek knows impossible things (BANK 11-01 showing time travel #3), shown once, as the unison line. The friend killed by a face-grab as they enter the throne room (t202, t762). The son has never seen the faceless Emperor (t364).
+- **Invented:** the ceiling room that needs Eli's raw strength; "Can you do it?" / "Yes. And then I'd have nothing left for upstairs."; the master's "Then nothing reaches them. And nothing gets out. Including you."; **the display failing as the beast is drawn in** (the master's body is never shown folding); the Tower's single shudder; Eli counting the crew; Eli's reach at Teo's death leaving a gouge; "You brought children."
+- **Cut: the held-closed hand** (BANK 11-07 Derrek's hand). The master's sacrifice stands on its own: the rule-beast would have killed them one by one, and the cost to them is one of their strongest fighters. Nothing on the page implies anything left the beast's room. The 🌊 "maybe" (a hand Derrek long ago sacrificed and keeps closed to hold a spell) is **not used**: it couldn't sit beside the palm, the two-handed Collapse and the ruined arm without reading as the old device.
+- **Unsure:** the beast's fate is open (t433).
 
 ## Ch 8: Everyone
 - **Canon used:** the queen dies dueling Derrek's unloved apprentice, blocking flawlessly while her bones break (t766–t768). The apprentice is a spartan human (wk W47 🟡). He taps the Tower's soul-mass, shines, turns the shine to fire, and burns out from within while Derrek yawns (BANK 11-01 L8; t768). Derrek's lines from t768 verbatim. The dark elf strikes from the shadows with Lirael's Collapse, and Derrek turns it inside out on her in front of Jon (t378, t388, t612–t616). The changeling hurls every stolen soul in Patrick's litany order, his brother last, fails, ages, and finds the quiet (t342, t774; BRIEF). Jon's envy tear (wk W48 🟡). The son charges, Jon watches, then steps in (wk W56 🟡). "Jon steps forward seeing Derrek weakened by the barrage" (t378, t368). Jon drains and restrains Derrek, not killing him (BANK 11-01 L4 follow-ups; "I dont think he can die lol"). Everyone dies (t380).
-- **Invented (the drain, attack_logic #1):** the apprentice's deep tap pulls the Tower out from under Derrek; the queen's last act, throwing the living blade, which opens his palm; the yawn with a shaking hand; the Collapse forcing him out of the chair, needing both hands and ruining his arm; **the barrage made invisible** (only bending air, scoring floor and Derrek's injuries show), which squares the BRIEF's barrage with the no-witness rule and with Eli's not sensing souls (NP#53, still open for Patrick); Doc's litany speech with the reveal line; the one still moment for the brother; Eli's charge landing before he's swatted; three images of the god fight.
-- **Unsure:** "Jon's true form" is shown only as behavior (no jokes, doesn't look at Eli, one step as she dies). Whether making the barrage invisible loses something Patrick wants. Whether the queen's thrown blade is the right "last act of agency" (13, an unconfirmed writing note).
+- **Invented (the drain, attack_logic #1):** the apprentice's deep tap pulls the Tower out from under Derrek; the queen's last act, throwing the living blade, which opens his palm; the yawn with a shaking hand (all costs stand without the held hand, BANK 11-07); the Collapse forcing him out of the chair, needing both hands and ruining his arm; **the barrage is not seen** (BANK 11-07, 5): what's felt is the weight of his raw Remnant flooding out through the captured souls, a pressure on Eli's chest, plus bending air, scoring floor and Derrek's injuries; no visible shapes; Doc's litany speech with the reveal line; the one still moment for the brother; Eli's charge landing before he's swatted; three images of the god fight.
+- **Unsure:** "Jon's true form" is shown only as behavior (no jokes, doesn't look at Eli, one step as she dies). Whether the queen's thrown blade is the right "last act of agency" (13, an unconfirmed writing note).
 
 ## Ch 9: The Window
 - **Canon used:** Derrek restrained, not dying (BANK 11-01 L4). Derrek treats the son as drywall, speaks only to Jon, reminds them who their master is and says Jon knows what he must do (BANK 11-01 L3 follow-up). "Just enjoy the show, old man" (Patrick's line, verbatim). The son asking questions nobody answers, including t738's "why kill my friends", left unanswered. The Blight spreading from the rifts, which are on the ground, not the sky (BANK 11-01 L3 follow-up; showing time travel #1). Jon never answers; no plea; no time travel; no info dump (wk W50; BANK 11-01 W50, Book 1 tone). The Lirael line is SCRAPPED (BANK 11-01 L3). Two men at the window as a device, with the son present (BANK 11-01 F169).
@@ -1040,18 +1022,25 @@ Neither of them turned.
 - **Unsure:** multiple rifts in the city and beyond (NP#17 open).
 
 ## New open questions this draft would create
-- Do hell-born dark elves share the homeworld bond?
-- What is Derrek holding closed (the held hand)? Whatever it is, it can't be anything that left the beast's room.
-- Is the changeling's barrage visible?
-- Do rifts form off Earth? (WORLD_OVERVIEW implies yes.)
-- What is "the Queen" as a title?
+- None left from the first list: the bond, the held hand, the barrage, rifts off Earth and "the Queen" are all answered or cut (BANK 11-07).
+- Still to check at the pass: the codex's "lifeless copy… darkness, drought, cruel on purpose" against "hell is a normal world" (BANK 11-07, 2).
 
 ## Judge's pass (2026-11-07)
 *🌊 Surgical fixes on top of draft 2. Rulings and score are in `FIGHT_LOG.md`.*
 - **Warrant dates (ch 2):** "eleven days after he ran" became "seven". The yard was day 9 (ch 1: Teo forged the code "nine days ago"), so 11 put the warrant after the kill and broke the beat that makes Jon's argument empty.
 - **Old man at the door (ch 4):** a visible tremor plus his own experience replace soul-sensing across the realm wall (WORLD_OVERVIEW: the bond doesn't cross between worlds; brief: no sensing by the untrained).
-- **"For a long time" tic (craft 14):** cut from 7 places so Patrick's rose line, "Not for a long time", is the only one in the book and lands.
+- **"For a long time" tic (craft 14):** cut from 7 places. (Patrick's rose line, the one survivor, went with the rose beat, BANK 11-07.)
 - **Restraint continuity (ch 8–9):** "he couldn't move" became "he stopped fighting it", so the shoulder lean at the window doesn't contradict it.
 - **"In all the ages since" (ch 5):** the dangling "since" now reads "In all the ages he has sat in it".
-- **Ledger:** the held-hand explanation no longer says the master's point left the beast's room.
+- **Ledger:** the held-hand explanation no longer says the master's point left the beast's room. (Superseded: the hand is cut, below.)
+
+## Rulings pass (BANK 2026-11-07)
+*🌊 Surgical edits applying Patrick's 2026-11-07 rulings. The previous version is saved as `SAMPLE_BOOK1_FINAL_prev.md`.*
+- **Held hand cut (ch 7–8)** (BANK 11-07 Derrek's hand): the closed left hand, dried blood and running floor cracks at the throne; the slip at Teo's death; the clenched fist during the apprentice's tap; letting go to catch the blade; the final closing and the quiet below. The palm, the arm, the bleeding ears and the shaking yawn stay. The "maybe" spell-hand is not used.
+- **Rose beat cut (ch 7)** (BANK 11-07 Lirael's fragments; W46 retired): the cage, the rose, "This time it seems more full", "Not for a long time". Time hints are back to three.
+- **Barrage felt, not seen (ch 8)** (BANK 11-07, 5): a pressure like deep water replaces the purely visual cues; the brother's pause is the weight stopping, not air holding a shape.
+- **The Queen (ch 5)** (BANK 11-07, 6–7): "a game piece, not a crown" replaces "his first blade… a title"; the seedship elves no longer kneel. She stays Eli's rival.
+- **Dark elf label and hell (ch 4, 6)** (BANK 11-07, 1–2): her line on the label added once; "come out of the dark" and "in the dark outside the hull" removed so hell reads as a world.
+- **Rifts (ledger)** (BANK 11-07, 3): off-Earth hedging removed.
+- **Giant (ch 5)** (BANK 11-07, 4): "one left" and "the last of us who is" cut.
 
