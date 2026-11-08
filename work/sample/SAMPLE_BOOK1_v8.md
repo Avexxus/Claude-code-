@@ -556,7 +556,7 @@ Cathedral ships the size of moons ground into dragon fleets in the dark. Legion 
 
 An Inquisition cutter had been behind them since the crater. They lost it twice and it found them twice, and the third time it caught them over a gas giant whose name none of them ever learned. They got off the Returned ship in a lifeboat with what they could carry, and the cutter took the ship in tow and left the lifeboat to drift in a sector with no shipping lanes at all. A salvage tug picked them up on the nineteenth day, on the last of the water. Eli's ribs took four months to knit. They crossed two systems in the hold of a dwarven arms freighter, sleeping on crates of flesh rifles that twitched whenever the drive spun up. GROWN FROM CERTIFIED CLONE STOCK, the stencil said. NO SOUL. One crate had split, and the rifle in it had a fingernail in the grip, small and perfect, where a thumb would go.
 
-On the freighter's feed Eli saw the desert world once. An elven fleet had come down for the seedship and cleared the dunes on both sides of the riverbed for a landing field. The line in the riverbed had held; nobody on either side of it was left to cross it. He turned the feed off.
+On the freighter's feed Eli saw the desert world once. An elven fleet had come down for the seedship and cleared the dunes on both sides of the riverbed for a landing field. The line in the riverbed was still there. He turned the feed off.
 
 On a human world whose name he didn't catch, they watched a crowd hang a gnome from a lamp standard for soul theft. The crowd sang to the Emperor's god while he kicked, under a broadcast wall that showed a seal where a face should be. The wall ran on a cored mind; it said so on the plate. Doc stood with them at the back.
 

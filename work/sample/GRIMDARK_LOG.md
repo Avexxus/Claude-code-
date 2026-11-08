@@ -123,3 +123,11 @@ Not counted as glimmers: Jon's warmth (the hand-holding in the yard, comforting 
 - Doc kept taking souls at the clinic, including the girl (G28). This fits the one-or-two-at-a-time pace (W16, W22).
 - The dark elf was sold into a pit by one of her teachers (G14), and her street paid the soul-thief farms in children (G15).
 - Jon calls them "dark elves" in G10. That's in character, since it's the world's label, but it sits near her objection to the word.
+
+## Rulings (2026-11-08)
+- **Young orcs for cores (G-item 1):** KEEP. Patrick: the younger the flesh, the higher the quality.
+- **The Queen's drow blade (G17):** KEEP. Patrick: elf flesh is very high-quality material and holds a lot of Remnant.
+- **The dissident's wife in the square (G9):** KEEP (Claude's judgement). It's quiet, fits the elves' harsh justice, and isn't forced.
+- **The colony cleared (ch Six):** KEEP (Claude's judgement). The closing line was trimmed to stop the button: "The line in the riverbed was still there."
+- **Doc taking the girl (G8/G28):** KEEP (Claude's judgement). It's within the 1–2-soul pace, and the no-witness rule holds. Note: this settles the open question of whether Doc still takes souls in Book 1's present (yes, quietly).
+- **The pit and the farms (G14/G15):** KEEP (Claude's judgement). The farms match the canon of changelings in hell keeping the population "like a farm".
