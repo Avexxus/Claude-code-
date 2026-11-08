@@ -1,6 +1,6 @@
 # Book 1: sample, v9 natural pass (TEST, NOT CANON)
 
-> 🌊 **Claude test draft, not canon prose.** The "unplanned pressure" pass (2026-11-08, per Grok's fifth review): a copy of `SAMPLE_BOOK1_POLISHED.md` with deliberate useless details, wrong temperatures, attention slips, uneven sentences and open paragraph endings. Every change is listed in `PRESSURE_LOG.md` for Patrick to keep or cut. **Grimdark pass (2026-11-08):** a copy of `SAMPLE_BOOK1_PRESSURE.md` with the codex's horrors shown concretely and the glimmers cut to five, most of them crushed; every change is listed in `GRIMDARK_LOG.md` (G-items) for Patrick to keep or cut. **v8 selective cut (2026-11-08, per Grok's sixth review):** a copy of `SAMPLE_BOOK1_GRIMDARK.md` keeping 20 of the 59 P-items (the ones that read as Eli's mind) and cutting 39; see `PRESSURE_LOG.md`. G-items untouched. **Later passes, including hostile checkers, must not remove or fix them unless Patrick cuts them.** Events, canon and order are unchanged. Every line of the real book is Patrick's (`12_METHOD`, t257). Names marked † are Claude placeholders (t630). **v9 natural pass (2026-11-08):** a copy of `SAMPLE_BOOK1_v8.md` made rougher and less explained, with plot conveniences replaced by cost or choice; principles in `NATURAL_PRINCIPLES.md`, every change in `NATURAL_LOG.md` (N-items, conveniences flagged C-items). What happens is unchanged. **Story guard (2026-11-08):** 2 reverts and 8 adjusts applied on top, listed in `GUARD_LOG.md`. **Consistency check (2026-11-08):** 2 pronoun fixes, listed in `CONSISTENCY_LOG.md`. The polish notes at the end describe the polished file this was copied from.
+> 🌊 **Claude test draft, not canon prose.** The "unplanned pressure" pass (2026-11-08, per Grok's fifth review): a copy of `SAMPLE_BOOK1_POLISHED.md` with deliberate useless details, wrong temperatures, attention slips, uneven sentences and open paragraph endings. Every change is listed in `PRESSURE_LOG.md` for Patrick to keep or cut. **Grimdark pass (2026-11-08):** a copy of `SAMPLE_BOOK1_PRESSURE.md` with the codex's horrors shown concretely and the glimmers cut to five, most of them crushed; every change is listed in `GRIMDARK_LOG.md` (G-items) for Patrick to keep or cut. **v8 selective cut (2026-11-08, per Grok's sixth review):** a copy of `SAMPLE_BOOK1_GRIMDARK.md` keeping 20 of the 59 P-items (the ones that read as Eli's mind) and cutting 39; see `PRESSURE_LOG.md`. G-items untouched. **Later passes, including hostile checkers, must not remove or fix them unless Patrick cuts them.** Events, canon and order are unchanged. Every line of the real book is Patrick's (`12_METHOD`, t257). Names marked † are Claude placeholders (t630). **v9 natural pass (2026-11-08):** a copy of `SAMPLE_BOOK1_v8.md` made rougher and less explained, with plot conveniences replaced by cost or choice; principles in `NATURAL_PRINCIPLES.md`, every change in `NATURAL_LOG.md` (N-items, conveniences flagged C-items). What happens is unchanged. **Story guard (2026-11-08):** 2 reverts and 8 adjusts applied on top, listed in `GUARD_LOG.md`. **Consistency check (2026-11-08):** 2 pronoun fixes, listed in `CONSISTENCY_LOG.md`. **Final check (2026-11-08):** the dragon section brought into Eli's view, "Derrek" taken out of the narration, a cause for the ch 6 ribs, the ch 5 ending reordered, and 2 hostile-check fixes; listed in `CONSISTENCY_LOG.md`. The polish notes at the end describe the polished file this was copied from.
 
 ---
 
@@ -440,7 +440,7 @@ She went up the ramp past all of them and took the best bunk.
 
 Eli asked Jon about the sword. "Grown," said Jon. "When they catch one of the hell-born outside, they grow a blade out of her. It takes about a year. She's alive for most of it; it holds better that way." He thought about it. "It's a very good sword."
 
-The dark elf didn't come out of her cabin for two days. When she did, her hands weren't quite steady. On a ship that small the two elves felt each other all the time. In the corridors neither looked at the other, and they never spoke at all, and everyone else learned to wait until one of them had gone by.
+The dark elf didn't come out of her cabin for two days. When she did, her hands weren't quite steady. On a ship that small they felt each other all the time, she said. In the corridors neither looked at the other, and they never spoke at all, and everyone else learned to wait until one of them had gone by.
 
 The Queen sparred with him every day and put him on the deck every day, without malice and without effort, and walked off while he was still getting up. She called him *the human*.
 
@@ -498,45 +498,39 @@ She sent the message. The reply came in eleven hours. Eli never saw it. He saw h
 
 "Continue," she said to no one, and went to her bunk.
 
-After that she stopped calling him *the human*, or anything at all. She sparred with him every day and put him on the deck as before. But she no longer walked off while he was getting up. She stood and watched until he was on his feet, and then she put him down again.
-
 The yard wanted the berth back by morning. They left.
+
+After that she stopped calling him *the human*, or anything at all. She sparred with him every day and put him on the deck as before. But she no longer walked off while he was getting up. She stood and watched until he was on his feet, and then she put him down again.
 
 ---
 
 ## Six: The Strike
 
-The dragon knew his crew would die.
-
-He didn't tell them. They were good crew, wingless kin, two-legged and scaled and quick. They had served him eighty years and called themselves dragons as he did, and if you had asked, they would have told you there had never been any other kind. They were strapped into their stations in the focusing chamber now, along the long curved bones of the ship's heart, and they were nervous. He had never come down here himself.
-
-"A demonstration," he told them. "Aim for the forge-heart. On my mark."
-
-At the centre of the chamber sat the cradle, where a body could pour its whole strength into one place and the ship would gather it up and throw it across the dark in a single line. Crews took turns in it, a few shots each before their bodies needed a day. A ship's master let the crew do it. That was what crews were for.
-
-Tonight the master climbed into the cradle himself and began to strap in.
-
-"Master," said his first officer. "The chamber is not rated for—"
-
-"Then it will learn." He pulled the last strap tight with his teeth. "Aim."
-
-He thought about the giants. He thought about his grandfather's grandfather, who had died on betrayal day, and about everything he was owed.
-
-He opened his mouth and drove the chamber far past anything it had been built to take. His heart laboured and tore. The long bones of his neck cracked one after another under the strain of holding the line, and he held it anyway.
-
----
-
-From the surface it looked like a line drawn with a ruler. It went in at the forge-heart and the forge-heart was gone, and then the shipyards, and the cradles, the cathedral ships buckling in them one after another like ribs under a boot, and the feed lines with everyone still in them. Then the crust came up in a ring and kept coming, a wave of red rock taller than mountains rolling out across the face of the world.
-
-Afterwards the dragon's ship drifted dark in orbit. Its crew sat in their stations, cooked inside their scales. Its master hung in the cradle with his neck broken in three places and his eyes open.
-
 Eli watched it on the long-range display, a day out and still accelerating.
 
-Nobody spoke. The dark elf stood at his shoulder, close enough that he could hear her breathing. Teo was crying and didn't seem to know it.
+A dragon ship had come in over the forge world and was sitting high above the shipyards, broadcasting on every band. A demonstration, it called it. The picture came from inside, from a long chamber built along the curved bones of the ship's heart, where the crew were strapped into their stations. Wingless kin, two-legged and scaled and quick. They kept looking at each other.
+
+At the centre of the chamber sat the cradle. Eli's duelling master had drawn him one once, on a slate: a body poured its whole strength into it, and the ship gathered that up and threw it across the dark in a single line. Crews took turns in it, a few shots each before their bodies needed a day. That was what crews were for.
+
+The ship's master was climbing into it himself.
+
+"Master," said one of the crew. "The chamber is not rated for—"
+
+"Then it will learn." He pulled the last strap tight with his teeth. "For my grandfather's grandfather, who died on betrayal day. Aim for the forge-heart."
+
+He opened his mouth. The picture shook. The last of it was the long bones of his neck cracking one after another while he held the line anyway, and then the band went grey.
+
+The line itself Eli saw on the other screen, from orbit. It looked like a line drawn with a ruler. It went in at the forge-heart and the forge-heart was gone, and then the shipyards, and the cradles, the cathedral ships buckling in them one after another like ribs under a boot, and the feed lines with everyone still in them. Then the crust came up in a ring and kept coming, a wave of red rock taller than mountains rolling out across the face of the world.
+
+The dragon ship hung dark in orbit after that, and its band stayed grey.
+
+Nobody spoke. The dark elf stood at Eli's shoulder, close enough that he could hear her breathing. Teo was crying and didn't seem to know it.
 
 "The giant," said Teo. "Was he— did he get—"
 
 Nobody answered. Jon stood at the back of the bridge looking at the screen, holding a cup of tea he hadn't touched.
+
+"His crew will have cooked," he said after a while. "In their scales, at their stations. Ask any of them and they'd have told you they were dragons."
 
 Within three days fleets came out of shipyards on worlds nobody had known the giants still held. There were hundreds of cathedral ships. Eli counted them on the display until he lost count, and started again, and lost it in the same place.
 
@@ -566,7 +560,7 @@ It took them most of a year to cross the war.
 
 Cathedral ships the size of moons ground into dragon fleets in the dark. Legion carriers went by with hulls pressed from orcs bought by the trillion, and the Legion boys who had grown up on them slept with their backs to the warm walls and never thought about it. Dwarven convoys ran guns to everyone, and elven ships came out of nowhere and hit the Emperor's and were gone before anyone turned.
 
-An Inquisition cutter had been behind them since the crater. They lost it twice and it found them twice, and the third time it caught them over a gas giant whose name none of them ever learned. They got off the Returned ship in a lifeboat with what they could carry, and the cutter took the ship in tow and left the lifeboat to drift in a sector with no shipping lanes at all. A salvage tug picked them up on the nineteenth day. The water had run out on the seventeenth. Eli's ribs took four months to knit.
+An Inquisition cutter had been behind them since the crater. They lost it twice and it found them twice, and the third time it caught them over a gas giant whose name none of them ever learned, and its grapple slammed the ship over and threw Eli across the hold. They got off the Returned ship in a lifeboat with what they could carry, and the cutter took the ship in tow and left the lifeboat to drift in a sector with no shipping lanes at all. A salvage tug picked them up on the nineteenth day. The water had run out on the seventeenth. Eli's ribs took four months to knit.
 
 They crossed two systems in the hold of a dwarven arms freighter, sleeping on crates of flesh rifles that twitched whenever the drive spun up. GROWN FROM CERTIFIED CLONE STOCK, the stencil said. NO SOUL. One crate had split, and the rifle in it had a fingernail in the grip, small and perfect, where a thumb would go.
 
@@ -682,7 +676,7 @@ Somewhere in the dark Doc laughed softly.
 
 Earth was one city, edge to edge, and it was on fire.
 
-The Tower stood at its heart, pearl-white, so tall its top was lost, and the war broke round its base like surf. Giant ships hung in the upper air. Dragons burned lines through the clouds. The Legion's guns fired from every rooftop, and the sky over the capital was a ceiling of smoke and falling things.
+The Tower stood at its heart, pearl-white, so tall its top was lost, and the war broke round its base like surf. Giant ships hung in the upper air, and dragons burned lines through the clouds. The Legion's guns fired from every rooftop, and the sky over the capital was a ceiling of smoke and falling things.
 
 Jon took them in. He stood at the lander's open door with the wind tearing at his coat and stepped out, and the rest of them came with him and fell no faster than he did. They fell through a mile of war. A cathedral ship broke in half directly overhead, its ribs coming apart, and Jon moved one hand and the wreckage went past them on both sides close enough to touch. One spar he didn't move. It came edge-on out of the smoke and opened the Queen's shoulder to the bone and was gone. She didn't make a sound. Jon didn't look at her, and didn't speak the whole way down.
 
@@ -818,17 +812,17 @@ Teo had gone ahead of them all. He was halfway across the floor, staring up at t
 
 "You're the Emperor—" Teo began.
 
-"—the Emperor," said Derrek at the same moment, in the same rhythm, word for word, flat, still looking at Jon.
+"—the Emperor," said the man in the chair at the same moment, in the same rhythm, word for word, flat, still looking at Jon.
 
 He lifted a hand a little, without looking, and closed it.
 
-Across the room Teo's head snapped back as if a great palm had cupped his face, fingers over his eyes and mouth, and lifted him off the floor. There was one short wet sound. Derrek opened his hand. Teo dropped and didn't move. His stiff hand lay open on the stone, the one that had never closed right. Like a mean man would put down an unruly dog.
+Across the room Teo's head snapped back as if a great palm had cupped his face, fingers over his eyes and mouth, and lifted him off the floor. There was one short wet sound. The Emperor opened his hand. Teo dropped and didn't move. His stiff hand lay open on the stone, the one that had never closed right. Like a mean man would put down an unruly dog.
 
 Eli reached for him.
 
 It went out of him like a shout, everything he had and everything the Tower would give. The dark elf's arms locked round him from behind and dragged him back, and Jon's hand came down on his shoulder, lightly, and the reach spilled out of him across the floor between them and the dais. It scored a long gouge in the stone that stopped six feet short of the chair.
 
-Derrek didn't look at the gouge. He looked at Jon.
+The Emperor didn't look at the gouge. He looked at Jon.
 
 "You brought children," he said.
 
@@ -840,7 +834,7 @@ The Queen drew her sword.
 
 The sheath slid off it like skin. The blade underneath was pale and alive, a long ribbed thing that flexed in her hand. She looked past the apprentice at the man in the chair, and then, because the apprentice stood between them, at the apprentice.
 
-"Yours," Derrek said to him, without interest. "Go on."
+"Yours," the Emperor said to him, without interest. "Go on."
 
 The apprentice came down off the dais.
 
@@ -852,11 +846,11 @@ A year of her putting him on the deck, and he'd thought he knew. In the Tower, w
 
 The apprentice looked back at the dais.
 
-Derrek was yawning and resting his head on his right hand, looking out of the great window at the burning sky.
+The Emperor was yawning and resting his head on his right hand, looking out of the great window at the burning sky.
 
 The apprentice's face changed.
 
-He reached down. Into the floor, into the walls, into the Tower itself, deeper than anyone had ever told him was safe. The lights along the walls dimmed all at once. The floor shivered. On the dais Derrek's head came up off his hand: whatever the apprentice was pulling out of the walls, he was pulling it out from under his master.
+He reached down. Into the floor, into the walls, into the Tower itself, deeper than anyone had ever told him was safe. The lights along the walls dimmed all at once. The floor shivered. On the dais the Emperor's head came up off his hand: whatever the apprentice was pulling out of the walls, he was pulling it out from under his master.
 
 The apprentice began to shine. Light came up through his skin and his blade blazed white. He moved faster than she did, faster than anything Eli had ever seen, and he struck, and she caught it.
 
@@ -868,15 +862,15 @@ She took each one standing, and on the last she went down on her knees, and Eli 
 
 The living blade left her hands and went up the steps at the man in the chair.
 
-Derrek caught it by the blade. It bit him, twisting in his grip, and opened his palm to the bone before he crushed it. He let the pieces fall. He was breathing through his mouth now.
+The Emperor caught it by the blade. It bit him, twisting in his grip, and opened his palm to the bone before he crushed it. He let the pieces fall. He was breathing through his mouth now.
 
-She was dead before the pieces stopped moving. One sliver went on curling and uncurling on the step by Derrek's foot.
+She was dead before the pieces stopped moving. One sliver went on curling and uncurling on the step by the Emperor's foot.
 
 The apprentice stood over her, burning, and turned to the dais with his arms spread. His face was wet and hopeful.
 
 "Master," he said. "Are you proud?"
 
-Derrek looked at him.
+The Emperor looked at him.
 
 "Proud?" he said. "Proud of what, exactly? You only killed one, and now you're burning alive." He sighed. "You've always been a disappointment, and I can't believe you've embarrassed me again today."
 
@@ -886,7 +880,7 @@ Eli wasn't watching him. He was watching the Queen. She lay on her side at the f
 
 Behind her the apprentice was screaming. It went on a long time, and changed, and stopped. When Eli looked up there was a shape on the floor beside her, black and smoking and very small. Some of the smoke went straight up and some drifted toward the window, and Eli watched the part that drifted.
 
-Derrek looked round the room at each of them in turn, as if waiting for someone to laugh. No one had really heard him. He sighed through his nose, sat back and yawned again, and covered his mouth politely with his bleeding hand. The hand was shaking.
+The Emperor looked round the room at each of them in turn, as if waiting for someone to laugh. No one had really heard him. He sighed through his nose, sat back and yawned again, and covered his mouth politely with his bleeding hand. The hand was shaking.
 
 ---
 
@@ -896,13 +890,13 @@ Her arms were still round him from behind. He could feel her breathing against h
 
 She found his hand, and the two fingers she had broken on the crossing, and pressed them once. Then she let go of him.
 
-Nobody saw her go. One moment her arms were round him, and the next the shadows behind the chair moved and she was there, at Derrek's back, her hand already rising, the fingers curling like the statue's.
+Nobody saw her go. One moment her arms were round him, and the next the shadows behind the chair moved and she was there, at the Emperor's back, her hand already rising, the fingers curling like the statue's.
 
 She closed her hand.
 
-The space around Derrek folded inward, all of it at once: the air, the light, the chair, the dais. The stone of the floor ran toward him like water toward a drain. In the Tower, it had him. His sleeve went first, then the skin of his forearm, drawn toward a point in front of his chest.
+The space around the Emperor folded inward, all of it at once: the air, the light, the chair, the dais. The stone of the floor ran toward him like water toward a drain. In the Tower, it had him. His sleeve went first, then the skin of his forearm, drawn toward a point in front of his chest.
 
-Derrek stood up.
+The Emperor stood up.
 
 He came up out of the chair as it folded behind him, turned, and took hold of what she had made with both hands. It took both. His teeth showed. His bleeding palm left a smear on the air. Then he turned the thing slowly, like a man forcing a rusted wheel, inside out.
 
@@ -910,11 +904,11 @@ Everything that had been falling toward him fell toward her instead.
 
 Her silver eyes found Eli across the room. Then the space around her folded in and took her whole, toward a point just behind her heart. It made a small flat noise, like a book being shut, and where she had been there was nothing.
 
-Nobody moved. A little grit slid across the stone toward the empty place and stopped. Eli could hear Derrek breathing, and his own breath, and nothing else in the whole Tower. He was on his knees, holding the two fingers in his other hand, and didn't remember taking hold of them.
+Nobody moved. A little grit slid across the stone toward the empty place and stopped. Eli could hear the Emperor breathing, and his own breath, and nothing else in the whole Tower. He was on his knees, holding the two fingers in his other hand, and didn't remember taking hold of them.
 
 Jon had taken one step forward as the air closed. He was still standing with one foot in front of the other.
 
-Derrek stood in the wreckage of his chair with his right arm hanging. The skin of the forearm was gone, wrung like a cloth.
+The Emperor stood in the wreckage of his chair with his right arm hanging. The skin of the forearm was gone, wrung like a cloth.
 
 ---
 
@@ -926,25 +920,25 @@ He walked out into the middle of the floor, past the Queen and the black thing t
 
 He opened his arms.
 
-Eli saw nothing come out of him. There was no light and no shape. There was weight: a pressure that came off the little man and leaned on Eli's chest from across the room, more and more of it, a crowd shoving out through a door too small for them. The air round Doc wavered like air over a summer road. The floor under him scored in long lines toward the dais, and on the far side of the room Derrek took a step back.
+Eli saw nothing come out of him. There was no light and no shape. There was weight: a pressure that came off the little man and leaned on Eli's chest from across the room, more and more of it, a crowd shoving out through a door too small for them. The air round Doc wavered like air over a summer road. The floor under him scored in long lines toward the dais, and on the far side of the room the Emperor took a step back.
 
-Derrek put up his good hand. Then the ruined one as well.
+The Emperor put up his good hand. Then the ruined one as well.
 
-"Giants and dragons," said Doc, conversationally. "Elves and humans. A lot of humans; you get everywhere." Something struck Derrek and he rocked on his feet. "Dwarves leading orcs." The air round Derrek boiled. His hair blew back off his face though nothing else in the room moved. "And fellow gnomes. Oh, a great many gnomes. Everyone brought me their sick, you see. Every family in the village. And I told every one of them the same thing."
+"Giants and dragons," said Doc, conversationally. "Elves and humans. A lot of humans; you get everywhere." Something struck the Emperor and he rocked on his feet. "Dwarves leading orcs." The air round the Emperor boiled. His hair blew back off his face though nothing else in the room moved. "And fellow gnomes. Oh, a great many gnomes. Everyone brought me their sick, you see. Every family in the village. And I told every one of them the same thing."
 
-He smiled up at Derrek, very kindly.
+He smiled up at the Emperor, very kindly.
 
 "I wasn't able to save your loved one."
 
 He glanced back at Eli. "The little one with the fever, at the clinic. She never woke up, you know. Her mother brought her back while you two were outside arguing about my price, and I told her too."
 
-Derrek was being driven back across the dais, step by step. Blood came from his nose and then from his ears. His plain dark clothes tore along the seams as if hands were pulling at them. His face ran with sweat, and he held, and the weight kept breaking over him.
+The Emperor was being driven back across the dais, step by step. Blood came from his nose and then from his ears. His plain dark clothes tore along the seams as if hands were pulling at them. His face ran with sweat, and he held, and the weight kept breaking over him.
 
-Doc was getting smaller. His face was sinking and his skin had gone loose, like fruit left too long in the sun, and still the air round him bent and still Derrek gave ground.
+Doc was getting smaller. His face was sinking and his skin had gone loose, like fruit left too long in the sun, and still the air round him bent and still the Emperor gave ground.
 
 "And last," said Doc, in a voice gone thin and old. "My brother."
 
-The weight went out of the room. Nothing pressed at all, as if something had stopped on its way out and turned back to Doc. Doc looked at the empty air. Then the pressure came once more, all of it, flung, and Derrek, staggering, brushed it aside with the back of his ruined hand.
+The weight went out of the room. Nothing pressed at all, as if something had stopped on its way out and turned back to Doc. Doc looked at the empty air. Then the pressure came once more, all of it, flung, and the Emperor, staggering, brushed it aside with the back of his ruined hand.
 
 Doc sat down.
 
@@ -964,13 +958,13 @@ Then he was dust, and the dust lay on the floor in the shape of a small round ma
 
 Jon was watching the dust. A single tear ran down beside his nose, and he didn't wipe it.
 
-"Jon," said Derrek.
+"Jon," said the Emperor.
 
 Jon looked up. The tear was still there.
 
-Derrek stood swaying at the edge of the dais, slack-mouthed, bleeding from his nose and ears and his opened palm, one arm hanging at his side, breathing like a man at the top of a long climb.
+The Emperor stood swaying at the edge of the dais, slack-mouthed, bleeding from his nose and ears and his opened palm, one arm hanging at his side, breathing like a man at the top of a long climb.
 
-"It's just us," said Derrek.
+"It's just us," said the Emperor.
 
 ---
 
@@ -978,17 +972,17 @@ Eli went first.
 
 He was up off the floor and running the length of the room before he knew he would, and he reached with everything the master had taught him and everything the Tower would give, more than the ceiling, more than the dragon's heart, at the man on the dais. His father.
 
-It hit Derrek in the chest and took him off his feet and back three steps, and the dais cracked end to end under his heels. Derrek's bloody face showed what might have been surprise.
+It hit the Emperor in the chest and took him off his feet and back three steps, and the dais cracked end to end under his heels. The Emperor's bloody face showed what might have been surprise.
 
 Then he flicked his good hand, and Eli was on the floor fifty feet away with his ribs broken and the reach knocked out of him. He couldn't get up.
 
-Derrek still hadn't looked at him. He was looking at Jon, and Jon was looking back, and neither of them moved.
+His father still hadn't looked at him. He was looking at Jon, and Jon was looking back, and neither of them moved.
 
 Eli got an elbow under him. He was very thirsty, he noticed, and it seemed important.
 
 "You put me on a post," he said. It came out wet. "Recover imperial property. They had my face down to the scar on my chin. You never once asked to see it."
 
-Derrek's eyes stayed on Jon.
+His father's eyes stayed on Jon.
 
 "A man died at a fence for your warrant, and it was already on every wall. There was a boy in your yard with a rag round his hand, crying while your guard walked him at me." He spat blood on the floor and looked at it to see how much there was. "Teo carried something across your whole war to say to you. His mother and father are still in your house. You said it for him."
 
@@ -996,19 +990,19 @@ Nothing.
 
 "I asked them to come. All of them. I sat at their tables and asked." His voice went. He was embarrassed by that, with Jon there to hear, and pushed on. "Here's your property. It came all this way. Look at it."
 
-Derrek didn't turn his head. His good hand had been coming up, open, toward Jon. It stopped halfway and stayed there.
+His father didn't turn his head. His good hand had been coming up, open, toward Jon. It stopped halfway and stayed there.
 
 Jon was already walking past Eli.
 
-They fought. Eli saw three things and nothing in between. He saw the great window star from top to bottom and hold. He saw Jon standing perfectly still in the middle of the floor with his eyes shut while the far wall of the throne room came apart around Derrek and put itself back together. He saw Derrek fall to one knee, get up, and fall again.
+They fought. Eli saw three things and nothing in between. He saw the great window star from top to bottom and hold. He saw Jon standing perfectly still in the middle of the floor with his eyes shut while the far wall of the throne room came apart around the Emperor and put itself back together. He saw the Emperor fall to one knee, get up, and fall again.
 
-At the end of it Derrek was on his knees, and stayed there.
+At the end of it the Emperor was on his knees, and stayed there.
 
-Jon stood over him, breathing hard. Then he did something careful with both hands, and Derrek's arms went behind his back and stayed there, held by nothing Eli could see. His head went back, and he stopped fighting it.
+Jon stood over him, breathing hard. Then he did something careful with both hands, and the Emperor's arms went behind his back and stayed there, held by nothing Eli could see. His head went back, and he stopped fighting it.
 
 He was alive. Tired men can be held, Jon had said.
 
-Jon hauled Derrek up by the collar as easily as lifting a coat off a hook, walked him to the great window, and sat him on the floor beneath it with his back to the glass.
+Jon hauled the Emperor up by the collar as easily as lifting a coat off a hook, walked him to the great window, and sat him on the floor beneath it with his back to the glass.
 
 Then he sat down beside him.
 
@@ -1016,21 +1010,21 @@ Then he sat down beside him.
 
 ## Nine: The Window
 
-Eli dragged himself across the floor to them. Nobody helped him. One of Derrek's boots had come off in the fight and lay on its side ten feet away.
+Eli dragged himself across the floor to them. Nobody helped him. One of the Emperor's boots had come off in the fight and lay on its side ten feet away.
 
 The two men sat side by side under the great window. Outside, the sky over Earth was full of fire.
 
 And the ground was opening. Down in the burning city, at the oldest wounds, the places where it had always been wrong, the ground was coming apart, and the split was running out through the streets. Further off there were more. Something was coming up out of them. He couldn't see what. Over the city the ships stopped firing at each other, one by one, and turned toward it.
 
-"Jon," said Derrek.
+"Jon," said the Emperor.
 
 He hadn't looked at Eli once since they came into the room. Eli lay three feet from his father's knee, and his father looked past him at Jon.
 
-"You remember who our master is," said Derrek.
+"You remember who our master is," said the Emperor.
 
 Jon was looking out of the window.
 
-"You know what you have to do," said Derrek.
+"You know what you have to do," said the Emperor.
 
 Jon sighed and leaned his head back against the glass.
 
@@ -1054,7 +1048,7 @@ He looked at his father.
 
 "Why did you kill Teo?"
 
-The two men sat with the fire on their faces and watched the opening spread through the city, street by street. After a while, without looking, Derrek moved his bound shoulder a little closer to Jon's. Jon let him.
+The two men sat with the fire on their faces and watched the opening spread through the city, street by street. After a while, without looking, the Emperor moved his bound shoulder a little closer to Jon's. Jon let him.
 
 Eli watched them do it. What he felt first was left out. It was a small feeling, and he waited for it to turn into something bigger.
 

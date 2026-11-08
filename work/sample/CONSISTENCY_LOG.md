@@ -33,3 +33,36 @@
 5. **"stood there while they did it" … "Eli stayed until it was done"** (ch 5) says the same thing twice. It's left alone as roughness, and the second sentence keeps P20's "his" pointing at Eli.
 6. **Ch 6 freighters:** the arms freighter, the human transit hull (hell), then "the freighter" at the dragon moon. Which ship is which is loose.
 7. **Log housekeeping:** `NATURAL_LOG.md` still describes C5 (broken feet) and C8 (two days on the bag) as applied. Both were reverted by the guard, and the book is correct.
+
+## Final check (2026-11-08)
+
+> 🌊 Claude's working notes, not canon. Fixes for notes 1–4 and 7 above, then a hostile read of the whole book. Nothing was committed. No KEPT P-item, G-item, Patrick line (t768, t774 litany and "It's quiet… peaceful", t202, "Just enjoy the show, old man"), floor-speech line or window line was changed, apart from the name swap in (b), which only touches narration.
+
+### The four older issues
+
+| # | Ch | Fix |
+|---|---|---|
+| F1 (note 1) | Six | **Dragon section brought into Eli's view.** It now opens on "Eli watched it on the long-range display…". The dragon ship broadcasts its "demonstration" on every band, so Eli sees the chamber, the wingless kin, the cradle, the "not rated for—" exchange and the neck cracking before the band goes grey. Eli knows what a cradle is from his dragon-schools duelling master (ch 2). The grandfather's grandfather is now spoken in the dragon's broadcast, not thought. The strike is seen "on the other screen, from orbit" (G20's feed lines are kept word for word). The cooked crew moved to Jon: "His crew will have cooked… Ask any of them and they'd have told you they were dragons." That keeps the kin-erasure point (dragon umbrella ruling). Cut: the dragon's thoughts, "eighty years", the broken neck "in three places" and the open eyes. 🌊 The broadcast is a new small device. |
+| F2 (note 2) | Seven–Nine | **"Derrek" taken out of all story text (38 uses).** The narration now says "the Emperor", with "his father" at three of Eli's floor-scene beats ("His father still hadn't looked at him", "His father's eyes stayed on Jon", "His father didn't turn his head"). The unison line is now said by "the man in the chair". Jon's "old man" stands. The polish notes still say Derrek, since they aren't story text. Note 2 (introducing the name) no longer applies: the reader never needs it in Book 1. |
+| F3 (note 3) | Six | **Cause for the ribs:** the cutter's capture now reads "…and its grapple slammed the ship over and threw Eli across the hold." The "four months to knit" line follows as before. |
+| F4 (note 4) | Five | **Time order:** "The yard wanted the berth back by morning. They left." now comes right after the Queen's "Continue", before the "After that she stopped calling him *the human*…" summary. |
+| F5 (note 7) | — | `NATURAL_LOG.md`: C5 and C8 marked "REVERTED by guard". |
+
+### Hostile check
+
+| # | Ch | Problem | Fix |
+|---|---|---|---|
+| H1 | Five | POV slip. "On a ship that small the two elves felt each other all the time" was elven soul-sense stated as narrated fact. | "…they felt each other all the time, she said." This follows the N28/N46 pattern. |
+| H2 | Seven | A triplet of parallel sentences: "Giant ships hung… Dragons burned… The Legion's guns fired…" | First two joined: "Giant ships hung in the upper air, and dragons burned lines through the clouds." |
+
+**Checked and left alone (roughness or fenced):**
+- "The man against the fence had died for nothing, and Jon had known" (guard adjust N9).
+- "What he felt first was left out" (P59, KEPT).
+- The Legion boys "never thought about it" (G21).
+- "His voice went. He was embarrassed by that" (P54).
+- The apprentice "pulling it out from under his master" (N60 restored).
+- The deliberate "three things" in Jon's fight.
+- "a little like a man and a little like a spider and a little like a hole" (the beast's characterful triplet).
+- "so fast she seemed to be in two places at once" (stock phrase, older; Patrick's call).
+
+**Searched with no hits:** "for a moment", "somehow", "not X but Y", "user", force words in narration ("energy" appears only in the master's oath), skin colour (pallor only), Remnant spent, soul-sensing by Eli or Teo, and the narrator explaining Jon. The orcs and victims stay people.

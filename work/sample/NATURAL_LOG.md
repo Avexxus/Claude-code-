@@ -18,10 +18,10 @@ Each keeps the event and changes only its cause or timing.
 - **C2** (N19, ch Three): The archivist's lore arrives exactly when the crater needs it. Now she answers a question nobody asked, because it is the line she gives every visitor: messier causality, and the elves' state shows its hand.
 - **C3** (N20, ch Three): They 'happen' to cross Lirael's square. Now the Inquisition tail closes the direct street and forces the detour: the cost of the token Jon lost.
 - **C4** (N21, ch Four): Jon hands Eli the crater at the right time. Now it's one story in a run of them, told to Teo, with Eli cutting in. Jon's hand is still there; it just isn't neat.
-- **C5** (N24, ch Four): The one prisoner who knows the door 'happens' to stay. Now he can't run: old broken feet. Cost, not luck.
+- **REVERTED by guard.** **C5** (N24, ch Four): The one prisoner who knows the door 'happens' to stay. Now he can't run: old broken feet. Cost, not luck.
 - **C6** (N29, ch Four): Eli 'happens' on the secret practice. Now it's her nightly habit, and one night she misses his step. Messier causality.
 - **C7** (N39, ch Five): They leave the forge world a day before the strike. Now the giants evict them, following the side-door brush-off: their escape comes out of the refusal, not luck.
-- **C8** (N41, ch Six): The master arrives as the ramp lifts (just in time). Now he sits on his bag at the field's edge for two days, in plain sight, undecided, and boards when the ship is ready. Same boarding, same line; no last-second rescue.
+- **REVERTED by guard.** **C8** (N41, ch Six): The master arrives as the ramp lifts (just in time). Now he sits on his bag at the field's edge for two days, in plain sight, undecided, and boards when the ship is ready. Same boarding, same line; no last-second rescue.
 - **C9** (N43, ch Six): Rescue 'on the last of the water'. Now the water ran out two days before the tug: they are found late, at a cost.
 - **C10** (N44, ch Six): Eli 'happens' to catch the desert world on a feed. Now he hunts for it every night: his choice, and his guilt.
 - **C11** (N47, ch Six): The narrator says the dragon's youth is 'the only reason any of them lived' (luck). Now the master sees it and makes it the plan (N48). Character choice, not narrator's luck.
