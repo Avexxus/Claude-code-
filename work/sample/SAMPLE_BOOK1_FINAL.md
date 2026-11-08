@@ -36,17 +36,15 @@ A man was sitting on the counterweight of the nearest crane, twenty feet up, eat
 
 "You look," he said, "like you could use an exit."
 
-He dropped off the crane and walked through the crowd. Nobody laid a hand on him. He arrived at Eli's side, still chewing, and put a warm hand on Eli's shoulder.
+He dropped off the crane, landed heavier than he meant to, and came across the slag still chewing. A woman with burn scars up both arms reached Eli first. The man stepped in and put two fingers to the back of her neck, on the scar, the way you'd feel a child's forehead for fever. Her legs went, and he let her down.
 
-"Breathe," he said. "You're doing beautifully."
+He took the next one by the wrist, turned him, touched, and let him down too. Then two at once, a hand for each, and he grunted at that and shook his fingers out after. He kept himself between them and Eli and took them as they came. By the fifth or sixth he was breathing through his mouth. The old man with the split lip reached them still saying the name, and the man put a hand to the back of his head, and he stopped in the middle of it.
 
-Every orc in the yard fell down.
+Then nobody else came. By the fence the guard had lowered the slate and was backing away, talking fast into his collar. In the pens and on the ramps the rest stood where they had been stopped, hands half raised. The young one with the rag was still crying.
 
-They went in every pen and on every ramp at once. The old man with the split lip stopped in the middle of the name. The ones on the ramps slid back down them. A crane went on turning overhead with nothing on its hook.
+The man wiped his fingers on his coat and put a warm hand on Eli's shoulder.
 
-By the fence the guard was backing away with the slate held out in front of him, talking fast into his collar.
-
-"He's seen your face," the man said. "He'll file a report. It goes up, and up again, until it reaches whoever you're running from." His hand stayed where it was. "Your call. I won't make it for you."
+"Breathe," he said. "You're doing beautifully." He nodded at the fence. "He's seen your face. He'll file a report. It goes up, and up again, until it reaches whoever you're running from." His hand stayed where it was. "Your call. I won't make it for you."
 
 Eli had ordered men flogged. At sixteen he had watched a steward's hands broken for theft, because his tutors said a prince should see what his word cost. He had never done it himself.
 
@@ -62,7 +60,7 @@ Eli wiped his mouth.
 
 The man laughed so hard he had to bend over. Then he straightened, finished the peach, and dropped the stone on the old orc with the split lip. It landed on his cheek and stayed there.
 
-Teo† was supposed to be at the fence with the flyer. He wasn't. Eli stood among the bodies and watched the sky over the sheds and counted, and got to six hundred, and started again. Somewhere in the city a siren went up and down and stopped. The man in the coat sat on an upturned bucket and cleaned his nails with a sliver of wire from the fence, and didn't offer to help.
+Teo† was supposed to be at the fence with the flyer. He wasn't. Eli stood among the bodies, and watched the sky over the sheds and counted, and got to six hundred, and started again. Somewhere in the city a siren went up and down and stopped. The man in the coat sat on an upturned bucket and cleaned his nails with a sliver of wire from the fence, and didn't offer to help.
 
 "He's not coming," the man said, at the second six hundred, pleasantly. "We could walk."
 
@@ -80,7 +78,7 @@ The flyer came in low over the sheds forty minutes late, an old plain-engine thi
 
 "Long story. Bad ending."
 
-Teo lifted off. Eli watched the yard tilt away under them, the rows of bodies in the pens, and the crane still turning.
+Teo lifted off. Eli watched the yard tilt away under them, the orcs still standing in the pens, and the crane still turning.
 
 ---
 
@@ -88,7 +86,7 @@ Teo lifted off. Eli watched the yard tilt away under them, the rows of bodies in
 
 Jon rode with them for six days and said he knew which back roads the drones didn't watch. On the fourth day a drone came down one of them and sat in the air ahead of the flyer, looking, and Teo had to put them in a river gorge and kill the engine and sit under the overhang until dark with the water loud below. Jon slept through most of it. When he woke he said they must have changed the routes, and said nothing else about it.
 
-On the second night Teo sat alone on the flyer's wing for an hour. When he came back in he said quietly to Eli, "He killed all of them. A whole yard. He didn't even look." In the morning Jon made Teo breakfast and asked about his parents and listened to the whole answer, and said they must be very proud of him. By noon Teo was laughing at his stories again.
+On the second night Teo sat alone on the flyer's wing for an hour. When he came back in he said quietly to Eli, "He just touched them, and they died. He was eating a peach." In the morning Jon made Teo breakfast and asked about his parents and listened to the whole answer, and said they must be very proud of him. By noon Teo was laughing at his stories again.
 
 On the seventh morning Jon climbed out at a fuel stop in the middle of nothing and stretched.
 
@@ -294,9 +292,9 @@ Overhead, a human freighter blinked out of the sky above the crater, and the air
 
 The trade at the ramp was nearly done. Eli went down the crater wall.
 
-He didn't sweep. He found the guns on the dwarven ship, as he'd found the moth in the temple, closed his grip on each barrel and bent it. He found five. The sixth was in a blister under the hull where he hadn't thought to look, and it opened up across the floor and cut down the two prisoners at the end of the line before he found it and folded it shut. He found the inquisitors' weapons and pulled them out of their hands, all but one. That one put a needle-round through Teo's thigh on the rim. Teo shot him and the man beside him, and then sat down hard in the black grit with both hands on his leg. Doc came down the wall behind Eli, slow and puffing and talking the whole way under his breath, the way he'd talked through the miner's arm. When a dwarven crewman came at him with a cutting bar Doc stepped aside, small and clumsy, and the bar went into the floor. Doc hit the man across the knees with the troll's stick until he stopped trying to get up.
+He didn't sweep. He found the guns on the dwarven ship, as he'd found the moth in the temple, and closed his grip on each barrel and bent it. He was still feeling along the hull for more when one he'd missed opened up from underneath. It walked across the floor and through the end of the prisoners' line before he found it and crushed it. After that everything went at once. He tore some of the inquisitors' weapons out of their hands and lost track of the rest. Something cracked off the rim behind him, and he heard Teo shout, and then Teo's rifle, twice. Doc came down the wall behind Eli, slow and puffing and talking the whole way under his breath, the way he'd talked through the miner's arm. When a dwarven crewman came at him with a cutting bar Doc stepped aside, small and clumsy, and the bar went into the floor. Doc hit the man across the knees with the troll's stick until he stopped trying to get up.
 
-It was over in a few minutes. The inquisitors were dead or running, and the dwarf in the good coat was face down on his own ramp with Eli's grip on the back of his neck.
+It was over in a few minutes. The inquisitors were dead or running, and the dwarf in the good coat was face down on his own ramp with Eli's grip on the back of his neck. Teo was sitting in the black grit up on the rim with both hands clamped on his thigh and blood coming through his fingers, swearing at the man he'd shot.
 
 They broke the chains. The freed prisoners didn't thank anyone. Most of them ran into the dark. The two at the end of the line lay where the gun had left them, still chained to each other.
 
@@ -318,7 +316,7 @@ He had strength enough. What he didn't have was practice. He had to find the edg
 
 The seam gave. A woman fell out of the air onto her hands and knees, and it closed behind her with a sound like a cough.
 
-She was starved thin, in rags tied over rags, with a short curved knife in each hand, and she came up off the ground already moving. She went past Eli without looking at him. The last two inquisitors were running for their station. She caught them at the door and went in close and touched them, a palm on a chest, fingertips on a throat, and they folded. The station's beacon was already turning on the roof above them, slow and red. She looked up at it and came back.
+She was starved thin, in rags tied over rags, with a short curved knife in each hand, and she came up off the ground already moving. She went past Eli without looking at him. The last two inquisitors were running for their station. She caught them at the door and went in close and touched them, a palm on a chest, fingertips on a throat, and they folded.
 
 She walked back to him and looked at the blood on his lip and the place in the air behind him.
 
@@ -342,7 +340,7 @@ Her eyes were silver, like the eyes in every story the palace nurses had told hi
 
 "When you've earned it."
 
-They took the dwarven ship. It was low and black, built by the Returned†, the dwarves who had come back out of the maze-land with new tricks, and it could squeeze through the world the way dwarves did. It took Teo an hour to find the cold-start, with his leg tied off and the station beacon turning, and none of them said anything the whole hour. The dwarf in the good coat they left on the moon. Doc wanted to leave him a water ration, and Eli said no, and the dark elf looked at Eli properly for the first time.
+They took the dwarven ship. It was low and black, built by the Returned†, the dwarves who had come back out of the maze-land with new tricks, and it could squeeze through the world the way dwarves did. Teo flew it out with his leg tied off. The dwarf in the good coat they left on the moon. Doc wanted to leave him a water ration, and Eli said no, and the dark elf looked at Eli properly for the first time.
 
 Two days out, Eli counted the stores. A water ration was missing. Doc was in the galley, dressing Teo's leg and talking about goats, and didn't look up.
 
@@ -1016,8 +1014,8 @@ Neither of them turned.
 
 ## Ch 1: Property
 - **Canon used:** the flight at a human city's edge, and "what did he steal?" (t362; BRIEF). Jon scoops him up (t362). Orcs chipped at birth, with puppet function and kill switch, bought as ship material (BRIEF World); since the line edit the page shows only the scar, the guard's slate and the hull-press ramps; the program name "care" is off the page, and ship material is made explicit in ch 6. Grown towers (BANK 11-02 ruling set 2, tech 7). The flesh rig (BANK 11-02 tech 4; BANK 11-01 flesh weapons ✅). Plain electric machines (BANK 11-02 power). Jon kind while cruel, never confirmed by the narrator (t746–t749; BRIEF Tone). Jon doesn't care about orcs (t705–t706). **The first kill: Jon never commands, steadies the hand, comforts afterward** (t750; F98, reworked for the adult per t755). The friend fled the palace with him (t762). The son is a pawn (chat t201). Jon's warmth switches off and his attachments carry a value (BANK 11-01 L6, Jon's interior).
-- **Invented:** the hull-press yard; the reason he runs on foot (a big reach would be seen and the palace knows his signature); the peach, and the stone dropped on the old orc; "Me."; Teo† forged the code and left his parents inside (his archive-secretary post is cut from the page in the line edit); the young orc with the rag and the old one saying a name (line edit: people, not stock). **Moved to ch 2 in the line edit:** the six-day ride, Teo's near-defection and Jon reeling him back, "What do you want from me?" / "Company."
-- **Unsure:** whether Jon tripping every kill switch at once is too big a display this early.
+- **Invented:** the hull-press yard; the reason he runs on foot (a big reach would be seen and the palace knows his signature); the peach, and the stone dropped on the old orc; "Me."; Teo† forged the code and left his parents inside (his archive-secretary post is cut from the page in the line edit); the young orc with the rag and the old one saying a name (line edit: people, not stock); the scarred woman Jon drops first (Pass 6). **Moved to ch 2 in the line edit:** the six-day ride, Teo's near-defection and Jon reeling him back, "What do you want from me?" / "Company."
+- **Pass 6 (BANK 11-08 Jon's power display):** Jon drops the orcs one at a time as they're driven at Eli, a touch at the chip scar, with visible effort; the guard stops driving the rest. No yard-wide kill. The "tripping every kill switch at once" question is closed.
 
 ## Ch 2: The Master
 - **Opens with (moved from ch 1 in the line edit):** the six-day ride, Teo's near-defection, "Company."; Jon comes and goes (t362).
@@ -1033,7 +1031,7 @@ Neither of them turned.
 
 ## Ch 4: The Door
 - **Canon used:** the weak place between hell and our world (t382, t608–t610). She's at the end of a long escape: "no one escapes alone", and **"he only opens the door"** (t758). Jon set it up (t610), here only as an offhand mention of the dwarves' buying day. The "*oh*" moment (t398), placed on her "I was a child" and her silver eyes from the nurses' stories, so it lands as recognition, not attraction (Grok pass). Bigotry corrected through contact (t394–t398). Human FTL through hell, shown once (BANK 11-01 NP#5). Elves cross by shrinking a dimension and lose the bond in transit (BRIEF World; WORLD_OVERVIEW). Dwarves squeeze dimensions (WORLD_OVERVIEW). The Inquisition sells dark elves through dwarven traffickers to rich humans (WORLD_OVERVIEW, Elves; wk W68). The stolen Returned† ship (wk W65 🟡; the people's name is a codex placeholder, `07`). She feels the homeworld beacon at any range (BANK 11-01 L9). Lirael's Collapse learned as homage (t612; chat t305). Her escape could take 50–200 years (t610).
-- **Invented:** the dead moon; Eli's choice to go (the buyers are his Empire); the toothless old man who notices the door; Eli prying it open by feel; Doc fighting badly with the stick; "When you've earned it"; leaving the dwarf with no water (Eli's call); her training on the road; the Collapse practised alone in the hold (moved from v1's love scene per attack_craft #9); her one line on the label ("They named it hell, and then they named us after it"), registering its cruelty without a lecture (BANK 11-07, 1–2).
+- **Invented:** the dead moon; the fight going wrong (a gun Eli missed kills two chained prisoners; Teo shot in the thigh; Pass 6 trims the rest); Eli's choice to go (the buyers are his Empire); the toothless old man who notices the door; Eli prying it open by feel; Doc fighting badly with the stick; "When you've earned it"; leaving the dwarf with no water (Eli's call); her training on the road; the Collapse practised alone in the hold (moved from v1's love scene per attack_craft #9); her one line on the label ("They named it hell, and then they named us after it"), registering its cruelty without a lecture (BANK 11-07, 1–2).
 - **Judge fix:** the freed old man no longer senses who is behind the door. The bond works inside each world but not between them (WORLD_OVERVIEW, Elves), so he now reads a visible tremor in the air from his own escape.
 - **Ruled:** hell-born elves are just elves and share the bond (BANK 11-07, 1); the bond still doesn't cross between worlds, so in the prison world she feels only the elves there (ch 6).
 - **Unsure:** whether the human drop zone and the elves' door should be one place (leans on NP#5).
@@ -1098,7 +1096,7 @@ Neither of them turned.
 - **Ch 1, Teo late:** the flyer arrives forty minutes late, dented, after a checkpoint; Eli waits among the bodies counting; Jon wrongly says "He's not coming" and offers no help.
 - **Ch 2, Jon's back roads fail:** a drone finds them on day four; a night in a gorge; Jon slept through it and shrugs it off. Chapter ends on Eli failing to find the cabin walls instead of "We'll come back for him".
 - **Ch 3, the Inquisition gate costs Jon:** the inquisitor keeps Jon's only token, caps the pass at three days with a red bar, logs their names, and grey coats tail them.
-- **Ch 4, the crater costs:** Eli misses the sixth gun, which kills the two prisoners at the end of the line; a needle-round goes through Teo's thigh; the station beacon is already turning; an hour to cold-start the ship. Doc's chatter on the way down is nerves. "*Oh*" moved off her looks onto "I was a child" (no "ashamed of it"). The scene ends on Doc having left the water ration behind Eli's back. Jon's appearance at the Collapse practice is no longer unheard: he came aboard that evening, grey, after five weeks away.
+- **Ch 4, the crater costs** (reworked in Pass 6)**:** Eli misses the sixth gun, which kills the two prisoners at the end of the line; a needle-round goes through Teo's thigh; the station beacon is already turning; an hour to cold-start the ship. Doc's chatter on the way down is nerves. "*Oh*" moved off her looks onto "I was a child" (no "ashamed of it"). The scene ends on Doc having left the water ration behind Eli's back. Jon's appearance at the Collapse practice is no longer unheard: he came aboard that evening, grey, after five weeks away.
 - **Ch 5, the colony talks:** walkouts, a two-day stall Eli sits out alone, and the handed-over boy's grandmother never speaks to him again. **The Queen's attack without Jon:** Jon is in the giant's hall; Eli argues for the relay himself; she opens his cheek before she stops ("So you remember who you are"); Jon comes back at dawn and says "Ah." The rivalry beat ends with her putting him down again.
 - **Ch 6:** at the strike the dark elf stands at his shoulder (hand-holding saved for the hell crossing). The master throws Eli out ("Get out of my temple"); four days' wait for a part; he arrives as the ramp lifts and boards without a word. The Inquisition doesn't fold: a cutter hunts them from the crater, takes the Returned ship back and leaves them to drift; nineteen days in a lifeboat. Dragon fight: the dark elf is a step late, Teo's hand and forearm are burned (stiff for good), Doc's laugh at the eye is cut for shouting with his voice cracking; the freighter is dead and they wait three weeks for rescue. Jon's "I knew you would" gets "How?" and "I don't know." On the lander Jon's speech to the master is cut off ("You didn't know him"), and the master stays without saying why.
 - **Ch 7:** Jon misses one spar in the fall, which opens the Queen's shoulder; Doc binds it on the terrace; it bleeds through in her duel.
@@ -1111,3 +1109,10 @@ Neither of them turned.
 - **Ch 3, Doc's plant quieter (Grok 2, #3):** "Back home I was the healer for a whole village… Everyone brought me their sick" cut; the village is now half a line inside the goat story at the clinic.
 - **Jon as gravity well (Grok 2, #1):** ch 2, Eli names the need for people and training before Jon can; ch 3, the elven city is Eli's choice (the Empire's oldest enemy), Jon only gets them in; ch 6, the talking part of the plan is Eli's.
 - **Flag:** the appeal is addressed to the Emperor as his father, which Eli knows on this page (ch 2, ch 5); per BRIEF he does not know the Emperor is Derrek, and nothing here changes that.
+
+### Pass 6 (yard, crater) (2026-11-08)
+*🌊 Pass for BANK 11-08 (Jon's power display; rework the crater) and points 1–2 of `reviews/grok_review3_2026-11-08.md`. Previous version: `SAMPLE_BOOK1_FINAL_v6prev.md`. No canon changes; Patrick's lines and the window untouched. Length about the same.*
+- **Ch 1, the yard:** Jon no longer drops every orc at once. He comes off the crane, steps between Eli and the orcs, and drops them one or two at a time with a touch at the chip scar, breathing hard by the fifth or sixth; the guard stops driving the rest, who stand in the pens with hands half raised. The burn-scarred woman, the rag, the crying, the old man's name, "Breathe", the first kill and the peach stone all stay.
+- **Ch 1–2 continuity:** "rows of bodies in the pens" became the orcs still standing; Teo's "He killed all of them. A whole yard. He didn't even look" became "He just touched them, and they died. He was eating a peach."
+- **Ch 4, the crater:** the costs are no longer a list. Eli misses a gun under the hull and it kills the two prisoners at the end of the line; the fight goes ragged; Teo is shot in the thigh and found swearing on the rim. Cut: the five/sixth count, "all but one", the station beacon and the hour to cold-start. The Inquisition cutter in ch 6 now follows from the inquisitors who ran.
+
