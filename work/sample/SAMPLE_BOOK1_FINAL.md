@@ -36,7 +36,7 @@ A man was sitting on the counterweight of the nearest crane, twenty feet up, eat
 
 "You look," he said, "like you could use an exit."
 
-He dropped off the crane, landed heavier than he meant to, and came across the slag still chewing. A woman with burn scars up both arms reached Eli first. The man stepped in and put two fingers to the back of her neck, on the scar, the way you'd feel a child's forehead for fever. Her legs went, and he let her down.
+He dropped off the crane, landed hard, and came across the slag still chewing. A woman with burn scars up both arms reached Eli first. The man stepped in and put two fingers to the back of her neck, on the scar, the way you'd feel a child's forehead for fever. Her legs went, and he let her down.
 
 He took the next one by the wrist, turned him, touched, and let him down too. Then two at once, a hand for each, and he grunted at that and shook his fingers out after. He kept himself between them and Eli and took them as they came. By the fifth or sixth he was breathing through his mouth. The old man with the split lip reached them still saying the name, and the man put a hand to the back of his head, and he stopped in the middle of it.
 
@@ -78,13 +78,15 @@ The flyer came in low over the sheds forty minutes late, an old plain-engine thi
 
 "Long story. Bad ending."
 
-Teo lifted off. Eli watched the yard tilt away under them, the orcs still standing in the pens, and the crane still turning.
+Teo lifted off. Below them the orcs were still standing in the pens.
+
+"Where to?" said Teo.
 
 ---
 
 ## Two: The Master
 
-Jon rode with them for six days and said he knew which back roads the drones didn't watch. On the fourth day a drone came down one of them and sat in the air ahead of the flyer, looking, and Teo had to put them in a river gorge and kill the engine and sit under the overhang until dark with the water loud below. Jon slept through most of it. When he woke he said they must have changed the routes, and said nothing else about it.
+Jon rode with them for six days and said he knew which back roads the drones didn't watch. On the fourth day a drone came down one of them and hung in the air ahead of the flyer, looking, and Teo had to put them in a river gorge and kill the engine and sit under the overhang until dark with the water loud below. Jon slept through most of it. When he woke he said they must have changed the routes, and said nothing else about it.
 
 On the second night Teo sat alone on the flyer's wing for an hour. When he came back in he said quietly to Eli, "He just touched them, and they died. He was eating a peach." In the morning Jon made Teo breakfast and asked about his parents and listened to the whole answer, and said they must be very proud of him. By noon Teo was laughing at his stories again.
 
@@ -126,7 +128,7 @@ When Jon next turned up, Eli told him, and told him the rest before Jon could: h
 
 "A great deal better," he said.
 
-Eli did not ask him about the guard.
+Eli did not ask him about the guard. Jon was already asking Teo whether there was anything to eat.
 
 ---
 
@@ -134,7 +136,7 @@ He had been taught to push, hard and clean. He could break a wall from across a 
 
 The rift was on a grey, cold world too far from anything to matter, except for the wound in the ground: three miles across, the rock glassy, the air tasting of a struck bell. Remnant welled up out of it like oil from a bad well, so there was a city on its rim, and the city had been at war for longer than anyone in it had been alive. Five companies held wells on the rim. Somebody had built a temple on the near edge, and somebody else had shelled it, and somebody had rebuilt it.
 
-Soldiers came off the transports in amplifier rigs that let an ordinary man reach three times as far as he should. On his second day Eli watched one burn out. The boy was perhaps nineteen, holding a line on the north wells, and he pushed through his rig for twenty seconds longer than his body could carry. The light went out of him room by room. He sat down in the mud with blood running from his ears and eyes. His rig was off him before he was cold and buckled onto the next boy.
+Soldiers came off the transports in amplifier rigs that let an ordinary man reach three times as far as he should. On his second day Eli watched one burn out. The boy was perhaps nineteen, holding a line on the north wells, and he pushed through his rig for twenty seconds longer than his body could carry. His face went grey, then slack. He sat down in the mud with blood running from his ears and eyes. His rig was off him before he was cold and buckled onto the next boy.
 
 "Burnout," said the woman who sold Eli noodles that night. "Rig's fine. It's the meat that goes."
 
@@ -212,7 +214,7 @@ On the river bridge out of the district a troll sat in a toll box, a squat grumb
 
 Eli wanted to see the elves first. They were the Empire's oldest enemy, and if he took the chair he would inherit their war. Jon said they were the only people left who could build a city that made you want to cry, and came along to get them in.
 
-It stood on a world of high cold rivers, grown whole like the old giant cities, but finer. Its towers leaned toward each other as if in conversation.
+It stood on a world of high cold rivers, grown whole like the old giant cities, but finer. Its towers leaned in toward each other at the top.
 
 It took three hours to get in. Papers. A search. An inquisitor in grey asked Eli the same eleven questions three times in the same order and watched his eyes. At the end Jon spoke to the inquisitor in elvish and showed him a token on a chain. The inquisitor turned the token over, then held out his hand until Jon took the chain off his neck and gave it to him. He put it in his coat. Then he stamped the papers, three days and not one more, with a red bar across the corner, and wrote something in a ledger beside each of their names.
 
@@ -226,7 +228,7 @@ On the second day they crossed a square where an elf knelt on the stones with hi
 
 "Disagreed," said Jon. "Out loud."
 
-Nobody jostled in the streets. Nobody spoke to pass in a doorway. Crowds parted and closed without a word or a glance, and Eli, who had grown up in a palace full of whispering, could not get used to it. The king's name was on the arches and the coins and said quietly in the markets: Mika. Every order came from him.
+Nobody jostled in the streets. Nobody said excuse me in a doorway. Crowds parted and closed without a word or a glance, and Eli, who had grown up in a palace full of whispering, could not get used to it. The king's name was on the arches and the coins and said quietly in the markets: Mika. Every order came from him.
 
 A young archivist, ordered to be helpful, told them about the dark elves in two sentences. They were born in the prison realm with the soul thieves and the traitors, and they came out of it full of hate. They were not really elves any more.
 
@@ -242,7 +244,7 @@ At the statue's foot an old elven woman was weeping without sound. Teo crouched 
 
 "Who?"
 
-She looked at him with wet, ancient eyes.
+She looked at him. Her eyes were wet.
 
 "I don't know," she said. "I never know. None of us do." She turned back to the statue. "We come here because it seems the place to bring it."
 
@@ -252,7 +254,7 @@ He was standing in front of the statue with his hands in his coat pockets, looki
 
 Then Jon turned round.
 
-"Dinner," he said. "Come on."
+"Dinner," he said. It came out hoarse, and he cleared his throat and said it again. "Come on."
 
 ---
 
@@ -342,7 +344,7 @@ Her eyes were silver, like the eyes in every story the palace nurses had told hi
 
 They took the dwarven ship. It was low and black, built by the Returned†, the dwarves who had come back out of the maze-land with new tricks, and it could squeeze through the world the way dwarves did. Teo flew it out with his leg tied off. The dwarf in the good coat they left on the moon. Doc wanted to leave him a water ration, and Eli said no, and the dark elf looked at Eli properly for the first time.
 
-Two days out, Eli counted the stores. A water ration was missing. Doc was in the galley, dressing Teo's leg and talking about goats, and didn't look up.
+Two days out, Eli counted the stores. A water ration was missing. Doc was in the galley, dressing Teo's leg and talking about goats. Eli counted again and got the same number.
 
 ---
 
@@ -366,7 +368,7 @@ Jon was in the doorway behind Eli. He had come aboard that evening after five we
 
 "That's a hard one to learn," he said. "Good for you."
 
-He went back down the corridor, whistling.
+He went back down the corridor, whistling. Halfway along he lost the tune, stopped, and started it again from the beginning.
 
 ---
 
@@ -430,7 +432,9 @@ Behind him the Queen went very still.
 
 The giant didn't move. Then he told them about the golden age: the giants' laws and the giants' peace, and the dragons who had been their seconds and decided they would rule better. On betrayal day the emperor's closest advisor, a dragon, walked into the heart of the capital and breathed it to ash. In the last moment of his life the emperor took his whole city, every body and every soul in it, and shaped it into a shield.
 
-"What was left is the Tower," said the giant. "Your father's house. It isn't a building. The souls of that day are still in its walls, all of them, run together." He leaned down until his face filled the air in front of Eli. "And you would like me to send giants to knock on its door. No. Go home, little prince. Whatever home you have."
+"What was left is the Tower," said the giant. "Your father's house. It isn't a building. The souls of that day are still in its walls, all of them, run together." He leaned down until his face filled the air in front of Eli. "And you would like me to send giants to knock on its door. No."
+
+A servant showed them out by a side door, the one used for deliveries.
 
 ---
 
@@ -448,7 +452,7 @@ She looked down at him. Then the blade moved, very fast, and opened his cheek fr
 
 "So you remember who you are," she said.
 
-Doc stitched the cheek on the ship, without a joke, and told him it would scar. Jon came back near dawn and saw the stitches and asked what had happened, and when Eli told him, he said, "Ah." That was all.
+Doc stitched the cheek on the ship, without a joke, and told him it would scar. Jon came back near dawn and saw the stitches and asked what had happened, and when Eli told him, he said, "Ah." He lifted a hand toward Eli's face, then put it in his coat pocket. That was all.
 
 She sent the message. The reply came in eleven hours. Eli never saw it. He saw her face when she read it. Then she went to the training deck and put her fist through the bulkhead twice, and came back with her knuckles split to the bone and her face unchanged.
 
@@ -512,7 +516,9 @@ The master looked at him for a while.
 
 They waited on the rim for four days, because the ship needed a part and the part had to come from two systems away. Eli didn't go back up the steps. On the fourth night the part came, and Teo had the drive warm by morning, and they had the ramp half up when the master came across the landing field in the rain with his bag on his shoulder.
 
-Eli opened his mouth. The old man went past him into the ship without a word.
+Eli opened his mouth. The old man went past him up the ramp.
+
+"Your drive's whining," he said from inside. "Have somebody look at it."
 
 ---
 
@@ -552,7 +558,7 @@ It breathed again, and again, slower each time. The fifth breath came out ragged
 
 Eli had waited at the edge of all of it and done nothing, and that had been harder than anything after. He reached.
 
-He went slowly, blind, as he had for the moth. Through the scales, which was like feeling through a mountain. Through muscle and bone and the great hot drum of the lungs. He found the heart, the size of the flyer and labouring after five breaths, and in it the narrow place where everything went through.
+He went slowly, blind, as he had for the moth. Through the scales, which was like feeling through a mountain. Through muscle and bone and the lungs, huge and hot. He found the heart, the size of the flyer and labouring after five breaths, and in it the narrow place where everything went through.
 
 He closed his hand.
 
@@ -578,7 +584,7 @@ Jon opened his mouth, and closed it. He looked out at the carcass again.
 
 A month later, on another freighter, the hull took a hit and the cold got into the hold where forty chipped orcs were being shipped to the Legion yards. Teo found them. They had pressed together against the warmest bulkhead, and some had their arms round each other. He came back shaking and couldn't speak.
 
-Jon went and looked. Then he came and sat with Teo for an hour with an arm round his shoulders, and talked to him softly about the first dead he had ever seen, and how it never stopped mattering, and that was how you knew you were still a person. Teo cried into his coat. When the purser came by, Jon, without taking his arm off Teo, booked their passage to the next system in that same hold. "At a discount," he said. "They won't be needing it."
+Jon went and looked. Then he came and sat with Teo for an hour with an arm round his shoulders, and talked to him softly about the first dead he had ever seen, and how it never stopped mattering, and that was how you knew you were still a person. Teo cried into his coat. When the purser came by, Jon, without taking his arm off Teo, booked their passage to the next system in that same hold. "At a discount," he said. "They won't be needing it." The purser wrote it down.
 
 ---
 
@@ -606,11 +612,13 @@ The master stood up, slowly. He stood in the dark of the cabin with his bag at h
 
 "Don't," said the master. "You didn't know him."
 
-Jon closed his mouth.
+Jon closed his mouth. After a while he turned his left hand over in his lap and looked at the palm, and kept looking at it.
 
 The master picked up the bag and went to the hatch and stood in it with the cold coming in round him. Nobody spoke. Eli thought of three things to say and said none of them. In the end the master came back and sat down and pushed the bag under his seat, and didn't speak for the rest of the night, and didn't say why.
 
-Doc laughed softly in the dark at something none of them could see.
+Somewhere in the dark Doc laughed softly.
+
+"Sorry," he said. "I was thinking about a goat."
 
 ---
 
@@ -624,7 +632,7 @@ Jon flew them in. He stood at the lander's open door with the wind tearing at hi
 
 They landed on a terrace two-thirds of the way up the Tower, where a door stood open. Doc bound the Queen's shoulder on the terrace with her standing, and she let him. Then they went in.
 
-One step inside, and the war was gone. Eli looked back through the open door and could see the sky burning, ships breaking, fire falling, all of it in perfect silence.
+One step inside, and the war was gone. Eli looked back through the open door and could see the sky burning, ships breaking, fire falling, all of it without a sound.
 
 They were in a pale, seamless corridor that curved gently away. The light had no source. The air didn't stir when you breathed it.
 
@@ -736,7 +744,7 @@ The Queen stopped beside him on her way to the door.
 
 ---
 
-The stair beyond the door wound up through the heart of the Tower. Arches along it opened on half-seen rooms: a hall of ancient grown weapons, pale and ribbed; a hall hung with banners from wars nobody had written down.
+The stair beyond the door wound up through the heart of the Tower. Arches along it opened on half-seen rooms: a hall of ancient grown weapons, pale and ribbed; a hall hung with banners from wars nobody had written down. They didn't stop to look. By the second turn Doc needed the rail.
 
 ---
 
@@ -746,7 +754,7 @@ The ceiling was lost in shadow. A great curved window ran the whole height of on
 
 He was older than Eli had let himself expect: lean, grey at the temples, plainly dressed, with an intelligent, tired, unremarkable face. Eli had never seen his father's face. Nobody had. He knew it anyway.
 
-Beside the chair stood a younger man in black armour with a ribbed sword at his hip, watching them come with frightened hate.
+Beside the chair stood a younger man in black armour with a ribbed sword at his hip, watching them come. He looked scared, and angry.
 
 "Jon," said the man in the chair.
 
@@ -824,7 +832,7 @@ Eli wasn't watching him. He was watching the Queen. She lay on her side at the f
 
 Behind her the apprentice was screaming. It went on a long time, and changed, and stopped. When Eli looked up there was a shape on the floor beside her, black and smoking and very small.
 
-Derrek looked round the room at each of them in turn, as if waiting for someone to laugh. Nobody did. He sighed through his nose, sat back in his chair and yawned again, and covered his mouth politely with his bleeding hand. The hand was shaking. He looked at it, and put it in his lap.
+Derrek looked round the room at each of them in turn, as if waiting for someone to laugh. Nobody did. He sighed through his nose, sat back in his chair and yawned again, and covered his mouth politely with his bleeding hand. The hand was shaking.
 
 ---
 
@@ -852,7 +860,7 @@ Nobody moved. A little grit slid across the stone toward the empty place and sto
 
 Jon had taken one step forward as the air closed. He was still standing with one foot ahead of the other.
 
-Derrek stood among the wreckage of his chair with his right arm hanging. The skin of the forearm was gone, wrung like a cloth. He looked across the empty place at Jon and said nothing.
+Derrek stood among the wreckage of his chair with his right arm hanging. The skin of the forearm was gone, wrung like a cloth.
 
 ---
 
@@ -1116,3 +1124,22 @@ Neither of them turned.
 - **Ch 1–2 continuity:** "rows of bodies in the pens" became the orcs still standing; Teo's "He killed all of them. A whole yard. He didn't even look" became "He just touched them, and they died. He was eating a peach."
 - **Ch 4, the crater:** the costs are no longer a list. Eli misses a gun under the hull and it kills the two prisoners at the end of the line; the fight goes ragged; Teo is shot in the thigh and found swearing on the rim. Cut: the five/sixth count, "all but one", the station beacon and the hour to cold-start. The Inquisition cutter in ch 6 now follows from the inquisitors who ran.
 
+
+### Pass 7 (endings, Jon cracks, word choice) (2026-11-08)
+*🌊 Pass for points 2–4 of `reviews/grok_review4_prose_2026-11-08.md`. Previous version: `SAMPLE_BOOK1_FINAL_v7prev.md`. No canon or plot changes. Patrick's lines, Eli's floor speech, the yard and crater from Pass 6, and the window are untouched. Length about the same (+~80 words).*
+- **Endings kept as a closing shot (3):** ch 8's "Then he sat down beside him."; ch 9's window (untouched); the dragon holding the line in ch 6's strike. Dialogue endings that land as intended are also kept: "You brought children." (ch 7), "It's just us." (ch 8), "She told him her name…" (ch 6), "I don't know" (ch 6).
+- **Endings changed (before → after):**
+  - Ch 1 end: "Eli watched the yard tilt away under them, the orcs still standing in the pens, and the crane still turning." → "Below them the orcs were still standing in the pens. / 'Where to?' said Teo." (mid-conversation)
+  - Ch 2, the warrant: "Eli did not ask him about the guard." → adds "Jon was already asking Teo whether there was anything to eat." (mid-conversation)
+  - Ch 3 end: "'Dinner,' he said. 'Come on.'" → his voice comes out hoarse and he says it again (a line that doesn't button)
+  - Ch 4, the crater: "…talking about goats, and didn't look up." → "Eli counted again and got the same number." (small irritation)
+  - Ch 4 end: "He went back down the corridor, whistling." → he loses the tune halfway and starts it again (mid-motion)
+  - Ch 5, the giant: "Go home, little prince. Whatever home you have." → "No." / a servant shows them out by the delivery door (flat practical)
+  - Ch 6, the master boards: "…into the ship without a word." → "'Your drive's whining,' he said from inside. 'Have somebody look at it.'" (small irritation)
+  - Ch 6, the orc hold: "'They won't be needing it.'" → adds "The purser wrote it down." (flat)
+  - Ch 6 end: "Doc laughed softly in the dark at something none of them could see." → "'Sorry,' he said. 'I was thinking about a goat.'" (dialogue, no button)
+  - Ch 7, the stair: "…banners from wars nobody had written down." → adds "They didn't stop to look. By the second turn Doc needed the rail." (mid-motion)
+  - Ch 8, the apprentice: "…The hand was shaking. He looked at it, and put it in his lap." → ends on "The hand was shaking." (cut before it resolves)
+  - Ch 8, the Collapse: "…wrung like a cloth. He looked across the empty place at Jon and said nothing." → ends on "wrung like a cloth." (cut away)
+- **Jon's cracks (observed only, none interpreted):** ch 3, "Dinner" comes out hoarse at the statue and he clears his throat (t392–t396, the linger); ch 4, after the Collapse practice he loses his whistled tune halfway down the corridor; ch 5, after "Ah." he lifts a hand toward Eli's stitched face and puts it in his pocket; ch 6, cut off by the master on the lander, he turns his left hand over and looks at the palm. Existing cracks kept: "I don't know" (ch 6), the single tear (ch 8), the half step as she dies (ch 8). All are before the Tower or are the canon tear, so Jon stays cold from the Tower entry (wk W49); the late-run memory stays unstated (BANK 11-07 NP#3).
+- **Word sweep (one degree off → plain):** "landed heavier than he meant to" → "landed hard" (also removes a read of Jon's intent); "sat in the air" → "hung in the air"; "The light went out of him room by room" → "His face went grey, then slack"; towers "as if in conversation" → "leaned in toward each other at the top"; "Nobody spoke to pass in a doorway" → "Nobody said excuse me in a doorway"; "wet, ancient eyes" → "Her eyes were wet"; "the great hot drum of the lungs" → "the lungs, huge and hot"; "in perfect silence" → "without a sound"; "with frightened hate" → "He looked scared, and angry."
