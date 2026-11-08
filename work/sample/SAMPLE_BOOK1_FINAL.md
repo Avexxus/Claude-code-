@@ -124,9 +124,9 @@ His father had never once asked to see him. He sent tutors and reports and order
 
 Teo laughed, and then saw his face, and stopped.
 
-When Jon next turned up, Eli told him. Jon listened without interrupting. Then he put his hand on Eli's shoulder, as he had in the yard.
+When Jon next turned up, Eli told him, and told him the rest before Jon could: he would need people, and he would need to be better than he was, and he meant to go and find both. Jon listened without interrupting. Then he put his hand on Eli's shoulder, as he had in the yard.
 
-"Then you'll need people," he said. "And you'll need to be a great deal better than you are."
+"A great deal better," he said.
 
 Eli did not ask him about the guard.
 
@@ -174,7 +174,7 @@ They needed a healer, and Eli chose the gnome.
 
 Teo didn't like it. They were in a dwarven mining district on a world known by a number, and the district had a gnome quarter, and the quarter had a clinic with a line out the door. In the dwarven districts gnomes worked on contracts that ran for life, and they got very good at not being noticed.
 
-The healer was small even for a gnome, round in the face and bald on top, with enormous ears. He talked the whole time he worked. Eli stood at the back and watched him set a miner's shattered forearm while the man screamed, chatting through it about a goat he'd once owned. Then he took a feverish child from her mother and sat with her behind a curtain for an hour, and brought her back out cool and sleeping.
+The healer was small even for a gnome, round in the face and bald on top, with enormous ears. He talked the whole time he worked. Eli stood at the back and watched him set a miner's shattered forearm while the man screamed, chatting through it about a goat he'd once owned, which had eaten the herb garden the winter half his village came to him with fever. Then he took a feverish child from her mother and sat with her behind a curtain for an hour, and brought her back out cool and sleeping.
 
 The mother tried to thank him. He held up a small hand.
 
@@ -206,13 +206,13 @@ The gnome watched it burn. Then he smiled up at Eli, very warmly.
 
 "What do we call you?" Teo asked.
 
-"Doc†. The children here do. It's not a name, it's a job." He picked up his bag. "Back home I was the healer for a whole village, long ago. Everyone brought me their sick."
+"Doc†. The children here do. It's not a name, it's a job." He picked up his bag.
 
 On the river bridge out of the district a troll sat in a toll box, a squat grumbling fellow a head taller than Doc and still a head short of Eli's shoulder. Doc paid in coin and a joke about the troll's mother. The troll didn't laugh. A mile on, Teo noticed the troll's stick was missing from the box. It was in Doc's bag. It had a nail through the end, and Doc said he'd always wanted one.
 
 ---
 
-Jon took them to the elves because, he said, they were the only people left who could build a city that made you want to cry.
+Eli wanted to see the elves first. They were the Empire's oldest enemy, and if he took the chair he would inherit their war. Jon said they were the only people left who could build a city that made you want to cry, and came along to get them in.
 
 It stood on a world of high cold rivers, grown whole like the old giant cities, but finer. Its towers leaned toward each other as if in conversation.
 
@@ -598,9 +598,9 @@ Jon looked up. "We tire him out."
 
 "It's strong for everyone," said Jon. "It makes everyone bigger. It doesn't make anyone less tired."
 
-"And then what?"
+"And when he's tired," said Eli, "I talk to him. That part's mine."
 
-"Then we'll see," said Jon.
+Jon looked at him. "Then we'll see," he said.
 
 The master stood up, slowly. He stood in the dark of the cabin with his bag at his feet, and Eli saw that he was going to pick it up and walk off the lander, here, the night before, and that nobody would stop him.
 
@@ -820,13 +820,21 @@ Derrek looked at him.
 
 "Proud?" he said. "Proud of what, exactly? You only killed one, and now you're burning alive." He sighed. "You've always been a disappointment, and I can't believe you've embarrassed me again today."
 
-The apprentice didn't hear it. He was already screaming. The fire was inside him now, coming out through his skin and his mouth and his eyes and the joints of his armour. He burned out like the boy at the rift, but from the inside and all at once. The scream went on a long time. Then there was a shape on the floor, black and smoking and very small.
+The apprentice didn't hear it. The fire was inside him now, coming out through his skin and his mouth and the joints of his armour.
+
+Eli wasn't watching him. He was watching the Queen. She lay on her side at the foot of the dais with her arms folded under her where arms don't fold, and her eyes open on the steps. Every day for a year she had put him on the deck and stood over him until he got up. He waited for her to get up.
+
+Behind her the apprentice was screaming. It went on a long time, and changed, and stopped. When Eli looked up there was a shape on the floor beside her, black and smoking and very small.
 
 Derrek looked round the room at each of them in turn, as if waiting for someone to laugh. Nobody did. He sighed through his nose, sat back in his chair and yawned again, and covered his mouth politely with his bleeding hand. The hand was shaking. He looked at it, and put it in his lap.
 
 ---
 
-The dark elf let go of Eli.
+Her arms were still round him from behind. He could feel her breathing against his back, short and even, the way she breathed in the hold when she practised.
+
+"Don't," he said.
+
+She found his hand, and the two fingers she had broken on the crossing, and pressed them once. Then she let go of him.
 
 Nobody saw her go; that was the point of her. One moment her arms were round him, and the next the shadows behind the chair moved and she was there, at Derrek's back, her hand already rising, the fingers curling like the statue's.
 
@@ -842,11 +850,11 @@ Everything that had been falling toward him fell toward her instead.
 
 Her silver eyes found Eli across the room. Then the space around her folded in and took her whole, toward a point just behind her heart. It made a small flat noise, like a book being shut, and where she had been there was nothing.
 
-Jon took one step forward as the air closed. Then he stopped.
+Nobody moved. A little grit slid across the stone toward the empty place and stopped. Eli could hear Derrek breathing, and his own breath, and nothing else in the whole Tower. He was on his knees, holding the two fingers in his other hand, and didn't remember taking hold of them.
 
-Derrek stood among the wreckage of his chair with his right arm hanging. The skin of the forearm was gone, wrung like a cloth. He was breathing hard. He looked across the empty place at Jon and said nothing.
+Jon had taken one step forward as the air closed. He was still standing with one foot ahead of the other.
 
-Eli was on his knees, looking at the place where she had been.
+Derrek stood among the wreckage of his chair with his right arm hanging. The skin of the forearm was gone, wrung like a cloth. He looked across the empty place at Jon and said nothing.
 
 ---
 
@@ -904,11 +912,25 @@ He was up off the floor and running across the long room before he knew he would
 
 It hit Derrek in the chest and took him off his feet and back three steps, and the dais cracked end to end under his heels. Derrek's bloodied face showed what might have been surprise.
 
-Then he flicked his good hand, and Eli was on the floor fifty feet away with his ribs broken and his reach gone out of him like breath. He couldn't get up.
+Then he flicked his good hand, and Eli was on the floor fifty feet away with his ribs broken and his reach gone out of him. He couldn't get up.
 
-Derrek still hadn't looked at him.
+Derrek still hadn't looked at him. He was looking at Jon, and Jon was looking back, and neither of them moved.
 
-Jon walked past him.
+Eli got an elbow under him.
+
+"You put me on a post," he said. It came out wet. "Recover imperial property. They had my face down to the scar on my chin. You never once asked to see it."
+
+Derrek's eyes stayed on Jon.
+
+"A man died at a fence for your warrant, and it was already on every wall. There was a boy in your yard with a rag on his hand, crying while your guard walked him at me." He spat blood on the floor. "Teo carried something across your whole war to say to you. His mother and father are still in your house. You said it for him."
+
+Nothing.
+
+"I asked them to come. All of them. I sat at their tables and asked." His voice went, and he let it go. "Here's your property. It came all this way. Look at it."
+
+Derrek didn't turn his head. His good hand had been coming up, open, toward Jon. It stopped halfway and stayed there.
+
+Jon was already walking past Eli.
 
 They fought. Eli saw three things and nothing in between. He saw the great window star from top to bottom and hold. He saw Jon standing perfectly still in the centre of the floor with his eyes shut while the far wall of the throne room came apart around Derrek and put itself back together. He saw Derrek fall to one knee, get up, and fall again.
 
@@ -1007,7 +1029,7 @@ Neither of them turned.
 ## Ch 3: The Healer and the Statue
 - **Canon used:** the changeling hidden as a cheerful gnome (BRIEF Crew). His healer method is **backstory only**: the village shaman whose people brought their sick, and "I wasn't able to save your loved one" (BANK 11-01 L24). In Book 1's present he heals honestly. The line is planted as an innocent remark here and revealed in the Tower. Changelings are a threat nobody guards against (BANK 11-01 changeling paranoia). Gnomes indentured to dwarves (WORLD_OVERVIEW, Dwarves). Selling a being is possible, selling a soul isn't (BANK 11-02 money). **Trolls sit between goblin and orc**: a head taller than Doc, a head short of a man's shoulder (BANK 11-01 trolls). The elven city first (t396). Lirael's statue, and Jon lingers a moment too long (t392–t396). Lirael is Mika's sister (wk W45). Elves authoritarian and harsh (WORLD_OVERVIEW, Elves; t454). Mika fully in control; Jon an outsider with some favor (BANK 11-01 W44/t550, L10). Elves grieve people no one can name (BANK 11-01 showing time travel #2). Dark elves told of as evil, from hell (t394; BANK 11-01 NP#5), the archivist's account being elven propaganda (BANK 11-07, 1).
 - **Invented:** Eli choosing Doc against Teo's unease, buying the contract and burning it; "Where would I go?"; the stolen troll stick; the honest clinic scene; the day-pass token; the elf with his mouth wired shut; elves moving "like water through a channel" (collective ease in place of v1's child-falling image, which read as individual tracking, wk W08); the old woman at the statue.
-- **Unsure:** whether "Back home I was the healer for a whole village" is too strong a plant.
+- **Unsure:** whether the buried plant (Pass 5: half a line inside the goat story, "the winter half his village came to him with fever") is now too faint to pay off.
 
 ## Ch 4: The Door
 - **Canon used:** the weak place between hell and our world (t382, t608–t610). She's at the end of a long escape: "no one escapes alone", and **"he only opens the door"** (t758). Jon set it up (t610), here only as an offhand mention of the dwarves' buying day. The "*oh*" moment (t398), placed on her "I was a child" and her silver eyes from the nurses' stories, so it lands as recognition, not attraction (Grok pass). Bigotry corrected through contact (t394–t398). Human FTL through hell, shown once (BANK 11-01 NP#5). Elves cross by shrinking a dimension and lose the bond in transit (BRIEF World; WORLD_OVERVIEW). Dwarves squeeze dimensions (WORLD_OVERVIEW). The Inquisition sells dark elves through dwarven traffickers to rich humans (WORLD_OVERVIEW, Elves; wk W68). The stolen Returned† ship (wk W65 🟡; the people's name is a codex placeholder, `07`). She feels the homeworld beacon at any range (BANK 11-01 L9). Lirael's Collapse learned as homage (t612; chat t305). Her escape could take 50–200 years (t610).
@@ -1081,3 +1103,11 @@ Neither of them turned.
 - **Ch 6:** at the strike the dark elf stands at his shoulder (hand-holding saved for the hell crossing). The master throws Eli out ("Get out of my temple"); four days' wait for a part; he arrives as the ramp lifts and boards without a word. The Inquisition doesn't fold: a cutter hunts them from the crater, takes the Returned ship back and leaves them to drift; nineteen days in a lifeboat. Dragon fight: the dark elf is a step late, Teo's hand and forearm are burned (stiff for good), Doc's laugh at the eye is cut for shouting with his voice cracking; the freighter is dead and they wait three weeks for rescue. Jon's "I knew you would" gets "How?" and "I don't know." On the lander Jon's speech to the master is cut off ("You didn't know him"), and the master stays without saying why.
 - **Ch 7:** Jon misses one spar in the fall, which opens the Queen's shoulder; Doc binds it on the terrace; it bleeds through in her duel.
 
+### Pass 5 (emotional attack, rhythm) (2026-11-08)
+*🌊 Pass for BANK 11-08 (Eli's final attack is emotional) and the open points in `reviews/grok_review2_2026-11-08.md`. Previous version: `SAMPLE_BOOK1_FINAL_v5prev.md`. No canon changes; Patrick's lines and the window untouched.*
+- **Ch 8, Eli's appeal (BANK 11-08):** after the charge that gets him swatted, Eli, ribs broken, talks to his father from the floor: the warrant ("property"), his face never asked for, the guard at the fence, the young orc with the rag, Teo's words taken out of his mouth, the crew he asked to come. Derrek never looks at him (drywall, BANK 11-01 L3 follow-up; t372 holds: no force wins). The one tell: Derrek's good hand, rising toward Jon, stops halfway, and Jon is already moving. Whether the appeal landed, or only cost Derrek a beat, is left unread.
+- **Ch 6, setup:** on the lander Eli claims the talking ("That part's mine"), so the appeal is his own plan from Jon's "tired men can be talked to".
+- **Ch 8, death rhythm (Grok 2, #2):** the apprentice's burnout now happens behind Eli's back while he watches the Queen's body and waits for her to get up, found after as the black shape; a short quiet exchange with the dark elf ("Don't."; she presses the two fingers she broke) breaks the run before her strike; her death gets a silent beat (grit sliding, breath, Jon frozen mid-step). Teo stays instant, the master mediated, Doc long.
+- **Ch 3, Doc's plant quieter (Grok 2, #3):** "Back home I was the healer for a whole village… Everyone brought me their sick" cut; the village is now half a line inside the goat story at the clinic.
+- **Jon as gravity well (Grok 2, #1):** ch 2, Eli names the need for people and training before Jon can; ch 3, the elven city is Eli's choice (the Empire's oldest enemy), Jon only gets them in; ch 6, the talking part of the plan is Eli's.
+- **Flag:** the appeal is addressed to the Emperor as his father, which Eli knows on this page (ch 2, ch 5); per BRIEF he does not know the Emperor is Derrek, and nothing here changes that.
