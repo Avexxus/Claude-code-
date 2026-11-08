@@ -1,6 +1,6 @@
 # Book 1: sample, final (TEST, NOT CANON)
 
-> 🌊 **Claude test draft, not canon prose.** Revised 2026-11-07 from `draft_v1.md` against three hostile reviews (`attack_lore.md`, `attack_logic.md`, `attack_craft.md`), answered in `rebuttals.md`, then judged: the judge's surgical fixes are listed at the end and scored in `FIGHT_LOG.md`. Line-edited the same day for Patrick's craft notes (BANK 11-07 craft; see `EDIT_NOTES.md`; previous version `SAMPLE_BOOK1_FINAL_v3prev.md`). Every line of the real book is Patrick's (`12_METHOD`, t257), so this is a fitting test, not text to build on. "Eli" is Patrick's own test name for the son. Jon, Derrek, Mika and Lirael are codex working names. **Names marked † are Claude placeholders** (t630): Teo†, Doc† (a nickname), and "the Returned"† (the codex's own placeholder for that dwarven faction). Everyone else goes by role. The CANON LEDGER after the story lists what came from where, what's invented, and what's unsure.
+> 🌊 **Claude test draft, not canon prose.** Revised 2026-11-07 from `draft_v1.md` against three hostile reviews (`attack_lore.md`, `attack_logic.md`, `attack_craft.md`), answered in `rebuttals.md`, then judged: the judge's surgical fixes are listed at the end and scored in `FIGHT_LOG.md`. Line-edited the same day for Patrick's craft notes (BANK 11-07 craft; see `EDIT_NOTES.md`; previous version `SAMPLE_BOOK1_FINAL_v3prev.md`), then revised 2026-11-08 for friction against an outside review (`reviews/grok_review_2026-11-08.md`, answered in `reviews/grok_response.md`; previous version `SAMPLE_BOOK1_FINAL_v4prev.md`). Every line of the real book is Patrick's (`12_METHOD`, t257), so this is a fitting test, not text to build on. "Eli" is Patrick's own test name for the son. Jon, Derrek, Mika and Lirael are codex working names. **Names marked † are Claude placeholders** (t630): Teo†, Doc† (a nickname), and "the Returned"† (the codex's own placeholder for that dwarven faction). Everyone else goes by role. The CANON LEDGER after the story lists what came from where, what's invented, and what's unsure.
 
 ---
 
@@ -62,9 +62,11 @@ Eli wiped his mouth.
 
 The man laughed so hard he had to bend over. Then he straightened, finished the peach, and dropped the stone on the old orc with the split lip. It landed on his cheek and stayed there.
 
-Teo† was supposed to be at the fence with the flyer. He wasn't. Eli stood among the bodies and watched the sky over the sheds and counted, and got to six hundred, and started again. Somewhere in the city a siren went up and down and stopped. The man in the coat sat on an upturned bucket and cleaned his nails with a sliver of wire from the fence, and didn't offer to leave or to help.
+Teo† was supposed to be at the fence with the flyer. He wasn't. Eli stood among the bodies and watched the sky over the sheds and counted, and got to six hundred, and started again. Somewhere in the city a siren went up and down and stopped. The man in the coat sat on an upturned bucket and cleaned his nails with a sliver of wire from the fence, and didn't offer to help.
 
-"He'll come," the man said once. Eli didn't ask how he knew.
+"He's not coming," the man said, at the second six hundred, pleasantly. "We could walk."
+
+Eli didn't move.
 
 The flyer came in low over the sheds forty minutes late, an old plain-engine thing with a cracked canopy and a new dent along one side, and set down hard on the slag. Teo leaned out of it, white in the face. Nine days ago he had forged the code that got them both out of the palace, and his parents were still inside. A checkpoint had gone up on the ring road, he said, and he'd had to go round through the drainage cuts, and he'd thought Eli was dead. He looked at the bodies, then at the guard against the fence, then at the stranger.
 
@@ -84,7 +86,7 @@ Teo lifted off. Eli watched the yard tilt away under them, the rows of bodies in
 
 ## Two: The Master
 
-Jon rode with them for six days and knew which back roads the drones didn't watch.
+Jon rode with them for six days and said he knew which back roads the drones didn't watch. On the fourth day a drone came down one of them and sat in the air ahead of the flyer, looking, and Teo had to put them in a river gorge and kill the engine and sit under the overhang until dark with the water loud below. Jon slept through most of it. When he woke he said they must have changed the routes, and said nothing else about it.
 
 On the second night Teo sat alone on the flyer's wing for an hour. When he came back in he said quietly to Eli, "He killed all of them. A whole yard. He didn't even look." In the morning Jon made Teo breakfast and asked about his parents and listened to the whole answer, and said they must be very proud of him. By noon Teo was laughing at his stories again.
 
@@ -162,7 +164,7 @@ Eli didn't argue.
 
 On the ship Teo said, "We'll find someone else."
 
-"No," said Eli. "We'll come back for him."
+Eli didn't answer. He sat with his eyes shut and tried to find the walls of the cabin, and couldn't, and tried again until Teo went to sleep.
 
 ---
 
@@ -214,9 +216,11 @@ Jon took them to the elves because, he said, they were the only people left who 
 
 It stood on a world of high cold rivers, grown whole like the old giant cities, but finer. Its towers leaned toward each other as if in conversation.
 
-It took three hours to get in. Papers. A search. An inquisitor in grey asked Eli the same eleven questions three times in the same order and watched his eyes. At the end Jon spoke to the inquisitor in elvish and showed him a token on a chain, and the inquisitor stamped the papers without another word.
+It took three hours to get in. Papers. A search. An inquisitor in grey asked Eli the same eleven questions three times in the same order and watched his eyes. At the end Jon spoke to the inquisitor in elvish and showed him a token on a chain. The inquisitor turned the token over, then held out his hand until Jon took the chain off his neck and gave it to him. He put it in his coat. Then he stamped the papers, three days and not one more, with a red bar across the corner, and wrote something in a ledger beside each of their names.
 
-"I helped the king once, when he was a boy," Jon said, inside. "It buys a day pass. Don't steal anything."
+"I helped the king once, when he was a boy," Jon said, inside. He touched his collar where the chain had been. "That was the only one I had. Don't steal anything."
+
+A grey coat was behind them in the market that afternoon, and another at the end of their street that night, and they were never the same coat twice.
 
 On the second day they crossed a square where an elf knelt on the stones with his hands bound behind him and his mouth sewn shut with silver wire. People walked past without looking.
 
@@ -290,11 +294,11 @@ Overhead, a human freighter blinked out of the sky above the crater, and the air
 
 The trade at the ramp was nearly done. Eli went down the crater wall.
 
-He didn't sweep. He found the six guns on the dwarven ship, as he'd found the moth in the temple, closed his grip on each barrel and bent it. He found the inquisitors' weapons and pulled them out of their hands. Teo shot two inquisitors from the rim and didn't stop to look at them. Doc came down behind, slow and puffing, and when a dwarven crewman came at him with a cutting bar Doc stepped aside, small and clumsy, and the bar went into the floor. Doc hit the man across the knees with the troll's stick until he stopped trying to get up.
+He didn't sweep. He found the guns on the dwarven ship, as he'd found the moth in the temple, closed his grip on each barrel and bent it. He found five. The sixth was in a blister under the hull where he hadn't thought to look, and it opened up across the floor and cut down the two prisoners at the end of the line before he found it and folded it shut. He found the inquisitors' weapons and pulled them out of their hands, all but one. That one put a needle-round through Teo's thigh on the rim. Teo shot him and the man beside him, and then sat down hard in the black grit with both hands on his leg. Doc came down the wall behind Eli, slow and puffing and talking the whole way under his breath, the way he'd talked through the miner's arm. When a dwarven crewman came at him with a cutting bar Doc stepped aside, small and clumsy, and the bar went into the floor. Doc hit the man across the knees with the troll's stick until he stopped trying to get up.
 
-It took three minutes. The inquisitors were dead or running, and the dwarf in the good coat was face down on his own ramp with Eli's grip on the back of his neck.
+It was over in a few minutes. The inquisitors were dead or running, and the dwarf in the good coat was face down on his own ramp with Eli's grip on the back of his neck.
 
-They broke the chains. The freed prisoners didn't thank anyone. Most of them ran into the dark.
+They broke the chains. The freed prisoners didn't thank anyone. Most of them ran into the dark. The two at the end of the line lay where the gun had left them, still chained to each other.
 
 One, an old man with no teeth, stayed. He stood at the edge of the place where the floor went strange, staring at the air above it. The air there trembled, very faintly, like a pane of glass in a wind.
 
@@ -314,11 +318,7 @@ He had strength enough. What he didn't have was practice. He had to find the edg
 
 The seam gave. A woman fell out of the air onto her hands and knees, and it closed behind her with a sound like a cough.
 
-She was starved thin, in rags tied over rags, with a short curved knife in each hand, and she came up off the ground already moving. She went past Eli without looking at him. The last two inquisitors were running for their station. She caught them at the door and went in close and touched them, a palm on a chest, fingertips on a throat, and they folded.
-
-Then she turned and looked back across the black floor at Eli, kneeling with blood running out of his nose. Her eyes were silver.
-
-*Oh*, thought Eli, and was ashamed of it.
+She was starved thin, in rags tied over rags, with a short curved knife in each hand, and she came up off the ground already moving. She went past Eli without looking at him. The last two inquisitors were running for their station. She caught them at the door and went in close and touched them, a palm on a chest, fingertips on a throat, and they folded. The station's beacon was already turning on the roof above them, slow and red. She looked up at it and came back.
 
 She walked back to him and looked at the blood on his lip and the place in the air behind him.
 
@@ -334,11 +334,17 @@ She looked at him with plain contempt.
 
 "There were thirty of us when we started," she said. "No one escapes alone. That's what they say, down there." She looked at the closed air. "I was a child."
 
+Her eyes were silver, like the eyes in every story the palace nurses had told him.
+
+*Oh*, thought Eli.
+
 "What's your name?"
 
 "When you've earned it."
 
-They took the dwarven ship. It was low and black, built by the Returned†, the dwarves who had come back out of the maze-land with new tricks, and it could squeeze through the world the way dwarves did. The dwarf in the good coat they left on the moon. Doc wanted to leave him a water ration, and Eli said no, and the dark elf looked at Eli properly for the first time.
+They took the dwarven ship. It was low and black, built by the Returned†, the dwarves who had come back out of the maze-land with new tricks, and it could squeeze through the world the way dwarves did. It took Teo an hour to find the cold-start, with his leg tied off and the station beacon turning, and none of them said anything the whole hour. The dwarf in the good coat they left on the moon. Doc wanted to leave him a water ration, and Eli said no, and the dark elf looked at Eli properly for the first time.
+
+Two days out, Eli counted the stores. A water ration was missing. Doc was in the galley, dressing Teo's leg and talking about goats, and didn't look up.
 
 ---
 
@@ -358,7 +364,7 @@ She saw him and dropped her hand.
 
 "Lirael's Collapse," she said. "Down there everyone learns her name before their own. Everyone wants that one." She looked at the place where the strap had been. "Forty years. It's the one thing of theirs we kept."
 
-Jon was in the doorway behind Eli. Neither of them had heard him come aboard.
+Jon was in the doorway behind Eli. He had come aboard that evening after five weeks away, grey in the face, and gone straight to his bunk without telling anyone where he'd been.
 
 "That's a hard one to learn," he said. "Good for you."
 
@@ -372,7 +378,7 @@ The colony was on a desert world at the far end of nowhere, cut off so long it h
 
 Jon had brought them there for water, he said. Eli put the ship down in the riverbed between the two camps and walked out alone under both sets of guns.
 
-It took nine days. This, at least, the palace had taught him well. He found the colony's grandmothers and the elven captain's second, sat them down across a folding table in the sun, and listened to each side describe the other until they ran out. On the sixth day a colonist boy shot an elf at the water line. Eli walked the boy to the elven camp himself and handed him over, and stood there while they did it, so that the grandmothers would believe the line meant something. By the ninth day there was a line in the riverbed that neither side crossed, and nobody had died for three days.
+This, at least, the palace had taught him. He found the colony's grandmothers and the elven captain's second, sat them down across a folding table in the sun, and listened to each side describe the other until they ran out. On the second day the elves walked out. On the fourth a grandmother spat on the table and the talks stopped for two days, and Eli sat at the table alone in the heat both days so that both camps could see him sitting there. On the sixth day a colonist boy shot an elf at the water line. Eli walked the boy to the elven camp himself and handed him over, and stood there while they did it, so that the grandmothers would believe the line meant something. One of the grandmothers was the boy's. She came back to the table the next morning and didn't speak to Eli again, then or after. By the ninth day there was a line in the riverbed that neither side crossed, and nobody had died for three days.
 
 On the twelfth day an elven ship came down out of the sky, and a woman walked down its ramp.
 
@@ -436,19 +442,21 @@ He didn't see the first cut. He felt it, a line of cold across his ribs, and the
 
 "His son," she said. Her voice was level. "My king sent me to guard the son of the man who—" She stopped. The blade trembled, which he had never seen it do. "He knew. My king knew, and he sent me anyway, and he didn't tell me."
 
-"Then ask him," said Jon.
+Eli looked down the corridor for Jon. The corridor was empty. Jon had stayed behind in the hall to talk with the giant, and the doors of the hall were shut.
 
-He was sitting on a crate at the end of the corridor. He hadn't been there a second ago.
+"Then ask him," Eli said. It came out in a croak round her foot. "The relay's on the ship. If he says kill me, you'll have lost a day."
 
-"Ask him," he said again, gently. "You've got the relay on the ship. It's a short message. If he says kill the boy, kill the boy. I won't stop you." He smiled at her. "But you're the best he has. He didn't send the best he has to babysit. He sent you to go all the way. I think you know that."
+She looked down at him. Then the blade moved, very fast, and opened his cheek from the ear to the jaw, and she stepped back and sheathed it, and the sheath closed over it like a mouth.
 
-The Queen stood over Eli with her foot on his throat. Then she stepped back and sheathed the blade, and the sheath closed over it like a mouth.
+"So you remember who you are," she said.
+
+Doc stitched the cheek on the ship, without a joke, and told him it would scar. Jon came back near dawn and saw the stitches and asked what had happened, and when Eli told him, he said, "Ah." That was all.
 
 She sent the message. The reply came in eleven hours. Eli never saw it. He saw her face when she read it. Then she went to the training deck and put her fist through the bulkhead twice, and came back with her knuckles split to the bone and her face unchanged.
 
 "Continue," she said to no one, and went to her bunk.
 
-After that she stopped calling him *the human*, or anything else. She sparred with him every day and put him on the deck as before. But she no longer walked away while he was getting up. She stood and watched until he was on his feet.
+After that she stopped calling him *the human*, or anything else. She sparred with him every day and put him on the deck as before. But she no longer walked away while he was getting up. She stood and watched until he was on his feet, and then she put him down again.
 
 They left the forge world the next morning.
 
@@ -482,7 +490,7 @@ Afterwards the dragon's ship drifted dark in orbit. Its crew sat in their statio
 
 Eli watched it on the long-range display, a day out and still accelerating.
 
-Nobody spoke. The dark elf's hand was in his. Teo was crying without seeming to notice.
+Nobody spoke. The dark elf stood at his shoulder, close enough that he could hear her breathing. Teo was crying without seeming to notice.
 
 "The giant," said Teo. "Was he—"
 
@@ -502,11 +510,11 @@ It took them a month to reach the rift world through a sector coming apart. The 
 
 The master looked at him for a while.
 
-"That's a cheap trick," he said at last.
+"That's a cheap trick," he said at last. "Get out of my temple."
 
-"You taught me to use what I have."
+They waited on the rim for four days, because the ship needed a part and the part had to come from two systems away. Eli didn't go back up the steps. On the fourth night the part came, and Teo had the drive warm by morning, and they had the ramp half up when the master came across the landing field in the rain with his bag on his shoulder.
 
-The old man laughed once. Then he picked up his bag, which was already packed.
+Eli opened his mouth. The old man went past him into the ship without a word.
 
 ---
 
@@ -514,7 +522,7 @@ It took them most of a year to cross the war.
 
 Cathedral ships the size of moons ground into dragon fleets in the dark. Legion carriers went by with hulls pressed from orcs bought by the trillion, and walking a Legion corridor you could not be sure whether the faint warmth in the walls was the heating. Dwarven convoys ran guns to everyone. Elven ships came out of nowhere to strike the Emperor's and vanish.
 
-They lost the Returned ship over a gas giant whose name none of them learned, and Eli's ribs took four months to knit. They crossed two systems in the hold of a dwarven arms freighter, on crates of flesh rifles that twitched when the drive spun up.
+An Inquisition cutter had been behind them since the crater. They lost it twice and it found them twice, and the third time it caught them over a gas giant whose name none of them learned. They got off the Returned ship in a lifeboat with what they could carry, and the cutter took the ship in tow and left the lifeboat to drift in a sector with no shipping lanes at all. A salvage tug found them on the nineteenth day, on the last of the water. Eli's ribs took four months to knit. They crossed two systems in the hold of a dwarven arms freighter, on crates of flesh rifles that twitched when the drive spun up.
 
 Doc fought when they had to, and fought badly. He was slow and short-winded, and his reach was a market conjurer's, enough to knock a rifle aside or trip a man on a stair. Then he'd finish the man with the troll's stick and complain about his knees. Once, on the freighter, after a boarding party, the master stood watching Doc bandage a dwarf's leg and chat to him about goats. The master's face went still and strange, as if he were listening for something in another room. Then Doc looked up and asked if he'd hurt himself, and the master said no, and walked away rubbing his eyes.
 
@@ -538,7 +546,7 @@ It was young for a great dragon, which was the only reason any of them lived. It
 
 "Make it breathe," said the master, very calm. "It can't do that forever. Make it waste them."
 
-So they did. The Queen went out first, across the open dust in plain sight, so fast she seemed to be in two places. The dragon turned its head to follow her and breathed, and missed, and the line scored a canyon across the moon. Teo ran the other way, firing a flesh rifle into its flank. It breathed at him and missed, because the dark elf had come out of the dust under its jaw and laid her palm flat on the scales of its throat, and the whole head jerked aside. Doc stood in the freighter's shadow throwing rocks and shouting, and laughed when one hit an eye.
+So they did. The Queen went out first, across the open dust in plain sight, so fast she seemed to be in two places. The dragon turned its head to follow her and breathed, and missed, and the line scored a canyon across the moon. Teo ran the other way, firing a flesh rifle into its flank. It breathed at him and missed by less than it should have, because the dark elf came out of the dust under its jaw a step late and laid her palm flat on the scales of its throat, and the whole head jerked aside. The edge of the line went past Teo close enough to take the skin off his left hand and forearm through the suit. Doc stood in the freighter's shadow throwing rocks and shouting, his voice gone high and cracked.
 
 It breathed again, and again, slower each time. The fifth breath came out ragged and short. The dragon's sides heaved, and it stood on the dust with its head low, swaying.
 
@@ -556,9 +564,17 @@ Eli was on his knees with blood running from his nose again. The master stood ov
 
 "That," said the master, "was fine."
 
-Jon was away that week. When he came back and heard, he walked out to the carcass and looked at it for a while. Then he came back and put his hand on Eli's shoulder.
+Teo was sitting against the freighter's landing strut with his burned arm held away from his body, and the suit's seal hissing where the skin had come off with the cloth. Doc was already cutting it open. The freighter wouldn't fly again. They lived in its hold for three weeks on dwarven rations, the six of them, waiting for anyone to answer the beacon, and Teo's hand healed stiff and never closed properly after that.
+
+Jon was away that month. When he came back, on the ship that finally answered, he walked out to the carcass and looked at it for a while. Then he came back and put his hand on Eli's shoulder.
 
 "I knew you would," he said.
+
+"How?"
+
+Jon opened his mouth, and closed it. He looked out at the carcass again.
+
+"I don't know," he said, and took his hand away.
 
 ---
 
@@ -588,9 +604,13 @@ Jon looked up. "We tire him out."
 
 The master stood up, slowly. He stood in the dark of the cabin with his bag at his feet, and Eli saw that he was going to pick it up and walk off the lander, here, the night before, and that nobody would stop him.
 
-"Your master," Jon said to him, gently. "He went up on his own. No crew. Nobody to make the man in the chair work for it." He looked up at the old man. "You've got a crew. You've got the boy you made. You don't have to go up alone. That's the difference."
+"Your master," Jon began, gently.
 
-The master stood there a while longer. Then he sat down again and pushed the bag under his seat, and didn't speak for the rest of the night.
+"Don't," said the master. "You didn't know him."
+
+Jon closed his mouth.
+
+The master picked up the bag and went to the hatch and stood in it with the cold coming in round him. Nobody spoke. Eli thought of three things to say and said none of them. In the end the master came back and sat down and pushed the bag under his seat, and didn't speak for the rest of the night, and didn't say why.
 
 Doc laughed softly in the dark at something none of them could see.
 
@@ -602,9 +622,9 @@ Earth was one city, edge to edge, and it was on fire.
 
 The Tower stood at its heart, pearl-white, so tall its top was lost, and the war broke round its base like surf. Giant ships hung in the upper air. Dragons burned lines through the clouds. The Legion's guns fired from every rooftop, and the sky over the capital was a ceiling of smoke and falling things.
 
-Jon flew them in. He stood at the lander's open door with the wind tearing at his coat and stepped out, and the rest of them came with him and fell no faster than he did. They fell through a mile of war. A cathedral ship broke in half directly overhead, its ribs coming apart, and Jon moved one hand, and the wreckage went past them on both sides close enough to touch. He didn't look up at it, or speak the whole way down.
+Jon flew them in. He stood at the lander's open door with the wind tearing at his coat and stepped out, and the rest of them came with him and fell no faster than he did. They fell through a mile of war. A cathedral ship broke in half directly overhead, its ribs coming apart, and Jon moved one hand, and the wreckage went past them on both sides close enough to touch. One spar he didn't move. It came edge-on out of the smoke and opened the Queen's shoulder to the bone and was gone. She didn't make a sound. Jon didn't look at her, or speak the whole way down.
 
-They landed on a terrace two-thirds of the way up the Tower, where a door stood open, and went in.
+They landed on a terrace two-thirds of the way up the Tower, where a door stood open. Doc bound the Queen's shoulder on the terrace with her standing, and she let him. Then they went in.
 
 One step inside, and the war was gone. Eli looked back through the open door and could see the sky burning, ships breaking, fire falling, all of it in perfect silence.
 
@@ -768,7 +788,7 @@ He was human, young, broad and scarred, built as if he'd been bred for it, and h
 
 She met him.
 
-Eli had sparred with her every day for more than a year and thought he knew how good she was. In the Tower, with the dead city behind her, she was better than he had imagined: every block exact, every step measured, her blade going into the gaps in his guard and out again. The blades made a soft, wet sound when they met. She cut him four times in the first ten seconds. He bled and kept coming. She breathed through her nose, short and even, and gave ground only when she meant to.
+Eli had sparred with her every day for more than a year and thought he knew how good she was. In the Tower, with the dead city behind her, she was better than he had imagined: every block exact, every step measured, her blade going into the gaps in his guard and out again. The blades made a soft, wet sound when they met. She cut him four times in the first ten seconds, and Doc's binding on her shoulder went dark and wet. He bled and kept coming. She breathed through her nose, short and even, and gave ground only when she meant to.
 
 The apprentice looked back at the dais.
 
@@ -990,7 +1010,7 @@ Neither of them turned.
 - **Unsure:** whether "Back home I was the healer for a whole village" is too strong a plant.
 
 ## Ch 4: The Door
-- **Canon used:** the weak place between hell and our world (t382, t608–t610). She's at the end of a long escape: "no one escapes alone", and **"he only opens the door"** (t758). Jon set it up (t610), here only as an offhand mention of the dwarves' buying day. The "*oh*" moment (t398). Bigotry corrected through contact (t394–t398). Human FTL through hell, shown once (BANK 11-01 NP#5). Elves cross by shrinking a dimension and lose the bond in transit (BRIEF World; WORLD_OVERVIEW). Dwarves squeeze dimensions (WORLD_OVERVIEW). The Inquisition sells dark elves through dwarven traffickers to rich humans (WORLD_OVERVIEW, Elves; wk W68). The stolen Returned† ship (wk W65 🟡; the people's name is a codex placeholder, `07`). She feels the homeworld beacon at any range (BANK 11-01 L9). Lirael's Collapse learned as homage (t612; chat t305). Her escape could take 50–200 years (t610).
+- **Canon used:** the weak place between hell and our world (t382, t608–t610). She's at the end of a long escape: "no one escapes alone", and **"he only opens the door"** (t758). Jon set it up (t610), here only as an offhand mention of the dwarves' buying day. The "*oh*" moment (t398), placed on her "I was a child" and her silver eyes from the nurses' stories, so it lands as recognition, not attraction (Grok pass). Bigotry corrected through contact (t394–t398). Human FTL through hell, shown once (BANK 11-01 NP#5). Elves cross by shrinking a dimension and lose the bond in transit (BRIEF World; WORLD_OVERVIEW). Dwarves squeeze dimensions (WORLD_OVERVIEW). The Inquisition sells dark elves through dwarven traffickers to rich humans (WORLD_OVERVIEW, Elves; wk W68). The stolen Returned† ship (wk W65 🟡; the people's name is a codex placeholder, `07`). She feels the homeworld beacon at any range (BANK 11-01 L9). Lirael's Collapse learned as homage (t612; chat t305). Her escape could take 50–200 years (t610).
 - **Invented:** the dead moon; Eli's choice to go (the buyers are his Empire); the toothless old man who notices the door; Eli prying it open by feel; Doc fighting badly with the stick; "When you've earned it"; leaving the dwarf with no water (Eli's call); her training on the road; the Collapse practised alone in the hold (moved from v1's love scene per attack_craft #9); her one line on the label ("They named it hell, and then they named us after it"), registering its cruelty without a lecture (BANK 11-07, 1–2).
 - **Judge fix:** the freed old man no longer senses who is behind the door. The bond works inside each world but not between them (WORLD_OVERVIEW, Elves), so he now reads a visible tremor in the air from his own escape.
 - **Ruled:** hell-born elves are just elves and share the bond (BANK 11-07, 1); the bond still doesn't cross between worlds, so in the prison world she feels only the elves there (ch 6).
@@ -998,12 +1018,12 @@ Neither of them turned.
 
 ## Ch 5: The Queen and the Giant
 - **Canon used:** the queen joins at a forgotten desert colony with a crashed seedship, where the son negotiates (wk W65 🟡; jul23 t182–t190). **Jon nudged Mika to send her (wk W65), but she comes through Mika's own interest**: the elves are sworn to kill the human Emperor (t532; WORLD_OVERVIEW, far future). She's **Eli's** rival through the story, not Jon's, disdainful of humans (t764; t454; BANK 11-07, 7). She's nameless (chat t201); the "pawn" is Eli, the son (chat t201; BANK 11-07, 6). Her living blade (BANK 11-01 L11, flesh weapons ✅). The bond up close: elves feel each other (BANK 11-01 L9). A friendly giant tells of the giant empire (t334); "the last friendly giant" is retired as a special figure, since giants exist widely and some are simply friendly (BANK 11-07, 4). Giants build cathedral ships; "dying out" is a false belief (WORLD_OVERVIEW, Giants). Betrayal day: the advisor dragon's breath, and the emperor converging his city as a shield (BANK 11-01 L7). The souls are still in the walls, run together (BANK 11-01 L7 follow-up).
-- **Invented:** Eli handing over the colonist boy; **"the Queen" as a chess name, not royalty**: Eli the pawn, the dark elf the bishop, the queen the strongest elven piece (BANK 11-07, 6); on the page only Jon's "a game piece, not a crown", and no kneeling or royal rank; her opening speech; the constant bond-pressure between the two elves; **Eli revealing himself to the giant to bargain for ships**; the giant's refusal; **the Queen's attack and Mika's reply, "Continue"**; Jon reeling her back.
+- **Invented:** Eli handing over the colonist boy; **"the Queen" as a chess name, not royalty**: Eli the pawn, the dark elf the bishop, the queen the strongest elven piece (BANK 11-07, 6); on the page only Jon's "a game piece, not a crown", and no kneeling or royal rank; her opening speech; the constant bond-pressure between the two elves; **Eli revealing himself to the giant to bargain for ships**; the giant's refusal; **the Queen's attack and Mika's reply, "Continue"**; Eli talks her into asking Mika himself, with Jon absent, and she cuts his cheek before she stops (Grok pass).
 - **Unsure:** W65's seedship detail is compressed. The giant's fate is left off the page on purpose (t334; R-J23).
 
 ## Ch 6: The Strike
 - **Canon used:** a dragon destroys the giant forge world. He lies to his crew, straps into the focusing chamber himself and overdrives it, and the ship's master is the final lever (t412–t414, t442). **The strike is bodily strain**: the body fails, no Remnant is spent (02 🚫 v5-wk; wk W10; attack_lore BREAK 1). Wingless kin who think they're dragons (BANK 11-01 dragon umbrella ✅). The giants stop pretending and go to war (t414–t420). The road to the Tower runs through a giant space war (t422). Orc-hulled ships (BRIEF). Flesh rifles (BANK 11-01). Human FTL through hell; the bond doesn't cross between worlds (BANK 11-01 NP#5; WORLD_OVERVIEW). **Eli's bridged win:** a party kill of a young great dragon, finished by Eli (t756, t758; `07` beatability: a coordinated group can fell a dragon, and humans can't win one-on-one, jul08 t239). Bait the dragon into using up its breaths (the elven doctrine, `07`, t221). The plan: wear Derrek down, don't kill him (BANK 11-01 L4 follow-ups). The Tower amplifies everyone (BANK 11-01 L8).
-- **Invented:** the crew's 80 years; the dragon's ancestor; the crew leaving the forge world on the giant's word (so no foreknowledge from Jon); **Derrek's method and the giant's fate stay off the page** (v1's contract hint is cut); the master's recruitment with his own stake; Doc fighting deliberately weak; the master's moment of unease near Doc; the hell crossing as the love scene, with her name; Jon comforting Teo while booking the orc hold; Jon's plan speech, "It makes everyone bigger. It doesn't make anyone less tired."; the master nearly walking off and Jon reeling him back.
+- **Invented:** the crew's 80 years; the dragon's ancestor; the crew leaving the forge world on the giant's word (so no foreknowledge from Jon); **Derrek's method and the giant's fate stay off the page** (v1's contract hint is cut); the master's recruitment with his own stake; Doc fighting deliberately weak; the master's moment of unease near Doc; the hell crossing as the love scene, with her name; Jon comforting Teo while booking the orc hold; Jon's plan speech, "It makes everyone bigger. It doesn't make anyone less tired."; the master nearly walking off and staying for his own unstated reason after he cuts Jon off (Grok pass).
 - **Unsure:** whether the moon fight's dragon should be named as a lord's son.
 
 ## Ch 7: The Tower
@@ -1050,4 +1070,14 @@ Neither of them turned.
 - **Ch 1 is now only the flight**, ending as the flyer lifts off. The six-day ride and "Company." open ch 2. Exposition cut from the opening: Eli's training history, the "care" program name, "you grew a hull out of something", the definition of reaching, Teo's archive post.
 - **Orcs written as people** in narration (ch 1, ch 6): no scythe/stalks, dropped-tray, string-cut or "turned its head" images; small human details added (a bandaged hand, crying, a name being said, the frozen orcs huddled together).
 - **AI-ism and over-explaining sweep** across all chapters; Jon's interior reads cut (ch 9's "sigh of a man asked one time too many").
+
+### Grok pass (2026-11-08)
+*🌊 Friction pass against `reviews/grok_review_2026-11-08.md` (which reviewed an older draft). Point-by-point verdicts: `reviews/grok_response.md`. Story length +~950 words (11,720 to ~12,670, about 8%). No canon or plot changes; Patrick's lines untouched; the window untouched.*
+- **Ch 1, Teo late:** the flyer arrives forty minutes late, dented, after a checkpoint; Eli waits among the bodies counting; Jon wrongly says "He's not coming" and offers no help.
+- **Ch 2, Jon's back roads fail:** a drone finds them on day four; a night in a gorge; Jon slept through it and shrugs it off. Chapter ends on Eli failing to find the cabin walls instead of "We'll come back for him".
+- **Ch 3, the Inquisition gate costs Jon:** the inquisitor keeps Jon's only token, caps the pass at three days with a red bar, logs their names, and grey coats tail them.
+- **Ch 4, the crater costs:** Eli misses the sixth gun, which kills the two prisoners at the end of the line; a needle-round goes through Teo's thigh; the station beacon is already turning; an hour to cold-start the ship. Doc's chatter on the way down is nerves. "*Oh*" moved off her looks onto "I was a child" (no "ashamed of it"). The scene ends on Doc having left the water ration behind Eli's back. Jon's appearance at the Collapse practice is no longer unheard: he came aboard that evening, grey, after five weeks away.
+- **Ch 5, the colony talks:** walkouts, a two-day stall Eli sits out alone, and the handed-over boy's grandmother never speaks to him again. **The Queen's attack without Jon:** Jon is in the giant's hall; Eli argues for the relay himself; she opens his cheek before she stops ("So you remember who you are"); Jon comes back at dawn and says "Ah." The rivalry beat ends with her putting him down again.
+- **Ch 6:** at the strike the dark elf stands at his shoulder (hand-holding saved for the hell crossing). The master throws Eli out ("Get out of my temple"); four days' wait for a part; he arrives as the ramp lifts and boards without a word. The Inquisition doesn't fold: a cutter hunts them from the crater, takes the Returned ship back and leaves them to drift; nineteen days in a lifeboat. Dragon fight: the dark elf is a step late, Teo's hand and forearm are burned (stiff for good), Doc's laugh at the eye is cut for shouting with his voice cracking; the freighter is dead and they wait three weeks for rescue. Jon's "I knew you would" gets "How?" and "I don't know." On the lander Jon's speech to the master is cut off ("You didn't know him"), and the master stays without saying why.
+- **Ch 7:** Jon misses one spar in the fall, which opens the Queen's shoulder; Doc binds it on the terrace; it bleeds through in her duel.
 
