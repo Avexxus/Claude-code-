@@ -92,7 +92,7 @@ Teo lifted off. Below them the orcs were still standing in the pens.
 
 Jon rode with them for six days, and said he knew which back roads the drones didn't watch. On the fourth day a drone came down one of them and hung in the air ahead of the flyer, looking, and Teo had to drop them into a river gorge, kill the engine and sit under the overhang until dark with the water loud underneath. Jon slept through most of it. When he woke he said they must have changed the routes, and that was all he said about it.
 
-On the second night Teo had sat alone on the flyer's wing for an hour. When he came back in he said to Eli, very quietly, "He just touched them and they died. He was eating a peach." In the morning Jon made Teo breakfast and asked about his parents and listened to the whole answer, and said they must be very proud of him. By noon Teo was laughing at his stories again.
+On the second night Teo had sat alone on the flyer's wing for an hour. When he came back in he said to Eli, quietly, "He just touched them and they died. He was eating a peach." In the morning Jon made Teo breakfast and asked about his parents and listened to the whole answer, and said they must be very proud of him. By noon Teo was laughing at his stories again.
 
 On the seventh morning Jon climbed out at a fuel stop in the middle of nothing and stretched until his back cracked.
 
@@ -230,9 +230,9 @@ On the river bridge out of the district a troll sat in a toll box, a squat grumb
 
 Eli wanted to see the elves first. They were the Empire's oldest enemy, and if he took the chair he would inherit their war. Jon said they were the only people left who could build a city that made you want to cry, and came along to get them in.
 
-It stood on a world of high cold rivers, grown whole the way the old giant cities were, but finer. Its towers leaned in toward each other at the top.
+It stood on a world of high cold rivers, grown whole like the old giant cities, but finer. Its towers leaned in toward each other at the top.
 
-Getting in took three hours. Papers. A search. An inquisitor in grey asked Eli the same eleven questions three times in the same order and watched his eyes the whole time. At the end Jon spoke to him in elvish and showed him a token on a chain. The inquisitor turned the token over, then held out his hand and kept it out until Jon took the chain off his neck and gave it to him. He put it in his coat. Then he stamped the papers, three days and not one more, with a red bar across the corner, and wrote something in a ledger beside each of their names.
+Getting in took three hours. Papers. A search. An inquisitor in grey asked Eli the same eleven questions three times in the same order and watched his eyes. At the end Jon spoke to him in elvish and showed him a token on a chain. The inquisitor turned the token over, then held out his hand and kept it out until Jon took the chain off his neck and gave it to him. He put it in his coat. Then he stamped the papers, three days and not one more, with a red bar across the corner, and wrote something in a ledger beside each of their names.
 
 "I helped the king once, when he was a boy," Jon said, inside. He touched his collar where the chain had been. "That was my only one. Try not to steal anything."
 
@@ -260,7 +260,7 @@ At the foot of the statue an old elven woman was crying without a sound. Teo cro
 
 "Who?"
 
-She looked at him. Her eyes were wet.
+She looked at him.
 
 "I don't know," she said. "I never know. None of us do." She turned back to the statue. "We come here because it seems the place to bring it."
 
@@ -310,17 +310,17 @@ Overhead, a human freighter blinked out of the sky above the crater, and the air
 
 The trade at the ramp was nearly done. Eli went down the crater wall.
 
-He didn't sweep. He found the guns on the dwarven ship the way he'd found the moth in the temple, and closed his grip on each barrel and bent it. He was still feeling along the hull for more when one he'd missed opened up from underneath, and it walked across the floor and through the end of the prisoners' line before he found it and crushed it. After that everything went at once. He tore some of the inquisitors' weapons out of their hands and lost track of the rest. Something cracked off the rim behind him, and Teo shouted, and then Teo's rifle went twice. Doc came down the wall after Eli, slow and puffing and talking the whole way under his breath, the way he'd talked through the miner's arm. A dwarven crewman came at him with a cutting bar. Doc stepped aside, small and clumsy, and the bar went into the floor, and Doc hit the man across the knees with the troll's stick until he stopped trying to get up.
+He didn't sweep. He found the guns on the dwarven ship as he'd found the moth in the temple, and closed his grip on each barrel and bent it. He was still feeling along the hull for more when one he'd missed opened up from underneath, and it walked across the floor and through the end of the prisoners' line before he found it and crushed it. After that everything went at once. He tore some of the inquisitors' weapons out of their hands and lost track of the rest. Something cracked off the rim behind him, and Teo shouted, and then Teo's rifle went twice. Doc came down the wall after Eli, slow and puffing and talking the whole way under his breath, the way he'd talked through the miner's arm. A dwarven crewman came at him with a cutting bar. Doc stepped aside, small and clumsy, and the bar went into the floor, and Doc hit the man across the knees with the troll's stick until he stopped trying to get up.
 
 It was over in a few minutes. The inquisitors were dead or running, and the dwarf in the good coat was face down on his own ramp with Eli's grip on the back of his neck. Up on the rim Teo sat in the black grit with both hands clamped on his thigh and blood coming through his fingers, swearing at the man he'd shot.
 
 They broke the chains. The freed prisoners didn't thank anyone. Most of them ran into the dark. The two at the end of the line lay where the gun had left them, still chained to each other.
 
-One, an old man with no teeth, stayed. He stood at the edge of the place where the floor went strange and stared at the air above it. The air there trembled very faintly, like a pane of glass in wind.
+One, an old man with no teeth, stayed. He stood at the edge of the place where the floor went strange and stared at the air above it. The air there trembled faintly, like a pane of glass in wind.
 
 "Someone's there," he said. "I know that shake. I made it once, from the other side. Someone's at the door."
 
-Eli couldn't feel souls; nobody had ever said he could. But he could feel the world a little now, and the air over the black floor was thin, and it was bulging, very slightly, toward him.
+Eli couldn't feel souls; nobody had ever said he could. But he could feel the world a little now, and the air over the black floor was thin, and it was bulging, slightly, toward him.
 
 "They've been at it a while," Doc said quietly. "Look how the floor's worn. Poor thing."
 
@@ -400,9 +400,9 @@ On the twelfth day an elven ship came down out of the sky, and a woman walked do
 
 She was taller than any elf he'd met, armoured, young-looking in the way that meant nothing with elves. Her sword hung at her hip in a pale, faintly ribbed sheath that shifted against her leg when she walked. The seedship elves straightened as she passed and stopped talking.
 
-"They call her the Queen," Jon said quietly beside him. "Like on the board. Strongest piece in the box. Nothing to do with who her mother was."
+"They call her the Queen," Jon said quietly beside him. "Like on the board, the strongest piece in the box. Nothing to do with who her mother was."
 
-She stopped in front of Eli and took in his face, his clothes and his hands, and her mouth curled very slightly.
+She stopped in front of Eli and took in his face, his clothes and his hands, and her mouth curled a little.
 
 "You saved four hundred of my king's people," she said, "with a folding table. My king has heard of you. He hears you are going to the Tower."
 
@@ -652,7 +652,7 @@ Jon took them in. He stood at the lander's open door with the wind tearing at hi
 
 They landed on a terrace two-thirds of the way up the Tower, where a door stood open. Doc bound the Queen's shoulder on the terrace with her standing, and she let him. Then they went in.
 
-One step inside and the war was gone. Eli looked back through the door and could see the sky burning, ships breaking, fire falling, all of it without a sound.
+One step inside and the war was gone. Eli looked back through the door and could see the sky burning and ships breaking, all of it without a sound.
 
 They were in a pale, seamless corridor that curved gently away. The light came from nowhere. The air didn't stir when you breathed it.
 
@@ -706,7 +706,7 @@ Everyone did. Jon was standing a little apart with his hands in his coat pockets
 
 "Yes," said Jon. "And then I'd have nothing left for upstairs."
 
-He kept his eyes on the beast as he said it. The master nodded slowly.
+He kept his eyes on the beast as he said it. The master nodded.
 
 "I'll go," said the master.
 
@@ -770,7 +770,7 @@ The stair beyond the door wound up through the heart of the Tower. Arches along 
 
 The throne room was enormous and almost empty.
 
-The ceiling was lost in shadow. A great curved window ran the whole height of one wall, and through it the war turned over Earth without a sound. At the far end, on a dais, there was a chair, and a man sitting in it.
+The ceiling was lost in shadow. A great curved window ran the whole height of one wall, and through it the war turned in silence over Earth. At the far end, on a dais, there was a chair, and a man sitting in it.
 
 He was older than Eli had let himself expect: lean, grey at the temples, plainly dressed, with an intelligent, tired, unremarkable face. Eli had never seen his father's face. Nobody had. He knew it anyway.
 
@@ -788,7 +788,7 @@ Teo had gone ahead of them all. He always went first through doors; it was how h
 
 He lifted a hand a little, without looking, and closed it.
 
-Across the room Teo's head snapped back as if a great palm had cupped his face, fingers over his eyes and mouth, and lifted him off the floor. There was one short wet sound. Derrek opened his hand. Teo dropped and didn't move. A mean man puts down an unruly dog with more interest.
+Across the room Teo's head snapped back as if a great palm had cupped his face, fingers over his eyes and mouth, and lifted him off the floor. There was one short wet sound. Derrek opened his hand. Teo dropped and didn't move. Like a mean man would put down an unruly dog.
 
 Eli reached for him.
 
@@ -810,7 +810,7 @@ The sheath slid off it like skin. The blade underneath was pale and alive, a lon
 
 The apprentice came down off the dais.
 
-He was human, young, broad and scarred, built as if he'd been bred for it, and his eyes were red-rimmed and wet. He drew his sword and came across the floor at her like a falling wall.
+He was human, young, broad and scarred, built as if he'd been bred for it, and his eyes were red-rimmed. He drew his sword and came across the floor at her like a falling wall.
 
 She met him.
 
@@ -830,7 +830,7 @@ She caught every blow. He hit her with the whole dead city behind him, again and
 
 Then the light around the apprentice turned to fire, and the blows came through.
 
-They came one after another and she took each one standing, and on the last she went down on her knees, and Eli saw that she had let him drive her there. Her ruined arms came up one last time, and she threw.
+She took each one standing, and on the last she went down on her knees, and Eli saw that she had let him drive her there. Her ruined arms came up one last time, and she threw.
 
 The living blade left her hands and went up the steps at the man in the chair.
 
@@ -856,7 +856,7 @@ Derrek looked round the room at each of them in turn, as if waiting for someone 
 
 ---
 
-Her arms were still round him from behind. He could feel her breathing against his back, short and even, the way she breathed in the hold when she practised.
+Her arms were still round him from behind. He could feel her breathing against his back, slow and even, as she breathed in the hold when she practised.
 
 "Don't," he said.
 
@@ -886,7 +886,7 @@ Derrek stood in the wreckage of his chair with his right arm hanging. The skin o
 
 Doc was laughing.
 
-He walked out into the middle of the floor, past the Queen and the black thing that had been the apprentice, laughing a big happy laugh, as if he'd been invited to a party.
+He walked out into the middle of the floor, past the Queen and the black thing that had been the apprentice, laughing a big happy laugh.
 
 "Oh, you're good," he said. "Oh, you're very, very good." He cracked his small pudgy knuckles. "I saw this place come up, you know. The morning the capital burned. A dragon told me it was nice warm sunny weather for a quick ride out of the city, so off I rode, and I looked back from the top of the ridge, and there was the cloud, as far as I could see, and then up out of the cloud, this." He tapped the floor with his foot. "Like a pearl. I've wanted a look inside ever since."
 
@@ -908,7 +908,7 @@ Doc was getting smaller. His face was sinking and his skin had gone loose, like 
 
 "And last," said Doc, in a voice gone thin and old. "My brother."
 
-The weight went out of the room. For the space of a breath nothing pressed at all, as if something had stopped on its way out and turned back toward him. Doc looked at the empty air. Then the pressure came once more, all of it, flung, and Derrek, staggering, brushed it aside with the back of his ruined hand.
+The weight went out of the room. Nothing pressed at all, as if something had stopped on its way out and turned back to Doc. Doc looked at the empty air. Then the pressure came once more, all of it, flung, and Derrek, staggering, brushed it aside with the back of his ruined hand.
 
 Doc sat down.
 
@@ -922,7 +922,7 @@ He seemed to listen to it.
 
 His face went slack and easy, like a man falling asleep.
 
-Then he was dust, and the dust lay on the pale floor in the shape of a small round man sitting down, and then even that slid apart.
+Then he was dust, and the dust lay on the floor in the shape of a small round man sitting down, and then even that slid apart.
 
 Jon was watching the dust. A single tear ran down beside his nose, and he didn't wipe it.
 
@@ -1039,12 +1039,12 @@ Neither of them turned.
 - The Tower litany now runs in his own order and pairing (t774): "Giants and dragons. Elves and humans… Dwarves leading orcs… And fellow gnomes", then "My brother". The brother is still brushed aside, and still felt, never seen.
 - Doc's end is spoken, so it stays inside Eli's POV: "It's quiet… First time in as long as I can remember… It's peaceful" (t774).
 - Doc's ride uses "nice warm sunny weather for a quick ride out of the city" (t282–296).
-- One narration line after Teo's death echoes t202, the face-grab passage: "A mean man puts down an unruly dog with more interest." It is aimed at Derrek's indifference. Cut it if it reads as too much.
+- One narration line after Teo's death echoes t202, the face-grab passage. The hostile check trimmed it to Patrick's own words: "Like a mean man would put down an unruly dog." Cut it if it reads as too much.
 
 **Voice changes.**
 - Teo, Doc and the master now speak lines the final draft gave as reported speech: Teo's run-on at the flyer, Doc's goat story at the clinic, the master's "mittens" line.
 - Three "not X, Y" lines were reworded:
-  - Jon's "a game piece, not a crown" became "Like on the board. Strongest piece in the box. Nothing to do with who her mother was."
+  - Jon's "a game piece, not a crown" became "Like on the board, the strongest piece in the box. Nothing to do with who her mother was."
   - Doc's "It's not a name, it's a job" became "Saves everyone the bother of a name."
   - The giant's "It isn't a building" became "Do not call it a building."
 - "Harder than anything after" (a superlative) became a concrete line: "done nothing while Teo's arm burned."
@@ -1062,3 +1062,18 @@ Neither of them turned.
 - **The beast:** a gloating host, dry and creaking ("Visitors. It's been so long.").
 - **Derrek:** bored and sardonic. Clipped rhetorical questions, contempt shown through his body (the yawn, the sigh, the polite hand over the mouth). He speaks only to Jon.
 - **Eli:** palace diction ("I'd like to know", "Property") that roughens as he goes, until the floor speech is plain and broken.
+
+**Hostile check (2026-11-08).** 19 surgical edits; no event, order, death or canon line changed.
+- **The flagged line (1):** "A mean man puts down an unruly dog with more interest" read as the narrator explaining Derrek. Trimmed to Patrick's own t202 wording: "Like a mean man would put down an unruly dog."
+- **AI-isms (7):**
+  - "For the space of a breath" cut (1).
+  - Explaining similes cut or plainer (4): Doc "as if he'd been invited to a party" (it also echoed Jon's "as though he'd been invited" in ch 1); "the way he'd found the moth" became "as"; "the way the old giant cities were" became "like"; the dark elf's breathing "the way she breathed" became "as".
+  - Triplet trimmed (1): "the sky burning, ships breaking, fire falling".
+  - Stacked fragments joined (1): Jon's three-fragment Queen line.
+- **Narrator restating what was shown (1):** "Her eyes were wet" after the old woman was already crying.
+- **Repeated words thinned (10):** "very" in narration ×4, "slowly" ×1, "wet" ×1 (wet was at 7), "pale" ×1 (was 8), "the whole" ×1, "without a sound" ×1, "one after another" ×1 (was 4, two in back-to-back paragraphs).
+- **Voice slip (folded into the above):** "short and even" was used for both the Queen's and the dark elf's breathing. The dark elf's is now "slow and even".
+- **Voices checked, no drift found:** the Queen has no contractions throughout; the dark elf asks no questions; the master stays terse; Teo runs on; Doc digresses; Derrek speaks only to Jon.
+- **Canon checked clean:** events, order, deaths and the window match `SAMPLE_BOOK1_FINAL.md`; Patrick's verbatim lines are intact (t768, t774, t282–296, "Just enjoy the show, old man"); no "user"; no force words or skin colour; Remnant is never spent; no soul-sensing by Eli or Teo (Doc's barrage is felt as weight, not seen); no rose; the held-hand device stays cut; orcs stay people.
+- **Flagged, not changed (it predates the polish):** the master's "behind a boy with a grudge" (ch 2) calls the son a boy in dialogue. It is a character's insult, not narration, but 13 / t752 says the son is "not a boy" on the page. Patrick's call.
+
