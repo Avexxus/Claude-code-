@@ -1,6 +1,6 @@
-# Book 1: sample, pressure pass (TEST, NOT CANON)
+# Book 1: sample, grimdark pass (TEST, NOT CANON)
 
-> 🌊 **Claude test draft, not canon prose.** The "unplanned pressure" pass (2026-11-08, per Grok's fifth review): a copy of `SAMPLE_BOOK1_POLISHED.md` with deliberate useless details, wrong temperatures, attention slips, uneven sentences and open paragraph endings. Every change is listed in `PRESSURE_LOG.md` for Patrick to keep or cut. **Later passes, including hostile checkers, must not remove or fix them unless Patrick cuts them.** Events, canon and order are unchanged. Every line of the real book is Patrick's (`12_METHOD`, t257). Names marked † are Claude placeholders (t630). The polish notes at the end describe the polished file this was copied from.
+> 🌊 **Claude test draft, not canon prose.** The "unplanned pressure" pass (2026-11-08, per Grok's fifth review): a copy of `SAMPLE_BOOK1_POLISHED.md` with deliberate useless details, wrong temperatures, attention slips, uneven sentences and open paragraph endings. Every change is listed in `PRESSURE_LOG.md` for Patrick to keep or cut. **Grimdark pass (2026-11-08):** a copy of `SAMPLE_BOOK1_PRESSURE.md` with the codex's horrors shown concretely and the glimmers cut to five, most of them crushed; every change is listed in `GRIMDARK_LOG.md` (G-items) for Patrick to keep or cut. All P-items are kept. **Later passes, including hostile checkers, must not remove or fix them unless Patrick cuts them.** Events, canon and order are unchanged. Every line of the real book is Patrick's (`12_METHOD`, t257). Names marked † are Claude placeholders (t630). The polish notes at the end describe the polished file this was copied from.
 
 ---
 
@@ -18,7 +18,7 @@ The city ended here. Behind him the towers rose white out of the bedrock without
 
 He went over the fence. It bit him on the way, and he came down hard on one hip, and got up, and kept going.
 
-The pens were full. Orcs stood in rows under the shed roofs, hundreds deep, men and women both, heavy in the shoulder and bare to the waist, waiting their turn on the ramps that ran up into the hull-presses. Each of them had a neat pale scar at the base of the skull. At the rail a young one had wrapped a rag round his hand where the wire had cut it. He looked up at Eli going past, and then down at his feet. A blue comb lay in the slag by the rail with most of its teeth gone.
+The pens were full. Orcs stood in rows under the shed roofs, hundreds deep, men and women both, heavy in the shoulder and bare to the waist, waiting their turn on the ramps that ran up into the hull-presses. Each of them had a neat pale scar at the base of the skull. At the top of each ramp a press shut with a long sigh and opened again, and out of its far side, on rollers, came plate: ribbed, the size of a door, steaming in the cold. Men in gloves stacked it. When one of them leaned on a stack to rest, he took his hand away quickly, because it was warm. The orcs on the ramps could see the stacks. The young ones, the ones not yet full in the shoulder, were penned apart beside a windowless shed with CORES stencilled over its door. At the rail a young one had wrapped a rag round his hand where the wire had cut it. He looked up at Eli going past, and then down at his feet. A blue comb lay in the slag by the rail with most of its teeth gone.
 
 The guard didn't bother with the fence. He stopped at the wire, took a slate off his belt and spoke into it.
 
@@ -38,7 +38,7 @@ A man was sitting on the counterweight of the nearest crane, twenty feet up, eat
 
 "You look," he said, "like you could use an exit."
 
-He dropped off the crane, landed hard, and came across the slag still chewing. A woman with burn scars up both arms got to Eli first. The man stepped in and laid two fingers on the back of her neck, on the scar, the way you'd test a child's forehead for fever. Her legs went. He let her down.
+He dropped off the crane, landed hard, and came across the slag still chewing. A woman with burn scars up both arms got to Eli first. Her eyes were on his face, and she was saying sorry, sorry, in a small ordinary voice, while her hands came up for his throat. The man stepped in and laid two fingers on the back of her neck, on the scar, the way you'd test a child's forehead for fever. Her legs went. He let her down.
 
 He took the next one by the wrist, turned him, touched, and let him down too. Then two at once, a hand for each, and he grunted at that and shook his fingers out afterwards. He kept himself between them and Eli and took them as they came. By the fifth or sixth he was breathing through his mouth. The old man with the split lip reached them still saying the name, and the man put a hand to the back of his head, and the name stopped halfway.
 
@@ -84,7 +84,7 @@ Nine days ago Teo had forged the code that got them both out of the palace. His 
 
 "Long story. Bad ending."
 
-Teo lifted off. Below them the orcs were still standing in the pens.
+Teo lifted off. Below them the orcs were still standing in the pens. Another man with a slate had come out of the sheds, and a yard crew behind him with hooks. They worked along the dead in a line, and the bodies went up the ramps to the presses with everyone else, because the yard paid by weight. The young one with the rag was on a ramp. He was still crying, and his feet were still climbing.
 
 "Where to?" said Teo.
 
@@ -94,7 +94,7 @@ Teo lifted off. Below them the orcs were still standing in the pens.
 
 Jon rode with them for six days, and said he knew which back roads the drones didn't watch. On the fourth day a drone came down one of them and hung in the air ahead of the flyer, looking, and Teo had to drop them into a river gorge, kill the engine and sit under the overhang until dark with the water loud underneath. Jon slept through most of it. When he woke he said they must have changed the routes, and that was all he said about it.
 
-On the second night Teo had sat alone on the flyer's wing for an hour. When he came back in he said to Eli, quietly, "He just touched them and they died. He was eating a peach." In the morning Jon made Teo breakfast and asked about his parents and listened to the whole answer, and said they must be very proud of him. By noon Teo was laughing at his stories again.
+On the second night Teo had sat alone on the flyer's wing for an hour. When he came back in he said to Eli, quietly, "He just touched them and they died. He was eating a peach." Jon, in his blanket in the back, said without opening his eyes that he hadn't killed all of them, only the ones that reached Eli. The rest would have woken up in the pens and gone up the ramps on schedule. "They're awake in there the whole time, you know," he said. "The chip doesn't put you out. It only does the walking." Then he went back to sleep. In the morning Jon made Teo breakfast and asked about his parents and listened to the whole answer, and said they must be very proud of him. By noon Teo was laughing at his stories again.
 
 On the seventh morning Jon climbed out at a fuel stop in the middle of nothing and stretched until his back cracked.
 
@@ -112,7 +112,9 @@ Over the next year he came and went.
 
 He turned up for a week on a salvage hull where Eli and Teo were cutting cable out of dead ships for cash, then stayed away all winter. He turned up again on a transit platform with a bag of peaches, stayed a month, and was gone. When Eli asked where he went, he said, "Elves."
 
-Eli learned what food cost. He went hungry three days on a station where no one would hire a man with soft hands, and on the fourth he broke a dock boss's knee for a job, and took the job. Teo didn't speak to him for a week. Half the shopfronts on that station kept a little shrine to the Emperor's god, lit with a cheap bulb, and not one of them had the Emperor's face on it, because nobody knew it. A dockhand kicked a cargo loader that had stopped to think too long. "Battery," he said, and spat.
+Eli learned what food cost. He went hungry three days on a station where no one would hire a man with soft hands, and on the fourth he broke a dock boss's knee for a job, and took the job. Teo didn't speak to him for a week. Half the shopfronts on that station kept a little shrine to the Emperor's god, lit with a cheap bulb, and not one of them had the Emperor's face on it, because nobody knew it. A dockhand kicked a cargo loader that had stopped to think too long. "Battery," he said, and spat. Jon was in that month. He watched the loader trundle off. "Orc," he said. "Young one, by the size of the core. Flesh takes the shape better at that age. They put pool on the label so nobody has to feel funny about it." He offered Eli a peach.
+
+The station's legal exchange was two decks below the hiring hall, and Eli passed it every morning. It had a clean white front and a board of prices that changed through the day: eyes, kidneys, skin by the hand's width, ELF LIVER ENQUIRE WITHIN. Behind the glass the whole-body stock stood asleep in upright cases with tags at their throats: CLONE. NO SOUL. GRADE B. One morning a buyer had a case opened to look at a man's teeth, and the man woke. His face did what a baby's face does just before it cries. The clerk put him under again. "Reflex," he told the buyer. "Nobody home." The buyer took the kidneys and one eye and left the rest on account. The eye cost about what Eli made in a week on the docks. Two decks further down, with no front at all, the same stock sold for four times as much with papers saying born.
 
 In the fourth month Eli found his own face on a post outside a customs hall.
 
@@ -142,7 +144,7 @@ He had been taught to push, hard and clean. He could break a wall from across a 
 
 The rift was on a grey, cold world too far from anything to matter, apart from the wound in the ground: three miles across, the rock gone to glass, the air tasting like a struck bell. Remnant welled up out of it like oil from a bad well, so there was a city on the rim, and the city had been at war for longer than anyone in it had been alive. Five companies held wells on the rim. Somebody had built a temple on the near edge, and somebody else had shelled it, and somebody had built it again.
 
-Soldiers came off the transports in amplifier rigs that let an ordinary man reach three times as far as he should. On his second day Eli watched one burn out. He was perhaps nineteen, holding a line on the north wells, and he pushed through his rig twenty seconds longer than his body could carry. His face went grey, then slack. He sat down in the mud with blood coming out of his ears and eyes. The rig was off him before he was cold and buckled onto the next boy in line. Eli watched the new boy's hands doing up the straps. They were steady, and he kept watching them.
+Soldiers came off the transports in amplifier rigs that let an ordinary man reach three times as far as he should. On his second day Eli watched one burn out. He was perhaps nineteen, holding a line on the north wells, and he pushed through his rig twenty seconds longer than his body could carry. His face went grey, then slack. He sat down in the mud with blood coming out of his ears and eyes. Two company men came with a stretcher and a cold box, and the eyes and the kidneys were in the box before they had him off the field. The rig was off him before he was cold and buckled onto the next boy in line. Eli watched the new boy's hands doing up the straps. They were steady, and he kept watching them.
 
 "Burnout," said the woman who sold Eli noodles that night. "Rig's fine. It's the meat that goes." The noodles were bad.
 
@@ -190,7 +192,7 @@ The healer was small even for a gnome, round in the face, bald on top, with enor
 
 "Ate my whole herb garden, that goat. The winter half the village came to me with fever, and there's me with not a leaf. I could have strangled him. Didn't, mind. I was very fond of him. Hold still."
 
-Then he took a feverish girl from her mother and sat with her behind a curtain for an hour, and brought her out again cool and asleep.
+Then he took a feverish girl from her mother and sat with her behind a curtain for an hour, and brought her out again cool and asleep. She hung very loose in her mother's arms.
 
 The mother tried to thank him. He held up a small hand.
 
@@ -240,7 +242,7 @@ Getting in took three hours. Papers. A search. An inquisitor in grey asked Eli t
 
 A grey coat was behind them in the market that afternoon, and another at the end of their street that night, and it was never the same coat twice.
 
-On the second day they crossed a square where an elf knelt on the stones with his hands bound behind him and his mouth sewn shut with silver wire. People walked past without looking.
+On the second day they crossed a square where an elf knelt on the stones with his hands bound behind him and his mouth sewn shut with silver wire. People walked past without looking. A woman stood at the edge of the square in good clothes with her hands folded, not looking at him either. She was his wife, Jon said later. She was required to come every morning and stand there until dark.
 
 "What did he do?" Teo whispered.
 
@@ -288,6 +290,8 @@ He mentioned it between two other stories. A dead moon at the edge of elven spac
 
 Eli asked what they were buying. Jon told him without looking up.
 
+"Dark elves. The Inquisition catches them and calls them soul thieves, and the dwarves move them on." He tore his bread. "Organs, mostly. An elf liver's meant to keep you young. It doesn't, but try telling a rich man. The strong ones go to the pits on the inner worlds; they fit them with claws and bet on them. The pretty ones go to houses to stand in halls and be looked at. Some get grown into things." He pushed the salt across. "This is very good, have you tried it?"
+
 Eli lay awake with it. In the morning he said, "We're going to the crater."
 
 "Why?" said Teo. "They're elves. It's an elf thing. Isn't it? It's their thing."
@@ -298,7 +302,7 @@ Jon didn't come. He had elves to see.
 
 ---
 
-They watched from the rim for a day. Someone had dropped a dwarf's work glove up there, frozen stiff, the thumb mended in a different colour of thread. On the evening of the ninth, inquisitors in grey walked a line of chained figures across the black floor to the dwarven ship. All of them were starved thin and shackled wrist to wrist, and their eyes caught the station lights and gave them back silver. They walked with their heads down and didn't look at the ship. At the ramp a dwarf in a good coat counted them, and an inquisitor counted the money.
+They watched from the rim for a day. Someone had dropped a dwarf's work glove up there, frozen stiff, the thumb mended in a different colour of thread. On the evening of the ninth, inquisitors in grey walked a line of chained figures across the black floor to the dwarven ship. All of them were starved thin and shackled wrist to wrist, and their eyes caught the station lights and gave them back silver. They walked with their heads down and didn't look at the ship. At the ramp a dwarf in a good coat counted them. He looked in each mouth and pulled down each lower eyelid with his thumb, and marked foreheads with a grease pencil as they went past: a ring, a cross, a line. The smallest of them came up to his chest. An inquisitor counted the money.
 
 Overhead, a human freighter blinked out of the sky above the crater, and the air over the black floor shuddered after it like water after a stone.
 
@@ -312,7 +316,7 @@ Overhead, a human freighter blinked out of the sky above the crater, and the air
 
 The trade at the ramp was nearly done. Eli went down the crater wall.
 
-He didn't sweep. He found the guns on the dwarven ship as he'd found the moth in the temple, and closed his grip on each barrel and bent it. He was still feeling along the hull for more when one he'd missed opened up from underneath, and it walked across the floor and through the end of the prisoners' line before he found it and crushed it. After that everything went at once. He tore some of the inquisitors' weapons out of their hands and lost track of the rest. One of them had a pencil behind his ear, and kept it there the whole time. Something cracked off the rim behind him, and Teo shouted, and then Teo's rifle went twice. Doc came down the wall after Eli, slow and puffing and talking the whole way under his breath, the way he'd talked through the miner's arm. A dwarven crewman came at him with a cutting bar. Doc stepped aside, small and clumsy, and the bar went into the floor, and Doc hit the man across the knees with the troll's stick until he stopped trying to get up.
+He didn't sweep. He found the guns on the dwarven ship as he'd found the moth in the temple, and closed his grip on each barrel and bent it. He was still feeling along the hull for more when one he'd missed opened up from underneath, and it walked across the floor and through the end of the prisoners' line, nine of them, before he found it and crushed it. After that everything went at once. He tore some of the inquisitors' weapons out of their hands and lost track of the rest. One of them had a pencil behind his ear, and kept it there the whole time. Something cracked off the rim behind him, and Teo shouted, and then Teo's rifle went twice. Doc came down the wall after Eli, slow and puffing and talking the whole way under his breath, the way he'd talked through the miner's arm. A dwarven crewman came at him with a cutting bar. Doc stepped aside, small and clumsy, and the bar went into the floor, and Doc hit the man across the knees with the troll's stick until he stopped trying to get up.
 
 It was over in a few minutes. The inquisitors were dead or running, and the dwarf in the good coat was face down on his own ramp with Eli's grip on the back of his neck. Up on the rim Teo sat in the black grit with both hands clamped on his thigh and blood coming through his fingers, swearing at the man he'd shot.
 
@@ -364,17 +368,21 @@ They took the dwarven ship. It was low and black, built by the Returned†, the 
 
 Two days out, Eli counted the stores. They were a water ration short. Doc was in the galley dressing Teo's leg and talking about goats. Eli counted again and got the same number.
 
+It was then, counting, that he thought about the ones who had run into the dark. There was nowhere on that moon to run to. The station had the only air and water, and the dwarven ship had been the only ship, and he was standing in it. The Inquisition would be back on the ninth.
+
 ---
 
 It took her four months to stop sleeping with a knife in her hand.
 
-Eli had been raised on the same stories as the archivist, and he unlearned them slowly. She ate fast and without a sound, with her arm curled round her plate. She couldn't stand closed doors, or being thanked. She'd trained on the road, she said, fifty years of it, with whoever would teach her, and paid for every lesson in ways she didn't describe.
+Eli had been raised on the same stories as the archivist, and he unlearned them slowly. She ate fast and without a sound, with her arm curled round her plate. She couldn't stand closed doors, or being thanked. She'd trained on the road, she said, fifty years of it, with whoever would teach her, and paid for most of it by fighting. One teacher had sold her to a pit on a human world for three years and kept the money. She said it had been a fair price for what he taught her. The rings round her wrists were from the pit chain.
 
 And she felt the elves, always. Even out in the dark between the stars there was a light at the edge of her: the homeworld, trillions of them, shining from across the galaxy.
 
 "It never goes out," she said once in the galley, not looking at him. "Worst thing they did. They let us keep that."
 
-Another time Teo called her a dark elf without thinking. She didn't look up from her plate. "There's a sun down there," she said. "It's a world. Like these. They named it hell. Then they named us after it." Teo didn't use the word again. Eli had stopped using it some time before and couldn't have said when.
+Another time Teo called her a dark elf without thinking. She didn't look up from her plate. "There's a sun down there," she said. "It's a world. Like these. They named it hell. Then they named us after it." Teo didn't use the word again.
+
+"The ones they sent down for stealing souls kept on doing it," she said another night. "Nobody stops them. They farm the towns. Every street pays a share. My street paid in children, because children are small and nobody misses them long." She went back to eating.
 
 Late one night Eli came down the corridor and found her alone in the hold, practising. She stood in the middle of the empty deck with one hand raised, the fingers a little curled, and closed them slowly. The air in front of her folded in on itself with a small flat sound, like a book being shut. A cargo strap a yard away went into it and was gone.
 
@@ -396,7 +404,7 @@ The colony was on a desert world at the far end of nowhere, cut off so long it h
 
 Jon had brought them there for water, he said. Eli put the ship down in the riverbed between the two camps and walked out alone under both sets of guns.
 
-This, at least, the palace had taught him. He found the colony's grandmothers and the elven captain's second, sat them across a folding table in the sun, and let each side describe the other until they ran out of words. On the second day the elves walked out. On the fourth a grandmother spat on the table and the talks stopped for two days, and Eli sat at the table alone in the heat through both of them, so that both camps could watch him sitting there. On the sixth day a colonist boy shot an elf at the water line. Eli walked the boy to the elven camp himself and handed him over, and stood there while they did it, so the grandmothers would believe the line meant something. There was sand in his collar. It had worked down under his shirt to the small of his back, and for most of it that was what he felt. One of the grandmothers was the boy's. She came back to the table the next morning and never spoke to Eli again. By the ninth day there was a line in the riverbed that neither side crossed, and nobody had died for three days.
+This, at least, the palace had taught him. He found the colony's grandmothers and the elven captain's second, sat them across a folding table in the sun, and let each side describe the other until they ran out of words. On the second day the elves walked out. On the fourth a grandmother spat on the table and the talks stopped for two days, and Eli sat at the table alone in the heat through both of them, so that both camps could watch him sitting there. On the sixth day a colonist boy shot an elf at the water line. Eli walked the boy to the elven camp himself and handed him over, and stood there while they did it. They knelt him at the water line and the captain's second cut his throat, and two elves held him by the ankles so the blood went into the sand and not the water. Eli stood there so the grandmothers would believe the line meant something. There was sand in his collar. It had worked down under his shirt to the small of his back, and for most of it that was what he felt. One of the grandmothers was the boy's. She came back to the table the next morning and never spoke to Eli again. By the ninth day there was a line in the riverbed that neither side crossed, and nobody had died for three days.
 
 On the twelfth day an elven ship came down out of the sky, and a woman walked down its ramp.
 
@@ -414,6 +422,8 @@ Eli looked at Jon. Jon was looking at the seedship.
 
 She went up the ramp past all of them and took the best bunk.
 
+Eli asked Jon about the sword. "Grown," said Jon. "When they catch one of the hell-born outside, they grow a blade out of her. It takes about a year. She's alive for most of it; it holds better that way." He thought about it. "It's a very good sword."
+
 The dark elf didn't come out of her cabin for two days. When she did, her hands weren't quite steady. On a ship that small the two elves felt each other all the time. In the corridors neither looked at the other, and they never spoke at all, and everyone else learned to wait until one of them had gone by.
 
 The Queen was a better fighter than Eli in every way that could be measured, and she made sure he knew it. She sparred with him every day and put him on the deck every day, without malice and without effort, and walked off while he was still getting up. She called him *the human*.
@@ -428,7 +438,7 @@ The giant lived on a forge world, and going to see him was Eli's idea.
 
 The war Eli meant to finish would need ships, and giants built ships. They built the cathedral ships for the dragons, and sold them, and kept to themselves, and there were fewer of them every century. Everyone knew the giants were dying out. But Jon knew one who would talk to a human.
 
-From orbit the forge world was black rock under a red sky, and its shipyards held a dozen cathedral ships in their cradles, each the length of a city, ribbed and pale and half-made, their flanks pricked all over with the small blue stars of a thousand welding torches, like frost catching the light on a field at dawn.
+From orbit the forge world was black rock under a red sky, and its shipyards held a dozen cathedral ships in their cradles, each the length of a city, ribbed and pale and half-made, their flanks pricked all over with the small blue stars of a thousand welding torches, like frost catching the light on a field at dawn. Feed lines ran up into the cradles from a ring of dwarven bulk haulers in low orbit. From the shuttle window Eli saw what was in them. Orcs, single file, walking up the long ribbed tubes into the half-made hulls. None came back down.
 
 The giant met them in a hall so big it had its own weather. Sitting, he was the height of a four-storey house. When he spoke, Eli felt it in the soles of his feet.
 
@@ -440,7 +450,7 @@ The giant met them in a hall so big it had its own weather. Sitting, he was the 
 
 Eli stayed on his feet. He asked for passage, and a ship, and the giants' old quarrel with the dragons turned on the one man who sat above them all. The giant heard him out in silence.
 
-"And why would I lend a ship to a human?"
+"Do you know what those are made of?" he said. "Once, our own dead. Families. A grandmother in the keel, her sons in the ribs. There are not enough of us left to die, so now we buy. The dwarves bring them by the hauler-load, and they walk in, and the hull closes on them, and they stay. That is what makes it a ship and not a shell." He looked at Eli. "And why would I lend a ship to a human?"
 
 Eli had been raised to know what he had and when to spend it.
 
@@ -504,7 +514,7 @@ He opened his mouth and drove the chamber far past anything it had been built to
 
 ---
 
-From the surface it looked like a line drawn with a ruler. It went in at the forge-heart and the forge-heart was gone, and then the shipyards, and the cradles, the cathedral ships buckling in them one after another like ribs under a boot. Then the crust came up in a ring and kept coming, a wave of red rock taller than mountains rolling out across the face of the world.
+From the surface it looked like a line drawn with a ruler. It went in at the forge-heart and the forge-heart was gone, and then the shipyards, and the cradles, the cathedral ships buckling in them one after another like ribs under a boot, and the feed lines with everyone still in them. Then the crust came up in a ring and kept coming, a wave of red rock taller than mountains rolling out across the face of the world.
 
 Afterwards the dragon's ship drifted dark in orbit. Its crew sat in their stations, cooked inside their scales. Its master hung in the cradle with his neck broken in three places and his eyes open.
 
@@ -542,9 +552,15 @@ Eli opened his mouth. The old man went past him up the ramp.
 
 It took them most of a year to cross the war.
 
-Cathedral ships the size of moons ground into dragon fleets in the dark. Legion carriers went by with hulls pressed from orcs bought by the trillion, and if you walked a Legion corridor you couldn't be sure the faint warmth in the walls was only the heating. Dwarven convoys ran guns to everyone. Elven ships came out of nowhere, hit the Emperor's, and were gone.
+Cathedral ships the size of moons ground into dragon fleets in the dark. Legion carriers went by with hulls pressed from orcs bought by the trillion, and the Legion boys who had grown up on them slept with their backs to the warm walls and never thought about it. Dwarven convoys ran guns to everyone. Elven ships came out of nowhere, hit the Emperor's, and were gone.
 
-An Inquisition cutter had been behind them since the crater. They lost it twice and it found them twice, and the third time it caught them over a gas giant whose name none of them ever learned. They got off the Returned ship in a lifeboat with what they could carry, and the cutter took the ship in tow and left the lifeboat to drift in a sector with no shipping lanes at all. A salvage tug picked them up on the nineteenth day, on the last of the water. Eli's ribs took four months to knit. They crossed two systems in the hold of a dwarven arms freighter, sleeping on crates of flesh rifles that twitched whenever the drive spun up.
+An Inquisition cutter had been behind them since the crater. They lost it twice and it found them twice, and the third time it caught them over a gas giant whose name none of them ever learned. They got off the Returned ship in a lifeboat with what they could carry, and the cutter took the ship in tow and left the lifeboat to drift in a sector with no shipping lanes at all. A salvage tug picked them up on the nineteenth day, on the last of the water. Eli's ribs took four months to knit. They crossed two systems in the hold of a dwarven arms freighter, sleeping on crates of flesh rifles that twitched whenever the drive spun up. GROWN FROM CERTIFIED CLONE STOCK, the stencil said. NO SOUL. One crate had split, and the rifle in it had a fingernail in the grip, small and perfect, where a thumb would go.
+
+On the freighter's feed Eli saw the desert world once. An elven fleet had come down for the seedship and cleared the dunes on both sides of the riverbed for a landing field. The line in the riverbed had held; nobody on either side of it was left to cross it. He turned the feed off.
+
+On a human world whose name he didn't catch, they watched a crowd hang a gnome from a lamp standard for soul theft. The crowd sang to the Emperor's god while he kicked, under a broadcast wall that showed a seal where a face should be. The wall ran on a cored mind; it said so on the plate. Doc stood with them at the back.
+
+"Poor thing," he said. "They always get the wrong one."
 
 Doc fought when they had to, and fought badly. He was slow and short of wind, and his reach was a market conjurer's, enough to knock a rifle aside or trip a man on a stair. Then he'd finish the man with the troll's stick and complain about his knees. Once, on the freighter, after a boarding party, the master stood watching Doc bandage a dwarf's leg and chat to him about goats, and the master's face went still and strange, as if he were listening for something in another room. Then Doc looked up and asked whether he'd hurt himself. The master said no, and walked off rubbing his eyes.
 
@@ -600,13 +616,13 @@ Jon opened his mouth and shut it. He looked out at the carcass again.
 
 ---
 
-A month later, on another freighter, the hull took a hit and the cold got into the hold where forty chipped orcs were being shipped to the Legion yards. Teo found them. They had pressed together against the warmest bulkhead, and some of them had their arms round each other. He came back shaking and couldn't speak.
+A month later, on another freighter, the hull took a hit and the cold got into the hold where forty chipped orcs were being shipped to the Legion yards. Teo found them. They had been told to stand in rows, and most of them had frozen standing, in rows. Near the warmest bulkhead the rows had leaned in toward it as far as the chips allowed, and some of them had got an arm round the next one. He came back shaking and couldn't speak.
 
 Jon went and looked. Then he came and sat with Teo for an hour with an arm round his shoulders, and talked to him softly about the first dead he had ever seen, and how it never stopped mattering, and how that was how you knew you were still a person. Teo cried into his coat. When the purser came by, Jon, without taking his arm off Teo, booked their passage to the next system in that same hold.
 
 "At a discount," he said. "They won't be needing it."
 
-The purser wrote it down.
+The purser wrote it down. The orcs were delivered at the Legion yards eight days later, at the same weight, and signed for.
 
 ---
 
@@ -662,7 +678,7 @@ They were in a pale, seamless corridor that curved gently away. The light came f
 
 Eli reached without meaning to, the way you put a hand out in the dark. He reached further than he ever had, with a hold so fine he could feel the threads in Teo's sleeve from across the corridor. He looked at his hands. They were the same hands.
 
-Doc laid his palm flat on the wall, held it there, and took it away.
+Doc laid his palm flat on the wall and held it there. "Hello, all of you," he said to it, softly, and took it away.
 
 Jon walked on ahead without waiting for them.
 
@@ -760,13 +776,11 @@ Somewhere far above them the whole Tower shuddered once, and the light dimmed an
 
 Eli stood in the doorway. He had gone back for the master with a cheap trick, and the master had come. He waited to feel what that came to. What he felt was his back, where the ceiling had been.
 
-The Queen stopped beside him on her way to the door.
-
-"That was well done," she said, without looking at him. "Your master."
+The Queen went past him to the door without a word, holding her shoulder, and didn't look at the place on the floor.
 
 ---
 
-The stair beyond the door wound up through the heart of the Tower. Arches along it opened on half-seen rooms: a hall of ancient grown weapons, pale and ribbed; a hall hung with banners from wars nobody had written down, their fringes gone to lace with age and the gold thread in them dulled to the brown of cold tea. They didn't stop to look. By the second turn Doc needed the rail.
+The stair beyond the door wound up through the heart of the Tower. Arches along it opened on half-seen rooms: a hall of ancient grown weapons, pale and ribbed, some of them still stirring faintly in their racks; a hall hung with banners from wars nobody had written down, their fringes gone to lace with age and the gold thread in them dulled to the brown of cold tea. They didn't stop to look. By the second turn Doc needed the rail.
 
 ---
 
@@ -790,7 +804,7 @@ Teo had gone ahead of them all. He always went first through doors; it was how h
 
 He lifted a hand a little, without looking, and closed it.
 
-Across the room Teo's head snapped back as if a great palm had cupped his face, fingers over his eyes and mouth, and lifted him off the floor. There was one short wet sound. Derrek opened his hand. Teo dropped and didn't move. Like a mean man would put down an unruly dog. The sound kept on in Eli's ears after it had stopped in the room.
+Across the room Teo's head snapped back as if a great palm had cupped his face, fingers over his eyes and mouth, and lifted him off the floor. There was one short wet sound. Derrek opened his hand. Teo dropped and didn't move. His stiff hand lay open on the stone, the one that had never closed right. Like a mean man would put down an unruly dog. The sound kept on in Eli's ears after it had stopped in the room.
 
 Eli reached for him.
 
@@ -903,6 +917,8 @@ Derrek put up his good hand. Then the ruined one as well.
 He smiled up at Derrek, very kindly.
 
 "I wasn't able to save your loved one."
+
+He glanced back at Eli. "The little one with the fever, at the clinic. She never woke up, you know. Her mother brought her back while you two were outside arguing about my price, and I told her too."
 
 Derrek was being driven back across the dais, step by step. It was a big dais. Blood came from his nose and then from his ears. His plain dark clothes tore along the seams as if hands were pulling at them. His face ran with sweat, and he held, and the weight kept breaking over him.
 
