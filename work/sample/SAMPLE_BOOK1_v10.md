@@ -42,7 +42,7 @@ The air in front of him went hard and he swung it, and the front rank went over 
 
 He could have cleared the yard.
 
-A man on the counterweight of the nearest crane, twenty feet up. Eating a peach. Two stones on the iron beside him already. A long coat, too warm for the weather, and a face that looked pleased to see Eli before it knew who he was.
+A man on the counterweight of the nearest crane, twenty feet up. Eating a peach. Two stones on the iron beside him already. A long coat, too warm for the weather, and the kind of face that looks pleased to see you before it knows who you are.
 
 "You look," he said, "like you could use an exit."
 
@@ -100,7 +100,7 @@ Teo lifted off. Below them the orcs were still standing in the pens. Another man
 
 ## Two: The Master
 
-Jon rode with them for six days, and said he knew which back roads the drones didn't watch. On the fourth day a drone came down one of them and hung in the air ahead of the flyer, looking, and Teo had to drop them into a river gorge, kill the engine and sit under the overhang until dark with the water loud underneath. Jon slept through most of it. Eli sat with his back against the wet rock and watched him, a man who had walked into a yard full of chipped orcs four days before and now snored a little, with his mouth open. When he woke he said they must have changed the routes, and that was all he said about it.
+Jon rode with them for six days, and said he knew which back roads the drones didn't watch. On the fourth day a drone came down one of them and hung in the air ahead of the flyer, looking, and Teo had to drop them into a river gorge, kill the engine and sit under the overhang until dark with the water loud underneath. Jon slept through most of it. Eli sat with his back against the wet rock and watched him, a man who had walked into a yard full of chipped orcs three days before and now snored a little, with his mouth open. When he woke he said they must have changed the routes, and that was all he said about it.
 
 On the second night Teo had sat alone on the flyer's wing for an hour. When he came back in he said to Eli, quietly, "He just touched them and they died. He was eating a peach." Jon, in his blanket in the back, said without opening his eyes that he hadn't killed all of them, only the ones that reached Eli. The rest would have woken up in the pens and gone up the ramps on schedule. "They're awake in there the whole time, you know," he said. "The chip doesn't put you out. It only does the walking." Then he went back to sleep. Eli lay awake a long time after that. He didn't say anything about the one at the fence, and nobody else did either. In the morning Jon made Teo breakfast and asked about his parents and listened to the whole answer, and said they must be very proud of him. By noon Teo was laughing at his stories again.
 
@@ -178,7 +178,7 @@ Every morning the master sat cross-legged on the cold floor of the temple with h
 
 Nobody on the rim knew whose son he was, and the master never asked. Eli slept on the temple floor in his coat and woke before light without anyone calling him, and some mornings, sitting in the cold with his eyes shut, he forgot for an hour at a time what he had come there for.
 
-"You've the strength of an army," he said, "and the hands of a man in mittens. One day it'll kill you."
+"You've the strength of an army," the master said, "and the hands of a man in mittens. One day it'll kill you."
 
 In the fifth month Eli threaded a needle across the room without touching it, and sat looking at it, thread and all, until the master came over and took it away.
 
