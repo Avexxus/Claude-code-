@@ -1,6 +1,6 @@
 # Book 1: sample, v9 natural pass (TEST, NOT CANON)
 
-> 🌊 **Claude test draft, not canon prose.** The "unplanned pressure" pass (2026-11-08, per Grok's fifth review): a copy of `SAMPLE_BOOK1_POLISHED.md` with deliberate useless details, wrong temperatures, attention slips, uneven sentences and open paragraph endings. Every change is listed in `PRESSURE_LOG.md` for Patrick to keep or cut. **Grimdark pass (2026-11-08):** a copy of `SAMPLE_BOOK1_PRESSURE.md` with the codex's horrors shown concretely and the glimmers cut to five, most of them crushed; every change is listed in `GRIMDARK_LOG.md` (G-items) for Patrick to keep or cut. **v8 selective cut (2026-11-08, per Grok's sixth review):** a copy of `SAMPLE_BOOK1_GRIMDARK.md` keeping 20 of the 59 P-items (the ones that read as Eli's mind) and cutting 39; see `PRESSURE_LOG.md`. G-items untouched. **Later passes, including hostile checkers, must not remove or fix them unless Patrick cuts them.** Events, canon and order are unchanged. Every line of the real book is Patrick's (`12_METHOD`, t257). Names marked † are Claude placeholders (t630). **v9 natural pass (2026-11-08):** a copy of `SAMPLE_BOOK1_v8.md` made rougher and less explained, with plot conveniences replaced by cost or choice; principles in `NATURAL_PRINCIPLES.md`, every change in `NATURAL_LOG.md` (N-items, conveniences flagged C-items). What happens is unchanged. The polish notes at the end describe the polished file this was copied from.
+> 🌊 **Claude test draft, not canon prose.** The "unplanned pressure" pass (2026-11-08, per Grok's fifth review): a copy of `SAMPLE_BOOK1_POLISHED.md` with deliberate useless details, wrong temperatures, attention slips, uneven sentences and open paragraph endings. Every change is listed in `PRESSURE_LOG.md` for Patrick to keep or cut. **Grimdark pass (2026-11-08):** a copy of `SAMPLE_BOOK1_PRESSURE.md` with the codex's horrors shown concretely and the glimmers cut to five, most of them crushed; every change is listed in `GRIMDARK_LOG.md` (G-items) for Patrick to keep or cut. **v8 selective cut (2026-11-08, per Grok's sixth review):** a copy of `SAMPLE_BOOK1_GRIMDARK.md` keeping 20 of the 59 P-items (the ones that read as Eli's mind) and cutting 39; see `PRESSURE_LOG.md`. G-items untouched. **Later passes, including hostile checkers, must not remove or fix them unless Patrick cuts them.** Events, canon and order are unchanged. Every line of the real book is Patrick's (`12_METHOD`, t257). Names marked † are Claude placeholders (t630). **v9 natural pass (2026-11-08):** a copy of `SAMPLE_BOOK1_v8.md` made rougher and less explained, with plot conveniences replaced by cost or choice; principles in `NATURAL_PRINCIPLES.md`, every change in `NATURAL_LOG.md` (N-items, conveniences flagged C-items). What happens is unchanged. **Story guard (2026-11-08):** 2 reverts and 8 adjusts applied on top, listed in `GUARD_LOG.md`. The polish notes at the end describe the polished file this was copied from.
 
 ---
 
@@ -114,7 +114,7 @@ Over the next year he came and went.
 
 He turned up for a week on a salvage hull where Eli and Teo were cutting cable out of dead ships for cash, then stayed away all winter. He turned up again on a transit platform with a bag of peaches, stayed a month, and was gone. When Eli asked where he went, he said, "Elves."
 
-Eli learned what food cost. He went hungry three days on a station where no one would hire a man with soft hands, and on the fourth he broke a dock boss's knee for a job, and took the job. Teo didn't speak to him for a week. Half the shopfronts on that station kept a little shrine to the Emperor's god, lit with a cheap bulb, and not one of them had a face on it. Nobody knew the face. A dockhand kicked a cargo loader that had stopped to think too long. "Battery," he said, and spat. Jon was in that month. He watched the loader trundle off. "Orc," he said. "Young one, by the size of the core. Flesh takes the shape better at that age. They put pool on the label so nobody has to feel funny about it." He offered Eli a peach.
+Eli learned what food cost. He went hungry three days on a station where no one would hire a man with soft hands, and on the fourth he broke a dock boss's knee for a job, and took the job. Teo didn't speak to him for a week. Half the shopfronts on that station kept a little shrine to the Emperor's god, lit with a cheap bulb, and not one of them had the Emperor's face on it. Nobody knew the face. A dockhand kicked a cargo loader that had stopped to think too long. "Battery," he said, and spat. Jon was in that month. He watched the loader trundle off. "Orc," he said. "Young one, by the size of the core. Flesh takes the shape better at that age. They put pool on the label so nobody has to feel funny about it." He offered Eli a peach.
 
 The station's legal exchange was two decks below the hiring hall, and Eli passed it every morning. It had a clean white front and a board of prices that changed through the day: eyes, kidneys, skin by the hand's width, ELF LIVER ENQUIRE WITHIN. Behind the glass the whole-body stock stood asleep in upright cases with tags at their throats: CLONE. NO SOUL. GRADE B. One morning a buyer had a case opened to look at a man's teeth, and the man woke. His face did what a baby's face does just before it cries. The clerk put him under again. "Reflex," he told the buyer. "Nobody home." The buyer took the kidneys and one eye and left the rest on account. The eye cost about what Eli made in a week on the docks. Two decks further down, with no front at all, the same stock sold for four times as much with papers saying born.
 
@@ -125,6 +125,8 @@ RECOVER IMPERIAL PROPERTY, it said under the seal. It had him down to the scar o
 He stood in front of it while the shift changed in the hall behind him.
 
 He'll write it up, Jon had said. And it goes up, and up again.
+
+It had gone up already. The man against the fence had died for nothing, and Jon had known.
 
 Teo came up beside him, read it, and said nothing.
 
@@ -196,7 +198,7 @@ The miner screamed the whole time the gnome was setting his arm, and the gnome t
 
 "Ate my whole herb garden, that goat. The winter half the village came to me with fever, and there's me with not a leaf. I could have strangled him. Didn't, mind. I was very fond of him. Hold still."
 
-He was small even for a gnome, round in the face, bald on top, with enormous ears. The clinic was in the gnome quarter of a dwarven mining district on a world with a number for a name, and the line went out the door. Eli stood at the back. Teo stood by the door and didn't like any of it.
+He was small even for a gnome, round in the face, bald on top, with enormous ears. The clinic was in the gnome quarter of a dwarven mining district on a world with a number for a name, and the line went out the door. In the dwarven districts gnomes worked on contracts that ran for life, and they got very good at not being noticed. Eli stood at the back. Teo stood by the door and didn't like any of it.
 
 The gnome took a feverish girl from her mother and sat with her behind a curtain for an hour, and brought her out again cool and asleep. She hung very loose in her mother's arms.
 
@@ -320,7 +322,7 @@ Overhead, a human freighter blinked out of the sky above the crater, and the air
 
 "How do you know all that?"
 
-Doc didn't seem to hear. He was still watching the floor.
+"I listen," said Doc.
 
 The trade at the ramp was nearly done. Eli went down the crater wall.
 
@@ -330,7 +332,7 @@ It was over in a few minutes. The inquisitors were dead or running, and the dwar
 
 They broke the chains. The freed prisoners didn't thank anyone. Most of them ran into the dark. The two at the end of the line lay where the gun had left them, still chained to each other.
 
-One, an old man with no teeth, didn't run. Both his feet had been broken once and set crooked. He stood at the edge of the place where the floor went strange and stared at the air above it. The air there trembled faintly, like a pane of glass in wind.
+One, an old man with no teeth, stayed. He stood at the edge of the place where the floor went strange and stared at the air above it. The air there trembled faintly, like a pane of glass in wind.
 
 "Someone's there," he said. "I know that shake. I made it once, from the other side. Someone's at the door."
 
@@ -440,7 +442,7 @@ Eli asked Jon about the sword. "Grown," said Jon. "When they catch one of the he
 
 The dark elf didn't come out of her cabin for two days. When she did, her hands weren't quite steady. On a ship that small the two elves felt each other all the time. In the corridors neither looked at the other, and they never spoke at all, and everyone else learned to wait until one of them had gone by.
 
-She sparred with him every day and put him on the deck every day, without malice and without effort, and walked off while he was still getting up. She called him *the human*.
+The Queen sparred with him every day and put him on the deck every day, without malice and without effort, and walked off while he was still getting up. She called him *the human*.
 
 "Why her?" Eli asked Jon one night, when his ribs hurt too much to sleep.
 
@@ -464,7 +466,7 @@ Eli stayed on his feet. He asked for passage, and a ship, and the giants' old qu
 
 "Do you know what those are made of?" he said. "Once, our own dead. Families. A grandmother in the keel, her sons in the ribs. There are not enough of us left to die, so now we buy. The dwarves bring them by the hauler-load, and they walk in, and the hull closes on them, and they stay. That is what makes it a ship and not a shell." He looked at Eli. "And why would I lend a ship to a human?"
 
-"Because I'm the Emperor's son," he said.
+"Because I'm the Emperor's son," Eli said.
 
 Behind him the Queen went very still.
 
@@ -552,11 +554,9 @@ The master looked at him a long while.
 
 "That's a cheap trick," he said at last. "Get out of my temple."
 
-They waited on the rim four days for a part that had to come from two systems away. Eli didn't go back up the steps.
+They waited on the rim four days, because the ship needed a part and the part had to come from two systems away. Eli didn't go back up the steps. On the fourth night the part came, and Teo had the drive warm by morning, and they had the ramp half up when the master came across the landing field in the rain with his bag on his shoulder.
 
-On the second day the master was sitting on his bag at the edge of the landing field. He didn't come over. It rained, and he sat in it. At dark he was gone. On the third day he was back on the bag.
-
-The part came on the fourth night. In the morning, with the drive warm, the master got up and came across the field in the rain and went past Eli up the ramp.
+Eli opened his mouth. The old man went past him up the ramp.
 
 "Your drive's whining," he said from inside. "Get somebody to look at it."
 
@@ -576,7 +576,7 @@ On a human world whose name he didn't catch, they watched a crowd hang a gnome f
 
 "Poor thing," he said. "They always get the wrong one."
 
-Doc fought when they had to, and fought badly. He was slow and short of wind, and his reach was a market conjurer's, enough to knock a rifle aside or trip a man on a stair. Then he'd finish the man with the troll's stick and complain about his knees. Once, on the freighter, after a boarding party, the master stood watching Doc bandage a dwarf's leg and chat to him about goats, and the master's face went still and strange. Doc looked up and asked whether he'd hurt himself. The master said no, and walked off rubbing his eyes.
+Doc fought when they had to, and fought badly. He was slow and short of wind, and his reach was a market conjurer's, enough to knock a rifle aside or trip a man on a stair. Then he'd finish the man with the troll's stick and complain about his knees. Once, on the freighter, after a boarding party, the master stood watching Doc bandage a dwarf's leg and chat to him about goats, and the master's face went still and strange, as if he were listening for something in another room. Doc looked up and asked whether he'd hurt himself. The master said no, and walked off rubbing his eyes.
 
 They went through hell once, on a human transit hull, because there was no other way across.
 
@@ -856,7 +856,7 @@ Derrek was yawning and resting his head on his right hand, looking out of the gr
 
 The apprentice's face changed.
 
-He reached down. Into the floor, into the walls, into the Tower itself, deeper than anyone had ever told him was safe. The lights along the walls dimmed all at once. The floor shivered. On the dais Derrek's head came up off his hand.
+He reached down. Into the floor, into the walls, into the Tower itself, deeper than anyone had ever told him was safe. The lights along the walls dimmed all at once. The floor shivered. On the dais Derrek's head came up off his hand: whatever the apprentice was pulling out of the walls, he was pulling it out from under his master.
 
 The apprentice began to shine. Light came up through his skin and his blade blazed white. He moved faster than she did, faster than anything Eli had ever seen, and he struck, and she caught it.
 
