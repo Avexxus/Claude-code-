@@ -62,7 +62,11 @@ Eli wiped his mouth.
 
 The man laughed so hard he had to bend over. Then he straightened, finished the peach, and dropped the stone on the old orc with the split lip. It landed on his cheek and stayed there.
 
-A flyer came in low over the sheds, an old plain-engine thing with a cracked canopy, and set down hard on the slag. Teo† leaned out of it, white in the face. Nine days ago he had forged the code that got them both out of the palace, and his parents were still inside. He looked at the bodies, then at the guard against the fence, then at the stranger.
+Teo† was supposed to be at the fence with the flyer. He wasn't. Eli stood among the bodies and watched the sky over the sheds and counted, and got to six hundred, and started again. Somewhere in the city a siren went up and down and stopped. The man in the coat sat on an upturned bucket and cleaned his nails with a sliver of wire from the fence, and didn't offer to leave or to help.
+
+"He'll come," the man said once. Eli didn't ask how he knew.
+
+The flyer came in low over the sheds forty minutes late, an old plain-engine thing with a cracked canopy and a new dent along one side, and set down hard on the slag. Teo leaned out of it, white in the face. Nine days ago he had forged the code that got them both out of the palace, and his parents were still inside. A checkpoint had gone up on the ring road, he said, and he'd had to go round through the drainage cuts, and he'd thought Eli was dead. He looked at the bodies, then at the guard against the fence, then at the stranger.
 
 "Did you do all that?" he asked Eli.
 
