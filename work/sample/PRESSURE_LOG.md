@@ -125,7 +125,7 @@
 39. **P39** · open circuit · ch Eight · keep / cut
    - Inserted after "She was dead before the pieces stopped moving.": "One sliver went on curling and uncurling on the step by Derrek's foot."
    - Replaced: Paragraph ended on the clean line "She was dead before the pieces stopped moving."
-40. **P40** · temperature · ch Eight · keep / cut
+40. **P40** · temperature · ch Eight · KEEP (Patrick 2026-11-08)
    - Now reads: "The soles of her boots were worn through at the heel, both of them. He had been on the deck under those boots every day for a year and never once seen the soles, and he looked at them now for a long time, and thought she ought to have had them seen to."
    - Replaced: "Every day for a year she had put him on the deck and stood over him until he got up. He waited for her to get up."
 41. **P41** · detail · ch Eight · keep / cut
