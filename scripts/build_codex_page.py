@@ -34,6 +34,15 @@ def main():
     manifest = json.loads(MANIFEST.read_text())
     known = {m["name"] for m in manifest}
     entries = []
+    # Pending rulings go first: they override the codex files until a pass writes them in.
+    bank = ROOT / "decisions" / "BANK.md"
+    if bank.exists():
+        text = ("> **READ THIS FIRST.** These are Patrick's rulings since 31 October 2026. "
+                "They have NOT yet been written into the files below, and where they disagree, "
+                "**these rulings win.** The codex files are older.\n\n" + bank.read_text())
+        entries.append({"id": "pending-rulings", "name": "BANK.md",
+                        "label": "⚠ Rulings since Oct 31 (override)",
+                        "group": "Read first", "words": words(text), "text": text})
     for m in manifest:
         path = CODEX / m["name"]
         if not path.exists():

@@ -28,7 +28,7 @@ This repo is the **home of Patrick's saga codex**. As of 2026-10-31, the codex l
 - **Work a loose end:** `options` (paper, then canon check, then numbered choices for Patrick).
 - **Patrick decides something:** `rule` (ledger entry, then codex edits, then check, then page rebuild and republish, then commit).
 - **New material:** `ideas` (idea-scout batches, then canon check, then survivors for Patrick).
-- **Keep claude.ai in step:** `sync`.
+- **Keep claude.ai in step:** `sync`. The Codex v5 page always shows `decisions/BANK.md` first as "Rulings since Oct 31 (override)"; rebuild and republish after banking anything a fresh chat should see.
 Always commit and push to the session's designated branch when a step finishes.
 
 ## What wins
