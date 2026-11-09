@@ -3,7 +3,7 @@
 This repo is the **home of Patrick's saga codex** and of **the story engine**. Patrick is the world-builder: he owns the world layer, meaning the codex and the BANK. Claude is the story engine: it writes the stories inside that sandbox (BANK 2026-11-09). The Codex v5 artifact on claude.ai is a readable copy rebuilt from this repo.
 
 ## Start of every session
-1. Read this file, then `notes/00_MASTER_BRIEF.md`, then `decisions/RULINGS.md`.
+1. Read this file, then **`HANDOFF.md`** (current state and next steps), then `decisions/BANK.md` (it overrides the codex), then `notes/00_MASTER_BRIEF.md`.
 2. If Patrick may have edited on claude.ai since the last session, run the `sync` skill.
 
 ## Layout
