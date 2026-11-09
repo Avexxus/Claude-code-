@@ -1,6 +1,7 @@
 # 03 — Conflict map: Book 1, "The Emperor's Son"
 
 > 🌊 Claude proposal for the planning room, not canon (story layer, clay). Built 2026-11-09 from `CLAUDE.md`, `decisions/BANK.md` (which overrides the codex), `00_brief.md`, `01_world_slice.md`, `02_cast.md`, the v10 spine (`work/sample/SAMPLE_BOOK1_v10.md`), `work/sample/reviews/audit_v10.md` and `cold_reader_v10.md`.
+> **Override applied (Patrick, 2026-11-09, via the coordinator; supersedes `02` L-D5 and `01` §2's "held elf-soul" row):** the elven bond is a **sensory organ in the body**, not soul-sensing. An elf soul held in a blade does **not** register. **The dark elf cannot feel the Queen's sword.** She knows what it is from words, sight and what she learned on the road (§3 P6). Living elves still feel living elves up close, because both have the organ. That's why the Queen's secret (she feels the hell-born woman as simply an elf) still holds.
 > **Purpose:** every arrival, absence and coincidence in the spine gets a **cause, a cost or a choice**. Nothing here goes on the page as exposition. Each cause leaves at most **one visible trace**, and the rest stays in the writers' room (BANK 11-01 W50: Book 1 is largely ambiguous, no info dump).
 > **Tags:** `LOCAL` = invented here, valid in this story only. `(02)` = already proposed in the cast file. `(01)` = already in the world slice. `[open]` = an open world item, handled without ruling on it.
 > **Cites:** codex file plus turn or marker; BANK by date and ID; spine lines as `v10 L###`.
@@ -27,10 +28,10 @@
 | **The Emperor** (Derrek; never named in narration) | Jon at the window, at the hour the ground opens, so the two of them can watch it together. Jon reminded of "who our master is" and told he "knows what he must do" (BANK 11-01 L3 follow-up). Nothing else matters to him, the son included ("drywall"). | The Tower, the largest amplifier on Earth (BANK 11-01 L8). Foreknowledge (one of the three time hints). The Legion. The faith. The seal on every wall. The dragon schools, where he once studied (`10 wk W63–W64`); they're his channel into the dragon houses. The rule-beast he trapped. The apprentice. | He never leaves the Tower (L8). He can't die for good, and neither can Jon, so killing each other is pointless (L4). He never lets anyone into his body (`08 wk W51`). In Book 1 he never addresses his son. His love shows only as the hand that stops halfway and the shoulder lean (BANK 11-08). |
 | **Jon** | Derrek drained and restrained at the window, the two of them watching the regress come in (BANK 11-01 L4 follow-ups). To get there he needs a team "enough to wear down derrek but not kill him", gathered by the son (BANK 11-01 W41 revision). | Memory: by this late in the run he remembers things (BANK 11-07 NP#3). Warmth on autopilot (L6). Some favor with Mika (W44). Money, peaches, access. Power far beyond his "older wizard" act (BANK 11-08). | **His tactical line (02):** he never shows real power where a feed, a ledger or an inquisitor can see it. The Inquisition hunts whoever causes the resets (`10 t490`; W44), and Mika is fully in control of his people (L10). **His budget:** whatever he spends before the throne room, he lacks upstairs (v10 L767). **His lie:** "they choose." He never pushes anyone to die and never stops the willing. |
 | **Mika** (offscreen) | The man in the Tower dead (`10 t532`). Also: the seedship recovered, and the trade kept quiet (`10 wk W68`). | The Queen. The relay. Raids on imperial shipping. The Inquisition. Tokens and visas. | No elf has ever passed the Tower's door (v10 L457). He won't spend more than one piece on a human's errand. He won't tell his piece what she's for, because she would ask (02). |
-| **The Inquisition** (Ilvaen, planning name, 02) | Officially: stop whoever causes the resets (`10 t490`). In this story: the *Ledger Closed* back, the crater's witnesses gone, the ledger closed. | Grey coats, ledgers, the gate, stations, cutters. The dwarven port network, which logs Returned hulls (LOCAL, §3 P8). | It must never recognise Jon (W44). It won't be seen killing people who travel under the king's token. It won't board what can kill it. Small crews, because the trade is secret (see §5, A-bonus). |
+| **The Inquisition** (Ilvaen, planning name, 02) | Officially: stop whoever causes the resets (`10 t490`). In this story: the *Ledger Closed* back, the crater's witnesses gone, the ledger closed. | Grey coats, ledgers, the gate, stations, cutters. The dwarven port network, which logs Returned hulls (LOCAL, §3 P8). | It must never recognise Jon (W44). It won't be seen killing people who travel under the king's token. It won't board what can kill it. Small crews, because the trade is secret (see §6, A-bonus). |
 | **The giants** (the giant, and the hidden fleets behind him) | The long patience: to wait until the giants are ready, then take back what was taken. The "reclaiming" idea stays a rumour at most (`01` §2). | Shipyards, cathedral ships, wealth nobody suspects (`10 t416–t418`). | They won't send giants against the Tower door, because the Tower is their emperor's body and their own dead. They won't lend a ship to a human. They won't show their strength before they're ready, until the strike forces it (`09 t414–t420`). |
 | **House Vaskhir** (strike-ship house, `01` L-F2) | Revenge for betrayal day: "my grandfather's grandfather". | A home-brew ship with a focusing chamber, and a master willing to break himself in it. | They're one house. They get the chamber design and the forge-heart's location from outside (§3 P7, LOCAL). They don't know whose war they're starting. |
-| **The Legion / the Undercourt** | Defend the capital. The heir's household runs on paperwork. | Carriers, guns, warrants. | The recovery warrant is a household matter, not a Legion hunt (§3 P1). After the strike the Legion is at war on every front. |
+| **The Legion / the Undercourt** | Defend the capital. The heir's household runs on paperwork. | Carriers, guns, warrants. | The recovery warrant is a household matter, not a Legion hunt (§3 P0). After the strike the Legion is at war on every front. |
 | **The dwarves** (Krell, the arms freighter, the lander seller) | Profit from everyone (`10 t146`). | Ships, drives, guns, traffic. | Loyal to nobody, which makes them a leak in both directions. |
 | **The rule-beast** | Out. | Its Void laid over the Tower's rooms. Its pride in its oaths (02). | It's bound to its room until someone loses (v10 L781). |
 
@@ -40,7 +41,7 @@
 |---|---|---|---|
 | **Eli** | Take the chair. Underneath: make his father look at him (02). | Reach (strength first, fine control learned late). Negotiation, his real gift (BANK 11-08). The name he refuses to use, until the giant. | He can't beat a god by force (`08 t372`). He depends on Jon's roads, money and access. Hunted by the warrant. |
 | **Doc** | One look inside the pearl (v10 L951). | A barrage felt, never seen (BANK 11-07 #5). Perfect camouflage. | The no-witness rule (`07`); the slow pace (BANK 11-01 L24). Exposure means leaving into another life. |
-| **The dark elf** | Never to be owned. Break the sword (02). | Lirael's Collapse (small outside the Tower). Shadow and close work. | Won't be shut in. Won't stand beside the blade. |
+| **The dark elf** | Never to be owned. Break the sword (02). | Lirael's Collapse (small outside the Tower). Shadow and close work. | Won't be shut in. Won't stand beside the blade. **She can't feel it** (override): she knows it only by what she has heard and seen. |
 | **The Queen** | Her king's order: walk behind the son and see the man in the Tower dead. | The strongest blade in the box. | Won't disobey a direct order. Won't ask for anything for herself (02). |
 | **The master** | Be left alone. After the strike: find out how far his master got. | All feel and little push: he "couldn't lift much, learned to listen" (02 plant). | His push is small. His line: he never says what he can't feel clearly. |
 | **Teo** | Get Eli somewhere safe, and have done one brave thing that mattered. | Flying, forging, being unnoticed. | His parents are still in the Undercourt (02 price). |
@@ -65,7 +66,7 @@
 | Line | What's in collision | What can be traded | Where it pays |
 |---|---|---|---|
 | **Eli ↔ Jon** | Eli wants to be seen; Jon wants a gatherer. | Jon's roads and money for Eli's errands; Eli's silence about the guard for Jon's company. | The C1–C7 ladder (02). C4 is the big one. |
-| **Queen ↔ dark elf** | Mika's law (dark elves belong to the Inquisition) against the Queen's secret (in the bond the dark elf feels like any elf). The sword between them. | The Queen's silence for the crew's safety. | The cutter (§5, pressure point Q3); the throne room. |
+| **Queen ↔ dark elf** | Mika's law (dark elves belong to the Inquisition) against the Queen's secret (in the bond the living hell-born woman feels like any elf). The sword between them: the dark elf *knows* what it is, but can't feel it. | The Queen's silence for the crew's safety. | The cutter (§5, pressure point Q3); the throne room. |
 | **Inquisition ↔ Queen** | The cutter wants the hull and the dark elf; the Queen could name herself and get the ship back. | The Queen's identity, which would expose the mission, against the dark elf. | The cutter. |
 | **Doc ↔ everyone** | Doc's appetite against the crew's lives. | A healer's hands for a road to the pearl. | The water ration; the throne room. |
 | **Teo ↔ his parents** | His loyalty to Eli against their punishment. | His confession for their release. | N1, the frozen orcs (02). |
@@ -136,6 +137,7 @@ Each phase lists who is offscreen, what they're doing, why, and the **one trace*
 |---|---|---|---|
 | **Jon, at the crater** | Doesn't come: "elves to see." | **Tactical line:** an Inquisition station and a ledger, and his name is already in one ledger. | (v10) |
 | **The dark elf** (before the door) | Pushing at the door from the hell side, the last of thirty. | The road (L-A11). | The floor worn black. "Someone's at the door." |
+| **The dark elf, what she knows of the trade** | **Words, not the bond (override):** down there everyone knows what the Inquisition does with the ones it catches at the door. Some are sold for organs, some to the pits, and "some get grown into things" (Jon's own words at dinner, v10 L317). It's street knowledge, the way her street knew the farmers' share. | It sets up P6: she will know a grown blade when she hears one described. | The four months of galley nights. Optional: she asks Eli what "grown into things" means to the humans who buy them, and he doesn't know. |
 | **Krell** (the dwarf left on the moon) | **LOCAL cause chain:** he survives until the ninth on the water ration Doc left him (v10 L397; audit unpaid 10). When the next Inquisition ship lands he gives them faces, the hull's registry and the gnome. | Doc's reason: the healer's mask. He can't be seen *not* to help, even by himself (his lie, "I ease them"). Doc never says so. | The ration short by one. **It now has a consequence:** the cutter has their faces. |
 | **The Inquisition** | Finds the station dead, the shipment gone, the hull stolen. Matches Krell's faces against the Seluvane gate ledger: **the people who came in on Jon's token.** | Evidence of the trade is loose in a Returned hull. | Pays in P8, the cutter. |
 | **Jon, the five weeks away** | Goes to Seluvane to ask Mika for the Queen. **He is held there by the Inquisition and questioned for five weeks about the crater,** because his token vouched for the party that emptied a station. Mika lets the questioning run as the price of the Queen. Jon lies well, and it costs him. The Inquisition never sees what he is (W44). | Two causes in one: the token links him to the raid, and Mika charges him for the piece. | "Grey in the face", straight to his bunk, the tune lost and restarted (v10 L421–425). Audit unpaid 5 is paid. |
@@ -147,7 +149,8 @@ Each phase lists who is offscreen, what they're doing, why, and the **one trace*
 |---|---|---|---|
 | **Jon, at the Dry** | Brings them "for water." He knew the seedship was down, and that Mika's rescue would come and bring the Queen with it. | He steers Eli into the one thing Eli is good at, where Mika's piece will see him do it. | He looks at the seedship, not at Eli (v10 L455). |
 | **Mika** | **His play through the Queen (coincidence fix K6):** the seedship's distress call reached Seluvane months ago. Mika sends a rescue, and orders the Queen ahead of it on a fast ship: find the human Jon spoke of, who will be at the Dry, and walk behind him to the Tower. **He doesn't tell her whose son he is,** because she would have asked: whether to kill him, or use him as a hostage, or whether a son of *that* man could be trusted at all. **His bet (LOCAL):** no elf has passed the Tower's door in all the ages, but the Emperor's own blood might. The son is a key, and the Queen is the hand that goes through behind it. | One piece, priced to Jon, spent on the only new thing in an age. | "Not one of us has passed its door. Now a human walks toward it." The **terrace door stands open** in ch 7 (P9). The Queen reads it as the bet paying off. It's really the Emperor's doing. |
-| **The giant** | Hears them out, refuses, weighs the hostage (§3 P6 detail below). Talks with Jon until dawn. | (below) | The delivery door. |
+| **The dark elf learns what the sword is** (override; replaces `02` L-D5's sensing) | **She can't feel it.** In the bond there's the Queen, close and loud, and nothing from the blade. She learns what it is three ways, in order. (1) **Words:** she's in the galley doorway when Eli asks Jon about the sword and Jon answers: "When they catch one of the hell-born outside, they grow a blade out of her… She's alive for most of it" (v10 L461, already in the spine; just put her in the doorway). (2) **Craft knowledge:** it matches the "grown into things" she already knew (P5). (3) **Sight:** the ribbed sheath shifts against the Queen's leg as she walks. It's alive. | Not feeling it is the horror. A woman of her kind is in the room, and the bond says nobody's there. She can't tell whose it is, because she has nothing to recognise it by. It might be one of the thirty, and she will never know. | She doesn't come out of her cabin for two days; her hands shake (v10 L463). **New beat:** the first time she passes the Queen in a corridor, she looks at the sheath, not at the Queen. |
+| **The giant** | Hears them out, refuses, weighs the hostage (detail below). Talks with Jon until dawn. | (below) | The delivery door. |
 | **The Queen** | Learns from Eli's own mouth whose son he is. | Eli breaks his line ("Because I'm the Emperor's son"). | The corridor; "So you remember who you are." |
 | **Mika, the reply** | Eleven hours later: *You were not told because you would have asked. Continue.* (02) | It confirms the lie she lives by. | "Continue." The fist through the bulkhead. |
 | **The Emperor** | His strike is already loaded (P7). | — | — |
@@ -175,14 +178,14 @@ Each phase lists who is offscreen, what they're doing, why, and the **one trace*
 | **The giants** | Within three days, hundreds of fleets. | The patience ran out early. | The count Eli loses. |
 | **Jon** | On the bridge with untouched tea. | He knew. | (v10) |
 | **The master** | The war empties the rim of three companies and takes away his reasons to stay (02). | — | "You're better." |
-| **The rim's dwarven supplier** | **Coincidence fix K15:** the four days on the rim are a choice and a cost. The ship's squeeze drive needs a part. Eli could leave on a whining drive and risk it, or wait for a dwarven part from two systems away. **He waits, for the master.** The part order goes through the dwarven port network, which logs the Returned hull (P8). | Eli wants the master more than he wants to be hard to find. | "Your drive's whining." It now pays. |
+| **The rim's dwarven supplier** | **Coincidence fix K14:** the four days on the rim are a choice and a cost. The ship's squeeze drive needs a part. Eli could leave on a whining drive and risk it, or wait for a dwarven part from two systems away. **He waits, for the master.** The part order goes through the dwarven port network, which logs the Returned hull (P8). | Eli wants the master more than he wants to be hard to find. | "Your drive's whining." It now pays. |
 
 ### P8 · The war road (ch 6, the long part)
 
 | Who | Doing | Why | Trace |
 |---|---|---|---|
 | **The Inquisition: the cutter** (audit A4 and A10) | **Why it chases** (L-B4): the hull is the trade's evidence, and Krell's faces are matched to the gate ledger. **Why it loses them and finds them again:** a Returned hull squeezes between worlds and can't be followed, but it can only be refuelled and repaired at dwarven ports, and dwarven ports log Returned hulls and sell the log to anyone. The rim part order was the second ping. **Why it lets them live:** see the Queen's choice below. | It wants the hull and the witnesses gone. It doesn't need the people *taken*. | The master or the dark elf, in the lifeboat: "They don't board what they can starve." |
-| **The Queen at the cutter** | The cutter hails. She could name herself as the king's piece and demand the ship back, and that would expose the mission. She could hand over the dark elf, which is lawful and what she was raised to do. **She does neither, and doesn't look at the dark elf.** | Her secret: in the bond, the hell-born woman feels like any elf (02). | She cuts the lifeboat loose herself, without a word. |
+| **The Queen at the cutter** | The cutter hails. She could name herself as the king's piece and demand the ship back, and that would expose the mission. She could hand over the dark elf, which is lawful and what she was raised to do. **She does neither, and doesn't look at the dark elf.** | Her secret: in the bond, the living hell-born woman feels like any elf (02; still holds under the override, because it's body to body). | She cuts the lifeboat loose herself, without a word. |
 | **Ilvaen's reckoning** | He doesn't board a lifeboat carrying the woman who fought at the crater, a living blade, and whatever killed a station. That fight would cost him his crew. The sector has no lanes, so the sector will do it, and the death will be the sector's, not his. He's travelling under the king's token he took as a bribe, which is one more reason not to be seen killing them. | Cost, not mercy. | The cutter tows *Ledger Closed* away. |
 | **Jon, absent for the cutter** (audit A4) | He got off at the previous port. **Tactical line:** he won't be aboard a ship the Inquisition boards, because a second questioning might not go so well. **Then he pays for the rescue (coincidence fix K9, LOCAL):** he hires a salvage tug to sweep a sector with no lanes, starting from the day he knew the grapple would come. The tug is slow, and the water runs out on day 17. | He needs them alive at the Tower. He doesn't need them comfortable. | The tug master, once: "Paid to sweep here. Didn't say for what." **C3**, "Nineteen days. Where were you?" "Elves." |
 | **The Inquisition, later** (audit unpaid 3) | It writes them off as dead, closes the ledger, and sells *Ledger Closed* back to the dwarves. | The trade goes on. | **Optional beat (LOCAL):** on the war road Eli sees the low black hull at a dwarven port with a new name stencilled over the old one. The dark elf looks at it and then away. It's a crushed glimmer, and the thread ends in grimdark: nothing changed. |
@@ -267,7 +270,7 @@ Canon: no Tower rule forces single combat. The only Rule in the Tower is the bea
 - **Against:**
   - Doc's protected litany (`t774`) needs room and order, and spoken under a melee it loses its rhythm.
   - The Queen's duel loses its length, and the boots beat loses its quiet.
-  - The dark elf's release can no longer come *from the sword breaking*.
+  - The dark elf's release can no longer come *from seeing the sword break*.
   - Most of all, it **works against Jon's canon plan.** Everything at once is exactly what might *kill* the Emperor, and a dead Emperor resets on the spot (BANK 11-01 L4). A reader on reread would ask why Jon allowed it.
 
 #### Option B · Jon's leash, which frays (PICK)
@@ -276,15 +279,15 @@ Canon: no Tower rule forces single combat. The only Rule in the Tower is the bea
 - **The hidden reason** stays author-level, never on the page: all at once might kill him, and that's worse than useless (L4: "enough to wear down derrek but not kill him").
 
 **How he enforces it, with no new world rule, only bodies and words:**
-1. **The lander, the last night (new beat):** Jon asks the dark elf, alone, "When it starts, keep hold of him. Don't let go until you have to." She agrees. **It's her own want too:** she'd hold Eli back anyway, because she's keeping vigil over the blade (02). Eli half-hears it and doesn't understand it.
+1. **The lander, the last night (new beat):** Jon asks the dark elf, alone, "When it starts, keep hold of him. Don't let go until you have to." She agrees. **It's her own want too:** she won't stand anywhere near that blade, so she'd hold back anyway (02). Eli half-hears it and doesn't understand it.
 2. **At the throne-room door:** Jon's hand on Eli's shoulder, his signature touch, which always comes when he wants something (02).
 3. **The Queen** goes first because she's ordered to, and because the apprentice steps between her and the chair. She won't fight beside a hell-born or ask a human for help.
 4. **The Emperor accepts the terms without a word:** "Yours. Go on." Two men agreeing on terms across a room is the whole relationship in one gesture. He looks at Jon after each death.
 
 **How it frays (this is what stops it reading as a queue):** each person **slips the leash when their own reason fires**, not on Jon's cue, and the beats overlap.
 - **Teo** goes before the leash is even on: the servant's lie that the help is invisible (02). Jon doesn't stop the willing, and doesn't turn his head.
-- **The Queen's duel** spills into the room: debris, the light dimming, the floor shivering under all of them. Nobody is a spectator in comfort. The dark elf's grip tightens when the blade is drawn, and Eli feels it.
-- **The dark elf goes on her own trigger,** with the sliver still curling: the sword breaks, the presence goes out, and the vigil is over. She looks at the sliver, not at the Queen's body (02, L-D5). Jon's "until you have to" has come; she decides when.
+- **The Queen's duel** spills into the room: debris, the light dimming, the floor shivering under all of them. Nobody is a spectator in comfort. When the Queen draws, the dark elf's grip tightens and Eli feels it. **She's reacting to what she sees,** the living blade sliding out of its sheath like skin, not to anything she feels (override). Through the duel she watches the blade, not the Queen.
+- **The dark elf goes on her own trigger,** with the sliver still curling. She **sees** the Emperor crush the blade and the sliver curl and uncurl on the step. The thing she meant to do herself has been done, by the hand she hates most. Whoever it was is free, or gone, and she'll never know which; the bond never told her anything, and it can't now. She looks at the sliver, not at the Queen's body. The vigil is over. Jon's "until you have to" has come, and she decides when.
 - **Doc starts while the room is still settling from the Collapse,** laughing as the grit stops sliding. His reason: the man is open, bleeding, both arms spent. It's the one moment worth breaking his no-witness rule for, because after it there will be nothing left to hide.
 - **Eli breaks free at "It's just us."** No hand holds him now. Jon lets him go because "That part's mine": the emotional attack is part of the plan too.
 
@@ -312,7 +315,7 @@ Canon: no Tower rule forces single combat. The only Rule in the Tower is the bea
 | E7 | Eli | The discount (C4) | The Tower | Clean hands | Stays with Jon | His complicity, and he knows it |
 | E8 | Eli | The throne room | Make his father look | Stay alive | Runs, then talks | The appeal fails; the hand stops halfway toward *Jon* |
 | T1 | Teo | The frozen orcs (N1) | His parents freed | Eli, and his one brave act meaning something | Stays | Walks to the dais on the servant's lie |
-| D1 | The dark elf | The sword comes aboard (N2) | Get away from the blade | Not leave another of hers alone with them | Stays, knife and all | Two days in her cabin; the vigil |
+| D1 | The dark elf | The sword comes aboard (N2) | Get away from the blade (she knows what it is from Jon's words) | Not leave another of hers alone with them | Stays, knife and all | Two days in her cabin; the vigil over a thing she can't feel |
 | D2 | The dark elf | The lander (new) | Fight beside the crew | Keep Eli alive, as Jon asked | Agrees to hold him | She watches the Queen die |
 | Q1 | The Queen | The corridor | Kill him (her rage) | Obey her king | Asks the king | The cheek; "So you remember who you are" |
 | Q2 | The Queen | The reply (N3b) | Free choice | Duty | "Continue" | Fist through the bulkhead |
@@ -356,7 +359,7 @@ The audit counted **11 ✗ rows** (10 distinct problems: the Queen fighting alon
 - **Doc earlier:** P8, "saving myself."
 - **The pursuers let him go:** P0 (a recovery warrant, not a Legion hunt; the cheek scar).
 - **Teo walks to the dais and nobody stops him:** §4.3. Jon doesn't stop the willing, and doesn't turn his head.
-- **The dark elf saves the Queen:** the sword (02), and Jon's request on the lander.
+- **The dark elf saves the Queen:** she won't go near the blade she knows is one of hers (Jon's words, P6), and Jon asked her on the lander to hold Eli.
 
 ---
 
@@ -381,6 +384,7 @@ The audit counted **11 ✗ rows** (10 distinct problems: the Queen fighting alon
 | K15 | Mika "hears" (audit unpaid 12) | Unexplained | Jon's two visits (P2, P3) | Cause |
 | K16 | Jon comes back grey (audit unpaid 5) | Unexplained | The five-week questioning over the crater; Mika's price | Cause and cost |
 | K17 | The missing water ration (audit unpaid 10) | Dangling | Krell lives and becomes the witness | Cost |
+| K18 | The dark elf "just knows" what the sword is | **Rested on the bond in `02`; that's now ruled out** | Jon's answer to Eli, overheard; street knowledge of "grown into things"; the living sheath (P5, P6) | Cause |
 
 **Not coincidences, and fine as they stand:**
 - The hull hit that freezes the orcs: it's war.
@@ -395,6 +399,8 @@ The audit counted **11 ✗ rows** (10 distinct problems: the Queen fighting alon
 - The fence as Teo's planned pickup (P1).
 - Jon's relay call to Mika on day 7, and his visit in month 4–9 (P2, P3).
 - The rim's wounded sent to the gnome at Thirty-One (P3).
+- The dark elf's street knowledge of "grown into things" (P5).
+- She is in the galley doorway when Jon describes the sword; the sheath, not the Queen (P6). **This replaces `02` L-D5's sensing under Patrick's override.**
 - Krell survives on Doc's ration and becomes the witness (P5).
 - Jon's five-week Inquisition questioning over the crater, as Mika's price (P5; it refines 02).
 - Mika's bet that the Emperor's blood can pass the door (P6).
@@ -410,6 +416,8 @@ The audit counted **11 ✗ rows** (10 distinct problems: the Queen fighting alon
 - Jon's request to the dark elf on the lander, and "You held me" (§4.3).
 - Doc's "saving myself for something special" (P8).
 
+**Knock-on for earlier files:** `02` §1.7 (what she feels; "the presence goes out") and `01` L-D5 / §2's held-elf-soul row still describe sensing. Update them to the override before scene cards.
+
 ## 9. Questions for Patrick (short)
 1. **The throne room:** B (Jon's leash, which frays) or A (whole room at once)? Claude picks B.
 2. **The spar:** a choice made on cost (Claude's pick) or a limit?
@@ -419,6 +427,7 @@ The audit counted **11 ✗ rows** (10 distinct problems: the Queen fighting alon
 6. ***Ledger Closed* resold:** use the optional sighting, or let the thread end at the cutter?
 
 **Tripwires checked:**
+- **The bond is a body sense: a held soul in a blade doesn't register** (Patrick, 11-09 override). The dark elf learns of the sword only by words and sight.
 - The Inquisition never recognises Jon (W44).
 - Jon has favor with Mika, no sway (L10).
 - No Tower rule forces single combat (`01` #30).

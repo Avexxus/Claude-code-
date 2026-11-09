@@ -1,4 +1,4 @@
-> **⚠ OVERRIDE (Patrick, 2026-11-09):** the elven bond is a sensory organ, not soul-sensing. An elf soul held in a blade does NOT register. The dark elf cannot *feel* the drow blade. Rework her fracture so she learns it by sight, craft knowledge, words or being told.
+> **OVERRIDE APPLIED (Patrick, 2026-11-09):** the elven bond is a sensory organ, not soul-sensing. An elf soul held in a blade does NOT register. §1.7 now has the dark elf learning about the sword by words, street knowledge and sight (`03` P5–P6).
 
 # 02 — Cast: Book 1, "The Emperor's Son"
 
@@ -274,14 +274,14 @@ Writer's room only. None of these causes is stated on the page; each leaves one 
 
 #### The dark elf and the Queen's drow blade (brief fix 6; L-D5, LOCAL; it opens one small question, logged in §5)
 (Page term: "grown from one of the hell-born"; "drow" is banned on the page, `10 t233`.)
-- **What she feels.** On a ship that small, elves feel each other (BANK 11-01 L9). The sword is grown from a hell-born woman, so she feels it too: **a faint, wrong elf-presence with no voice, always in the room.**
-- **Why it's personal.** The Inquisition keeps a station at the thin place because the door sometimes gives someone up. Some who got out before her were taken there and sold (L-B4; `10 wk W68`). **She can't tell whose it is.** It might be one of the thirty. It might be a stranger. She listens for it in the corridors trying to recognise it. That's the two days in her cabin and the shaking hands.
+- **What she knows, not feels (override 11-09).** The bond is a body sense; a soul held in a blade doesn't register (BANK 11-09). In the bond there's the Queen, close and loud, and **nothing** from the sword. She learns what it is by words (in the galley doorway for Jon's answer, v10 L461), by street knowledge ("some get grown into things") and by sight (the ribbed sheath shifts against the Queen's leg; it's alive). See `03` §P5–P6. **The horror is the silence:** a woman of her kind is in the room and the bond says nobody's there.
+- **Why it's personal.** The Inquisition keeps a station at the thin place because the door sometimes gives someone up. Some who got out before her were taken there and sold (L-B4; `10 wk W68`). **She can't tell whose it is: there's nothing to recognise it by.** It might be one of the thirty. It might be a stranger. She looks at the sheath, never the Queen, each time they pass. That's the two days in her cabin and the shaking hands.
 - **Why she stays.** Survivor's debt. She left twenty-nine behind once, and she won't leave another of hers alone with the people who carry it (N2).
 - **Why she never stands with the Queen.** Standing beside the blade is standing beside the woman wearing her kind as a weapon. The two-elf silence on the ship (v10) is the sword, not a personality clash.
 - **In the throne room.**
   - When the Queen draws, **her grip on Eli tightens**; Eli feels it. She's holding herself back as much as him.
   - Through the duel she watches the *blade*, not the Queen.
-  - When the Emperor crushes it, the presence goes out. **She looks at the curling sliver on the step, not at the Queen's body.** That's her reaction (cold reader note 6).
+  - When the Emperor crushes it, she *sees* it go: the sliver curls on the step. Nothing changes in the bond, because nothing was ever there. **She looks at the curling sliver on the step, not at the Queen's body.** That's her reaction (cold reader note 6).
   - Then "Don't," the pressed fingers, and she goes. The vigil is over. Nothing in the room is hers to keep watch over except Eli, and the man in the chair rules the people who came down to bet on her.
 - **The irony she never says:** the thing she meant to do (break the sword) was done for her by the hand she hates most.
 
