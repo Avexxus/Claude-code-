@@ -43,3 +43,11 @@ The fixes:
 
 ## Length
 A novella-length condensed Book 1 (about 18–25k words), to test the engine before the full book.
+
+## Gate 2 answers (Patrick, 2026-11-09: "1b 2b 3a 4b 5c 6b")
+1. **Throne room: B.** The whole room goes at once. There's no leash from Jon, so the Tower staging moves away from the plan's pick.
+2. **The master: B.** He has raw power too, not only craft. "One of their strongest fighters" is literal.
+3. **The dark elf's thirty: A.** She's the last one living.
+4. **Eli's final attack: B.** Words only. There's no physical reach first.
+5. **"Jon's mind was clear…": C.** Neither. No clear-mind beat in Book 1, inside or out.
+6. **Entropy breath: B.** Find it a place in Book 1. It's Patrick's scene (BANK 11-01 L34). Open world issues it touches: entropy as a cut domain (QUESTIONS 5.6), the god teleporting (folding space is cut), and Derrek can't die (so the god can't be Derrek).
