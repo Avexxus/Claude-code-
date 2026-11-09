@@ -525,7 +525,7 @@ The main eight are Eli, Jon, the Emperor, Teo, the master, Doc, the dark elf and
 - **Eli wants:** her to talk; to be trusted; later, her.
 - **The dark elf wants:** him not to own her, and not to make her owe him.
 - **Collide:** the door (contempt); being thanked; Eli's instinct to give; **the bargain** (`03` §2.2: she felt the elves die, and he bargains them all into serving the thing that did it).
-- **Shift:** he stops thanking her and sits up anyway → the water ration (she looks at him properly) → the crossing (broken fingers, the hand not taken away) → her name → the cathedral ship (days of silence; at the port she speaks first, about something small) → in the throne room her route passes him in the wall: she presses the fingers once, he says "Don't", and she goes.
+- **Shift:** he stops thanking her and sits up anyway → the water ration (she looks at him properly) → the crossing (broken fingers, the hand not taken away) → her name → the cathedral ship (days of silence; at the port she speaks first: "Next time ask me first.") → in the throne room her route passes him in the wall: she presses the fingers once, he says "Don't", and she goes.
 
 ### Eli ↔ the master
 - **Eli wants:** craft, and then the master's company up the stairs.
