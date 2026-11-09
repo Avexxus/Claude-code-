@@ -1,3 +1,5 @@
+> **⚠ OVERRIDE (Patrick, 2026-11-09):** the elven bond is a sensory organ, not soul-sensing. An elf soul held in a blade does NOT register. The dark elf cannot *feel* the drow blade. Rework her fracture so she learns it by sight, craft knowledge, words or being told.
+
 # 02 — Cast: Book 1, "The Emperor's Son"
 
 > 🌊 Claude proposal for the planning room, not canon (story layer, clay). Built 2026-11-09 from `CLAUDE.md`, `decisions/BANK.md` (which overrides the codex), `00_brief.md`, `01_world_slice.md`, `notes/F_characters.md`, the v10 spine (`work/sample/SAMPLE_BOOK1_v10.md`), `work/sample/reviews/cold_reader_v10.md` and `audit_v10.md`.
