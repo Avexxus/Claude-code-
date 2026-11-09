@@ -22,8 +22,8 @@
   - ✅ `03_conflict.md`: done (Tower staging pick B, bond override applied; 6 questions in §9). Slice and cast updated to the override.
   - ✅ `04_scene_cards.md`: 50 scenes, 9 chapters, ~25k target; 91-promise ledger; 18 Gate 2 questions.
   - ✅ `05_plan_audit.md`: round 2 CLEAN; the R2 one-line fixes are applied
-  - ✅ GATE 2 answered "1b 2b 3a 4b 5c 6b" (recorded in 00_brief). ⏳ Re-plan in progress: conflict-mapper → 03 (whole room at once, master with raw power, entropy breath slot), then scene-carder → 04, then plan-auditor round 3, then draft.
-  - Then stages 3–6 per the skill: draft, revision loop, readers, delivery.
+  - ✅ GATE 2 answered "1b 2b 3a 4b 5c 6b" (in 00_brief). Re-plan done; plan audit round 3 fixes applied. God identity pending with Patrick (drafting with pick A, a giant who became a god).
+  - ⏳ Stage 3 drafting in 4 batches: drafts/v1_part1.md (ch 1–3), part2 (ch 4–5), part3 (ch 6), part4 (ch 7–9), then join them into drafts/v1.md. Then stages 4–6.
 
 ## Open questions waiting on Patrick
 - Where the "Jon's mind was clear for the first time in a very long time" line goes. Claude's pick: show it from outside in Book 1 and give the inner line to the later window book.
