@@ -743,7 +743,7 @@
 - **Conflict:** the cutter has found them twice; now its grapple slams the ship over and throws Eli across the hold. It's a ship's length off, through two hulls: past his reach, even if his ribs let him try. The hail: **the same grey coat with eleven questions.** He wants the hull and "the hell-born you carry." Their faces are on his screen, beside the gate ledger, **and beside Eli's face a dwarf's grease-pencil mark** (Krell, on the page).
 - **Disaster/choice:** **Eli refuses to hand her over** (his gift is to keep her unspent, which is her price). The ship is gone. The Queen could name herself and get it back, and says nothing (Q3). She doesn't look at the dark elf. **She cuts the lifeboat loose herself.**
 - **Beats:**
-  1. Enter at the slam. Ribs. Teo: "Twice. How do they keep finding us?" The master: "You ordered a part." (P65, on the page)
+  1. Enter at the slam. Ribs. Teo: "How do they keep finding us?" The master: "You ordered a part." (P65, on the page)
   2. Jon's bunk, empty since the rim port.
   3. **Before the hail opens, the Queen steps out of its eye,** to the bulkhead beside the screen. Eli sees her do it.
   4. The hail: the same face. The first of his eleven questions, word for word, as at the gate. The grease-pencil mark by Eli's face; he knows whose pencil.
@@ -796,7 +796,7 @@
   1. Crates of flesh rifles that twitch when the drive spins up; GROWN FROM CERTIFIED CLONE STOCK. NO SOUL; the fingernail in a grip.
   2. A month on the feed: the Dry cleared for a landing field, the riverbed line still there. He turns it off.
   3. A dwarven port: **the low black hull with a new name stencilled over *Ledger Closed*.** The dark elf looks, then away. [GATE 2 PICK: use the sighting]
-  4. **The port checkpoint:** the guards study Eli's jaw against a poster; Teo walks straight through behind them with a crate on his shoulder and waits on the far side. Nobody looked at him once. Eli registers it. (F05 plant 2)
+  4. **The port checkpoint:** the guards search everyone in the line, Doc and the master included, and study Eli's jaw against a poster; Teo walks straight through behind them with a crate on his shoulder and waits on the far side. Nobody looked at him once. Eli registers it. (F05 plant 2)
   5. Posters of him with the face scratched out, as if it were his father's (L-D8).
   6. The hanging; the song to the Emperor's god; a wall "on a cored mind".
   7. His hand half up; Teo watching it; down.

@@ -244,6 +244,8 @@ Each phase lists who is offscreen, what they're doing, why, and the **one trace*
 | **Mika, the Inquisition, the giants** | Out of frame. | (`09 t332`: the war stays off screen.) | The ships stop firing at each other and turn. |
 
 ---
+- **Why Mika doesn't call off his own Inquisition, and why the Queen won't name herself (round 2, R2-02; writers' room only).** Mika keeps her errand off every ledger, his Inquisition's included, and won't put the crown's seal on a trafficking hull. Her silence at the hail is obedience as well as her secret.
+
 
 ## 4. The antagonist pressure plan
 

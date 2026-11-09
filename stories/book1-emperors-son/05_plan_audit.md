@@ -246,3 +246,98 @@ Loop: after `02`/`03`/`04` revise, re-audit only the changed cards and the ledge
 **Claude can decide these without Patrick (low stakes, story-local):** Mika's reply kept writer-only; Jon's tear left to the reader; the open terrace door; the squeeze and the code (merged); the *Ledger Closed* sighting; "He went alone" spoken aloud; "answered well"; N2 shown as the pack only; "Remnant" kept off the page.
 
 **Names still for the name engine:** Teo (reads as a generic Earth name), Krell, Ilvaen (never printed).
+
+---
+
+## Round 2
+
+> 🌊 Claude proposal, not canon. Plan-auditor re-check, 2026-11-09, over the revised `02_cast.md`, `03_conflict.md` and `04_scene_cards.md` (each with its "Audit round 1 fixes" changelog), against `decisions/BANK.md` (through 11-09) and v10 L775–797.
+> **Severity (round 2):** BLOCKER = breaks canon or the spine · FIX = a planner edit (one line or so) to make before drafting · NOTE = drafter note; the drafter can handle it.
+
+### R2.0 Verdict
+
+**CLEAN.** 0 blockers, 0 majors. All 8 round-1 majors are fixed, and fixed consistently across 02/03/04. Five small FIXes remain (R2-01 to R2-05). Each is a one-line planner edit, none is structural, and they can go in with the Gate 2 digest. Ten drafter notes follow. Every protected line survives.
+
+### R2.1 Round-1 findings: verified
+
+| # | Status | Where it checks out | Remark |
+|---|---|---|---|
+| F01 the thirty | **Fixed** | 02 §1.7 (wound, timeline, "where the others ended", exit 14) · 03 P5, K5, §6 · 04 4.3 (disaster, b7, b8, cost) | 03 and 04 agree: last one living, "when we started" = the road, nobody waits behind the seam. The blade is not one of the thirty but someone who got out earlier (03 P6, 04 5.3 offscreen, 8.2). **One regression in 02 → R2-01.** |
+| F02 stowaway | **Fixed** | 02 §1.7 · 03 P5 · 04 4.5 b2 | Same clause in all three. **01 L-A11 not updated → R2-05.** |
+| F03 master's oath | **Fixed** | 04 7.4 b6, b9–b10, Paid P21/P77 · 03 §4.1 stage 8 · 02 §1.5, §1.13 | The energy clause, sworn three times, and "Including you" are all there, plus the draw (shudder, dimming) mirrored in 8.1 b4. The beast's terms are now "one at a time, forever". **The card elides parts of the oath → NOTE N-04.** |
+| F04 "strongest fighter" | **Fixed** | 02 §1.5, §3 (master ↔ Queen) · 03 §1.2 · 04 2.6 b3, 6.8 b1, 7.4 cost | Read as best by craft in every file; it's a Gate 2 confirm. |
+| F05 / F05b Teo | **Fixed** | P92 set 2.1 b6 and 6.6 b4, paid 7.5 · P93 set 6.12 b9, paid 7.5 · 02 §1.4 plants block | The 6.6 plant reads weakly → R2-04. |
+| F06 Jon's ~2 months | **Fixed** | 03 P5 timeline table, J1b, K16 · 02 §1.2 ledger · 04 4.1 b7, 4.5 b1 ("Jon still not back"), 4.6 b5, P50 | The causal order works: he leaves, the ninth, Krell's report on the next ninth, he's held, five weeks, he's back. The arithmetic is a little tight → NOTE N-02. |
+| F07a–d the cutter | **Fixed** | 04 6.4 (b1 the part, b3 out of the hail's eye, b4 the first question and the grease-pencil mark, b7 the tow line, range clause) · 03 P8, K8b, E6b, Q3 · 02 §1.11 | It hangs together. One new "why doesn't Mika…" hole → R2-02, and Teo's "Twice" → R2-03. |
+| F08 the posters | **Fixed** | 03 P0 (the brokers, four reasons nobody collects) · 04 1.1 offscreen, 6.6 conflict, b4–b5 · 02 exit 24 ("a port wall") | Consistent everywhere. The giant's "I have read your father's posters" is now caused too (the brokers). |
+| Minors F09–F35 | **Fixed** | Spot-checked on cards: F09 8.3 b9 · F10 8.2 b4 · F11 5.3 b4 · F13 6.8 b7 · F14 6.8 b3/b5 · F15 5.5 b8 · F16 8.1 b11 · F17 3.2 · F18 1.3 b10, 2.1, 4.1 b7 · F19 3.2, 6.2 b1 · F20 6.3 b4 · F21 02 C5 · F22 6.13 · F23 4.4 b3 · F24 5.3/5.4 · F25 6.6 · F26 5.7 b6 · F27a–c · F29 §Q 5 · F30 02 §1.2 · F31 8.4 · F32 1.3 b2 · F34 2.5 b4 · F35 4.1 b4 | F12 is done in 02 and 03 but **not in 01 §1.8 → R2-05.** |
+
+### R2.2 New findings
+
+| # | Sev | Owner | Audit | Finding | Fix |
+|---|---|---|---|---|---|
+| **R2-01** | FIX | 02 §1.7 | why-doesn't-X / logic | **A regression of F01 in the timeline line.** 02 says some of the thirty "at the door went into the seam on a thin night and were **never seen again**." That reopens both holes: they might be waiting behind the seam (so why doesn't Eli reopen it?), and they fit the blade's profile exactly (they came out and were caught at the station, so the blade *could* be one of the thirty). 03 and 04 say only "died… at the door." The same paragraph also hedges the blade ("It might be a stranger") where 03 P6 and 04 5.3 say someone of hers who got out earlier. | Replace the clause with: "or at the door, where the seam closed on them on thin nights. She was close enough to feel each one go out in the bond." (Up close the bond reads living bodies, BANK 11-01 L9; a body dying is the organ going quiet, BANK 11-09.) Align the blade line to 03: someone from her streets who got out before her and was caught. She can't know who; on the page it's never named. |
+| **R2-02** | FIX | 03 P8 (writers' room; no page change) | why-doesn't-X / cooperation | **Why doesn't Mika just call off his own Inquisition?** The Inquisition is Mika's (03 §2.1). The Queen relays to him (5.6–5.7), so Mika knows his piece is riding the stolen trafficking hull. And why can't she simply name herself to Mika's own man? The fix that took her out of the hail's eye made this question sharper. | One line in P8: Mika keeps the Queen's errand off every ledger, his own Inquisition's included (that's also why Jon was held five weeks without anyone saying why he was there). Calling the cutter off would put the crown's seal on a trafficking hull (`10 wk W68`: the trade is kept quiet) and tell a grey coat what the Queen is for. She knows this, so her silence at the cutter is obedience as well as her secret. It strengthens Q3. |
+| **R2-03** | FIX | 04 6.4 b1, conflict line | cold logic | **"Twice. How do they keep finding us?"** The first find is never on the page. Before 6.4 the cutter has no on-page contact, so a stranger asks "when was the first?" (The first "ping" is a port log, offscreen.) | Pick: drop "Twice". Teo: "How did they find us?" The master: "You ordered a part." In the conflict line, change "has found them twice" to "has found them". Or add one clause earlier (5.7 or 6.1: a grey hull in a port as they leave), but that costs words in an over-long chapter. |
+| **R2-04** | FIX | 04 6.6 b4 | promise/payoff (P92) | **The checkpoint plant doesn't show invisibility.** The guards are looking for *Eli's* face, so Teo walking through reads as "they're not looking for him", not "nobody sees the help". The payoff (7.5) needs the second reading. | The guards stop and pat down everyone in the line, Doc and the master included. Teo, carrying a crate, eyes down, walks through behind them, and nobody stops him. Eli registers it. (This matches 02 §1.4: "a checkpoint… that stops everyone else".) |
+| **R2-05** | FIX (housekeeping) | 01 | canon | **01 wasn't touched in round 1.** §1.8 still reads "the elves' bond is the exception" to soul-sensing (BANK 11-09: the bond is a sensory organ, not soul-sensing), and L-A11 lacks the F02 clause. The drafter reads 01 as reference. | Reword §1.8: "the elves' bond is a body sense, not soul-sensing (BANK 11-09)". Add the customers clause to L-A11. |
+
+### R2.3 Drafter notes (no planner edit needed)
+
+- **N-01 (4.3 b8, cold read):** "Thirty of us, when we started. No one escapes alone. I did… I was a child." In that order a reader hears a child escaping, against fifty years on the road. Put "I was a child" right after "when we started", and "No one escapes alone. I did" last.
+- **N-02 (4.5 header, 4.6 timing):** a few days, plus about a month to the next ninth, plus five weeks is roughly nine weeks after the door, so it's late in the second month or early in the third, not the middle of the second. Write "late in the second month", or keep it vague ("two months"). Don't count weeks on the page.
+- **N-03 (03 P2):** "by spring he knows the night… the ninth, **two months out**" would put the door around month 5–6, but the door comes around month 11–12 (2.6 runs to month 9, then ch 3, then 4.1 "two months on"). It's writers' room only, so drop "two months out"; he knows *which* ninth.
+- **N-04 (7.4 b6, protected):** the card quotes the oath with ellipses that drop "I swear it, old man." and the third "I swear it," and the beast's "with enormous contempt". **Draft from v10 L775–797 directly, not from the card.** Logic note for the drafter: the oath binds what *leaves*, not what enters, which is why the master's draw from the walls can reach him inside a room "not attached to your universe". Keep the draw pouring in and nothing coming out. Don't explain it on the page.
+- **N-05 (Ilvaen's reason):** 02 §1.11 and the 04 6.4 offscreen line still say "won't be seen killing under the king's token"; 03 P8 rewrote it as "a firing record would ask how they got in." It's the same idea; use 03's wording.
+- **N-06 (6.4 b4):** a grease-pencil mark "on his screen" means a scanned page of Krell's report with his tick beside Eli's face, not a mark on glass. One clause.
+- **N-07 (6.6 b4–b5):** where guards study Eli's jaw against a poster, let the match visibly fail (the cheek scar, a year of weather). That keeps P0's "nobody collects" true on the page.
+- **N-08 (ledger):** P85 is used for two things (7.4 the shudder; 7.5 the stirring weapons). The §L row merges them; give the weapons their own ID or tag them texture.
+- **N-09 (03 P5, writers' room):** why doesn't the Inquisition tail Jon back to the crew after releasing him? Mika's price was the questioning, not the hunt, and the cutter finds them by port logs anyway. Jon shakes any tail. No page trace.
+- **N-10 (length):** the chapter totals now hold at 25,000 = the ceiling. The 10%-under rule stands; compress ch 6. R2-03's pick saves words rather than adding them.
+
+### R2.4 Protected lines: all survive
+
+| Line or scene | Card | Status |
+|---|---|---|
+| "Just enjoy the show, old man." · "who our master is" / "what you have to do" | 9.1 b4–b6 | Verbatim. |
+| The master's oath, v10 L775–797, energy clause, three times, "Including you" | 7.4 b6 | Intact in substance; draft from v10 (N-04). |
+| The master's sacrifice ("blows himself up… in his own sick game"; "one by one") | 7.4 | Intact, and now mechanically clear. |
+| t768 apprentice speech | 8.1 b10 | Verbatim. |
+| t774 litany · "It's quiet… peaceful" | 8.3 b5, b10 | Verbatim. |
+| "nice warm sunny weather for a quick ride out of the city" | 8.3 b2 | Verbatim. |
+| "Like a mean man would put down an unruly dog" | 7.5 b9 | Verbatim. |
+| Boots line, Eli only (BANK 11-08) | 8.1 b11 | Intact, Eli only. |
+| Eli's emotional final attack (BANK 11-08) | 8.4 | Words last; the reach is two reflexive beats; the stopped hand stays open to Eli. |
+| Drywall; Derrek drained and restrained, alive; no rose; no Lirael line | 5.5, 8.5, 9.1 | Clean. |
+| Jon's mind "clear": outside only | 9.1 b11 | Clean (placement still Gate 2). |
+
+### R2.5 Audits re-run on the changed material (summary)
+
+- **Canon:** clean. The bond is an organ everywhere (5.3, 8.1, 8.2; the R2-01 wording uses it correctly). No breath count. "Carrier-born." Changelings as one-off war panic. Only 01 lags (R2-05).
+- **Why doesn't X just…:** R2-01 (the seam) and R2-02 (Mika). Everything else holds, including the new ones I checked: why the master can draw from inside the beast's room (N-04), and why Krell isn't killed (4.4 b3).
+- **Cooperation:** clean. The tow line makes the lifeboat a choice; she nods for Eli; the master's reason fires (6.3 b4); the Queen's silence is motivated (stronger with R2-02).
+- **Coincidence:** clean. K8b is caused. The *Ledger Closed* sighting stays an accepted soft coincidence.
+- **Ledger P01–P94:** all 94 present. P92/P93/P94 set before pay. Only bookkeeping is left (N-08). R2-04 strengthens P92.
+- **Cold logic read:** ch 4 now parses (the thirty, Jon's two months); ch 6 parses after R2-03. Ch 9 is opaque by design (W50).
+
+### R2.6 Fix list by owner
+
+- **`02`:** R2-01 (§1.7 seam clause and blade line); N-05 (§1.11 wording).
+- **`03`:** R2-02 (P8, the Mika line); N-03 (P2); N-09 (P5, optional).
+- **`04`:** R2-03 (6.4 "Twice"); R2-04 (6.6 b4); N-08 (P85). N-01, N-02, N-04, N-06 and N-07 go to the drafter.
+- **`01`:** R2-05.
+
+### R2.7 Final Gate 2 questions for Patrick
+
+Deduplicated across `02` §5, `03` §9 and `04` §Q. Six items; Claude's pick is marked ★.
+
+1. **The throne room.** ★A: Jon's leash that frays (one at a time, each slips it on their own trigger; Eli realises "You held me"). B: the whole room at once, in snap cuts.
+2. **The master.** ★A: core "the one who stayed" (his master went up alone), with "one of their strongest fighters" read as best by craft (he reads and calls every fight; huge inside the Tower). B: the trainer of the dead. C: the listener. D: A, but keep "strongest" as raw power too.
+3. **The dark elf's thirty.** ★A: she's the last one living; the others died on the road and at the door, and the blade is someone from her streets who got out earlier. B: the others still wait behind the seam (that needs a reason Eli never reopens it).
+4. **Eli's final attack.** ★A: two beats of a failed reflexive reach, then the words as the real attack. B: words only, no reach.
+5. **"Jon's mind was clear…"** ★A: shown from outside in Book 1 (his face lets go and looks younger), with the inner line saved for the later window book. B: use the inner line now, as the last line. C: neither in Book 1.
+6. **The entropy breath.** ★A: out of Book 1 (no slot, no POV access, a cut teleport and entropy, a god-kill against "he can't die"); Patrick picks the book. B: find it a Book 1 slot.
+
+**Claude decides the rest** (story-local, low stakes): the spar as a choice on cost · Jon didn't warn the giant (unanswered on the page) · the terrace door left open, silent · the squeeze plus the too-easy code, planted together and never confirmed · *Ledger Closed* resold, one sighting · Mika's reply text, writer-only · Jon's tear left to the reader · N2 shown as the pack only · "answered well" · the cheek line · Eli refuses the hand-over at the cutter · "Remnant" kept off the page · "He went alone" spoken aloud.
+
+**Names for the name engine:** Teo (reads as generic Earth), Krell, Ilvaen (not printed).

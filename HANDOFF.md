@@ -21,8 +21,8 @@
   - ✅ `02_cast.md`: 13 dossiers. **Note the override at the top:** the dark elf can't feel the drow blade.
   - ✅ `03_conflict.md`: done (Tower staging pick B, bond override applied; 6 questions in §9). Slice and cast updated to the override.
   - ✅ `04_scene_cards.md`: 50 scenes, 9 chapters, ~25k target; 91-promise ledger; 18 Gate 2 questions.
-  - ⏳ `plan-auditor` → `05_plan_audit.md` (loop until clean)
-  - ⏳ then **GATE 2:** `DIGEST_plan.md`, one phone screen of decisions for Patrick. Include the cast file's §5 questions (the master's core, pick A, and the others) and the Tower-fight staging choice.
+  - ✅ `05_plan_audit.md`: round 2 CLEAN; the R2 one-line fixes are applied
+  - ⏳ **GATE 2:** `DIGEST_plan.md` sent to Patrick; waiting on his 6 calls. Then draft (story-writer → drafts/v1.md; see the R2 drafter notes in 05).
   - Then stages 3–6 per the skill: draft, revision loop, readers, delivery.
 
 ## Open questions waiting on Patrick
