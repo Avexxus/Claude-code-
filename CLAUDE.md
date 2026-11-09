@@ -1,6 +1,6 @@
 # Saga workspace: rules for Claude and every agent
 
-This repo is the **home of Patrick's saga codex**. As of 2026-10-31, the codex lives and changes here. The Codex v5 artifact on claude.ai is a readable copy rebuilt from this repo.
+This repo is the **home of Patrick's saga codex** and of **the story engine**. Patrick is the world-builder: he owns the world layer, meaning the codex and the BANK. Claude is the story engine: it writes the stories inside that sandbox (BANK 2026-11-09). The Codex v5 artifact on claude.ai is a readable copy rebuilt from this repo.
 
 ## Start of every session
 1. Read this file, then `notes/00_MASTER_BRIEF.md`, then `decisions/RULINGS.md`.
@@ -16,7 +16,8 @@ This repo is the **home of Patrick's saga codex**. As of 2026-10-31, the codex l
 | `archive/` | The Retired Archive (v4 codex, old side files, compilations, `atlas.html`). For digging up ideas only. | **Never** |
 | `scripts/` | `build_codex_page.py` rebuilds the Codex v5 page from `codex_v5/`, plus its template and manifest. | — |
 | `.claude/agents/` | `canon-checker`, `options-writer`, `idea-scout`, `codex-editor`. | — |
-| `.claude/skills/` | Workflows: `options`, `rule`, `ideas`, `sync`. | — |
+| `.claude/skills/` | Workflows: `story` (the engine), `options`, `rule`, `ideas`, `sync`. | — |
+| `stories/<slug>/` | Engine output: brief, planning files, drafts, reviews, FINAL, DIGEST, inventions. | No (story-local until promoted) |
 
 ## Bank first, pass later (Patrick's rule, 2026-10-31)
 **Don't run agents every time Patrick says something.** Bank it and apply it in one pass when he calls for it.
@@ -28,6 +29,7 @@ This repo is the **home of Patrick's saga codex**. As of 2026-10-31, the codex l
 - **Work a loose end:** `options` (paper, then canon check, then numbered choices for Patrick).
 - **Patrick decides something:** `rule` (ledger entry, then codex edits, then check, then page rebuild and republish, then commit).
 - **New material:** `ideas` (idea-scout batches, then canon check, then survivors for Patrick).
+- **Write a story:** `story`, the engine. Brief (gate 1) → planning room → scene cards → plan digest (gate 2) → drafting → revision loop → readers → delivery.
 - **Keep claude.ai in step:** `sync`. The Codex v5 page always shows `decisions/BANK.md` first as "Rulings since Oct 31 (override)"; rebuild and republish after banking anything a fresh chat should see.
 Always commit and push to the session's designated branch when a step finishes.
 
@@ -42,9 +44,10 @@ The world layer is rigid; the story layer is clay. Story-vs-story conflicts are 
 
 ## Hard rules for any agent
 - **Only Patrick makes canon.** Everything an agent produces is a 🌊 Claude proposal and is labeled that way. Nothing enters `codex_v5/` without a ruling in `decisions/RULINGS.md`.
-- **Every line of prose is Patrick's** (`12_METHOD`, chat t257). Agents give ideas, options, beats and consequences, never finished prose passages.
+- **Prose:** Claude writes story prose through the story engine (BANK 2026-11-09, replacing t257). Patrick adds his own lines where he's inspired; his lines are protected. Outside the engine (codex work, options, ideas), agents still give beats, not prose.
 - **Check every idea against** `02_CONSTITUTION`, the 🚫 RETIRED lists in each file, `12_METHOD` and `decisions/RULINGS.md` before presenting it, using the `canon-checker` agent. Name the law or ruling it touches.
-- **Don't invent names.** Names Claude invents are placeholders (t630).
+- **Names:** Claude may invent STORY-LOCAL names, flavored by race: never silly, not over the top, not generic Earth names. A name engine will be built later. World-level names (races, empires, gods) are Patrick's. Log every invented name as LOCAL.
+- **Story inventions are local** to their story until Patrick promotes them to canon.
 - **No real-world racial or ethnic analogies, and no clinical labels** in codex-facing text.
 - **Prefer closing loose ends** (`notes/I_loose_ends_register.md`) over opening new ones. An idea that adds a new open question has to say so.
 - **Cite the way the codex does:** file plus marker or turn (`08`, `wk W44`, `t370`, `L6`, `cc R003`).
