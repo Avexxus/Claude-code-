@@ -51,3 +51,4 @@ A novella-length condensed Book 1 (about 18–25k words), to test the engine bef
 4. **Eli's final attack: B.** Words only. There's no physical reach first.
 5. **"Jon's mind was clear…": C.** Neither. No clear-mind beat in Book 1, inside or out.
 6. **Entropy breath: B.** Find it a place in Book 1. It's Patrick's scene (BANK 11-01 L34). Open world issues it touches: entropy as a cut domain (QUESTIONS 5.6), the god teleporting (folding space is cut), and Derrek can't die (so the god can't be Derrek).
+- **Era note (Patrick, same day):** "Book 3 in the codex was the far future. It became book 1. Entropy breath was always on board a cathedral ship." So the entropy breath happens aboard a dragon's cathedral ship in Book 1's own era.
