@@ -1,0 +1,45 @@
+# Brief: Book 1, "The Emperor's Son" (engine run 1: re-plan from spine)
+
+**Speed:** Full. **Status:** Gate 1 approved in spirit ("take what we wrote as the spine and fix it with the new system", Patrick 2026-11-09). Gate 2 (the plan digest) is required before drafting.
+
+## The spine (fixed: the canon events stay)
+Source: `work/sample/SAMPLE_BOOK1_v10.md` (the plot and its order), plus every Book 1 BANK ruling.
+- The Emperor's runaway adult son flees at the edge of a human city; Jon scoops him up.
+- The year of scraping. The master, Doc (the healer-changeling), the elven city and Lirael's statue, the dark elf at the door, the Queen (Eli's rival; the "Lilith" piece in a chess metaphor), the giant.
+- The dragon's forge-world strike, which Derrek engineered. The giant war road.
+- The Tower is the largest amplifier on Earth, and everyone is at their peak there. The rule-beast and the master's sacrifice. Teo's death. The Queen and the apprentice. The dark elf's Collapse turned inside out. Doc's barrage and his quiet.
+- Eli's EMOTIONAL final attack. Jon drains and restrains the Emperor.
+- The window: Derrek treats his son as drywall; "just enjoy the show, old man"; Jon never answers. Book 1 is largely ambiguous, with no info dump.
+
+## What this run must FIX (from the reviews)
+- `work/sample/reviews/cold_reader_v10.md`
+- `work/sample/reviews/audit_v10.md`
+- the Grok reviews in `work/sample/reviews/`
+
+The fixes:
+1. **The climax is a queue:** make the Tower fight a true, simultaneous, chaotic battle, or a staged one with a felt reason.
+2. **The characters cooperate with the plot:** every crew member gets a dossier, a price and a "why they stay" at every exit point; someone nearly leaves.
+3. **Eli never confronts Jon:** build their relationship so confrontations happen, and Jon deflects them in character.
+4. **The power audit's 11 unreasoned moments:** each needs a cause.
+5. **The world can't be placed by a newcomer:** orient the reader on the palace, Earth, the factions and Eli's father, without exposition.
+6. **The dark elf and the Queen's drow blade:** a built-in fracture, so she reacts.
+7. **The dark elf's backstory contradictions.**
+8. **The promise/payoff ledger:** 14 unpaid setups and 4 unprepared payoffs.
+9. **Jon's offscreen life:** every arrival and absence needs a cause.
+10. **Why Eli goes to the Tower:** an earned, internal reason.
+
+## Character layer (BANK 2026-11-08/09)
+- Eli: the son raised as an heirloom, who wants to be seen.
+- Jon: autopilot warmth; attachments that always carry a value; war against "Derrek" is his identity.
+- Derrek: loves Jon; the altar to his name; endless sons.
+- The Queen: duty versus a life of her own, a mirror of Eli.
+- The private parable lens: resonance only.
+
+## Keep
+- the best scenes as high-water marks: the yard, the master at the rift, the door, the Queen's duel, Doc's quiet, the floor speech, the window
+- the house voice
+- the standing craft rules
+- Patrick's lines
+
+## Length
+A novella-length condensed Book 1 (about 18–25k words), to test the engine before the full book.
