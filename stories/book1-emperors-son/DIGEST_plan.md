@@ -3,11 +3,11 @@
 🌊 This is Claude's plan, and it needs your OK. It has passed the plan check (round 2 came back clean).
 
 ## The story in 5 lines
-1. Eli, the Emperor's son, has run off and is a known face across the war. Jon sends a crew to bring him home to the Tower.
-2. Along the way they pick up a dark elf at a door out of hell (she's the last of thirty), get caught by an Inquisition cutter, and cross the war road. Eli doesn't stop a hanging.
-3. Eli confronts Jon seven times. Three of the crew nearly leave.
-4. In the Tower, Teo dies unseen, the master burns out under his oath, and the Queen's sword breaks.
-5. Eli's last attack on his father is words. Jon gets what he came for.
+1. Eli, the Emperor's runaway grown son, flees at the edge of a human city, and Jon scoops him up.
+2. A year of scraping together a crew: the master, Doc, the dark elf at the door out of hell (the last of thirty), the Queen and the giant (who refuses). Jon helps only where no feed or ledger can see.
+3. The road back runs through the dragon's forge strike and a war the Emperor started. An Inquisition cutter hunts their stolen hull. Eli confronts Jon seven times, and three of the crew nearly leave.
+4. In the Tower, Jon holds the crew to an order of battle (one hidden reason: a dead Emperor resets). The master burns out under his oath, Teo dies unseen, and the Queen's sword breaks.
+5. Eli's last attack is words. Jon drains and restrains the Emperor, and at the window he never answers "just enjoy the show, old man."
 
 ## Cast, one line each
 - **Eli:** an heirloom who stole himself, now walking back to make his father look at him.
