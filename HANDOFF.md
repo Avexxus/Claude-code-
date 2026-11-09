@@ -19,8 +19,8 @@
   - ✅ `00_brief.md`: it lists the 10 problems this run must fix.
   - ✅ `01_world_slice.md`: includes ORIENTATION, LOCAL inventions and TRIPWIRES.
   - ✅ `02_cast.md`: 13 dossiers. **Note the override at the top:** the dark elf can't feel the drow blade.
-  - ⏳ `03_conflict.md`: was being finished when the usage limit hit. Check that it's complete and applies the sensory-organ ruling; if not, rerun `conflict-mapper`.
-  - ⏳ next: `scene-carder` → `04_scene_cards.md`
+  - ✅ `03_conflict.md`: done (Tower staging pick B, bond override applied; 6 questions in §9). Slice and cast updated to the override.
+  - ⏳ in progress: `scene-carder` → `04_scene_cards.md` (if missing or partial in a new session, rerun it)
   - ⏳ `plan-auditor` → `05_plan_audit.md` (loop until clean)
   - ⏳ then **GATE 2:** `DIGEST_plan.md`, one phone screen of decisions for Patrick. Include the cast file's §5 questions (the master's core, pick A, and the others) and the Tower-fight staging choice.
   - Then stages 3–6 per the skill: draft, revision loop, readers, delivery.
