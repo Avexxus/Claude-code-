@@ -1,10 +1,10 @@
 # 04 — Scene cards: Book 1, "The Emperor's Son"
 
-> 🌊 **Claude proposal, not canon** (story layer, clay). Built 2026-11-09 from `CLAUDE.md`, `decisions/BANK.md` (which overrides the codex), `00_brief.md`, `01_world_slice.md`, `02_cast.md`, `03_conflict.md` (03 wins where they differ), the v10 spine (`work/sample/SAMPLE_BOOK1_v10.md`), `work/sample/reviews/audit_v10.md` and `work/PRO_METHODS.md`. **Revised after `05_plan_audit.md` round 1** and aligned with the revised `03` (changelog at the end).
-> **Override applied (Patrick, BANK 11-09):** the elven bond is a sensory organ. A soul held in a blade does not register. **The dark elf cannot feel the Queen's sword.** She knows it from words (Jon's answer, overheard), street knowledge ("some get grown into things") and sight (the sheath moves). Living elves still feel living elves up close, so the Queen's secret holds.
-> **Staging:** throne room = `03` §4.3 **Option B, Jon's leash, which frays.** Confrontations C1–C7 and near-defections N1, N2, N3 (+ N3b) from `02`.
-> **Spine kept:** every v10 event in v10 order. Protected lines stay verbatim (`01` tripwire 22): t768 apprentice speech; t774 litany order and "It's quiet… peaceful"; "nice warm sunny weather for a quick ride out of the city"; "Like a mean man would put down an unruly dog"; **"Just enjoy the show, old man."**; **the master's oath, v10 L775–797** ("Do you swear this room will not allow any energy to leave?", three times). Patrick's scenes kept as high-water marks: the yard, the master in the rule-beast room (he blows himself up inside the beast's own game), the door, the Queen's duel, Doc's quiet, the floor speech (Eli's **emotional** final attack, BANK 11-08), the window.
-> **Not in Book 1:** Patrick's entropy-breath god-killer (BANK 11-01 L34; `13` §Showpiece, 🌊). It has no Book 1 card because (1) it has no slot in the v10 spine, the brief or any Book 1 BANK ruling; (2) Eli is the only POV and is never on the dragon's starship where it happens; (3) it leans on cut or open ground (the "god" teleports aboard, and space-folding is cut, `05`; entropy as a wielded power is cut, `05`, with the tension still open in `QUESTIONS 5.6`); (4) it is a god-kill, and Book 1's whole logic is that the god can't die, only be drained (BANK 11-01 L4). The repo's only placement label is `SCENES_COMPILED`'s "Book-3 set-piece". Flagged in §Q.
+> 🌊 **Claude proposal, not canon** (story layer, clay). Built 2026-11-09 from `CLAUDE.md`, `decisions/BANK.md` (which overrides the codex), `00_brief.md`, `01_world_slice.md`, `02_cast.md`, `03_conflict.md` (03 wins where they differ), the v10 spine (`work/sample/SAMPLE_BOOK1_v10.md`), `work/sample/reviews/audit_v10.md` and `work/PRO_METHODS.md`. **Revised after `05_plan_audit.md` round 1**, then **re-planned after Patrick's Gate 2 answers** ("1b 2b 3a 4b 5c 6b", `00` §Gate 2 answers) and aligned with the revised `03` (changelogs at the end).
+> **Override applied (Patrick, BANK 11-09):** the elven bond is a sensory organ. A soul held in a blade does not register. **The dark elf cannot feel the Queen's sword.** She knows it from words (Jon's answer, overheard), street knowledge ("some get grown into things") and sight (the sheath moves). Living elves still feel living elves up close, so the Queen's secret holds, and both of them feel the dragon's elves die (6.8c).
+> **Staging (Gate 2: 1b):** throne room = `03` §4.3, **the whole room at once. Nobody holds anybody.** Jon stands at the door and spends nothing; the Emperor keeps one hand for him and answers the crew with the other. The room starts together at Teo's death and empties by attrition, so each death keeps its own beat. Confrontations C1–C7 (C6b rebuilt) and near-defections N1, N2, N3 (+ N3b) from `02`.
+> **Spine kept:** every v10 event in v10 order. Protected lines stay verbatim (`01` tripwire 22): t768 apprentice speech; t774 litany order and "It's quiet… peaceful"; "nice warm sunny weather for a quick ride out of the city"; "Like a mean man would put down an unruly dog"; **"Just enjoy the show, old man."**; **the master's oath, v10 L775–797**, word for word (7.4 b6). Patrick's scenes kept as high-water marks: the yard, the master in the rule-beast room (he blows himself up inside the beast's own game), the door, the Queen's duel, Doc's quiet, the floor speech (Eli's **emotional** final attack, **words only**, Gate 2: 4b), the window, and **the entropy breath** (6.8c).
+> **Gate 2 applied:** (1b) everyone at once, no leash (7.5–8.4); (2b) the master has raw power as well as craft, and "one of their strongest fighters" is literal (2.6, 6.8, 7.3, 7.4); (3a) the dark elf is the last of the thirty living (4.3, unchanged); (4b) Eli's final attack is words only: his reach is spent at Teo's death (7.5, 8.4); (5c) **no "Jon's mind was clear" beat, inside or out** (9.1); (6b) **the entropy breath is in Book 1, aboard a dragon lord's cathedral ship** (Patrick: "Book 3 in the codex was the far future. It became book 1. Entropy breath was always on board a cathedral ship."), slot A of `03` §3a (6.8b–6.8d).
 
 ---
 
@@ -17,12 +17,12 @@
 - **Set / Paid:** promise IDs (P##). The full ledger is in §L. (These are *this* ledger's IDs. Where BANK cites a v10-sample number, the card names the BANK line instead.)
 - **Fixes:** the brief's fixes 1–10 (`00_brief`):
   1 climax queue · 2 cooperation / near-defection · 3 Eli confronts Jon · 4 power audit · 5 orientation · 6 dark elf and the blade · 7 dark elf backstory · 8 ledger · 9 Jon offscreen · 10 why the Tower
-- **Offscreen:** the `03` phase rows (P0–P10), coincidence fixes (K#) and audit causes (A#) the scene relies on. None of these is stated on the page. Each leaves at most one trace.
-- **[GATE 2 PICK]** marks Claude's choice where `02` §5 or `03` §9 left a question for Patrick. It can be swapped.
+- **Offscreen:** the `03` phase rows (P0–P10, P8b), coincidence fixes (K#) and audit causes (A#) the scene relies on. None of these is stated on the page. Each leaves at most one trace.
+- **[GATE 2 PICK]** marks a small choice Claude made. It can be swapped. **[PATRICK]** marks a call that is Patrick's (§Q).
 - **Beats** are actions and turns, not prose. Lines in quotes are v10 or `02`/`03` lines to keep.
 - **Jon is never interpreted on the page.** Card-level reads ("the shoulder comes when he wants something", "warmth that has a value") are for the writer. Eli may notice the pattern as behaviour only; narration never explains Jon.
 
-**Target length:** 25,000 words across 9 chapters and 50 scenes. That is the brief's ceiling (18–25k), so the drafter **must** aim about 10% under; the war road (ch 6) is where to compress.
+**Target length:** 24,900 words across 9 chapters and 53 scenes. That's at the brief's ceiling (18–25k), so the drafter **must** aim about 10% under; the war road (ch 6, 6.1–6.7) is where to compress. The entropy breath (6.8b–6.8d) was paid for by trims across ch 2–9 (Gate 2 re-plan changelog).
 
 ---
 
@@ -108,7 +108,7 @@
 
 ---
 
-# TWO · The Master (3,200)
+# TWO · The Master (3,150)
 
 ### 2.1 · The Drone
 **ACTION** · a river gorge on the next world (the flyer rode a transit hull's hold to get there), days 4–7 · Eli, Teo, Jon
@@ -155,7 +155,7 @@
 - **Paid:** P03 (CORES → "by the size of the core") · P16 (same scene)
 - **Fixes:** 2 (exit 5: Teo stays) · 5 (O2, O4, O7)
 - **Offscreen:** P2 (the salvage hull week; the winter away setting up the door, t610)
-- **Words:** 550
+- **Words:** 500 (compress beats 1–2 to a paragraph)
 
 ### 2.3 · The Post
 **REACTION** · outside a customs hall, month 4 · Eli, Teo
@@ -227,27 +227,27 @@
 - **Words:** 500
 
 ### 2.6 · The Moth
-**REACTION** · the temple, months 4–9 · Eli, the master
+**REACTION** · the temple, months 4–9 · Eli, the master, the rig students
 - **Reaction:** eleven days blind on a cold floor, trying to feel one moth.
 - **Dilemma:** quit (he can break walls; why sit?) or stay in the failure.
 - **Decision:** he stays. When the flutter comes he is so surprised he loses it, and sits another afternoon to get it back.
 - **Beats:**
   1. Cross-legged at dawn, eyes shut.
   2. The blindfold; the moth; he can't.
-  3. The master, plain, unasked: "Couldn't lift much myself. Learned to listen." (**A6** plant. His strength is craft: he reads a fight and calls it. BANK 11-07's "one of their strongest fighters" means best, not heaviest; `02` §1.5.)
+  3. **The loader (Gate 2: B; replaces "Couldn't lift much"):** a temple morning; a rig student's practice push gets away from him, and a loader on the field tips toward the boys. **The master stops it without standing up and sets it down "like a cup."** He rubs his eyes for a long time. A nosebleed he wipes before anyone sees, except Eli. Then, to Eli, plain, unasked: **"Anyone can lift. Everyone out here who could lift is dead. Learn to listen."** (**A6** plant: he's strong; strength burns; his feel is how he survived his strength, not a substitute for it.)
   4. Day eleven: the small dry flutter. He loses it.
   5. A cup lifted without spilling; then the water without the cup.
   6. **Some mornings he forgets for an hour what he came for, and is happy.** He tells no one.
   7. "The strength of an army and the hands of a man in mittens. One day it'll kill you."
   8. Month five: the needle threaded across the room. "You'll never be fine… less likely to kill your friends by accident."
 - **Value:** force → feel.
-- **Stress:** 2 / 3 · **false calm 1, the calmest in the book**
-- **Resists:** the floor, the moth and Eli's own impatience resist him.
-- **Cost:** the glimmer (the happy hour) is itself the cost: it means the Tower is optional, and he buries it.
-- **Set:** P24 "couldn't lift much" · P25 the moth · P26 the needle · P27 "You'll never be fine" · P28 "One day it'll kill you" (series promise) · **P94 the secret happy hour**
+- **Stress:** 2 / 3 · **false calm 1, the calmest in the book** (the loader is a second's spike; the scene settles round it)
+- **Resists:** the floor, the moth and Eli's own impatience resist him. The master resists his own strength, and hates that it got out.
+- **Cost:** the glimmer (the happy hour) is itself the cost: it means the Tower is optional, and he buries it. The master pays a nosebleed for one loader.
+- **Set:** P24 "Anyone can lift… Learn to listen" (the master's held-back power) · P25 the moth · P26 the needle · P27 "You'll never be fine" · P28 "One day it'll kill you" (series promise) · **P94 the secret happy hour**
 - **Paid:** —
-- **Fixes:** 4 (A6) · 10 (the secret happiness he has to override)
-- **Offscreen:** P3
+- **Fixes:** 4 (A6, rescaled for Gate 2: B) · 10 (the secret happiness he has to override)
+- **Offscreen:** P3 (the master's plant: the strongest push the rim ever had; outside the Tower a full push costs blood and days, `03` §1.2)
 - **Words:** 450
 
 ### 2.7 · A Boy with a Grudge
@@ -265,17 +265,17 @@
   7. Eyes shut, Eli tries to find the cabin walls, and can't, and keeps trying until Teo sleeps.
 - **Value:** hopeful → refused.
 - **Stress:** 5 / 3
-- **Resists:** the master's wound (the one who stayed) resists Eli's ask.
+- **Resists:** the master's wound (the one who stayed, though he was strong enough to go) resists Eli's ask.
 - **Cost:** the master.
 - **Set:** P29 the master's master · P30 he can't find the cabin walls
 - **Paid:** —
 - **Fixes:** 2 (exit 8: the master goes) · 8 (U8 set)
-- **Offscreen:** P3
+- **Offscreen:** P3 (the wound is sharper under Gate 2: B: it was fear, not weakness)
 - **Words:** 400
 
 ---
 
-# THREE · The Healer and the Statue (1,850)
+# THREE · The Healer and the Statue (1,800)
 
 ### 3.1 · The Line Out the Door
 **ACTION** · Holding Thirty-One, the Tins (L-A6) · Eli, Teo, Doc, patients
@@ -331,7 +331,7 @@
 - **Decision:** **Eli grips Teo's arm and holds him.** Three days, not one more. Teo looks at the hand on his arm.
 - **Beats:**
   1. The bound man; people walk past. The wife at the edge of the square, required.
-  2. Teo moves; Eli holds. It's the first time Eli holds someone back (a mirror of the throne room).
+  2. Teo moves; Eli holds. It's the first time Eli holds someone back. (The throne room inverts it: there, nobody holds anybody, and Teo walks.)
   3. Nobody jostles; the king's name on the arches: Mika.
   4. The archivist on dark elves, in two sentences: "Not really elves any more." (The narration doesn't agree.)
   5. A grey coat at the end of the street forces the long way round.
@@ -347,11 +347,11 @@
 - **Paid:** —
 - **Fixes:** 5 (O10) · 3 (Eli notices Jon's crack and doesn't ask)
 - **Offscreen:** P4 (Mika measuring the human)
-- **Words:** 700
+- **Words:** 650 (compress beats 3–5)
 
 ---
 
-# FOUR · The Door (2,800)
+# FOUR · The Door (2,750)
 
 ### 4.1 · Some Get Grown into Things
 **REACTION** · a bad port, two months on, a few days before the ninth · Eli, Teo, Doc, Jon
@@ -362,7 +362,7 @@
   1. Enter mid-story: "—and the floor's gone black where the world's worn thin."
   2. **The exact date: the ninth.**
   3. "Buying what?" Jon doesn't look up.
-  4. The list, as table talk. (Keep v10 L317's "the pits **on the inner worlds**": those are for the ones caught outside. The dark elf's pit in 4.5 is a different one, "down there". The two must not read as one.)
+  4. The list, as table talk. (Keep v10 L317's "the pits **on the inner worlds**": those are for the ones caught outside. The dark elf's pit in 4.5 is a different one, "down there". The two must not read as one.) **"Some get grown into things" also covers the ones sold as crew** (`03` P5): it pays on the dragon's bridge (6.8b).
   5. Eli lies awake. Morning: the crater.
   6. Teo objects; Eli overrides him a second time.
   7. Jon: "Elves to see." He's gone on the next hull out, a few days before the door night. (How they reach the moon: a hired hop out to its system, the flyer in the hold; one clause.)
@@ -398,7 +398,7 @@
 - **Paid:** P25 (the moth → the guns) · P34 (the troll's stick)
 - **Fixes:** 4 (A-bonus: a small station staff is the cost of secrecy; no page trace needed) · 8
 - **Offscreen:** P5 (the trade is secret, so few guard it)
-- **Words:** 650
+- **Words:** 600 (compress beat 1)
 
 ### 4.3 · Someone Was Pushing
 **ACTION** · the thin place, minutes later · Eli, the old toothless prisoner, Doc, Teo, the dark elf
@@ -421,7 +421,7 @@
 - **Cost:** the nosebleed; her contempt; the twenty-nine, dead on the road and at the door before he ever came.
 - **Set:** P44 "When you've earned it"
 - **Paid:** P26 (the needle → the seam) · P40 (part: the worn floor → the door)
-- **Fixes:** 7 (thirty started the road; she's the last one living; a child at the start; she pushed alone at the end) · 4 (K5: she pushed for years from the hell side; it isn't luck that it gives tonight)
+- **Fixes:** 7 (thirty started the road; she's the last one living, Gate 2: 3a; a child at the start; she pushed alone at the end) · 4 (K5: she pushed for years from the hell side; it isn't luck that it gives tonight)
 - **Offscreen:** P5 (the last of thirty, pushing alone from the hell side; timeline in `02` §1.7: a child at the road's start → fifty years on the road, three of them in the pit → the last years alone at the door); P2 (Jon's winter)
 - **Words:** 600
 
@@ -497,7 +497,7 @@
 
 ---
 
-# FIVE · The Queen and the Giant (3,150)
+# FIVE · The Queen and the Giant (3,000)
 
 ### 5.1 · The Folding Table
 **ACTION** · the Dry (L-A9), twelve days · Eli, the grandmothers, the elven captain's second, Jon (watching), a colonist boy
@@ -521,7 +521,7 @@
 - **Paid:** —
 - **Fixes:** 4 (K6: Jon knew the seedship was down) · 9
 - **Offscreen:** P6 (the distress call; Mika's rescue; the Queen sent ahead on a fast ship)
-- **Words:** 550
+- **Words:** 500 (compress beats 3–4)
 
 ### 5.2 · The Strongest Piece in the Box
 **ACTION** · the riverbed, day 12 · Eli, the Queen, Jon, the seedship elves
@@ -589,7 +589,7 @@
 - **Paid:** —
 - **Fixes:** **2** (N2, shown only as far as Eli can see) · 6 · 3 (Jon's "Mika's very much in charge": a true fact that closes the subject)
 - **Offscreen:** `02` exit 18 (the knife at the Queen's door for an hour; why she stays: survivor's debt, and the plan to break the sword herself) [GATE 2 PICK: the reader sees only the pack]
-- **Words:** 400
+- **Words:** 350 (compress beats 1–3)
 
 ### 5.5 · Do Not Call It a Building
 **ACTION** · Hurrunaal (L-A10), orbit, then the giant's hall · Eli, Jon, the giant, the Queen, Teo, Doc, the dark elf
@@ -614,7 +614,7 @@
 - **Paid:** P18 (part: to the world, the name is the face)
 - **Fixes:** 4 (**A11**) · 5 (O5, O6, O7) · 10 (the name fails; the Tower is now personal) · 2 (exit 19)
 - **Offscreen:** P6 (the four layers; the giants rebuilt and waiting, `10 t416–t418`; the giant's knowledge is public: the warrant reads "RECOVER IMPERIAL PROPERTY", L-D1)
-- **Words:** 650
+- **Words:** 600 (compress beats 1–2)
 
 ### 5.6 · So You Remember Who You Are
 **ACTION** · the dark corridor outside the hall, that night · Eli, the Queen
@@ -664,7 +664,7 @@
 
 ---
 
-# SIX · The Strike (5,400)
+# SIX · The Strike (5,850)
 
 ### 6.1 · The Line
 **REACTION** · the bridge, a day out · Eli, Teo, the dark elf, Jon, everyone
@@ -672,7 +672,7 @@
 - **Dilemma:** no giant, no ship, a war starting. Where now?
 - **Decision:** back for the master.
 - **Beats:**
-  1. The cradle (focusing chamber, named once).
+  1. The cradle (focusing chamber, named once). **Its shape stays with him** (he'll be strapped into one, 6.8b).
   2. The master straps in with his teeth.
   3. The line, the crust ring, the band grey.
   4. The dark elf at his shoulder, breathing. Teo crying without knowing it: "The giant— did he—" Nobody answers.
@@ -688,8 +688,8 @@
 - **Set:** P64 the giant's fate (open)
 - **Paid:** P23 (the dragon-schools master → the cradle) · P57 (the lie exposed) · P63 (the berth reads two ways)
 - **Fixes:** 5 (O7, O8) · 9 (A3 on reread) · 4 (K7)
-- **Offscreen:** P7 (the strike's means through the dragon schools; the picket pulled; author-level only, one trace); K7
-- **Words:** 550
+- **Offscreen:** P7 (the strike's means through the dragon schools; the picket pulled; author-level only, one trace; unseen, the giants' gods go hunting the cathedral ships they sold, `03` P7); K7
+- **Words:** 500 (compress beats 5–8)
 
 ### 6.2 · Cheap Trick
 **ACTION** · Tessid: the rim port, then the temple, a month on · Eli, Jon (at the port only), the master
@@ -712,7 +712,7 @@
 - **Paid:** P29 (part: "come and find out") · P11 (part: Jon off at the rim port)
 - **Fixes:** 2 (exit 23) · 9 (F19: where Jon is, on the page)
 - **Offscreen:** P7 (the war empties the rim and takes the master's reasons)
-- **Words:** 300
+- **Words:** 250
 
 ### 6.3 · Four Days
 **REACTION** · the landing field, four days and nights · Eli, Teo, the master (at the end)
@@ -735,7 +735,7 @@
 - **Paid:** —
 - **Fixes:** 2 (exit 23: why the master comes; F20) · 4 (K14, K8)
 - **Offscreen:** P7 (the rim supplier); P8 (dwarven ports log Returned hulls)
-- **Words:** 300
+- **Words:** 250
 
 ### 6.4 · The Grapple
 **ACTION** · *Ledger Closed* over an unnamed gas giant · Eli, the Queen, the dark elf, Teo, Doc, the master; Ilvaen on the hail (Jon's bunk empty since the rim port)
@@ -749,18 +749,18 @@
   4. The hail: the same face. The first of his eleven questions, word for word, as at the gate. The grease-pencil mark by Eli's face; he knows whose pencil.
   5. "The hull and the hell-born, and you may go on." Everyone looks at Eli. The dark elf doesn't move.
   6. "No."
-  7. The master, flat: **"Stay aboard and he tows us to his station."** The lifeboat is the choice: thirst and freedom, against capture.
+  7. The master, flat: **"Stay aboard and he tows us to his station."** The lifeboat is the choice: thirst and freedom, against capture. **He looks at the grapple a long time, then at the lifeboat** (Gate 2: B: a full push might crack it and would burn him, and the cutter would fire on a hull it no longer needs; he doesn't push, `03` P8).
   8. The Queen's silence, a yard out of frame. Eli sees her not step forward.
   9. The lifeboat; what they can carry; the Queen's hand on the release.
   10. The dark elf, flat: "They don't board what they can starve."
   11. The cutter tows the black hull away.
 - **Value:** a ship and a crew → a crew in a lifeboat.
 - **Stress:** 8 / 6
-- **Resists:** the Inquisition resists by force and ledger. The Queen resists both her king's law and her own name. Eli resists the trade.
+- **Resists:** the Inquisition resists by force and ledger. The Queen resists both her king's law and her own name. Eli resists the trade. The master resists his own push.
 - **Cost:** the ship; Eli's ribs (four months to knit).
 - **Set:** —
 - **Paid:** P35 (token and ledger → the cutter knows them; U2) · P45 (Krell lived; the grease-pencil mark; U10) · P46 (the hull taken; U3) · P56 (the Queen's secret holds, Q3) · P65 (on the page: "You ordered a part")
-- **Fixes:** 4 (**A4, A10**) · 9 (Jon got off at the rim port, 6.2) · 2 (exit 24; F07a: the lifeboat is a choice) · 6 (Q3)
+- **Fixes:** 4 (**A4, A10**; the master at the cutter) · 9 (Jon got off at the rim port, 6.2) · 2 (exit 24; F07a: the lifeboat is a choice) · 6 (Q3)
 - **Offscreen:** P8 (**the cutter's master is Ilvaen, and it's his own case:** his ledger, and his token vouched in the party that emptied a station, so he asked for it, `03` P8; he won't board, won't be seen killing under the king's token, and lets the sector starve them; off-frame, he never sees the Queen); K8
 - **Words:** 450
 
@@ -785,7 +785,7 @@
 - **Paid:** P11 (the tactical line, seen as a pattern; U1)
 - **Fixes:** **3** (C3) · 9 · 4 (K9)
 - **Offscreen:** P8 (Jon hired the tug from the day he knew the grapple would come)
-- **Words:** 400
+- **Words:** 350 (compress beats 1–3)
 
 ### 6.6 · The Wrong One
 **ACTION (sequence)** · across the war road: an arms freighter's hold, a dwarven port, a human world · Eli, the crew
@@ -797,11 +797,9 @@
   2. A month on the feed: the Dry cleared for a landing field, the riverbed line still there. He turns it off.
   3. A dwarven port: **the low black hull with a new name stencilled over *Ledger Closed*.** The dark elf looks, then away. [GATE 2 PICK: use the sighting]
   4. **The port checkpoint:** the guards search everyone in the line, Doc and the master included, and study Eli's jaw against a poster; Teo walks straight through behind them with a crate on his shoulder and waits on the far side. Nobody looked at him once. Eli registers it. (F05 plant 2)
-  5. Posters of him with the face scratched out, as if it were his father's (L-D8).
-  6. The hanging; the song to the Emperor's god; a wall "on a cored mind".
-  7. His hand half up; Teo watching it; down.
-  8. Doc's line.
-  9. A boarding party; Doc fights badly, finishes with the stick. **The master watches him chat about goats and goes still, "listening for something in another room."** "Hurt yourself?" "No." He rubs his eyes.
+  5. Posters of him with the face scratched out, as if it were his father's (L-D8). The hanging; the song to the Emperor's god; a wall "on a cored mind".
+  6. His hand half up; Teo watching it; down. Doc's line.
+  7. A boarding party; Doc fights badly, finishes with the stick. **The master watches him chat about goats and goes still, "listening for something in another room."** "Hurt yourself?" "No." He rubs his eyes.
 - **Value:** a prince who might act → a fugitive who watches.
 - **Stress:** 6 / 7
 - **Resists:** the crowd and the posters resist Eli. The master's line (never say what he can't feel clearly) resists what he half-feels.
@@ -810,7 +808,7 @@
 - **Paid:** P15 (the seal on the wall) · P17 (CLONE. NO SOUL. → the fingernail) · P46 (the hull resold; the thread ends with nothing changed) · P51 (the colony wiped out) · P34 · P92 (part: shown, nobody looks at the one carrying)
 - **Fixes:** 5 · 8 (U3; F05)
 - **Offscreen:** P8 (the hull written off and sold back; the Emperor is doing nothing; the war does his work; the posters spread on trade, never by an order, `03` P0)
-- **Words:** 450
+- **Words:** 350 (beats merged: 5–6, 6–8 of the round-1 card)
 
 ### 6.7 · The Crossing
 **REACTION** · a human transit hull, dropping through hell, eleven hours · Eli, the dark elf, the crew
@@ -833,56 +831,132 @@
 - **Paid:** P41 (humans drop through hell) · P44 (her name) · P47 (the light goes out)
 - **Fixes:** 2 (exit 25) · 7
 - **Offscreen:** —
-- **Words:** 400
+- **Words:** 350
 
 ### 6.8 · Make It Waste Them
-**ACTION** · an airless moon, at a water stop · Eli, the master, the Queen, Teo, the dark elf, Doc, the dragon, the dwarven crew
+**ACTION** · an airless moon, at a water stop · Eli, the master, the Queen, Teo, the dark elf, Doc, the young dragon, the dwarven crew (Jon ahead at Earth's edge)
 - **Goal:** survive a dragon hunting gunrunners. Their freighter is one.
 - **Conflict:** a quarter-mile of wing. The first breath takes the drive section; the second takes the crew.
-- **Disaster:** they kill it, and Teo's hand is ruined, and the freighter will never fly.
+- **Disaster:** they kill it, and Teo's hand is ruined, and the master is bleeding from both ears, and the freighter will never fly. Teo sets off the beacon.
 - **Beats:**
-  1. The master, calm: "It's young. Make it breathe. It can't do that forever. Make it waste them." **A nosebleed** from holding his sense on it. (His plan: this is what "strongest" means, by craft.)
+  1. The master, calm: "It's young. Make it breathe. It can't do that forever. Make it waste them." **Then he makes it waste them on him** (Gate 2: B): he walks into the open.
   2. The Queen as bait, in two places at once. A canyon cut where she was.
-  3. Teo the other way, firing a flesh rifle. **Doc in the freighter's shadow, out of the breath line, for the whole fight**, throwing rocks, voice high and cracked.
-  4. **The dark elf tries the Collapse first:** a fistful of scales, and she's on her knees (A9). Then up under the jaw, a step late, palm on the throat; the head jerks aside, not far enough.
-  5. Teo, running for cover, passes the freighter's shadow: "Do something!" Doc, puffing: **"Saving myself for something special."**
-  6. Seconds later the line takes the skin off Teo's left hand and forearm through the suit.
-  7. The breaths slow and go ragged. **No breath count** (tripwire, `07` L326): drop v10 L623 "The fifth breath came out ragged" **and** v10 L629 "labouring after five breaths". No number on the page reaches the total.
+  3. **The breath line bends aside into the moon "like water off a blade."** Each one costs him: nose, then ears, then one knee. (His craft chose the plan; his power pays for it. No push puts a dragon down from outside: a push turns a breath, and the kill needs a fine reach at the heart.)
+  4. **Doc in the freighter's shadow, out of the breath line, for the whole fight**, throwing rocks, voice high and cracked. **The dark elf tries the Collapse first:** a fistful of scales, and she's on her knees (A9). Then up under the jaw, a step late, palm on the throat; the head jerks aside, not far enough.
+  5. **Teo leaves the master's cover** to fire a flesh rifle from the open: his one brave thing, again. Running back he passes the freighter's shadow: "Do something!" Doc, puffing: **"Saving myself for something special."**
+  6. Seconds later, outside the master's cover, the line takes the skin off Teo's left hand and forearm through the suit.
+  7. The breaths slow and go ragged. **No breath count** (tripwire, `07` L326): drop v10 L623 "The fifth breath came out ragged" **and** v10 L629 "labouring after five breaths".
   8. "Now." The moth way: scale, muscle, lungs; the heart the size of the flyer, labouring; the narrow place. He closes his hand.
   9. It lifts its head and looks at him, as if it only now noticed he was there. It falls. Dust in airless dark stays up.
-  10. On his knees, nose bleeding. The master: "That was fine."
-- **Value:** prey → dragon-killer, at Teo's cost.
-- **Stress:** 9 / 7
-- **Resists:** the dragon resists everything. The Collapse is too small outside the Tower. Doc holds back on his no-witness rule, and stays safe in the shadow while he does.
-- **Cost:** Teo's hand; the freighter; the dragon's look, which follows him into sleep.
-- **Set:** P70 "make it breathe" / the heart · P71 Teo's hand never closes right · P72 "saving myself for something special"
-- **Paid:** P24 (the small push → reading the breaths; A6) · P25 (the moth → the heart) · P27 (part: "fine") · P49 (part: the Collapse is too small)
-- **Fixes:** 4 (**A6, A9**, Doc's reason) · 9 (Jon away, for cover) · 8 (NS4: rising unseen under the jaw)
-- **Offscreen:** P8 (the dragon hunts gunrunners, K10; Jon has gone ahead to Earth's edge to buy the lander and set the drop day)
-- **Words:** 700
+  10. Both of them on their knees, Eli's nose bleeding, the master's ears. The master: "That was fine."
+  11. **Teo sets off the dead freighter's beacon with his good hand.** Open band, as dwarven beacons are, so anyone can sell a rescue. Nobody thinks about who hears.
+- **Value:** prey → dragon-killers, at Teo's cost and the master's blood.
+- **Stress:** 8 / 7 (re-plan: one below the old 9, so the cathedral ship holds the chapter's peak)
+- **Resists:** the dragon resists everything. The master resists its breath with his body. The Collapse is too small outside the Tower. Doc holds back on his no-witness rule, and stays safe in the shadow while he does. Teo resists cover.
+- **Cost:** Teo's hand; the master's blood (he can't stand an hour later); the freighter; the dragon's look, which follows Eli into sleep.
+- **Set:** P70 "make it breathe" / the heart · P71 Teo's hand never closes right · P72 "saving myself for something special" · **P95 the open beacon (it calls everyone)**
+- **Paid:** P24 ("anyone can lift… everyone who could lift is dead" → he lifts, and pays in blood; A6) · P25 (the moth → the heart) · P27 (part: "fine") · P49 (part: the Collapse is too small)
+- **Fixes:** 4 (**A6, A9**, Doc's reason; the master's raw power, Gate 2: B) · 9 (Jon away, for cover) · 8 (NS4: rising unseen under the jaw)
+- **Offscreen:** P8 (the dragon hunts gunrunners **for its lord, whose cathedral ship waits two systems off**, K10; Jon has gone ahead to Earth's edge to buy the lander and set the drop day; **M1b, T0**)
+- **Words:** 600
+
+### 6.8b · Not This One
+**REACTION** · the dead freighter's hold, days 1–4 after the kill, then the lord's cathedral ship · Eli, Teo, Doc, the master, the Queen, the dark elf, the dragon lord (LOCAL, unnamed), his collared crew
+- **Reaction:** dwarven rations; the beacon blinking. **Teo won't let Doc dress his arm alone** (he heard "saving myself" while his hand burned) and asks Eli or the master to stay. When Eli shuts his eyes, the dragon lifts its head. On day four the hold's one port goes dark: a hull is lying alongside, bigger than the moon's horizon.
+- **Dilemma:** a cathedral ship has come for its hunter's body and found its killers beside it. Fight (the master can barely stand, the Queen's ribs are taped, a cathedral ship's beam can take a moon's face off) or go quietly into whatever it wants them for.
+- **Decision:** **Eli opens the hatch himself and goes quietly.** They're pressed into the cradle ring behind the lord's throne. The master, from the floor of the hold, to nobody: **"Not this one."**
+- **Beats:**
+  1. Teo's request; Doc's easy "Of course." Eli stays.
+  2. The dragon behind his eyelids.
+  3. The port goes dark. **The hull's ribbing: he knows it from his window.** His father's ship hung at anchor over the capital all his life (one line, never explained, `08 t222`).
+  4. The choice, said aloud, counted out: what they have left against what's out there. "Not this one."
+  5. The lord's crew come in: humans, dwarves, an orc carrying the hunter's ruined wing-tip, and elves in collars. **The dark elf sees the collars and says one word, and it's the Inquisition's.** (Hell-born caught and sold as long-lived hands; "some get grown into things" covers it.)
+  6. The bridge: the lord on his throne, the crew at their stations in front of him. Behind the throne, the cradle ring of the focusing chamber. **He knew what it was before they strapped him in** (the slate; the broadcast).
+  7. The straps. The dark elf can't stand being shut in; she lets them buckle her and doesn't look at Eli. The lord never once turns his head to see what's been wired in behind him.
+- **Value:** free and spent → captive and wired into a dragon's ship.
+- **Stress:** 7 / 7
+- **Resists:** the dragon lord resists nothing; he takes. Teo resists Doc. The dark elf resists the straps, and lets them close.
+- **Cost:** their freedom; the dark elf strapped down; Teo's arm, dressed under guard.
+- **Set:** P96 the cathedral hull known from his window · P97 the collared elves (the Inquisition's word)
+- **Paid:** P95 (the beacon brought the lord) · P23 (part: the cradle he knew from a slate) · P39 (part: sold as crew) · P33 (part: Teo's suspicion protects him) · P72 (part: the line's first sting, for Teo)
+- **Fixes:** 4 (K19: the lord's hunter went silent at a known water stop, and the beacon is open band; why they don't fight) · 5 (his father's ship, one line) · 2 (nobody can leave: a cost, not a choice the plot made for them)
+- **Offscreen:** P8b (the war has burned through the lord's cradle crews; anything that can kill a dragon has reach worth wiring in; a dragon ship runs on crews in focusing chambers with the master as the final lever, `07` L328; `13` L191; the ship is giant-built, grown from whole families of dead giants, `01` CATHEDRAL SHIP; `10 t416`)
+- **Words:** 300
+
+### 6.8c · How Will You Get Home (Patrick's scene)
+**ACTION** · the cathedral ship's bridge, four days out · Eli and the crew in the cradle ring **behind the throne**; the dragon lord **on his throne**; his crew of humans, elves, dwarves and orcs **at their stations in front of him, behind the god**; the god (**[PATRICK]**)
+- **Goal:** get the lord to hear him. For four days Eli has held his cradle steady and learned the ship, so that today he can open his mouth and offer what they're worth.
+- **Conflict:** a "god" is suddenly on the bridge, among the stations. He doesn't have to stoop: the room was grown for his size.
+- **Disaster:** the dragon answers with his secret breath, through the god and through his own crew. Eli watches every soul in front of the throne die in order, and can do nothing. The god dies last. Eli never got to speak, and he has learned what the lord does with anyone standing in front of him.
+- **The god: [PATRICK].** Carded unnamed and unexplained. Claude's proposal (`03` P8b, §9 Q2): a giant who became a god, hunting the cathedral ships his people sold, for the forge strike. **Never Derrek** (he can't die, BANK 11-01 L4), never Jon, never anyone the reader has met. Until Patrick rules, the drafter writes him by size and certainty only.
+- **Beats (the codex scene, `13` §Showpiece, kept in its order):**
+  1. **Enter as the bridge turns.** The god is already among the stations. At the far end a seam in the hull that nobody opened is closing. Nobody says "door." (No teleport: folding space is cut, `05`.)
+  2. **The dragon fires before the god speaks,** preemptively, his secret entropy breath, straight through the god and through his own crew behind him. He doesn't care about his crew at all. The cradles behind the throne stay dark. (The dragon is the caster, never a casualty: no dragon-peril.)
+  3. **It doesn't seem to do much at first.** The god looks down at himself. Quiet. Eli's cradle hums under his spine.
+  4. **The orc bursts first.** The master, very low: **"That's not heat."**
+  5. **Then the humans** age at their stations. Eli watches and knows he'd have been one of them. Teo cries without knowing it, as at the broadcast.
+  6. **Then the dwarves.**
+  7. **The god stands unmoving, cocky, certain he's beyond it, and boasts:** **"Your crew is dead. How will you get home?"**
+  8. **The dragon sweats with doubt.** Eli sees the wet on the scales of the great jaw: the secret seems to have failed.
+  9. **Then the elves, last of the crew.** The Queen and the dark elf feel them go in the bond: living, close, ageing to death while the bond holds every one of them, the opposite of the silent blade (5.3). The dark elf's hands on her straps; one tears, a cargo strap's worth of Collapse and nothing to use it on. The Queen's face doesn't move.
+  10. **Then the god trembles, confused.** In his whole existence he has never felt a bodily sensation. He looks at his hand.
+  11. **He begins to age and dissolve, last.** Dawning horror: he was never exempt, only delayed. His resistance bought him a front-row seat; he watched the ladder climb toward him. The being who believed himself beyond flesh learns he was always flesh.
+  12. **Doc watches the god last of all, very interested.**
+  13. Dust at every station. The dragon breathes out. For the first time, he turns his head toward the cradle ring.
+- **Drafter rules:** the order is shown, never explained. **The word "Remnant" stays off the page**; no homework on how it forces maximum entropy ("science-flavor only", `13`). It's one breath, never numbered. The god and the orc die the same death (`13` "Why it lands"), and the page never says so.
+- **Value:** a captive with a whole crew between him and the lord → nothing between them; a god → flesh.
+- **Stress:** 9 / 7 (chapter peak)
+- **Resists:** the god resists the dragon with his certainty. The dragon resists his own doubt and holds the breath. The dark elf resists her straps, and the bond holds her to the dying. Eli resists nothing; he can't.
+- **Cost:** a whole crew, collared elves among them; the dark elf feels every one go; Eli's planned opening, never spoken; and he learns that even a god is flesh, and that the thing holding him doesn't count its own.
+- **Set:** P98 the boast: "How will you get home?" · P101 "That's not heat" · P102 Doc watches the god die last, very interested
+- **Paid:** P95 (the beacon called the god too, K20) · P97 (the collared elves die last of the crew; both elves feel them) · P49 (part: a torn strap, nothing to use it on) · P57 (reread only: the god doesn't stoop in a hull grown from giants)
+- **Fixes:** 4 (K20, K21: the god walks in through a way in the giant yards grow into every hull they sell; the crew lives because they're behind the throne) · 6 (the bond, body to body, against the silent blade) · 8
+- **Offscreen:** P8b (the forge strike set the giants on every dragon flag and every cathedral ship they sold; the god is that war, one body long; the open world items, entropy as a cut domain, QUESTIONS 5.6, and folding space, QUESTIONS 5.7, are carried, not ruled)
+- **Words:** 650
+
+### 6.8d · Like Weather (E7b)
+**REACTION** · the same bridge, minutes later, then the days to the lord's house port · Eli, the dragon lord, the crew
+- **Reaction:** the lord looks at the cradle ring the way you look at what's left in a larder. "He looked at Eli the way you look at weather."
+- **Dilemma:** serve the thing that just spent its whole crew, with two elves beside him who felt them die, or refuse, and be spent or left in a ship with no hands.
+- **Decision:** **he bargains.** Teo can fly anything with a seat; the Queen and the master can hold stations; Doc can keep them alive. They crew the ship to the lord's house port and walk off it there. The lord agrees, because they cost him nothing and don't matter to him: it doesn't occur to him that they count as witnesses to anything.
+- **Beats:**
+  1. Unstrapped. Eli's legs; the dust at the station in front of him.
+  2. He talks: the god's boast, turned into an offer. It's his gift, used on the worst thing he's met yet.
+  3. The lord's answer is a turn of the head, and the crew is hired.
+  4. **The dark elf doesn't look at him.** She takes the station farthest from the throne and doesn't speak to Eli again until the port.
+  5. Days at the stations among the dust of the crew, inside a hull grown from dead giants. Teo flies one-handed. The Queen holds an elven station and doesn't say whose it was.
+  6. Doc doesn't talk for a whole day. Nobody has seen him quiet before.
+  7. The lord never asks their names.
+- **Value:** prisoners → hired hands, kept alive because they don't count.
+- **Stress:** 7 / 7
+- **Resists:** the dark elf resists Eli by silence. The lord resists nothing; he simply doesn't care. Eli resists his own disgust and keeps talking.
+- **Cost:** the dark elf's trust, for days; Eli learns his gift works best on things that don't care about him.
+- **Set:** P99 "the way you look at weather" (the drywall, rehearsed) · P100 the dark elf's silence until the port
+- **Paid:** P98 (the boast: the dragon gets home on his prisoners)
+- **Fixes:** 4 (K21: why the lord lets them walk) · 2 (they serve, under protest) · 10 (the drywall a chapter early: being nothing to a power saves them)
+- **Offscreen:** P8b (E7b; DL1: "the god's boast, paid")
+- **Words:** 300
 
 ### 6.9 · I Don't Know (C5)
-**REACTION** · the dead freighter's hold, three weeks, then the carcass · Eli, Teo, Doc, the master, Jon (arriving)
-- **Reaction:** three weeks on dwarven rations. **Teo won't let Doc dress his arm alone** (he heard "saving myself" while his hand burned), and asks Eli or the master to stay. When Eli shuts his eyes, the dragon lifts its head.
-- **Dilemma:** Jon comes in on the ship that finally answered the beacon, walks to the carcass, and comes back: hand on Eli's shoulder. "I knew you would." "How?" Jon opens his mouth and shuts it. "I don't know." Push, or let it lie.
+**REACTION** · the dragon lord's house port, the quay · Eli, Jon, the crew
+- **Reaction:** Jon is on the quay when the ship comes in, with a hired hop and peaches. **He doesn't ask what happened aboard.** Eli notices he doesn't ask.
+- **Dilemma:** hand on Eli's shoulder. "I knew you would." "How?" Jon opens his mouth and shuts it. "I don't know." Push, or let it lie.
 - **Decision:** **he lets it lie.** The uncertainty frightens him more than a lie would.
 - **Beats:**
-  1. The hold; the beacon; the rations.
-  2. Teo's request; Doc's easy "Of course."
-  3. The dragon behind his eyelids.
-  4. The answering ship, and Jon on it.
-  5. Jon at the carcass a long while.
-  6. The shoulder. C5.
-  7. Jon takes his hand away.
+  1. The ramp; the dust on their boots; Jon at the bottom.
+  2. **The dark elf, first off, speaks to Eli for the first time since the bridge:** "Next time ask me first." She walks on.
+  3. Jon looks up at the hull a long while.
+  4. The shoulder. C5.
+  5. He takes his hand away and asks about Teo's arm.
 - **Value:** Jon as the man who always knows → Jon unsure, once.
 - **Stress:** 5 / 7 · **false calm 4**
-- **Resists:** Teo resists Doc. Jon resists the question with the truth.
+- **Resists:** Jon resists the question with the truth. The dark elf resists the bargain after the fact.
 - **Cost:** the question he didn't ask.
 - **Set:** P73 "I knew you would… I don't know" (open)
-- **Paid:** P33 (part: Teo's suspicion protects him) · P72 (part: the line's first sting, for Teo) · P08
-- **Fixes:** **3** (C5) · 9 (K11: he booked the freighter and hired the answer; he knew *where* and *that*, not *how* he knew, `02` C5)
-- **Offscreen:** P8 (Jon's return on the hired ship)
-- **Words:** 300
+- **Paid:** P08 · P66 (hidden help: he's where the ship comes in) · P100 ("Next time ask me first")
+- **Fixes:** **3** (C5) · 9 (K11 revised: he booked the freighter, knew its water stops, and when it went silent knew where a lord takes his dead; he knew *where* and *that*, not *how* he knew, `02` C5; a dragon house port has no Inquisition station)
+- **Offscreen:** P8b (Jon on the quay)
+- **Words:** 200
 
 ### 6.10 · In Rows (N1)
 **REACTION** · another freighter's cold hold, a month on · Teo, Jon, the purser, Eli (overhearing the end)
@@ -906,7 +980,7 @@
 - **Paid:** P06 ("you're not him" → "still a person") · P10 (Teo's parents → N1) · P12 ("awake the whole time" → leaning toward the bulkhead)
 - **Fixes:** **2** (N1, the on-page near-defection) · 9 (Jon present on purpose)
 - **Offscreen:** `02` exit 27 (why Jon keeps him: Teo's death is the demonstration)
-- **Words:** 400
+- **Words:** 350
 
 ### 6.11 · At a Discount (C4)
 **ACTION** · the passage outside the purser's hatch, minutes later · Eli, Jon
@@ -930,7 +1004,7 @@
 - **Paid:** P05 (the guard) · P42 (nine at the crater) · P52 (the boy at the water line)
 - **Fixes:** **3** (C4, the big one) · 2 (exit 28) · 10 (he wants the Tower more than clean hands)
 - **Offscreen:** —
-- **Words:** 450
+- **Words:** 400
 
 ### 6.12 · We Tire Him Out
 **ACTION** · a borrowed lander's cabin, the last night before Earth · Eli, Jon, Teo, the master, Doc, the Queen, the dark elf
@@ -942,7 +1016,7 @@
   2. **Homecoming:** he has never seen Earth from above. It's under them now (O2).
   3. Jon: longer than any records; every kind of people…
   4. Teo: "So we're not even, we're not even trying to— so we don't kill him?" "So we don't."
-  5. "Every one of you does the best thing you've ever done, and he has to answer every single one." **"One at a time, he has to answer each of you. All at once, he only has to answer once."**
+  5. **"Every one of you does the best thing you've ever done, and he has to answer every single one." Then: "He'll keep a hand for me. You get the other one."** (Gate 2: 1b; replaces "One at a time…". True, tactical, and on reread the whole relationship.)
   6. "Tired men can be held. Tired men can be talked to. Tired men give up chairs."
   7. The master: "In his own house. In the strongest place on earth." Jon: "It's strong for everyone. It makes everyone bigger. It doesn't make anyone less tired."
   8. "That part's mine." "Then we'll see."
@@ -951,17 +1025,17 @@
 - **Stress:** 6 / 8
 - **Resists:** Jon resists Eli's plan by agreeing with its purpose and replacing its method.
 - **Cost:** the chair; Eli concedes the plan. And he doesn't ask Teo why.
-- **Set:** P75 "tire him out" / "tired men can be held" · P76 "one at a time" · P77 "it makes everyone bigger" · **P93 Teo's petition (the forms, rehearsed)**
+- **Set:** P75 "tire him out" / "tired men can be held" · **P76 "He'll keep a hand for me. You get the other one."** · P77 "it makes everyone bigger" · **P93 Teo's petition (the forms, rehearsed)**
 - **Paid:** P19 ("take the chair" → "that part's mine")
-- **Fixes:** **1** (the stated reason for the sequence) · 2 (exit 30) · 5 (O2) · 8 (F05b)
-- **Offscreen:** §4.3 (the hidden reason: all at once might *kill* him, and a dead Emperor resets, BANK 11-01 L4; author-level)
-- **Words:** 400
+- **Fixes:** **1** (the stated reason for everyone at once) · 2 (exit 30) · 5 (O2) · 8 (F05b)
+- **Offscreen:** §4.3 (author-level, never on the page: Derrek can't die; a kill only resets him whole and wastes the drain, BANK 11-01 L4; Jon capped that risk when he chose a team that can drain him but not kill him; at the door he spends nothing, so the Emperor keeps a hand for him)
+- **Words:** 350
 
 ### 6.13 · The Hatch (N3)
-**REACTION** · the same cabin, later · the master, Jon, Eli, Doc, the dark elf
+**REACTION** · the same cabin, later · the master, Jon, Eli, Doc
 - **Reaction:** the master stands and looks at his bag. Jon, gently: "Your master—" "Don't. You didn't know him."
 - **Dilemma:** the master in the open hatch, his master's bag on his shoulder, the cold coming in. Leave, as he did fifty years ago, or go up. Eli thinks of three things to say.
-- **Decision:** **Eli says none of them** (restraint again). The master comes back and shoves the bag under his seat. Later, Jon to the dark elf alone, low: **"When it starts, keep hold of him. Don't let go until you have to."** She doesn't answer Jon. She looks across the cabin at Eli, then nods. Eli half-hears it and doesn't understand.
+- **Decision:** **Eli says none of them** (restraint again). The master comes back and shoves the bag under his seat.
 - **Beats:**
   1. "Your master—" "Don't."
   2. Jon shuts his mouth. (**No left-palm beat**: cut.)
@@ -969,20 +1043,19 @@
   4. Three things unsaid.
   5. The bag under the seat.
   6. Doc laughs softly in the dark: "Sorry. I was thinking about my brother's goat."
-  7. Jon and the dark elf by the hatch. "Until you have to." **No word to Jon; her eyes go to Eli; then the nod.** She is agreeing for Eli, not for Jon.
-- **Value:** the master leaving → staying; Eli free → (unknown to him) under a hold.
+- **Value:** the master leaving → staying.
 - **Stress:** 7 / 8
-- **Resists:** the master's wound resists Jon's presumption. The dark elf's distrust of Jon (she heard the price in him, 4.6) resists his ask; her own want (keep Eli unspent; never stand by the blade) overrides it.
-- **Cost:** the master's last exit; Eli's freedom of action upstairs, given away by Jon.
-- **Set:** P78 "Your master— Don't. You didn't know him." (open) · P79 "keep hold of him" · P80 the goat/brother laugh in the dark
+- **Resists:** the master's wound resists Jon's presumption. Eli resists his own urge to argue.
+- **Cost:** the master's last exit.
+- **Set:** P78 "Your master— Don't. You didn't know him." (open) · P80 the goat/brother laugh in the dark
 - **Paid:** P31 (part: the brother is named again)
-- **Fixes:** **2** (N3; F22) · **1** (the leash, enforced by bodies, not a Tower rule) · 8 (U6 open by design; U7 cut)
-- **Offscreen:** §4.3 point 1
-- **Words:** 300
+- **Fixes:** **2** (N3) · 8 (U6 open by design; U7 cut)
+- **Offscreen:** `02` exit 29 (the master stays because leaving is what he did fifty years ago). **Jon's ask to the dark elf ("keep hold of him") is cut** (Gate 2: 1b; P79 retired).
+- **Words:** 200
 
 ---
 
-# SEVEN · The Tower (2,650)
+# SEVEN · The Tower (2,700)
 
 ### 7.1 · A Mile of War
 **ACTION** · Earth, the drop, the terrace two-thirds up the Tower · everyone
@@ -992,7 +1065,7 @@
 - **Beats:**
   1. Earth: one city; the Tower pearl-white, its top lost; the war like surf. A Council tower among the burning roofs.
   2. Jon at the open door; he steps out; they fall no faster than he does.
-  3. The ship breaks; his hand moves; the wreck passes on both sides.
+  3. The ship breaks; **Eli knows its ribs from inside now**; his hand moves; the wreck passes on both sides.
   4. The spar, edge-on. Jon's eyes go to it and away. The shoulder to the bone; no sound from her.
   5. Jon doesn't look at her or speak the whole way down.
   6. **The terrace door stands open.** The Queen, to no one: "Then he was right." (She means her king. Eli doesn't know that.)
@@ -1005,7 +1078,7 @@
 - **Resists:** the war resists the fall. Jon's budget resists the Queen.
 - **Cost:** the Queen's shoulder.
 - **Set:** P81 the spar · P82 the open door (a silent cause)
-- **Paid:** P30 (the cabin walls → the fine reach) · P54 (part: they pass the door) · P59 ("Hello, all of you") · P77 (bigger)
+- **Paid:** P30 (the cabin walls → the fine reach) · P54 (part: they pass the door) · P59 ("Hello, all of you") · P77 (bigger) · P96 (the cathedral hull, from inside)
 - **Fixes:** 4 (**A5**; K12) · 5 (O2, O3) · 9
 - **Offscreen:** P9 (the drop timed to the giant assault; the Emperor left the door open [GATE 2 PICK: keep, silent]; the spar is a choice made on cost [GATE 2 PICK]; Jon's tactical line ends at Earth: in the chaos there's nothing left to hide from, `02` §1.2)
 - **Words:** 550
@@ -1035,62 +1108,74 @@
 ### 7.3 · That One's Yours
 **ACTION** · the third room · everyone
 - **Goal:** get out before the ceiling comes down, an inch a breath, a floor's weight.
-- **Conflict:** there's no trick, only weight. The slot opens only while something holds it.
+- **Conflict:** there's no trick, only weight. The slot opens only while something holds it. **The master could hold it, and doesn't** (Gate 2: B; M2b).
 - **Disaster:** Eli holds it, and it's possible "just", in his teeth, his spine, the backs of his eyes. And the master learns why his own master failed.
 - **Beats:**
-  1. The master feels for a trick; none.
-  2. **He looks at Jon first. Jon looks at the stair.** "Well. That one's yours."
+  1. Before the ceiling moves, the master, eyes on the far door: **"Something up there's waiting."** He feels for a trick; none.
+  2. **He looks at Jon first. Jon looks at the stair.** The master keeps himself for whatever's waiting. "Well. That one's yours."
   3. Eli holds. One at a time through the slot: Teo, the Queen, Doc puffing, the dark elf looking back.
   4. Jon goes through without looking back.
-  5. The master stops in the slot. Looks at it; at Eli holding. **"He went alone."** Three words. [GATE 2 PICK: say it aloud, or only the look]
+  5. The master stops in the slot. Looks at it; at Eli holding. **"He went alone."** Three words. [GATE 2 PICK: aloud]
   6. "Let it down slow. Don't drop it. Walk out from under."
   7. It meets the floor "like a door shutting in another house."
 - **Value:** the master's wound unexplained → understood (his master had no one to hold it).
 - **Stress:** 8 / 8
-- **Resists:** the stone resists Eli. Jon resists helping (the budget).
+- **Resists:** the stone resists Eli. Jon resists helping (the budget). The master resists spending himself in the wrong room.
 - **Cost:** Eli's strength; the master's last illusion.
 - **Set:** —
 - **Paid:** P29 (part: how far his master got, and why; U8) · P77 (part: "possible, just", because the Tower makes him bigger)
-- **Fixes:** 4 (the ceiling room's reason comes early) · 8 (U8)
-- **Offscreen:** P9
+- **Fixes:** 4 (the ceiling room's reason comes early; why the strongest man there doesn't hold it) · 8 (U8)
+- **Offscreen:** P9 (his craft reads the climb as a fight and spends the right strength in the right room)
 - **Words:** 400
 
 ### 7.4 · Nothing Leaves This Room
 **ACTION** · the round white room · everyone, the rule-beast
 - **Goal:** get past a beast that frees itself if one of them loses, and takes them one by one if nobody goes in.
 - **Conflict:** "One goes in. The rest wait." If nobody does, it takes them one at a time, forever (BANK 11-07: "the rule beast would have one by one killed them all"). "Can you do it?" "Yes. And then I'd have nothing left for upstairs."
-- **Disaster/choice:** the master goes in (Patrick's scene). Eli's "No" is ignored, and he can't negotiate it. The master makes the beast swear its room holds every spark, then draws on the Tower's walls until he burns out inside it. The beast's own oath keeps the blast in with it: he blows himself up inside its own sick game.
+- **Disaster/choice:** the master goes in (Patrick's scene). Eli's "No" is ignored, and he can't negotiate it. The master makes the beast swear its room holds every spark, then draws on his own push and the Tower's walls together until he burns out inside it. The beast's own oath keeps the blast in with it: he blows himself up inside its own sick game.
 - **Beats:**
   1. Something sits where nothing was: man, spider, hole.
   2. "Visitors… The man upstairs put me here… he'd had this conversation **thousands of times**."
   3. "Free, in here, with all of you." Its terms: one goes in. If nobody does, it comes out for them, one at a time, for as long as it takes.
   4. "Can you do it?" "Yes. And then I'd have nothing left for upstairs." The master looks at Jon. Everyone does. The master nods.
-  5. "I'll go." "No." "Be quiet."
-  6. **The oath, v10 L775–797 as written, energy clause intact:** "Your room. Nothing leaves it?" "Nothing." "No light. No heat. Nothing." "…It isn't even attached to your universe any more. It's mine. And I'm bound to it until someone loses." **"Swear it. Do you swear this room will not allow any energy to leave?"** "I swear it." "Again." "…Nothing gets out. Not a spark. That's the point." "Once more." The beast stops laughing. "Nothing leaves this room." "Good." The lines in his face ease. **"Then nothing reaches them. And nothing gets out. Including you."**
+  5. "I'll go." "No."
+  6. **The oath, v10 L775–797, word for word (protected; the drafter keeps every line, every tag, every beat of it):**
+     "Be quiet." The old man was watching the beast. "Your room. Nothing leaves it?"
+     "Nothing."
+     "No light. No heat. Nothing."
+     "Nothing," said the beast, with enormous contempt. "It isn't even attached to your universe any more. It's mine. And I'm bound to it until someone loses."
+     "Swear it," said the master. "Do you swear this room will not allow any energy to leave?"
+     The beast laughed. "I swear it."
+     "Again."
+     "I swear it, old man. Nothing gets out. Not a spark. That's the point."
+     "Once more."
+     The beast stopped laughing and looked at him.
+     "I swear it," it said. "Nothing leaves this room."
+     "Good," said the master, and the lines in his face eased. "Then nothing reaches them. And nothing gets out. Including you."
   7. **"You'll never be fine. But you're better than you were."**
   8. The pane: the beast's picture. The master cross-legged, eyes shut, as at every temple morning.
-  9. **His draw:** the Tower shudders; the lights along the curve dim; the floor hums under Eli's boots. Eli feels it go past him toward the pane: the walls, pouring into one old man who "couldn't lift much". The Tower makes everyone bigger (P77). (Mirrored in 8.1 b4, when the apprentice does the same.)
+  9. **His draw (Gate 2: B):** the Tower shudders; the lights along the curve dim; the floor hums under Eli's boots. Eli feels it go past him toward the pane: the walls, and under them something he has felt once before, on a temple field, when a loader was set down like a cup. **The strongest push the rim ever had, held back for fifty years,** and the Tower making it bigger (P77). (Mirrored in 8.1 b6, when the apprentice draws.)
   10. The picture fails from the middle; the edges curl like paper in flame; the beast's mouths open. Burnout, inside a room sworn to hold every spark (P21; BANK 10-31: burnout covers the master's death). Black.
   11. Empty floor. The door open. The light comes back.
   12. "A cheap trick, the old man had called it." The Queen goes past without looking at the place.
 - **Value:** the master alive → the master gone; trapped → through.
 - **Stress:** 9 / 8
 - **Resists:** the beast resists everyone with its Rule (the only Rule in the Tower, `01` #30). Jon resists spending himself. The master resists Eli, and turns the beast's pride in its oaths against it.
-- **Cost:** the master: one of their strongest fighters (BANK 11-07), strongest by craft. He reads a fight and calls it, and here he calls his own death.
+- **Cost:** the master: **one of their strongest fighters, literally** (BANK 11-07; Gate 2: B): the strongest push on the rim and the best reader of a fight. Here he reads his own death and calls it.
 - **Set:** P83 "nothing left for upstairs" · P84 "thousands of times" · P85 the Tower shudders when a draw comes off its walls
-- **Paid:** P21 (burnout: the meat goes, inside the sworn room) · P27 ("never be fine" → "better than you were") · P29 (closed: he goes up, and not alone) · P77 (it makes everyone bigger, even a small push)
-- **Fixes:** 4 (F03: the source of the blast is visible) · 2 (exit 33)
+- **Paid:** P21 (burnout: the meat goes, inside the sworn room) · P24 (he lifts, at last, with everything) · P27 ("never be fine" → "better than you were") · P29 (closed: he goes up, and not alone) · P77 (it makes everyone bigger) · P101 (he has seen what isn't heat; he asks for no light, no heat, no energy)
+- **Fixes:** 4 (F03: the source of the blast is visible; M3) · 2 (exit 33)
 - **Offscreen:** P9 (the beast is bound until someone loses)
 - **Words:** 750
 
 ### 7.5 · Children
 **ACTION** · the stair, then the throne room · everyone, the Emperor, the apprentice
-- **Goal:** get to the man, and have Eli's moment.
-- **Conflict:** Teo goes first, unasked, on the servant's belief that nobody notices the help (P92), with the forms Eli taught him in his mouth (P93). The Emperor says his words with him and closes a hand.
-- **Disaster:** Teo dies before a word lands. Eli's reach goes out like a shout and is **held**: the dark elf's arms and Jon's hand. It gouges the floor six feet short. "You brought children."
+- **Goal:** get to the man, and have Eli's moment when he's tired.
+- **Conflict:** Teo goes first, before anyone moves, unasked, on the servant's belief that nobody notices the help (P92), with the forms Eli taught him in his mouth (P93). The Emperor says his words with him and closes a hand (the left; the right stays under his head).
+- **Disaster:** Teo dies before a word lands. **Eli's reach goes out of him like a shout, and nobody holds it** (Gate 2: 1b; E8a). It hits: the dais cracks end to end. A flick of the good hand, without looking: fifty feet into the side wall, ribs, and his reach is gone. He spent everything in the first second. From here the fight happens to him from the floor.
 - **Beats:**
   1. The stair; arches on half-seen rooms: grown weapons stirring in racks, banners from unwritten wars. Doc needs the rail by the second turn.
-  2. **At the door, Jon's hand on Eli's shoulder.**
+  2. **At the door, Jon's hand on Eli's shoulder. At the threshold he takes it off, and stays in the door.**
   3. The room; the window the height of the wall; the war silent beyond it.
   4. The man: lean, grey at the temples, plain, tired, unremarkable. **"Eli had never seen his father's face. Nobody had. He knew it anyway."**
   5. Beside the chair the younger man in black armour (the Hand): scared, and angry.
@@ -1098,88 +1183,90 @@
   7. Teo halfway across the floor, quick and quiet, at the edge of attention, "his mouth already open on something he had carried across a whole war" (v10 L843). **Jon doesn't turn his head.**
   8. "You're the Emperor—" / "—the Emperor," in unison, still looking at Jon.
   9. The hand closes. "Like a mean man would put down an unruly dog." The stiff hand lies open on the stone.
-  10. The shout of reach; the arms lock; Jon's hand, lightly; the gouge.
-  11. The Emperor doesn't look at the gouge. He looks at Jon. "You brought children."
-- **Value:** Teo alive → dead; Eli acting → held.
-- **Stress:** 10 / 9
-- **Resists:** the Emperor resists nothing; he answers. The dark elf and Jon resist Eli by body (the leash goes on).
-- **Cost:** Teo, and his petition for his parents, unsaid.
+  10. **The reach, unheld:** more than the ceiling, more than the dragon's heart. **The dais cracks end to end.** The Emperor doesn't look at the crack.
+  11. **The flick**, good hand, eyes still on the door. The side wall. Ribs. Nothing left in his hands.
+  12. **Snap, from the floor:** everyone is already moving, each on their own path (the Queen's sheath sliding, a shape gone into the shadow under the window, Doc trotting toward him). The Emperor, to the door: "You brought children."
+- **Value:** Teo alive → dead; Eli on his feet with his reach → on the floor with nothing but words.
+- **Stress:** 10 / 9 (first 10)
+- **Resists:** the Emperor resists nothing; he answers, one-handed, while he watches Jon. Jon resists by staying in the door. Nobody resists Eli's reach, and that's the trouble.
+- **Cost:** Teo, and his petition for his parents, unsaid; Eli's reach and his ribs.
 - **Set:** P85 (the stirring weapons, texture)
-- **Paid:** P08 (the shoulder at the door) · P09 ("Jon," said the man in the chair) · P13 (open, still) · P18 ("He knew it anyway"; NS2) · P22 (the Hand; NS3) · P71 (the open hand) · P79 (her arms) · P84 (thousands of times → unison) · **P92** (nobody notices the help; he was wrong once) · **P93** (the petition, unsaid)
-- **Fixes:** **1** (the leash goes on; Teo goes before it) · 4 (cold reader: why nobody stops Teo, now planted twice) · 2 (exit 35) · 8 (F05, F05b)
-- **Offscreen:** P9 (why the Emperor lets them climb; he receives each death as Jon's offering, `02` §1.3)
-- **Words:** 550
+- **Paid:** P08 (the shoulder at the door, then off at the threshold) · P09 ("Jon," said the man in the chair) · P13 (open, still) · P18 ("He knew it anyway"; NS2) · P22 (the Hand; NS3) · P70 ("more than the dragon's heart") · P71 (the open hand) · P76 (part: one hand for them, his eyes on the door) · P84 (thousands of times → unison) · **P92** (nobody notices the help; he was wrong once) · **P93** (the petition, unsaid)
+- **Fixes:** **1** (everyone at once, nobody holding anybody; it starts together at Teo's death) · 4 (why nobody stops Teo; why a god fights one-handed, `03` §4.2) · 2 (exit 35) · 8 (F05, F05b)
+- **Offscreen:** P9 (why the Emperor lets them climb; he receives each death as Jon's offering, `02` §1.3); §4.3 (Jon at the door, spending nothing, is the threat that keeps the Emperor's other hand busy doing nothing)
+- **Words:** 600
 
 ---
 
-# EIGHT · Everyone (3,250)
+# EIGHT · Everyone (3,000)
 
-**Hand track (the Emperor), for the whole chapter:** right palm opened to the bone (8.1) → right arm wrung like a cloth (8.2) → from then on the **left is the good hand**, and the right only hangs. Never use the ruined hand again.
+**The room (Gate 2: 1b, `03` §4.3):** nobody holds anybody. Everyone moved at Teo's death, in the same breath, on their own reason and path. The room empties by attrition: the Queen and the apprentice at the centre (the spine), the dark elf round the wall to behind the chair, Doc kneeling at Eli, Jon at the door. **The camera snaps because Eli is on the floor:** one thing at a time through dust and noise, ribs, his head against the wall, Doc's hands on his chest. Nobody is a spectator in comfort: grit, dimming lights and the shivering floor reach all of them.
+
+**Hand track (the Emperor), for the whole chapter:** in 7.5 Teo's hand and the flick are both the **left**; the right is under his head. Right palm opened to the bone (8.1) → right arm wrung like a cloth (8.2) → from then on the **left is the good hand**, and the right only hangs. Never use the ruined hand again. **His eyes:** on the door (Jon) throughout, except once, at the Collapse (8.2 b5).
 
 ### 8.1 · Yours. Go On.
-**ACTION** · the throne room floor · the Queen, the apprentice, the Emperor; Eli held by the dark elf, Jon's hand gone from his shoulder
-- **Goal (Eli):** get free and help her. He can't.
-- **Conflict:** the Queen draws. "Yours," the Emperor tells the apprentice, without interest. "Go on." **The leash** (the Emperor accepts the terms without a word). The duel spills into the room: grit, the lights dimming, the floor shivering under all of them.
-- **Disaster:** she dies by her one free act, the throw. The blade is crushed. The apprentice burns. Eli does nothing at all, because he is held.
+**ACTION** · the throne room floor · Eli (in the side wall), the Queen, the apprentice, the Emperor, the dark elf (passing), Doc (at Eli), Jon (at the door)
+- **Goal (Eli):** get up and help her. He can't: his ribs, and there's nothing left in his hands. **Failure.**
+- **Conflict:** the Queen goes straight at the chair, because the order is the man in the chair dead. The apprentice comes off the dais into her. "Yours," the Emperor tells him, without interest. "Go on." Nobody is free to help her: Teo and the master are dead, Eli is in the wall, Doc is at Eli, and the dark elf won't go near the blade (A7).
+- **Disaster:** she dies by her one free act, the throw. The Emperor catches it by the blade and crushes it. Eli watches from the floor.
 - **Beats:**
-  1. The sheath slides off like skin. **The dark elf's grip on Eli tightens, and he feels it.** She watches the blade, not the Queen (sight, not the bond).
-  2. The apprentice like a falling wall. Four cuts in ten seconds. Doc's binding goes dark. The coin on the floor.
-  3. The apprentice looks back at the dais: the Emperor yawning, head on his right hand, looking out at the burning sky.
-  4. The apprentice reaches into the walls. Lights dim; the floor shivers (as when the master drew, 7.4); the Emperor's head comes up off his hand.
-  5. He shines; she catches every blow; "her bones breaking under the stress of blocking"; straight back to the foot of the dais.
-  6. The light turns to fire; the blows come through.
-  7. **On her knees, and Eli sees she let him drive her there.** She waited for him to be up, the way she always waited for Eli. The throw.
-  8. The Emperor catches it by the blade in his right hand; it bites; his palm opens to the bone; he crushes it. He's breathing through his mouth.
-  9. **One sliver curls and uncurls on the step.**
-  10. "Master. Are you proud?" **The t768 speech verbatim.**
-  11. The boots worn through at both heels. **BANK 11-08 boots line, Eli only:** keep v10 L911 near-verbatim (he "thought she ought to have had them seen to").
-  12. The screaming behind him changes and stops. A small black shape. The smoke that drifts toward the window.
-  13. "No one had really heard him." He covers a yawn with the bleeding hand. It shakes. **He looks at Jon.**
-- **Value:** the Queen alive → dead, free once.
+  1. Snap: the sheath slides off like skin. The apprentice off the dais like a falling wall.
+  2. **The dark elf along the side wall, in the dust under the window,** the long way round, nowhere near the blade. **She stops at Eli, finds his two broken fingers and presses them once.** "Don't," he says. She goes. (D2)
+  3. **Doc kneels at him,** hands on his ribs. "Lie still." His eyes never leave the dais; his lips move, counting something.
+  4. Four cuts in ten seconds. Doc's binding on her shoulder goes dark. The coin on the floor.
+  5. The apprentice looks back at the dais: the Emperor, head on his right hand, **looking not at the duel but at the door.**
+  6. The apprentice reaches into the walls. Lights dim; the floor shivers (as when the master drew, 7.4); grit in Eli's mouth. The Emperor's head comes up off his hand.
+  7. He shines; she catches every blow; "her bones breaking under the stress of blocking"; straight back to the foot of the dais.
+  8. The light turns to fire; the blows come through. **On her knees, and Eli sees she let him drive her there.** She waited for him to be up, the way she always waited for Eli. The throw.
+  9. The Emperor catches it by the blade in his right hand; it bites; his palm opens to the bone; he crushes it. He's breathing through his mouth. His eyes go back to the door.
+  10. **One sliver curls and uncurls on the step.** She's still falling.
+- **Value:** the Queen fighting → falling, free once.
 - **Stress:** 9 / 9
-- **Resists:** the apprentice resists the Queen with the Tower behind him. The dark elf resists Eli. Eli resists her arms and loses.
-- **Cost:** the Queen; the apprentice; the Emperor's palm.
+- **Resists:** the apprentice resists the Queen with the Tower behind him. Eli's body resists Eli. The dark elf resists his "Don't."
+- **Cost:** the Queen; the Emperor's palm; the last touch Eli gets from the dark elf.
 - **Set:** —
-- **Paid:** P21 (burnout) · P49 · P53 (the sliver) · P54 (passed the door, and died) · P55 (watches the blade) · P59 (the apprentice drains the walls) · P61 ("Continue" → the one free act) · P62 (she let him drive her there: she chose her knees) · P76 (one at a time) · P77 · P85 (the shudder means a draw, mirrored)
-- **Fixes:** **1** (staged with a felt reason, and fraying) · 6 · 4 (**A7**)
-- **Offscreen:** §4.3 (the Queen goes first because she's ordered to and the apprentice steps between; she won't fight beside a hell-born)
-- **Words:** 850
+- **Paid:** P49 · P53 (the sliver) · P54 (passed the door, and died) · P55 (she takes the wall, away from the blade) · P59 (the apprentice drains the walls) · P61 ("Continue" → the one free act) · P62 (she let him drive her there: she chose her knees) · P69 (the pressed fingers) · P76 (part: his eyes on the door) · P77 · P85 (the shudder means a draw, mirrored)
+- **Fixes:** **1** (simultaneous: the duel is the spine while the others move round it) · 6 · 4 (**A7**, the room's shape; **A8** set: Doc at Eli, studying)
+- **Offscreen:** §4.3 (the Queen's order sends her at the chair and the apprentice steps between; the dark elf's limit is the blade; Doc's place by the boy in the wall keeps his mask and keeps him visibly safe)
+- **Words:** 750
 
-### 8.2 · Don't
-**ACTION** · the throne room · the dark elf, the Emperor, Eli, Jon
-- **Goal (Eli):** keep her. "Don't."
-- **Conflict:** she sees the blade crushed, the thing she meant to do, done by the hand she hates most. Whoever it was (someone of hers, caught outside, never named) is free or gone, and she'll never know. The vigil is over. Jon's "until you have to" has come, and she decides when.
-- **Disaster:** she presses his two broken fingers once and goes. The Collapse has him, and he turns it inside out onto her.
+### 8.2 · It Took Both
+**ACTION** · the throne room · the dark elf, the Emperor, the apprentice, Eli, Doc, Jon
+- **Goal (Eli):** call her back. He says her name, the one nobody else has heard, and there's no air behind it. **Failure.**
+- **Conflict:** she's behind the chair. She sees the blade crushed: the thing she meant to do herself, done by the hand she hates most. Whoever it was (someone of hers, caught outside, never named) is free, or gone, and she'll never know which. Every eye in the room is on the sliver, and his right hand is open to the bone. She closes her hand.
+- **Disaster:** **In the Tower, it had him.** It takes both his hands and the reserve he kept for Jon, and he turns it inside out onto her. Then the apprentice burns, unheard.
 - **Beats:**
-  1. Her breath against his back, slow and even, as in the hold.
-  2. **She looks at the sliver on the step, not at the Queen's body.** Every eye in the room is on it.
-  3. "Don't." She finds the two fingers and presses them once. She lets go.
-  4. Nobody sees her go. She has already moved while they all watched the sliver; when Eli looks up he simply finds her behind the chair, fingers curling like the statue's. (No shadow-step: she was quiet, not folded.)
-  5. The fold: air, light, chair, dais; the stone runs like water to a drain. **In the Tower, it had him.** Sleeve; forearm skin.
-  6. He stands. Both hands. **It took both. His teeth showed.** He turns it like a rusted wheel, inside out.
-  7. Her silver eyes find Eli. A book shutting. Nothing where she was.
-  8. Grit slides toward the empty place and stops. Eli on his knees, holding the two fingers, not remembering taking hold of them.
-  9. **Jon one step forward, frozen mid-stride.**
-  10. The right arm hangs, wrung like a cloth (it hangs from now on).
-- **Value:** held and kept → let go and alone.
+  1. Eli finds her behind the chair, fingers curling like the statue's. (No shadow-step: she was quiet and fast and already there.)
+  2. **She looks at the sliver on the step, not at the Queen falling.**
+  3. Her name in Eli's mouth, with no air behind it. Nobody else hears it.
+  4. The fold: air, light, chair, dais; the stone runs like water to a drain. Sleeve; forearm skin.
+  5. He stands. Both hands. **It took both. His teeth showed.** For the first time his eyes leave the door.
+  6. **Jon one step forward, frozen mid-stride.**
+  7. He turns it like a rusted wheel, inside out. Her silver eyes find Eli. A book shutting. Nothing where she was. Grit slides toward the empty place and stops.
+  8. The right arm hangs, wrung like a cloth (from now on it hangs). His eyes go back to the door.
+  9. The Queen at the foot of the step, near Eli's face. **The boots, worn through at both heels. BANK 11-08 boots line, Eli only:** keep v10 L911 near-verbatim (he "thought she ought to have had them seen to").
+  10. "Master. Are you proud?" **The t768 speech verbatim.**
+  11. The screaming changes and stops. A small black shape. The smoke that drifts toward the window.
+  12. "No one had really heard him." He covers a yawn with the good hand. It shakes. **He looks at Jon.**
+- **Value:** the reserve kept → spent; the dark elf alive → gone.
 - **Stress:** 10 / 9
-- **Resists:** Eli's plea resists her decision and loses. The Emperor resists the Collapse at the cost of an arm.
-- **Cost:** the dark elf; the Emperor's right arm.
-- **Set:** P86 Jon's step (open)
-- **Paid:** P37 · P48 (she arrives unseen; NS4) · P49 (small outside → "it had him") · P55 (the sliver, not the Queen) · P69 (the pressed fingers) · P79 ("until you have to") · P77
+- **Resists:** the Collapse resists the Emperor. He resists it at the cost of an arm and his reserve. Jon resists his own step.
+- **Cost:** the dark elf; the apprentice; the Emperor's right arm, and the hand he was keeping for Jon.
+- **Set:** P86 Jon's step (open: grief on a first read; on reread also the opening, refused, because Doc hasn't gone yet)
+- **Paid:** P21 (burnout: the apprentice) · P37 · P44 (part: her name, still unheard) · P48 (she arrives unseen; NS4) · P49 (small outside → "it had him") · P55 (the sliver, not the Queen) · P76 (part: "It took both") · P77
 - **Fixes:** **6** (her reaction is to what she sees) · **1** (she goes on her own trigger) · 2 (exit 37)
-- **Offscreen:** §4.3 (the dark elf's trigger)
-- **Words:** 500
+- **Offscreen:** §4.3 (the dark elf's trigger; J4, the step's two readings)
+- **Words:** 600
 
 ### 8.3 · It's Quiet
 **ACTION** · the throne room · Doc, the Emperor, Eli, Jon
-- **Goal (Doc's):** one look inside the pearl. **Eli's failure:** he never saw what Teo saw.
-- **Conflict:** Doc starts while the grit is still settling: the man is open, bleeding, both arms spent. It's the one moment worth breaking his no-witness rule, because there will be nothing left to hide.
+- **Goal (Doc's):** one look inside the pearl. **Eli's failure:** he never saw what Teo saw, and Doc has had his hands on Eli's ribs the whole time.
+- **Conflict:** both arms spent, the reserve gone, the man open and bleeding, and nobody left standing but Eli and Jon. It's the one moment worth breaking his no-witness rule, because there will be nothing left to hide. **Doc stands up from beside Eli.**
 - **Disaster:** the reveal. The fever girl "never woke up." The brother turns back. Doc is dust. **And Eli likes the quiet**, which is the worst thing he learns about himself in the Tower.
 - **Beats:**
-  1. Laughter as the grit stops. "Oh, you're good. Oh, you're very, very good." The small knuckles crack.
+  1. The hands leave his ribs. Laughter as the grit stops. "Oh, you're good. Oh, you're very, very good." The small knuckles crack.
   2. "**nice warm sunny weather for a quick ride out of the city**"; the cloud; "Like a pearl. I've wanted a look inside ever since."
-  3. He opens his arms. **Nothing seen.** Weight on Eli's chest from across the room; a crowd through a door too small; air wavering like a summer road; the floor scored toward the dais. The Emperor steps back.
+  3. He opens his arms. **Nothing seen.** The weight lands on Eli's chest first, from right beside him; then a crowd through a door too small; air wavering like a summer road; the floor scored toward the dais. The Emperor steps back.
   4. The good (left) hand up; the ruined right lifts once and falls back.
   5. **The t774 litany verbatim:** "Giants and dragons. Elves and humans… Dwarves leading orcs… And fellow gnomes… Everyone brought me their sick."
   6. "I wasn't able to save your loved one."
@@ -1195,35 +1282,34 @@
 - **Resists:** the Emperor resists the barrage, losing ground. The brother resists Doc at the last.
 - **Cost:** Doc; the Emperor's ears, nose, clothes and footing; Eli's innocence about himself.
 - **Set:** P87 Jon's tear (open; [GATE 2 PICK: leave it to the reader])
-- **Paid:** P31 (my brother; NS1) · P32 (the fever girl) · P33 (the reveal) · P43 ("I listen") · P67 ("the wrong one") · P68 ("another room") · P72 ("something special") · P80 (the laugh) · P59
-- **Fixes:** 4 (**A8**) · 1 (Doc slips the leash on his own reason) · 8
-- **Offscreen:** §4.3 (Doc's moment)
-- **Words:** 850
+- **Paid:** P31 (my brother; NS1) · P32 (the fever girl) · P33 (the reveal) · P43 ("I listen") · P59 · P67 ("the wrong one") · P68 ("another room") · P72 ("something special") · P80 (the laugh) · P102 (he watched a god die last and goes anyway: more held souls only buy a later turn)
+- **Fixes:** 4 (**A8**: he waits at Eli's side for the man to be open and spent and the room empty) · 1 (last into an emptied room, so the litany has room and order) · 8
+- **Offscreen:** §4.3 (Doc's trigger); P8b (his terror of death, sharpened on the bridge)
+- **Words:** 800
 
 ### 8.4 · Look at It
 **ACTION** · the throne room floor · Eli, the Emperor, Jon
-- **Goal:** make his father look at him. That's the emotional attack (BANK 11-08).
-- **Conflict:** "It's just us." Nobody holds him now. He runs and reaches with everything, a reflex, before he decides anything: more than the ceiling, more than the dragon's heart. It hits; the dais cracks end to end; the bloody face shows something like surprise. A flick: fifty feet, ribs, no reach left. **Then the real attack, the words, from the floor.** (Keep the run short and reflexive: two beats. Nobody may read the reach as the attack.)
-- **Disaster:** his father never turns his head. The good hand comes up, open, **toward Jon**, and stops halfway. Then Eli understands he was held, start to finish.
+- **Goal:** make his father look at him. That's the emotional attack (BANK 11-08), **and it's words only** (Gate 2: 4b). His reach went at Teo's death; he can't stand.
+- **Conflict:** "It's just us." Nobody needs to hold him now. From the floor, on one elbow, he talks.
+- **Disaster:** his father never turns his head. The good hand comes up, open, **toward Jon**, and stops halfway. Jon walks past him. Eli says the one true thing he has seen, and nobody answers it.
 - **Beats:**
-  1. The run, before he knows he'll run.
-  2. The reach; the cracked dais; surprise, maybe. The flick. Ribs. He can't get up. His father is looking at Jon.
-  3. An elbow under him; thirst, and it seems important.
-  4. "You put me on a post. Recover imperial property… down to the scar on my chin. You never once asked to see it." **"You've never seen this one."** (the cheek)
-  5. The man at the fence. The boy with the rag. Teo's parents still in your house: "You said it for him."
-  6. "I asked them to come. All of them. I sat at their tables and asked." His voice goes; he's embarrassed, with Jon there to hear.
-  7. **"Here's your property. It came all this way. Look at it."**
-  8. The good hand toward Jon stops halfway and stays. Eli can't tell what stopped it: his words, or nothing. (BANK 11-08: whether the appeal lands is left open. Keep it open *to Eli*.)
-  9. Jon is already walking past. **Eli, to his back: "You held me."** No answer.
-- **Value:** hoping to be seen → unanswered, and unable to read the one thing that moved (the stopped hand).
+  1. An elbow under him; thirst, and it seems important. Doc's dust beside him.
+  2. "You put me on a post. Recover imperial property… down to the scar on my chin. You never once asked to see it." **"You've never seen this one."** (the cheek)
+  3. The man at the fence. The boy with the rag. Teo's parents still in your house: "You said it for him."
+  4. "I asked them to come. All of them. I sat at their tables and asked." His voice goes; he's embarrassed, with Jon there to hear.
+  5. **"Here's your property. It came all this way. Look at it."**
+  6. The good hand toward Jon stops halfway and stays. Eli can't tell what stopped it: his words, or nothing. (BANK 11-08: whether the appeal lands is left open. Keep it open *to Eli*.)
+  7. Jon is already walking past.
+  8. **Eli, to his back: "He was watching you. The whole time."** No answer.
+- **Value:** hoping to be seen → unanswered, and knowing at last who his father was looking at.
 - **Stress:** 10 / 10
 - **Resists:** the Emperor resists by not resisting: he never answers the son. Jon resists the last charge with silence.
-- **Cost:** the ribs; the appeal; the hope under the whole book.
+- **Cost:** the appeal; the hope under the whole book.
 - **Set:** P88 the hand stops halfway
-- **Paid:** P01 · P02 · P04 / P07 ("here's your property") · P05 · P10 · P19 ("that part's mine" fails) · P58 (the arithmetic: he lost nothing by letting him go) · P60 (the cheek; U4) · P70 ("more than the dragon's heart") · P74 · P75 (part) · P76 · P79 ("You held me")
-- **Fixes:** **1** (the felt reason reaches the reader through Eli) · **3** ("You held me": the ladder's penultimate rung) · **10** (paid) · 8
-- **Offscreen:** §4.3 (Jon lets him go: "That part's mine" was part of the plan too)
-- **Words:** 650
+- **Paid:** P01 · P02 · P04 / P07 ("here's your property") · P05 · P10 · P19 ("that part's mine" fails) · P58 (the arithmetic: he lost nothing by letting him go) · P60 (the cheek; U4) · P74 · P75 (part) · **P76** ("He'll keep a hand for me" → "He was watching you. The whole time.") · P99 (the lord's weather look, and now his father's)
+- **Fixes:** **1** (the felt reason reaches the reader through Eli, as behaviour) · **3** (C6b, the ladder's penultimate rung) · **10** (paid) · 8
+- **Offscreen:** §4.3 ("That part's mine" was part of Jon's plan too)
+- **Words:** 500
 
 ### 8.5 · Three Things
 **ACTION** · the throne room · Jon, the Emperor; Eli on the floor
@@ -1245,12 +1331,12 @@
 - **Set:** —
 - **Paid:** P75 (tired men can be held) · P83 (nothing left for upstairs → spent here)
 - **Fixes:** 1 · 4
-- **Offscreen:** P10 (Jon timed the descent to the hour the ground opens, K13)
-- **Words:** 400
+- **Offscreen:** P10 (Jon timed the descent to the hour the ground opens, K13; drained and restrained, not killed, L4)
+- **Words:** 350
 
 ---
 
-# NINE · The Window (650)
+# NINE · The Window (600)
 
 ### 9.1 · Just Enjoy the Show (C7)
 **REACTION** · under the great window · Eli, Jon, the Emperor
@@ -1264,22 +1350,22 @@
   4. "You remember who our master is." Jon looks out of the window.
   5. "You know what you have to do." Jon sighs, head back against the glass.
   6. **"Just enjoy the show, old man."**
-  7. C7: "What is that? Coming out of the ground." Nothing. "Who is your master?" Nothing. "What does he have to do?" Neither turns his head.
+  7. C7: "What is that? Coming out of the ground." Nothing. "Who is your master?" Nothing. "What does he have to do?" Neither turns his head. **Jon never answers.**
   8. The day of the week, counted from the freighter; he loses his place.
   9. "Why did you kill Teo?"
   10. The bound shoulder moves closer to Jon's. **Jon let him.**
-  11. **From outside: the lines in Jon's face let go, and it looks younger.** Eli has never seen it like that. (No inner line; [GATE 2 PICK])
-  12. What he felt first was left out. A small feeling, and he waits for it to grow.
-  13. The ground opens toward the foot of the Tower. "Why did you kill Teo?" Neither turns.
+  11. What he felt first was left out. A small feeling, and he waits for it to grow.
+  12. The ground opens toward the foot of the Tower. "Why did you kill Teo?" Neither turns.
+- **Tripwire (Gate 2: 5c):** **no "Jon's mind was clear" beat, inside or out.** Jon's face doesn't change on cue; nothing in his face lets go. (The round-1 b11, "the lines in Jon's face let go", is cut.)
 - **Value:** asking to be answered → asking with no answer coming (no info dump, W50).
 - **Stress:** 8 / 10 · **false calm 7, the least calm of all**
 - **Resists:** both men resist him by silence.
 - **Cost:** everything has been spent, and he still doesn't know what for.
-- **Set:** P89 "who is your master / what does he have to do" (open) · P90 "Why did you kill Teo?" (open) · P91 Jon's face goes clear (open, for the later window book)
+- **Set:** P89 "who is your master / what does he have to do" (open) · P90 "Why did you kill Teo?" (open)
 - **Paid:** P08 (inverted: the one shoulder Jon lets lean) · P40 (the worn floor → the oldest wounds) · P88 (the hand → the lean) · P58 (drywall, never said)
 - **Fixes:** **3** (C7: silence) · 8
 - **Offscreen:** P10 (BANK 11-01 L3 follow-up; L12: what comes up stays unseen and unnamed)
-- **Words:** 650
+- **Words:** 600
 
 ---
 
@@ -1291,9 +1377,9 @@
 | C2 "Teach me" | 2.4 | Flattery and refusal; the Tessid steer |
 | C3 "Nineteen days" | 6.5 | "Elves." / "No, I'm not." Peaches |
 | C4 "At a discount" | 6.11 | The mirror: "Would you like me to pick one?" |
-| C5 "How?" | 6.9 | "I don't know." |
+| C5 "How?" | 6.9 (the dragon's house port) | "I don't know." And he never asks what happened aboard |
 | C6 "The spar" | 7.2 | No deflection; walks on |
-| C6b "You held me" | 8.4 | No answer |
+| C6b "He was watching you. The whole time." | 8.4 | No answer |
 | C7 the window | 9.1 | Nobody answers |
 
 | Near-defection | Scene | Why they stay |
@@ -1303,15 +1389,16 @@
 | N3 the master, the hatch | 6.13 | Leaving is what he did fifty years ago |
 | N3b the Queen, the reply | 5.7 | "Continue": her lie confirmed |
 
-**Power audit (A1–A11) by scene:** A1 2.1 · A2 2.4 · A3 5.7 / 6.1 · A4 6.2 / 6.4 / 6.5 · A5 7.1 · A6 2.6 → 6.8 · A7 8.1 · A8 8.3 · A9 6.8 · A10 6.4 · A11 5.5 · A-bonus 4.2.
-**Round-1 power holes:** F01 4.3 (nobody left to reopen for) · F02 4.5 (why not stow away) · F03 7.4 (the master's draw and the oath) · F23 4.4 (why not kill Krell) · 6.4 (range: a ship's length, two hulls).
-**Orientation (O1–O12):** O1 1.1 · O2 2.2 / 6.12 / 7.1 · O3 1.3 / 2.3 / 7.1 · O4 2.2 / 2.3 / 5.2 / 7.5 · O5 5.5 / 7.1 · O6 5.5 / 7.4 · O7 2.2 / 4.1 / 5.5 / 6.1 · O8 2.5 / 6.1 · O9 1.1 / 6.6 · O10 3.2 / 4.2 / 6.4 · O11 1.3 / 6.13 / 7.5 · O12 2.2 / 2.5.
+**Power audit (A1–A11) by scene:** A1 2.1 · A2 2.4 · A3 5.7 / 6.1 · A4 6.2 / 6.4 / 6.5 · A5 7.1 · A6 2.6 → 6.8 → 7.3 / 7.4 · A7 8.1 · A8 8.1 / 8.3 · A9 6.8 · A10 6.4 · A11 5.5 · A-bonus 4.2.
+**Round-1 power holes:** F01 4.3 (nobody left to reopen for) · F02 4.5 (why not stow away) · F03 7.4 (the master's draw and the oath) · F23 4.4 (why not kill Krell) · 6.4 (range: a ship's length, two hulls; the master doesn't push).
+**Gate 2 causes:** K19 6.8b (the lord answers the beacon) · K20 6.8c (the god walks in; no fold) · K21 6.8c / 6.8d (behind the throne; they don't count) · K11 revised 6.9 · M1b 6.8 · M2b 7.3 · J5 7.5–8.4 (Jon at the door) · E8a 7.5 (the reach, unheld).
+**Orientation (O1–O12):** O1 1.1 · O2 2.2 / 6.12 / 7.1 · O3 1.3 / 2.3 / 7.1 · O4 2.2 / 2.3 / 5.2 / 7.5 · O5 5.5 / 7.1 · O6 5.5 / 7.4 · O7 2.2 / 4.1 / 5.5 / 6.1 · O8 2.5 / 6.1 · O9 1.1 / 6.6 · O10 3.2 / 4.2 / 6.4 · O11 1.3 / 6.13 / 7.5 · O12 2.2 / 2.5. **His father's cathedral ship:** 6.8b (one line).
 
 ---
 
 ## §L · Promise / payoff ledger
 
-"Open" = open by design (later books, BANK 11-01 W50 and the time hints). U# / NS# = the audit's unpaid setups and its payoffs with no setup (`audit_v10` §4). F## = `05_plan_audit` round 1.
+"Open" = open by design (later books, BANK 11-01 W50 and the time hints). U# / NS# = the audit's unpaid setups and its payoffs with no setup (`audit_v10` §4). F## = `05_plan_audit` round 1. **Retired** = cut by Patrick's Gate 2 answers; the ID isn't reused.
 
 | ID | Promise | Set | Paid | Audit |
 |---|---|---|---|---|
@@ -1322,7 +1409,7 @@
 | P05 | The guard at the fence | 1.2 | 2.4, 4.4 (part), 6.11, 8.4 | |
 | P06 | "That's how you know you're not him" | 1.2 | 6.10 | |
 | P07 | "Me" | 1.2 | 8.4 ("your property") | |
-| P08 | Jon's hand on the shoulder | 1.2 | 2.4, 6.9, 7.5; inverted 9.1 | |
+| P08 | Jon's hand on the shoulder | 1.2 | 2.4, 6.9, 7.5 (off at the threshold); inverted 9.1 | |
 | P09 | "Friend of the family… Bad ending" | 1.3 | 7.5 | |
 | P10 | Teo's parents in the house | 1.3 | 6.10, 8.4 | |
 | P11 | Jon's tactical line (the drone) | 2.1 | 4.1, 6.2, 6.4, 6.5 | U1 |
@@ -1335,10 +1422,10 @@
 | P18 | His own face; a stranger's jaw | 2.3 | 5.5 (part), 7.5 | NS2 |
 | P19 | "Take the chair" | 2.3 | 6.12, 8.4 | |
 | P20 | The Tessid steer | 2.4 | 2.5 | |
-| P21 | Burnout | 2.5 | 7.4, 8.1 | (F03) |
+| P21 | Burnout | 2.5 | 7.4, 8.2 | (F03) |
 | P22 | "The Hand" | 2.5 | 7.5 | NS3 |
-| P23 | The dragon-schools duelling master | 2.5 | 6.1 | |
-| P24 | "Couldn't lift much. Learned to listen." | 2.6 | 6.8 | (F04) |
+| P23 | The dragon-schools duelling master | 2.5 | 6.1, 6.8b (part: the cradle) | |
+| P24 | **"Anyone can lift. Everyone out here who could lift is dead. Learn to listen."** (the loader; the master's held-back power) | 2.6 | 6.8 (he lifts, and bleeds), 7.4 (he lifts with everything) | (F04; Gate 2: B) |
 | P25 | The moth | 2.6 | 4.2, 5.6, 6.8 | |
 | P26 | The needle | 2.6 | 4.3 | |
 | P27 | "You'll never be fine" | 2.6 | 6.8 (part), 7.4 | |
@@ -1347,79 +1434,88 @@
 | P30 | He can't find the cabin walls | 2.7 | 7.1 | |
 | P31 | The goat and the brother | 3.1 | 6.13, 8.3 | NS1 |
 | P32 | The fever girl | 3.1 | 8.3 | |
-| P33 | "Too good" / "Where would I go?" | 3.1 | 6.9 (part), 8.3 | |
+| P33 | "Too good" / "Where would I go?" | 3.1 | 6.8b (part), 8.3 | |
 | P34 | The troll's stick | 3.1 | 4.2, 6.6 | |
 | P35 | The token and the ledger | 3.2 | 6.4 | U2 |
 | P36 | The sewn mouth: "Disagreed. Out loud." | 3.3 | 5.7 (on the page: "Continue" through a mouth held shut) | (F26) |
 | P37 | Lirael's curled fingers | 3.3 | 4.6, 8.2 | |
 | P38 | Grief for no one; Jon hoarse | 3.3 | open (time hint) | |
-| P39 | "Some get grown into things" | 4.1 | 4.5, 5.3 | (K18) |
+| P39 | "Some get grown into things" | 4.1 | 4.5, 5.3, 6.8b (part: sold as crew) | (K18) |
 | P40 | The ninth; the worn floor | 4.1 | 4.3, 9.1 | |
 | P41 | Humans drop through hell; elves can't feel each other in the squeeze | 4.2 | 6.7 | |
 | P42 | Nine dead by his miss | 4.2 | 6.11 | |
 | P43 | Doc: "I listen" | 4.2 | 8.3 | |
-| P44 | "When you've earned it" | 4.3 | 6.7 | |
+| P44 | "When you've earned it" | 4.3 | 6.7, 8.2 (part: the name, unheard) | |
 | P45 | The water ration; Krell | 4.4 | 6.4 (the grease-pencil mark) | U10 (F07d) |
 | P46 | *Ledger Closed* kept | 4.4 | 6.4, 6.6 | U3 |
 | P47 | The light never goes out | 4.5 | 6.7 | |
 | P48 | She arrives unseen | 4.5 | 6.8, 8.2 | NS4 |
-| P49 | The Collapse is small outside the Tower | 4.6 | 6.8, 8.2 | (A9) |
+| P49 | The Collapse is small outside the Tower | 4.6 | 6.8, 6.8c (part), 8.1, 8.2 | (A9) |
 | P50 | Jon grey after two months away | 4.6 | 5.2 | U5 (F06) |
 | P51 | The folding table | 5.1 | 5.2, 6.6 | |
 | P52 | The colonist boy | 5.1 | 6.11 | |
 | P53 | The living sword; the sheath like a mouth | 5.2 | 5.6, 8.1 | |
 | P54 | "Not one of us has passed its door" | 5.2 | 7.1, 8.1 | |
-| P55 | She can't feel it; she looks at the sheath | 5.3 | 8.1, 8.2 | (fix 6) |
+| P55 | She can't feel it; she looks at the sheath | 5.3 | 8.1 (she takes the wall), 8.2 (the sliver) | (fix 6) |
 | P56 | The Queen never looks at the dark elf | 5.3 | 6.4 | |
-| P57 | "Not enough of us left" (the lie) | 5.5 | 6.1 | |
+| P57 | "Not enough of us left" (the lie) | 5.5 | 6.1; reread 6.8c | |
 | P58 | Hostage worth: "what the other side would pay… we lose nothing" | 5.5 | 8.4, 9.1 | (A11; F15) |
 | P59 | Not a building; souls in the walls | 5.5 | 7.1, 8.1, 8.3 | |
 | P60 | The cheek scar | 5.6 | 8.4 | U4 |
 | P61 | "Continue" (Mika's reply) | 5.7 | 8.1 | |
-| P62 | She waits until he's up | 5.7 | 8.1 b7 (she let him drive her there) | (F27b) |
+| P62 | She waits until he's up | 5.7 | 8.1 b8 (she let him drive her there) | (F27b) |
 | P63 | "The berth back by morning" | 5.7 | 6.1 | (A3) |
 | P64 | The giant's fate | 6.1 | open | U11 |
 | P65 | The drive whine; the part | 6.3 | 6.4 (on the page: "You ordered a part") | (K14; F27a) |
-| P66 | Hidden help (the tug was paid) | 6.5 | 6.9; reread | (K9) |
+| P66 | Hidden help (the tug was paid) | 6.5 | 6.9 (on the quay); reread | (K9) |
 | P67 | The hanged gnome: "the wrong one" | 6.6 | 8.3 | (F25) |
 | P68 | "Something in another room" | 6.6 | 8.3 | |
-| P69 | The broken fingers | 6.7 | 8.2 | |
-| P70 | "Make it breathe"; the dragon's heart | 6.8 | 8.4 | |
+| P69 | The broken fingers | 6.7 | 8.1 (pressed once) | |
+| P70 | "Make it breathe"; the dragon's heart | 6.8 | 7.5 ("more than the dragon's heart") | |
 | P71 | Teo's hand never closes right | 6.8 | 7.5 | |
-| P72 | "Saving myself for something special" | 6.8 | 6.9 (part), 8.3 | (F14) |
+| P72 | "Saving myself for something special" | 6.8 | 6.8b (part), 8.3 | (F14) |
 | P73 | "I knew you would… I don't know" | 6.9 | open (time hint) | |
 | P74 | "Doing beautifully" as an insult | 6.11 | 8.4 | |
 | P75 | "Tire him out" / "Tired men can be held" | 6.12 | 8.4, 8.5 | |
-| P76 | "One at a time" | 6.12 | 8.1–8.4 | (fix 1) |
+| P76 | **"He'll keep a hand for me. You get the other one."** (replaces "One at a time") | 6.12 | 7.5, 8.1, 8.2 (part), 8.4 ("He was watching you") | (fix 1; Gate 2: 1b) |
 | P77 | "It makes everyone bigger" | 6.12 | 7.1, 7.3, 7.4, 8.1, 8.2 | (F03) |
 | P78 | "Your master— Don't. You didn't know him." | 6.13 | open (reset hint) | U6 |
-| P79 | "Keep hold of him… until you have to" | 6.13 | 7.5, 8.2, 8.4 | |
+| P79 | ~~"Keep hold of him… until you have to"~~ | — | **Retired** (Gate 2: 1b, no leash) | |
 | P80 | The goat/brother laugh in the dark | 6.13 | 8.3 | |
 | P81 | The spar | 7.1 | 7.2 | (A5) |
 | P82 | The open terrace door | 7.1 | silent cause; open | |
 | P83 | "Nothing left for upstairs" | 7.4 | 8.5 | |
 | P84 | "Thousands of times" | 7.4 | 7.5 | |
-| P85 | The Tower shudders when a draw comes off its walls; the stirring weapons | 7.4, 7.5 | 8.1 b4 (the shudder mirrored); weapons texture, open | U13 |
+| P85 | The Tower shudders when a draw comes off its walls; the stirring weapons | 7.4, 7.5 | 8.1 b6 (the shudder mirrored); weapons texture, open | U13 |
 | P86 | Jon's one step | 8.2 | open | |
 | P87 | Jon's tear | 8.3 | open | |
 | P88 | The hand stops halfway | 8.4 | 9.1 | |
 | P89 | "Who is your master / what does he have to do" | 9.1 | open (later book) | |
 | P90 | "Why did you kill Teo?" | 9.1 | open | |
-| P91 | Jon's face goes clear | 9.1 | open (the later window book) | |
+| P91 | ~~Jon's face goes clear~~ | — | **Retired** (Gate 2: 5c, no clear-mind beat) | |
 | P92 | Teo: "nobody watches a servant's boy" (the help is invisible) | 2.1, 6.6 | 7.5 | (F05) |
 | P93 | Teo's petition: the forms, rehearsed | 6.12 | 7.5 (unsaid) | (F05b) |
 | P94 | The secret happy hour | 2.6 | 7.2 (recognised in the master's face) | (F27c) |
+| P95 | The open beacon (it calls everyone) | 6.8 | 6.8b (the lord), 6.8c (the god) | (K19, K20) |
+| P96 | The cathedral hull, known from his window | 6.8b | 7.1 (a cathedral ship breaks overhead; he knows its ribs from inside) | (fix 5) |
+| P97 | The collared elves; the Inquisition's word | 6.8b | 6.8c (they go last of the crew, and both elves feel it) | |
+| P98 | The god's boast: "How will you get home?" | 6.8c | 6.8d (on his prisoners) | |
+| P99 | "The way you look at weather" | 6.8d | 8.4 (his father never looks either) | (drywall) |
+| P100 | The dark elf's silence after the bargain | 6.8d | 6.9 ("Next time ask me first") | |
+| P101 | The master: "That's not heat." | 6.8c | 7.4 (no light, no heat, no energy) | |
+| P102 | Doc watches the god die last, very interested | 6.8c | 8.3 (he goes anyway) | |
 
 **Audit closure:**
 - Of the 14 unpaid setups, U1–U5, U8, U10 and U12 are now paid. U6, U9, U11 and U13 stay open by design. U7 (the left palm) is cut. U14 (comb, lunch tin, fish taps, sand, coin) stays unpaid on purpose: it's Eli's mind snagging.
 - All 4 payoffs with no setup are now planted (NS1 3.1; NS2 2.3; NS3 2.5; NS4 4.5 / 6.8).
 - Round 1's two new unprepared payoffs are now planted: Teo's invisibility (P92, 2.1 and 6.6) and his petition (P93, 6.12). The happy hour has an ID and a pay (P94).
+- **Gate 2:** P79 and P91 retired. P95–P102 are new, and every one is paid inside Book 1. The throne room's new felt reason (P76) is set on the lander and paid in four places. No new open promise.
 
 ---
 
 ## §S · Stress map (Eli)
 
-Each **false calm** is less calm than the one before: 2 → 3 → 4 → 5 → 6 → 7 → 8. The peaks rise unevenly, with no flat run of nines. (Round 1 changed no stress values.)
+Each **false calm** is less calm than the one before: 2 → 3 → 4 → 5 → 6 → 7 → 8. The peaks rise unevenly, with no flat run of nines. (**Gate 2 re-plan:** 6.8 drops from 9 to 8 so the cathedral ship holds the chapter's peak; 6.8b–6.8d are new; the calm-4 dip moves with C5 to the quay, 6.9. Every other value is unchanged.)
 
 | Scene | Moment | Base | Note |
 |---|---|---|---|
@@ -1456,8 +1552,11 @@ Each **false calm** is less calm than the one before: 2 → 3 → 4 → 5 → 6 
 | 6.5 Nineteen Days | 7 | 7 | |
 | 6.6 The Wrong One | 6 | 7 | |
 | 6.7 The Crossing | 7 | 7 | |
-| 6.8 The Dragon | 9 | 7 | peak |
-| **6.9 I Don't Know** | **5** | 7 | **calm 4** |
+| 6.8 The Dragon | 8 | 7 | |
+| 6.8b Not This One | 7 | 7 | captured |
+| **6.8c The Breath** | **9** | 7 | **peak** (helpless, watching) |
+| 6.8d Like Weather | 7 | 7 | the bargain |
+| **6.9 I Don't Know** | **5** | 7 | **calm 4** (the quay) |
 | 6.10 In Rows | 7 | 7 | N1 |
 | 6.11 Discount | 8 | 7 | C4 |
 | 6.12 Tire Him Out | 6 | 8 | |
@@ -1466,43 +1565,31 @@ Each **false calm** is less calm than the one before: 2 → 3 → 4 → 5 → 6 
 | **7.2 Rooms** | **6** | 8 | **calm 5** |
 | 7.3 The Ceiling | 8 | 8 | |
 | 7.4 The Beast | 9 | 8 | |
-| 7.5 Children | 10 | 9 | first 10 |
-| 8.1 The Duel | 9 | 9 | |
-| 8.2 Don't | 10 | 9 | |
+| 7.5 Children | 10 | 9 | first 10 (Teo; the reach; the wall) |
+| 8.1 The Duel | 9 | 9 | from the floor |
+| 8.2 It Took Both | 10 | 9 | |
 | **8.3 It's Quiet** | 9→**7** | 9 | **calm 6** (the quiet, inside the climax) |
-| 8.4 Look at It | 10 | 10 | |
+| 8.4 Look at It | 10 | 10 | words only |
 | 8.5 Three Things | 8 | 10 | |
 | **9.1 The Window** | **8** | 10 | **calm 7, the least calm** |
 
-**For the `stress` line editor:** in the calms, smooth the texture and give it room; in the late calms (7.2, 8.3, 9.1), leave it frayed; at the peaks, break the sentences (v10 `STRESS_MAP` practice).
+**For the `stress` line editor:** in the calms, smooth the texture and give it room; in the late calms (7.2, 8.3, 9.1), leave it frayed; at the peaks, break the sentences (v10 `STRESS_MAP` practice). In 6.8c, let the ladder set the rhythm: one short paragraph per rung, each a little longer than the last, the god's longest.
 
 ---
 
-## §Q · Open questions for Gate 2
+## §Q · What's still Patrick's (after Gate 2)
 
-Merged from `02` §5 and `03` §9, plus new picks. Claude's pick comes first in each; every one is swappable.
+**Closed by Patrick** ("1b 2b 3a 4b 5c 6b", 2026-11-09, plus the bond override and the cathedral-ship correction): everyone at once with no leash · the master's raw power · the last of the thirty · words only · no clear-mind beat · the entropy breath in Book 1, aboard a cathedral ship · the bond doesn't register a held soul.
 
-1. **Throne room:** B (Jon's leash, which frays) or A (the whole room at once)? **Pick B.** (7.5–8.4)
-2. **The spar:** a choice made on cost, or a limit? **Pick: cost.** (7.1)
-3. **Did Jon warn the giant?** **Pick: no, in the writers' room; unanswered on the page.** (5.7, 6.1)
-4. **The terrace door left open by the Emperor:** keep it as a silent cause, or cut it? **Pick: keep**, with the Queen's "Then he was right." (7.1)
-5. **The squeeze and the too-easy code** (the household-closure order; Teo's codes worked because nobody watches a servant's boy): plant both, never confirmed, or skip? **Pick: plant both** in one half-asleep Teo line. (2.1)
-6. ***Ledger Closed* resold:** use the sighting, or end the thread at the cutter? **Pick: use it**, one beat. (6.6)
-7. **The master's core:** A (the one who stayed), B or C? **Pick A**, with "He went alone" spoken aloud in the ceiling room. **And confirm** BANK 11-07's "one of their strongest fighters" can mean best by craft (he reads a fight and calls it), not by raw push. (2.6, 2.7, 6.8, 7.3, 7.4)
-8. **Mika's reply text:** keep it writer-only, or leave it unknown even to the writer? **Pick: keep, writer-only.** (5.7)
-9. **Jon's tear at Doc's dust:** grief, envy, or the reader's call? **Pick: the reader's call.** (8.3)
-10. **"Jon's mind was clear for the first time in a very long time":** **Pick: shown from outside in Book 1** (the lines in his face let go; Eli has never seen it like that). The inner line is saved for the later window book. (9.1)
-11. **N2 on the page:** **Pick: Eli sees only the pack going past and back.** The knife at the Queen's door stays offscreen. (5.4)
-12. **The visible trace of Jon's five weeks:** the Queen's "They tell me you answered well." / "I always do." **Pick: use it** (pays U5). (5.2)
-13. **The cheek in the floor speech:** "You've never seen this one." **Pick: use it** (pays U4). (8.4)
-14. **Eli refuses to hand over the dark elf at the cutter** (a new hard choice for him). **Pick: use it.** (6.4)
-15. **The word "Remnant" on the page in Book 1:** **Pick: don't use it**; "pool" and "reach" only. (`01` O12)
-16. **The dark elf's thirty:** **Pick: she's the last one living**; the others died on the road and at the door, and "when we started" means the road. Or: the others still wait behind the seam (that needs a reason Eli never reopens it). (4.3)
-17. **Eli's final attack:** **Pick: a short reflexive reach that fails, then the words as the real attack.** Or: words only, no reach. (8.4)
-18. **The entropy breath:** **Pick: out of Book 1.** Not because it's far-future (Book 1 is the far future, `09 t334`), but because it has no slot in the spine, Eli is never there, it leans on a cut teleport and a cut entropy power (`05`), and a god-kill contradicts "he can't die" (BANK 11-01 L4). The repo's only label is `SCENES_COMPILED`'s "Book-3 set-piece". Which book is Patrick's call.
-19. **Already closed:** `02` Q2 (does the bond register a held soul?) is answered by Patrick's override: no.
+**Open, and his call:**
+1. **The god's identity [PATRICK]** (6.8c). Carded unnamed. Claude's proposal (`03` P8b): a giant who became a god (BANK 11-01 L16), hunting the cathedral ships his people sold, walking in through a way in the giant yards grow into every hull. It says the giants have gods and adds a hull feature. Or keep his kind unseen on the page. Never Derrek, never Jon.
+2. **The slot** (6.8b–6.8d). A, the young dragon's lord, is carded. B (Jon books them on a cathedral ship) or C (a bridge feed) on request (`03` §3a).
 
-**Names still flagged for the name engine:** Teo (it reads as generic Earth), Doc (an alias, fine), Krell, Ilvaen (planning only; not printed).
+**Carried, not asked** (world items these scenes touch without ruling them): entropy as a cut domain (QUESTIONS 5.6; works either way) · folding space (QUESTIONS 5.7; the god walks in, a closing seam only) · the dragon's coldness (NEEDS_PATRICK (e); one lord, not the race) · "god" usage (NP#7).
+
+**Claude's picks, made (swap any):** the spar as a choice on cost (7.1) · Jon didn't warn the giant, unanswered on the page (5.7) · the open terrace door, silent (7.1) · the squeeze and the easy code in one Teo line (2.1) · the *Ledger Closed* sighting (6.6) · the master's core A, with "He went alone" aloud (7.3) · Mika's reply writer-only (5.7) · Jon's tear left to the reader (8.3) · N2 shown as the pack only (5.4) · "They tell me you answered well" (5.2) · "You've never seen this one" (8.4) · Eli refuses to hand over the dark elf (6.4) · "Remnant" never on the page · "Next time ask me first" (6.9).
+
+**Names still flagged for the name engine:** Teo (it reads as generic Earth), Doc (an alias, fine), Krell, Ilvaen (planning only; not printed). The dragon lord and the god stay unnamed.
 
 ---
 
@@ -1513,12 +1600,27 @@ Against `05_plan_audit.md`, 2026-11-09, and aligned with the revised `03`. Decid
 - **F01 ↔** 4.3: she's the last of thirty living; "when we started" = the road; "the closed air where the others ended"; "Thirty started the road. She's what's left." The blade is not one of the thirty: someone of hers who got out earlier and was caught (5.3 offscreen, 8.2). Q16 added.
 - **F02 ↔** 4.5 b2: the crews are the farmers' customers; they count what they carry and sell what they find at the next port.
 - **F03** 7.4 rewritten: v10 L775–797 oath kept as written (energy clause, three times, "Including you"); the shudder and dimming are his draw on the walls (P77), burnout inside the sworn room (P21); the beast's "one by one" terms; P21/P77 added to Paid; P85 retagged; mirror noted in 8.1 b4.
-- **F04 ↔** "strongest" = best by craft: 2.6 b3, 6.8 b1, 7.4 cost; Q7.
+- **F04 ↔** "strongest" = best by craft: 2.6 b3, 6.8 b1, 7.4 cost; Q7. *(Superseded by Gate 2: B; see below.)*
 - **F05 / F05b** Teo's "nobody watches a servant's boy" planted in 2.1 b6 and 6.6 b4 (P92); the petition planted in 6.12 b9 (P93); both paid in 7.5.
 - **F06 ↔** `03` P5 timeline: Jon leaves a few days before the door night (4.1) to ask for the Queen; Mika keeps him waiting; Krell's report lands on the next ninth and the Inquisition holds him; five weeks of questioning; about two months gone. Traces: 4.5 b1 "Jon still not back", 4.6 "two months, five weeks of it nobody's business"; P50 retagged.
 - **F07 ↔** 6.4: "Stay aboard and he tows us to his station"; the Queen steps out of the hail's eye; the cutter's master is Ilvaen, because it's his ledger and his failure (3.2, 6.4 offscreen); Krell (spared, 4.4) shows as the grease-pencil mark on screen (F07d); "You ordered a part" (F27a); range clause.
 - **F08 ↔** dwarven bounty brokers reprint any imperial-sealed notice; nobody collects (a year and a scar out of date, chin not cheek; pays only at an imperial post; the war; the seal hated, faces scratched out): 1.1 offscreen, 6.6 conflict and offscreen.
 - **F19 ↔** Jon rejoins at Holding Thirty-One (3.2) and gets off at Tessid's rim port (6.2 b1), so his bunk is empty at the cutter (6.4); A4 index updated.
 - **Minors:** F09 8.3 b9 good hand, plus a ch 8 hand-track note · F10 8.2 b4 no shadow-step (and 4.5 b4 note) · F11 5.3 she knew it would be silent · F13 6.8 tripwire adds v10 L629 · F14 6.8 Doc in the shadow, Teo runs past, then the burn (6.9 cause) · F15 5.5 b8 one exchange, the giant's "No" after the door clause, P58 matched · F16 8.1 b11 relabelled "BANK 11-08 boots line" · F17 3.2 motive · F18 flyer crossings (1.3, 2.1, 4.1) · F20 6.3 the last students leave · F22 6.13 she nods for Eli · F23 4.4 why not kill Krell · F24 5.3–5.4 grounded at the Dry · F25 6.6 one-off war panic, gnome prejudice · F26 5.7 P36 on the page · F27b P62 → 8.1 b7 · F27c P94 · F28 word totals corrected (Ch 6 5,400; total 25,000) · F29 §Q 5 and 9 merged · F31 8.4 short reflexive run, the stopped hand left open to Eli · F32 1.1 bath memory moved to 1.3 · F33 "Jon never interpreted" rule · F34 "carrier-born" · F35 4.1 "on the inner worlds" kept apart from 4.5's pit · notes for 2.2 b7 and 4.5 b5.
-- **§3** the entropy-breath reason rewritten (header and Q18).
+- **§3** the entropy-breath reason rewritten (header and Q18). *(Superseded by Gate 2: 6b.)*
 - **Ledger:** P92–P94 added; P05, P11, P21, P36, P45, P50, P58, P62, P65, P72, P77, P85 updated. §S unchanged. §Q renumbered (19 items).
+
+## Gate 2 re-plan (changelog)
+
+Against Patrick's Gate 2 answers ("1b 2b 3a 4b 5c 6b", 2026-11-09), his cathedral-ship correction, the `13` §Showpiece scene, and the revised `03` (§3a, §4.3, P8b, §8 knock-ons). `02` and `03` were not touched.
+
+- **Header:** the leash staging and the "Not in Book 1" entropy paragraph are replaced by the Gate 2 summary. The oath is now quoted in full at 7.4 b6. Scene count 50 → 53; target 25,000 → 24,900.
+- **1b, everyone at once:** 7.5 rebuilt (Jon's hand off at the threshold; he stays in the door; Eli's reach goes out unheld, cracks the dais, and the flick puts him in the wall; the room moves in the same breath). Ch 8 rebuilt from the floor: 8.1 (the dark elf's route passes Eli, presses his fingers, "Don't"; Doc kneels at him; the Emperor watches the door), 8.2 retitled "It Took Both" (her name with no air behind it; the reserve spent; the boots, the t768 speech and the apprentice's burnout move here, after the Collapse, so Doc goes into an empty room), 8.3 (Doc stands up from beside Eli; the weight lands on Eli first), 8.4 (no run; "He was watching you. The whole time." replaces "You held me"). 6.12 b5 gets the lander line "He'll keep a hand for me. You get the other one." 6.13 loses Jon's ask to the dark elf. 3.3 b2's mirror note is inverted. The ch 8 room and hand-track notes are updated.
+- **2b, the master's raw power:** 2.6 b3 is the loader ("Anyone can lift…"). 6.8 has him take the breaths at full burst (nose, ears, knee) while Teo leaves his cover. 6.4 b7 shows him choosing not to push. 7.3 adds "Something up there's waiting" and his reason for not holding the ceiling (M2b). 7.4 b9 and its cost make "one of their strongest fighters" literal. P24 is rewritten.
+- **3a:** unchanged (4.3).
+- **4b, words only:** 8.4 is words from the floor; the reach moves to 7.5 (P70 paid there).
+- **5c, no clear-mind beat:** 9.1 b11 is cut, with a tripwire in the card. P91 is retired.
+- **6b, the entropy breath (slot A):** new 6.8b "Not This One" (the beacon, the cathedral ship, his father's hull in one line, the collars, the cradle ring behind the throne), 6.8c "How Will You Get Home", Patrick's scene carded beat for beat from `13` (the dragon as caster; orc, humans, dwarves, elves; the god's boast; the dragon's doubt; the god trembles and dies last; god's identity **[PATRICK]**), and 6.8d "Like Weather" (Eli's bargain, E7b). 6.9 moves to the dragon's house port quay: the three weeks in the hold and the answering ship are gone, the hold's beats move to 6.8b, and the dark elf's "Next time ask me first" is added. 6.1 b1 and 4.1 b4 get one-clause plants. 7.1 b3 pays the hull.
+- **Ledger:** P79 and P91 retired; P23, P24, P33, P39, P44, P49, P55, P57, P66, P69, P70, P72, P76 updated; P95–P102 added, all paid. **§C:** C5 at the quay; C6b rebuilt. **§S:** 6.8 9 → 8; rows for 6.8b–6.8d; calm 4 at 6.9; the calm order still holds (2 → 8).
+- **Words (≤25k):** ch 6 rises 5,400 → 5,850 (6.8b 300, 6.8c 650, 6.8d 300; 6.9 300 → 200). Paid for by compression, with no protected beat cut: 2.2 −50, 3.3 −50, 4.2 −50, 5.1 −50, 5.4 −50, 5.5 −50, 6.1 −50, 6.2 −50, 6.3 −50, 6.5 −50, 6.6 −100, 6.7 −50, 6.8 −100, 6.10 −50, 6.11 −50, 6.12 −50, 6.13 −100, 7.5 +50, 8.1 −100, 8.2 +100, 8.3 −50, 8.4 −150, 8.5 −50, 9.1 −50. Chapters: 2,050 / 3,150 / 1,800 / 2,750 / 3,000 / 5,850 / 2,700 / 3,000 / 600 = **24,900**.
+- **§Q:** cut to Patrick's two real calls (the god's identity, the slot), with the carried world items and Claude's made picks listed separately.
