@@ -23,7 +23,8 @@
   - ✅ `04_scene_cards.md`: 50 scenes, 9 chapters, ~25k target; 91-promise ledger; 18 Gate 2 questions.
   - ✅ `05_plan_audit.md`: round 2 CLEAN; the R2 one-line fixes are applied
   - ✅ GATE 2 answered "1b 2b 3a 4b 5c 6b" (in 00_brief). Re-plan done; plan audit round 3 fixes applied. God identity pending with Patrick (drafting with pick A, a giant who became a god).
-  - ⏳ Stage 3 drafting in 4 batches: drafts/v1_part1.md (ch 1–3), part2 (ch 4–5), part3 (ch 6), part4 (ch 7–9), then join them into drafts/v1.md. Then stages 4–6.
+  - ✅ Stage 3: `drafts/v1.md` (22.6k words, with ledgers) and `drafts/v1_STORY_ONLY.md` (story only: give THIS to outside readers, never the notes; Patrick 2026-11-10). Ch 1–6 were drafted on the old model, 7–9 on the new: Patrick may ask an outside reader, blind, whether the style changes anywhere.
+  - ⏳ Stage 4: dev-critic ×3 (lore, logic, craft) → writer v2 → judge v3 → line passes → guard. Then stages 5–6. Make a STORY_ONLY copy of every version sent out.
 
 ## Open questions waiting on Patrick
 - Where the "Jon's mind was clear for the first time in a very long time" line goes. Claude's pick: show it from outside in Book 1 and give the inner line to the later window book.
