@@ -52,3 +52,8 @@ A novella-length condensed Book 1 (about 18–25k words), to test the engine bef
 5. **"Jon's mind was clear…": C.** Neither. No clear-mind beat in Book 1, inside or out.
 6. **Entropy breath: B.** Find it a place in Book 1. It's Patrick's scene (BANK 11-01 L34). Open world issues it touches: entropy as a cut domain (QUESTIONS 5.6), the god teleporting (folding space is cut), and Derrek can't die (so the god can't be Derrek).
 - **Era note (Patrick, same day):** "Book 3 in the codex was the far future. It became book 1. Entropy breath was always on board a cathedral ship." So the entropy breath happens aboard a dragon's cathedral ship in Book 1's own era.
+
+## After v1 (Patrick, 2026-11-10; full words in BANK and `reviews/outside/`)
+- **The door is reworked.** It's a rift: a small gap in a metaphysical wall, held open by magic. The party doesn't know where they are (Jon does). One companion stays to hold it, under strain, while the others go in, have an adventure inside, and meet the dark elf. She has tried to get out for thirty years and never could: near the barrier everyone gets turned around and ends up back at the village, and some never come back. Seeing outsiders, she follows them out. Claude picks who holds it. This replaces "the last of thirty" (Gate 3a).
+- **Grit and grime.** Dark, messy, visceral, grotesque; heavy wording, suffocating air; not clinical.
+- **No quest markers.** Recruitment and meetings mustn't read as "we need a healer" and one appears.
