@@ -320,7 +320,7 @@ The miner screamed the whole time the gnome was setting his arm, and the gnome t
 
 "Ate my whole herb garden, that goat. My brother's goat, properly; he was the clever one. The winter half the village came to me with fever, and there's me with not a leaf. I could have strangled him. Didn't, mind. I was very fond of him. Hold still." The end of the bone went back in under the skin with the sound of a boot coming out of mud.
 
-The line went out the clinic door and down the street: a boy with a crushed foot, an old dwarf woman coughing black into a cloth that she refolded each time to a clean place, gnomes with a stamped tin tag on a cord, and a green ring on every throat where the tin sat. The dwarves called the quarter the Tins. A bucket of old dressings stood by the door, full, and the top of it moved. The dwarves in the line had their caps in their hands.
+The line went out the clinic door and down the street: a boy with a crushed foot, an old dwarf woman coughing black into a cloth that she refolded each time to a clean place, gnomes with a stamped tin tag on a cord, and a green ring on every throat where the tin sat. The dwarves called the quarter the Tins. A bucket of old dressings stood by the door, full, and the top of it moved.
 
 He was small even for a gnome, round in the face, bald on top, with enormous ears. When Teo's four came in on their stretchers he left the miner with a strap between his teeth and went along them thumbing up eyelids. He had the worst one carried behind a curtain, and went in and sat with him.
 
@@ -358,35 +358,21 @@ His eyes went to Eli's chin and away again. He dried his hands a second time. Th
 
 "Ah, well," said the gnome. "Next."
 
-They were on the pad with the engine warming when the noise started down in the Tins.
+They were on the pad with the engine warming when the shouting started down in the Tins.
 
-A woman came up the street first. It was the mother, and she had the girl, and the girl's heels swung as she walked. Her voice had gone to rags, with no words left in it. Behind her came the street: dwarves off shift with the dust still on them, gnomes, the old woman with the cloth. Most of the dwarves had a stone in the fist. And out ahead of all of them, in no hurry, a bag in one hand and a stick in the other, came the gnome.
+A woman came up the street first. It was the mother, and she had the girl, and the girl's heels swung as she ran. Her voice had gone to rags, with no words left in it. Behind her came the street: dwarves off shift with the dust still on them, gnomes, the old woman with the cloth. Stones. And out ahead of all of them, at a trot, puffing, a bag in one hand and a stick in the other, the gnome.
 
-He stopped once to get his breath. The street stopped behind him. Nobody came past.
+"Ask yourself why they want him," Teo said. "Go on. Ask. She's dead, Eli, look at her, that's a dead—"
 
-"Look at that," Teo said. "They've rocks in their hands. Not one of them'll throw. She's dead, Eli, look at her, that's a dead child, and they're walking him out like a priest."
+Eli stood on the ramp. The gnome went up past his knee. Eli put the air hard across the foot of the ramp, and the first stones stopped in it and dropped.
 
-A council dwarf pushed through with his chain of office on over a nightshirt, blowing. He got in front of the gnome and took his cap off.
+The mother reached it. She put her free hand flat on it and pushed, and then her forehead, and stood there with her breath making a patch on nothing that came and went. The girl's hair had been combed since the clinic. He could see the tracks of the comb.
 
-"You'll not stay."
+"I said no," Eli said, without turning round.
 
-"I'll not."
+"You did," said the gnome behind him, getting his wind back. "Very civil about it, too. I'd lift, if I were your friend."
 
-"There's the clinic."
-
-"Keep it swept."
-
-The dwarf stood turning the cap round by the brim. Then he stood out of the way.
-
-The mother had reached the foot of the ramp. The gnome went back down to her. He had to reach up to do it. He put his hand on the girl's hair, where it had been combed since the clinic and the tracks of the comb still showed, and he said something Eli couldn't hear. The mother's mouth was open. She let him.
-
-Then he came up the ramp past Eli's knee and sat down on his bag.
-
-"I said no," Eli said.
-
-"You did. Very civil about it, too."
-
-"We've four bunks," said Teo. "There's four of us." He lifted off. Down on the pad a dwarf opened his fist and let the stone fall beside his boot.
+"We've four bunks," said Teo. "There's four of us." He lifted off. The stones came on again the moment the air let go, and one starred the canopy beside the old crack.
 
 The gnome watched the pad get small. Then he smiled up at Eli.
 
@@ -485,14 +471,14 @@ Then Jon turned round.
 **LOCAL (story-only; no new printed names)**
 - "Holding the lip" of a well-mouth; the sergeant with a stick at North Wells and the dead trainer; day pushers on the practice field.
 - Teo's condemned rig, patched with canopy sealant, kept under the flyer's seat.
-- The casualty run paid by count alive; the pay window on the Thirty-One pad; the council dwarf takes his cap off to Doc: "You'll not stay." / "Keep it swept." (no sale, and no line about tags)
+- The casualty run paid by count alive; the pay window on the Thirty-One pad; no council dwarf, no sale, no tags on Doc
 - The message box on a transit platform that takes mail for Jon "and eleven other names".
 - Small texture: the kitchen boy and the ham; the egg that's extra; the eye that turns in its jar; the comb tracks in the girl's hair; the black slime under Lirael's flowers; the reed in the sewn man's mouth.
 
 **Unsure**
 1. LR 15 reading: living adults still wait on the press ramps (as v1, and Jon's "gone up the ramps on schedule"); only the ending sorts dead to plate and the young to CORES. If presses should take only the dead, the pen paragraph and Jon's gorge line need one change each.
 2. The master's line is split: "You'll never be fine. You started too late. Sit." at the door (B.2), "You'll be less likely to kill your friends by accident" at the needle (v1 place). B.2 puts it all at the door.
-3. (Resolved 11-11: Eli no longer holds the ramp; nobody throws.)
+3. Eli holds the ramp with hard air and stones drop off it: a public reach on a dwarven world.
 4. "very loose" is kept for the girl (planted phrase) despite the "very" cap.
 5. The speaker is on the guard's harness; he has a slate but has not reported. Nothing explains why he hasn't.
 6. 2.4 runs short (about 240 against 400) and 2.5 long (about 680 against 550); the chapter lands near target.
@@ -500,7 +486,7 @@ Then Jon turned round.
 **Later batches must honour**
 - Teo's rig is under the flyer's seat and "pulls a bit to the left"; "well-mouths shut if nobody holds them" has been said once on the rim.
 - The two eldest rig students were under the loader (6.2 b6, 6.3).
-- Doc: the mother was on the pad; nobody threw, and Eli did NOT hold the ramp (Patrick 11-11: Doc is proud and respected by dwarves, shown and never explained) (v1 L1597 re-truthed line; the hanged gnome at L925). Doc was never owned and there is no paper (Patrick 11-11); he walked up the ramp himself after Eli said no. The troll's stick with the nail is aboard. Teo won't eat what Doc finds.
+- Doc: the mother was on the pad and Eli held the ramp against the street's stones; Doc is a free man who boarded by his own choice (Patrick 11-11: just not a slave; no special respect, no tag talk) (v1 L1597 re-truthed line; the hanged gnome at L925). Doc was never owned and there is no paper (Patrick 11-11); he walked up the ramp himself after Eli said no. The troll's stick with the nail is aboard. Teo won't eat what Doc finds.
 - Eli has told Jon to his face that the trainer was dead; Jon's token is spent; their names are in the gate ledger after one refusal.
 - Eli has a wire scar across one palm from the yard fence.
 - Jon said "Yes. I knew." in 2.4. Later rungs build on a straight answer already given once.
