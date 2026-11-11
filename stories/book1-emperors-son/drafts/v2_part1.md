@@ -322,7 +322,7 @@ The miner screamed the whole time the gnome was setting his arm, and the gnome t
 
 The line went out the clinic door and down the street: a boy with a crushed foot, an old dwarf woman coughing black into a cloth that she refolded each time to a clean place, gnomes with the stamped tin tag every gnome in the quarter wore on a cord, and a green ring on every throat where the tin sat. The dwarves called the quarter the Tins. A bucket of old dressings stood by the door, full, and the top of it moved.
 
-He was small even for a gnome, round in the face, bald on top, with enormous ears. When Teo's four came in on their stretchers he left the miner with a strap between his teeth and went along them thumbing up eyelids. He had the worst one carried behind a curtain, and went in and sat with him.
+He was small even for a gnome, round in the face, bald on top, with enormous ears. There was no cord at his throat and no ring where one had been. When Teo's four came in on their stretchers he left the miner with a strap between his teeth and went along them thumbing up eyelids. He had the worst one carried behind a curtain, and went in and sat with him.
 
 An hour. Teo wouldn't wait indoors. Out by the flyer he said, "There's something wrong with him."
 
@@ -348,7 +348,7 @@ The mother tried to thank him. He held up a small hand.
 
 His eyes went to Eli's chin and away again. He dried his hands a second time. They were dry.
 
-"That's your hull on the pad," he said. "I saw it come down. I've had a mind to travel, you see, for some while now. The council holds my paper, but paper's only paper, and I eat next to nothing, ask anyone—"
+"That's your hull on the pad," he said. "I saw it come down. I've had a mind to travel, you see, for some while now. Nobody here will miss me past the week, and I eat next to nothing, ask anyone—"
 
 "No," said Eli.
 
@@ -368,13 +368,15 @@ Eli stood on the ramp. The gnome went up past his knee. Eli put the air hard acr
 
 The mother reached it. She put her free hand flat on it and pushed, and then her forehead, and stood there with her breath making a patch on nothing that came and went. The girl's hair had been combed since the clinic. He could see the tracks of the comb.
 
-A council dwarf came through the crowd with his chain of office on over a nightshirt, blowing. He had the paper. He looked at the stones on the ground, and at Eli, and did the sum.
+A council dwarf came through the crowd with his chain of office on over a nightshirt, blowing. He looked at the stones on the ground, and at Eli, and at the gnome sitting on his bag at the top of the ramp getting his breath, and did the sum.
 
-"He's lost a foreman's child. He's worth nothing to me." He held the paper up. "Two marks and he's yours. Saves me a rope."
+"Nine years he's had that clinic and never a tag on him, and nobody could tell you who said he might." He spat. "A foreman's child. Take him off my pad, then. Saves me a rope."
 
-Eli paid it out of the docked pay. He put the paper in the flyer's heater.
+"I said no," Eli said, to nobody.
 
-"That was the food," said Teo. He lifted off. The stones came on again the moment the air let go, and one starred the canopy beside the old crack.
+"You did," said the gnome. "Very civil about it, too."
+
+"We've four bunks," said Teo. "There's four of us." He lifted off. The stones came on again the moment the air let go, and one starred the canopy beside the old crack.
 
 The gnome watched the pad get small. Then he smiled up at Eli.
 
@@ -467,13 +469,13 @@ Then Jon turned round.
 **Changed from v1**
 - ONE: "By imperial warrant" and the collar report are gone; the guard backs off with the slate to his chest and Jon's pitch is "nobody's after you yet… then they are" (LG 2). A yard hand stands at each press, palm on it, eyes shut; Eli's dead go to plate and the young go in at the CORES door (LR 15). Cut: "That was the whole problem", "the kind of face", the flogging backstory (now "Watched."), "pleasantly", "Nobody took it off…". The forged-code paragraph now follows "No." Grit: the pens' waste, weeping scars, gutter, sweating plate, the guard's bladder and tongue, the leaking rig, the dead settling.
 - TWO: one gorge night; breakfast is one line; the 2.1 ending is the fuel money. Jon's core line follows lore 12. The post carries "Return what you took" printed, and stops at "It had gone up already." C1 per B.6 ("Say it." "Yes. I knew." the hand comes off; "Would you rather I'd done it for you?"); scene ends on the soup. Jon's steer is the dead trainer at North Wells. Eli finds the master by losing a loader over his students; refusal ("I teach boys"), three days of sleet, terms given as the master's own reason. The burnout boy is "holding the lip". Teo's patched rig and "Throw that in the glass." The triplet at v1 L217, "never once", and the doorway line at L281 are cut.
-- THREE: 3.1 rebuilt as B.1 (casualty run by count, "Three", Doc asks, Eli refuses, the pad, two marks). The dock arrival is cut; the gate refuses them once; Eli sends for Jon, who comes on the fourth morning and is told the trainer is dead ("Is she. I am sorry."). No giant-city comparison. The wife faces the fountain. "Nobody jostles" paragraph cut. Statue: years of flowers gone to slime.
+- THREE: 3.1 rebuilt as B.1 (casualty run by count, "Three", Doc asks, Eli refuses, the pad; Doc boards by his own choice, never bought: Patrick 11-11). The dock arrival is cut; the gate refuses them once; Eli sends for Jon, who comes on the fourth morning and is told the trainer is dead ("Is she. I am sorry."). No giant-city comparison. The wife faces the fountain. "Nobody jostles" paragraph cut. Statue: years of flowers gone to slime.
 - All-chapter passes: Jon is shown by act and speech only; no "didn't look" anywhere in this batch; one echo line kept (v1 L183); "Nobody + verb" used 4 times in narration; no "never once"; scene ends vary (logistics at 2.1, 2.3, 2.7, 3.1).
 
 **LOCAL (story-only; no new printed names)**
 - "Holding the lip" of a well-mouth; the sergeant with a stick at North Wells and the dead trainer; day pushers on the practice field.
 - Teo's condemned rig, patched with canopy sealant, kept under the flyer's seat.
-- The casualty run paid by count alive; the pay window on the Thirty-One pad; the council dwarf's "Two marks. Saves me a rope."
+- The casualty run paid by count alive; the pay window on the Thirty-One pad; the council dwarf's "Take him off my pad. Saves me a rope." (no sale; Doc has no tag and no paper)
 - The message box on a transit platform that takes mail for Jon "and eleven other names".
 - Small texture: the kitchen boy and the ham; the egg that's extra; the eye that turns in its jar; the comb tracks in the girl's hair; the black slime under Lirael's flowers; the reed in the sewn man's mouth.
 
@@ -488,7 +490,7 @@ Then Jon turned round.
 **Later batches must honour**
 - Teo's rig is under the flyer's seat and "pulls a bit to the left"; "well-mouths shut if nobody holds them" has been said once on the rim.
 - The two eldest rig students were under the loader (6.2 b6, 6.3).
-- Doc: the mother was on the pad and Eli held the ramp (v1 L1597 re-truthed line; the hanged gnome at L925). Doc's paper was burned in the flyer's heater, not a stove. The troll's stick with the nail is aboard. Teo won't eat what Doc finds.
+- Doc: the mother was on the pad and Eli held the ramp (v1 L1597 re-truthed line; the hanged gnome at L925). Doc was never owned and there is no paper (Patrick 11-11); he walked up the ramp himself after Eli said no. The troll's stick with the nail is aboard. Teo won't eat what Doc finds.
 - Eli has told Jon to his face that the trainer was dead; Jon's token is spent; their names are in the gate ledger after one refusal.
 - Eli has a wire scar across one palm from the yard fence.
 - Jon said "Yes. I knew." in 2.4. Later rungs build on a straight answer already given once.

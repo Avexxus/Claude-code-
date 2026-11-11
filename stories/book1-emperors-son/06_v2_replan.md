@@ -321,6 +321,9 @@ Format as `04`. POV is Eli, close third, in every scene. Stress is `moment / bas
 
 ## B.1 Doc: revised card
 
+> **OVERRIDE (Patrick, 2026-11-11):** Doc is never a commodity. No paper, no tag, no sale, no "two marks". He's an ancient changeling, the strongest gnome in existence; nobody owns him. He walks up the ramp himself after Eli says no. Gnome servitude shows only on other gnomes. Ignore beats 5 and 9 below where they say otherwise; `drafts/v2_part1.md` has the corrected scene.
+
+
 ### 3.1 · By Count
 **ACTION** · Holding Thirty-One, the Tins · a casualty run from the rim · Eli, Teo, Doc, four rig boys on stretchers, a mother, a council dwarf, a street
 - **Goal:** get paid. Teo has a company job flying four burned-out rig boys from Tessid to the gnome at Thirty-One. The company pays on delivery, by count alive. It's their fare off the rim after the master's no.
