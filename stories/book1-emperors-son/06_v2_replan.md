@@ -321,7 +321,7 @@ Format as `04`. POV is Eli, close third, in every scene. Stress is `moment / bas
 
 ## B.1 Doc: revised card
 
-> **OVERRIDE (Patrick, 2026-11-11):** Doc is never a commodity. No paper, no tag, no sale, no "two marks". He's an ancient changeling, the strongest gnome in existence; nobody owns him. He walks up the ramp himself after Eli says no. Gnome servitude shows only on other gnomes. Ignore beats 5 and 9 below where they say otherwise; `drafts/v2_part1.md` has the corrected scene.
+> **OVERRIDE (Patrick, 2026-11-11):** Doc is never a commodity. No paper, no tag, no sale, no "two marks". He's an ancient changeling, the strongest gnome in existence; nobody owns him. He walks up the ramp himself after Eli says no. Gnome servitude shows only on other gnomes. Ignore beats 5 and 9 below where they say otherwise; `drafts/v2_part1.md` has the corrected scene. Also (same day): Doc is proud. Dwarves respect him where they respect no one else; SHOW it (caps off, nobody throws, they make way) and never say it or say nobody knows why. No line about him being untagged. Eli does not hold the ramp.
 
 
 ### 3.1 · By Count
