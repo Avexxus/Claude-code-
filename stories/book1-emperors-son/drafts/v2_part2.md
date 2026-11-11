@@ -28,7 +28,7 @@ He had it. He crushed it. Nine.
 
 They went down together because the chain went down. The gun had not left them the shape of people. It had left one heap with a chain running in at one side and out at the other, steaming in the cold, and at the near end the chain was still jerking. A tenth. A boy with a ring on his forehead, fastened by one wrist and buried to the waist in the others, pulling.
 
-Then everything. A shot off the rock by his head. Teo's rifle on the rim, twice. Guns torn out of grey hands, some of them. A dwarven crewman off the ramp behind him with a cutting bar up, and Doc there, come down the wall in no hurry, and the crewman seeing who it was and checking, and the troll's stick across his knees anyway, nail first, and again. The dwarf in the good coat face down on his own ramp under Eli's grip, saying something into the metal. Two coats got back inside the station. The door sealed behind them and a red light came on over it.
+Then everything. A shot off the rock by his head. Teo's rifle on the rim, twice. Guns torn out of grey hands, some of them. Doc coming down the wall behind him, puffing, and a crewman off the ramp with a cutting bar, and Doc stepping aside, and the bar going into the grit, and the troll's stick across the man's knees, nail first, and again. The dwarf in the good coat face down on his own ramp under Eli's grip, saying something into the metal. Two coats got back inside the station. The door sealed behind them and a red light came on over it.
 
 They broke the chains. Nobody thanked them. Most ran, out across the floor and into the dark under the far wall. Eli dug the boy out by the armpits. The shackle took a cuff of skin off with it, and the boy looked at his wrist, and then wiped both hands down his thighs, twice, and they were no cleaner.
 
@@ -262,7 +262,7 @@ She looked at him. "There are."
 
 They took the dwarven ship. Doc read the name off its flank in dwarvish, *Ledger Closed*, and said it was a very hopeful thing to call a ship. The hold had drains in the deck and shackles along the benches and a tin of pencil stubs, and when Eli sat down there was a milk tooth in the seam of the bench.
 
-The dwarf sat on the grit in his good coat with his wrists rubbed raw. He studied their faces in turn and took his time over each. Doc's he got to last, and his eyes went down to the grit. At hers he frowned.
+The dwarf sat on the grit in his good coat with his wrists rubbed raw. He studied each of their faces in turn and took his time over it. At hers he frowned.
 
 "That one's not on my sheet," he said.
 
@@ -442,7 +442,7 @@ She passed Jon at the foot of the ramp and didn't slow.
 
 "I always do," said Jon.
 
-She took the best bunk. It had been Doc's. Doc stood in the door and watched her take it, and smiled, and went and put his bag on Teo's.
+She took the best bunk. It had been Doc's. Doc moved his bag out without a word, and then with several.
 
 ---
 
@@ -621,8 +621,7 @@ After that she stopped calling him *the human*, or anything at all. She sparred 
 6. The Dry: to square 5.1 with "You don't pick where we wait again", Jon only "said there was a well" and Eli chose it. If Patrick wants Jon to have brought them, one sentence changes.
 7. Jon says "one of hers… the ones they call hell-born" (A.3 keeps elven words out of his own voice; v1 had plain "hell-born").
 8. The giant says "betrayal day" and "Your people had it from the dragons" (06 keeps both as his news). Hurrunaal moved from the giant's mouth to Jon's.
-9. Doc's "I can barely knock a hat off" is kept from the card as a lie told lightly, not as pleading; cut it if it reads as humble against the 11-11 ruling.
-10. FOUR runs over target; the nine cards would not go in 3,650 without losing the village people's gestures.
+9. FOUR runs over target; the nine cards would not go in 3,650 without losing the village people's gestures.
 
 **Later batches must honour**
 - Teo: deaf in the left ear (he turns the right, "good", ear), a dressed then scarred spine, hands that shook for weeks; the rig is dead and still on the moon. No leg wound anywhere. The rig "dragged to the left"; the left hand still burns at 6.8.
@@ -630,7 +629,7 @@ After that she stopped calling him *the human*, or anything at all. She sparred 
 - The purser saw Eli's face against the poster and will sell the sighting. The dwarf lived on Doc's ration and has all their faces, hers included ("not on my sheet").
 - Her tells: the bench shackle in the galley hatch track, the arm round the plate, two knives (one short and hooked), bare feet, no question marks, "I'm not yours" / "I'm not led". She bit a seal in the pit and asked whose the oval is. She has never been thanked twice. Her head turns "up and off to the left" toward the light. Her name is still unknown to Eli; narration says "the hill woman" until 6.7.
 - "I used to count the ones who didn't come down. I thought they'd done it." has been said through the door.
-- Doc (Patrick 11-11: never owned, no paper, no price, proud; dwarves defer to him, shown and never explained): nothing in FOUR–FIVE mentions buying, paper or a tag on him. A dwarven crewman checks his swing on seeing him; the dwarf in the good coat drops his eyes at him. He took the cans before anyone asked; approved of the porch; the farmer looked at him and he dipped his head. He still has the troll's stick. He gave the dwarf the ration unseen. When the Queen took his bunk he smiled and put his bag on Teo's.
+- Doc (Patrick's final word, 11-11: "He doesnt have to be that respected. Hes just not a slave"): a free member of the crew. Nothing in FOUR–FIVE mentions buying, paper, a price or a tag on him, and no dwarf defers to him. He took the cans before anyone asked; approved of the porch; the farmer looked at him and he dipped his head. He still has the troll's stick. He gave the dwarf the ration unseen. The Queen took his bunk.
 - Eli told Jon "You don't pick where we wait again" and Jon said "All right." Jon was asked "What do we do?" and said "Get there." Jon was "kept" by elves, five weeks; the giant says "You are always kept."
 - The Queen: walks through things and people; the sheath sweats and smells like the inside of a mouth; "My orders for the field are delayed" (pays at 6.6 with one word); she heard "the Emperor's son" in the hall; she no longer calls him anything and waits until he is up. Her ship held its guns on them once.
 - The giant told all of them about betrayal day and the Tower's walls; Teo stared at Jon while he did. "There are not enough of us left to die" stands as said. Jon stayed the night and said the talk was "His. Mostly."
