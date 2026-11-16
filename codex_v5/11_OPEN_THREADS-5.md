@@ -9,6 +9,7 @@
 > **Cite key:** `t###` = the October physics chat; `jul08 t###` / `jul23 t###` = the July chats.
 > **v5-wk2 — 2026-10-31:** updated after the late-October rulings (`WEEK_RULINGS.md`, folded as v5-wk) and the raw-chat audit (v5-wk2). Threads the rulings settled are marked `✅ [v5-wk2]` with the ruling (`wk W##`) or raw-chat turn (`chat tNNN` — the late-October session, not the physics chat); old ✅ lines the rulings revised carry a `[REV v5-wk2]` note; new open questions are in **section I**, each pointing to its `NEEDS_PATRICK.md` "L#" item. Nothing deleted.
 > **v5-cc — 2026-11-16: pass, clean adds only.** One new open thread (sickness, cc R039, section I). No thread is closed by the clean adds; closures come with the reconcile and big-change rulings.
+> **v5-cc — 2026-11-16: big changes.** Threads closed by R089–R106 are marked **RESOLVED v5-cc (cc R###)** in place, never deleted: NP #2, #14, #62, #71; L9, L10, L12, L21, L22, L31; L13 and L34 in part.
 
 Two sections: **(A) Active pending decisions** (things to decide soon-ish), and **(B) the Deferred-Questions Log** (specific questions explicitly tabled until the relevant moment, grouped by trigger). Plus **(C) reconciliation flags** raised by this session's pivots.
 [REV v5] Plus **(D)–(E)** threads banked in earlier sessions (status-updated), **(F) ✅ resolved by the v5 canon**, **(G) new open threads from the v5 pass** (grouped by trigger, like B), and **(H) process / housekeeping threads**. [NEW v5-wk2] Plus **(I) open questions from the late-October pass**.
@@ -58,7 +59,7 @@ Two sections: **(A) Active pending decisions** (things to decide soon-ish), and 
 - Does he **know what Jon is** when the demon flinches? Pursue it or file it?
   - 🚫 MOOT v5: the flinch depended on the retired siphon pact (t520, t630).
 - His **limit/fate scene** — how it plays, reconciled with physical-combustion burnout.
-  - [REV v5] Still open (restored to `08`'s open list in round 2). Turns on **NP #2** (burnout) and **NP #38** (his pact on the new system).
+  - [REV v5] Still open (restored to `08`'s open list in round 2). Turns on **NP #2** (burnout) and **NP #38** (his pact on the new system). **NP #2 RESOLVED v5-cc (cc R096):** burnout is the body breaking; his scene itself is still open.
 - His **name**.
   - [REV v5] "Orc King" is a symbolic title; "orcs in the past never had a king" (t520).
 - [NEW v5] His **patron** — who taught him entropy. Open; Claude's "elder changeling near the forgetting horizon" is F21.
@@ -76,7 +77,7 @@ Two sections: **(A) Active pending decisions** (things to decide soon-ish), and 
 - Does **Jon share all his flashback fragments with Lirael** before her death, or withhold some? *(Note: under the recut, Lirael's full arc is notes-only — so this shapes the unwritten material, not on-page text.)*
   - [REV v5] Lirael is no longer notes-only: she is long dead, killed by Jon with her own Collapse (t386, t616), present as a statue and a legend (t392–396), and in Jon's last flashback and line (t742). The question stands as backstory.
 - The **elven king** — met, or background? Does he know what the Council became?
-  - [REV v5] Did Mika, as elven king, dictate the exodus (jul08 t249–253; jul23 t132)? **NP #71**.
+  - [REV v5] Did Mika, as elven king, dictate the exodus (jul08 t249–253; jul23 t132)? **NP #71**. **RESOLVED v5-cc (cc R094):** yes, Mika alone; Jon is just his friend.
 
 ### When we build the GODS / DEMONS / OTHER PLANES (largely Book 3)
 [REV v5] "(largely Book 3)" → Book 4 is now the multiverse (t454, t458).
@@ -166,7 +167,7 @@ Two sections: **(A) Active pending decisions** (things to decide soon-ish), and 
 - **B2 lead — scout/check-in or stranded/one-way returnee?** (stranded = stronger grimdark engine; scout = keeps elven empire live for B3).
   - [REV v5] Still open, now with the Book 2 protagonist and POV conflicts: **NP #76**.
 - **Does the exodus partly fail / land too late for some?** (a clean total success is a little un-grimdark).
-  - [REV v5] Still open. The exodus is now a top-down royal directive (jul23 t132), shown in flashback in Book 2 (t454); who led it is **NP #71**.
+  - [REV v5] Still open. The exodus is now a top-down royal directive (jul23 t132), shown in flashback in Book 2 (t454); who led it is **NP #71** (**RESOLVED v5-cc, cc R094:** Mika alone). The partial-failure question stays open.
 - **Do the elves ever realize the abundance-blindness error?** (leaning: one does, and is/mentors the B3 protagonist).
   - [REV v5] The "mentors the B3 protagonist" lean is retired with that protagonist; whether any elf realizes the error stays open.
 - POV: is the finale the one earned **god-POV rupture**, or reworked to the mortal's shoulder? (`13`)
@@ -203,18 +204,18 @@ Two sections: **(A) Active pending decisions** (things to decide soon-ish), and 
 - ✅ **Orc three-masters chain (ruled):** giants → dragons (after fighting for them) → humans; never self-freed; "earned it" purely the world's lie; goblin-enslavement = trauma-replication (`10`). 🟡 B3 liberation-rhyme proposed/standing, placement open (active deed vs. consequence of Derrek's fall).
   - 🚫 MOOT v5 — the B3 liberation-rhyme: retired with the Book-3 elf hero (`10` RETIRED; t304–312, t350, t454). The orc rebellion now lives in the far future as a contagion around the Orc King (t526).
 - **Darkest Age:** ✅ RESOLVED: the giants' era WAS named and was ERASED (dragon-controlled record) + decayed by deep time (dragons' Age is recent enough to be remembered — `03` generational depth); recorded as part of the giants' wound (`07`). Still open 🌊: the igniting event of the revolt — deliberately undecided, to emerge when that history is written.
-  - [REV v5] "Erased by the dragon-controlled record" turned out to be Claude's embellishment (jul08 t163/t164); `07` now tags it 🌊 (F28). The igniting event: betrayal day — the emperor's closest advisor's deliberate strike (t262, t268) — is now canon; whether it settles the "mythic igniting event" is **NP #62**.
+  - [REV v5] "Erased by the dragon-controlled record" turned out to be Claude's embellishment (jul08 t163/t164); `07` now tags it 🌊 (F28). The igniting event: betrayal day — the emperor's closest advisor's deliberate strike (t262, t268) — is now canon; whether it settles the "mythic igniting event" is **NP #62**. **RESOLVED v5-cc (cc R091):** yes — betrayal day and the coup are one uncoordinated event.
 
 ---
 
 ## F. [NEW v5] ✅ RESOLVED BY THE v5 CANON (closed threads, with the turns that settled them)
 - ✅ **The Council / Inquisition's origin.** One institution: an early elven king assembled it "as a counter measure. His right hand so to speak… to protect the elves from existential threats" (jul23 t150), first against changelings and that era's dragons (jul23 t161 pt10, confirmed t162), later repointed at the resets (jul23 t151; approved t630). Its main task was always "stopping the one/ones responsible for the resets" — so it unknowingly hunts its own god; dark elves are its side work (t490). Council → Inquisition is an evolution (t236).
 - ✅ **Why the time-god society never intervenes.** The premise was wrong: pairs "interfere with each other all the time" (t634); the society stays out only of Jon and Derrek's war — Derrek's territory (t636); its founding law is "watch but never join" (t650); the law breaks when Derrek kills an obedient newcomer and the founder openly backs Jon, starting a civil war (t652–654).
-- ✅ **The Historian.** Not a mere recorder: an agent-observer under a cover name (t636), one half of pair 3 and 4's line (t642), the society's founder (t650), a fan of Jon who turns to open support (t652). "Records rather than changes history" is superseded.
+- ✅ [NEW v5-cc] **RESOLVED v5-cc (cc R104):** the Historian is also the Arcavist and Barnaby, the fourth; Derrek killed his master and later him. **The Historian.** Not a mere recorder: an agent-observer under a cover name (t636), one half of pair 3 and 4's line (t642), the society's founder (t650), a fan of Jon who turns to open support (t652). "Records rather than changes history" is superseded.
 - ✅ **What a pact costs.** The holder pays effort and fatigue from their own limited Remnant (jul23 t108); Claude's "your own soul pays for every use" is retired.
 - ✅ **The siphon pact.** Retired: pacts grant technique, never Remnant (approved t630; jul23 t114, t174). A pact is the reverse of taking a soul (t666).
 - ✅ **Remnant transfer.** Not transferable — no gifts, loans or siphons; wholesale absorption is the one road (jul23 t108, t114, t116). (Its seam with rifts and reservoirs is still **NP #1**.)
-- ✅ [REV v5-wk2: revised — keeper, consumer and Blight are titles at every fractal level, motives individual (wk W36); whether "seeks maximum dissolution" still fits → L12] **Who the Blight is.** Only the parts of the level above that seek maximum dissolution; the Unified Ones are those who hold together (t176, t178). Derrek and his patron never supported the Blight (t180).
+- ✅ [REV v5-cc] **RESOLVED v5-cc (cc R102):** the title set and the t176 definition both retire; the Blight is a placeholder for the enemies of our reality; "keeper" is a plain word. [REV v5-wk2: revised — keeper, consumer and Blight are titles at every fractal level, motives individual (wk W36); whether "seeks maximum dissolution" still fits → L12] **Who the Blight is.** Only the parts of the level above that seek maximum dissolution; the Unified Ones are those who hold together (t176, t178). Derrek and his patron never supported the Blight (t180).
 - ✅ **Derrek's patron.** The puppeteer: a potential universe that never decohered, deliberately unnamed, whose magic both men borrow, neither willingly (t196). Motive open by design (t199).
 - ✅ [REV v5-wk2: superseded — book numbers and eras are placeholders, the old orders are dead; Book 1 opens with the son fleeing and ends at the window; a later book returns to the window; a later book is Jon's (wk W52–W55)] **The book order.** Book 1 the far future (the son's journey, Jon's final run); Book 2 the modern magic dystopia and the elven tale; Book 3 the past; Book 4 the multiverse (t454, t458). Every book ends at the window, with only two men there (t456, t458). "Book" is a loose term (t314).
 - ✅ **Who the hero is.** Derrek's son, unique to this run, Derrek's own ploy, an adult man and powerful, the reader's stand-in (t350, t360, t372, t752–756).
@@ -271,7 +272,7 @@ Two sections: **(A) Active pending decisions** (things to decide soon-ish), and 
 
 ### When we build the COSMOLOGY further
 - Why and how the in-between sits outside the event chain — "We will have to put serious work into eventually defining why and how thats true" (jul23 t100); **NP #13**.
-- "Hell" (**NP #5**) [v5-wk2 bearing: each dimension has three worlds — ours plus two lifeless clone-pockets the elves call heaven and hell, reached by their rift device (wk W27–W28)]; the pull of reunion (**NP #14**); who built the barrier (**NP #16**); one Blight entry point or many (**NP #17**); the Tower's reach (**NP #21**).
+- "Hell" (**NP #5**) [v5-wk2 bearing: each dimension has three worlds — ours plus two lifeless clone-pockets the elves call heaven and hell, reached by their rift device (wk W27–W28)]; the pull of reunion (**NP #14** — **RESOLVED v5-cc, cc R103:** theme only; breaks are local); who built the barrier (**NP #16**); one Blight entry point or many (**NP #17**); the Tower's reach (**NP #21**).
 - ⚠️ STRUCTURAL DEBT (from E, still open): the light face of dissolution.
 
 ### When we build the RACES further
@@ -298,7 +299,7 @@ Two sections: **(A) Active pending decisions** (things to decide soon-ish), and 
 - Book 2: protagonist, point of view, lead — **NP #76**; its tech register and orcs — **NP #77**.
 - The failure-ladder — **NP #78**; the restored "why final" reasons — **NP #79**; the Derrek reveal in the past-era book — **NP #80**.
 - Where the forgotten colony (jul23 t182–190) and the ASI cyborg go — **NP #81**.
-- Who led the exodus — **NP #71**. ✅ [v5-wk2] Jon led Mika and the elves away on the seedship (chat t263) ("Mika's order," first written in WEEK_RULINGS §J, was never stated and is withdrawn). Beside July's "Mika dictated it" (jul23 t132) → **L10**.
+- Who led the exodus — **NP #71**. ✅ [v5-wk2] Jon led Mika and the elves away on the seedship (chat t263) ("Mika's order," first written in WEEK_RULINGS §J, was never stated and is withdrawn). Beside July's "Mika dictated it" (jul23 t132) → **L10**. **RESOLVED v5-cc (cc R094):** Mika alone; the t263 reading is retired.
 - Law 7's reader path under the new order — **NP #82**.
 - The 40k tone — **NP #83**.
 - Earlier-session Book 1 gaps (memory overview): missing drafted scenes, the king's fate, a possible MIKA / THE PRINCE duplication; and medieval items not carried in — "the king dies in the battle, not at a parley", Mika's private separation decision. Their status under the past-era Book 3 is unknown.
@@ -327,16 +328,16 @@ Two sections: **(A) Active pending decisions** (things to decide soon-ish), and 
 - 🌊 How is a stored or stolen soul's power drawn on, now that Remnant can't be spent? (reservoirs, batteries, the giant stone, the master's black hole) — **L1**.
 - 🌊 Stealing production: driving the victim's grip, or an amplifier to a wider pool? (chat t83–t85) — **L2**.
 - 🌊 Objects hold souls without a holder, ghosts need one — Claude's proposal (chat t82), unanswered — **L11**.
-- 🌊 Blight as a title vs "seeks maximum dissolution" — **L12**; the two "keepers" — **L13**; Law 1's "seam" after the grip was mechanized — **L17**.
-- 🌊 Does a changeling's held soul feel dread too? — **L18**. Hell's drift vs elven justice — **L19**. The bond and disposition-reading — **L9**.
+- Blight as a title vs "seeks maximum dissolution" — **L12** (**RESOLVED v5-cc, cc R102**); 🌊 the two "keepers" — **L13** (title retired, cc R102; plain-word collision with the maze keeper still open); Law 1's "seam" after the grip was mechanized — **L17**.
+- 🌊 Does a changeling's held soul feel dread too? — **L18**. Hell's drift vs elven justice — **L19**. The bond and disposition-reading — **L9** (**RESOLVED v5-cc, cc R098:** the bond is a sensory organ whose reach scales with Remnant and distance; up-close will-binding still open).
 - 🌊 Humans' road to godhood vs Law 4's "any mortal" — **L16**; god-devotion / demon-deal vs religion as pact networks — **L15**.
 - 🌊 The organ trade's stock and supply chain (Claude, chat t348, t350) — **L32**.
 - [NEW v5-cc] 🌊 **Sickness — Patrick's open questions, nothing ruled** (BANK 11-16 [OPEN · sickness]): "what about tiny chunks of remnant in parasites or bacteria? Would this world have more intelligent more durable microbes?… So maybe theres some super sicknesses. What about a sickness of the soul? If all life is filled with as much remnant as their body can carry would that mean each individual cell is holding remnant inside?" (cc R039). Outside-chat microbe ideas are not used.
 
 ### Jon, Derrek and the cast
 - 🌊 Who can threaten Derrek, and does Jon's lent power count as "beyond the regress"? — **L4**.
-- 🌊 Jon sincere vs "doesn't feel anything" — **L6**; Lirael "forced" vs "on purpose" — **L14**; Jon's own time-sense vs "Derrek sees time" — **L25**; the never-were lesson beside why he stops — **L26**; the reset-fog defeat vs Derrek planning the son — **L27**; "both can absorb" vs Derrek's closed body — **L29**; the "mask word" heading — **L31**.
-- 🌊 The Historian's founding pair (chat t51 "student" vs t650 "master") — **L21**.
+- 🌊 Jon sincere vs "doesn't feel anything" — **L6**; Lirael "forced" vs "on purpose" — **L14**; Jon's own time-sense vs "Derrek sees time" — **L25**; the never-were lesson beside why he stops — **L26**; the reset-fog defeat vs Derrek planning the son — **L27**; "both can absorb" vs Derrek's closed body — **L29**; the "mask word" heading — **L31** (**RESOLVED v5-cc, cc R094:** Jon is not the elves' leader or god).
+- The Historian's founding pair (chat t51 "student" vs t650 "master") — **L21**. **RESOLVED v5-cc (cc R104):** the master died; the Historian is the apprentice.
 - 🌊 The gnome changeling's village vs the pace rule — **L24**; the Orc King as a changeling vs his pact — **L30**.
 
 ### The Tower and the books
@@ -344,11 +345,11 @@ Two sections: **(A) Active pending decisions** (things to decide soon-ish), and 
 - 🌊 The changeling's attack and the apprentice's technique, without burned Remnant — **L8**.
 - 🌊 Where the Lirael line, the sigh and the white land now that Book 1 has no plea; the t656 "refusal" — **L3**.
 - 🌊 The series spanning resets vs "earlier loops never dramatized"; whether Jon's waking stays ambiguous — **L5**.
-- 🌊 The exodus: Jon leading (chat t263) beside July's Mika dictating (jul23 t132) — **L10**.
+- The exodus: Jon leading (chat t263) beside July's Mika dictating (jul23 t132) — **L10**. **RESOLVED v5-cc (cc R094):** Mika alone.
 - 🌊 Cast goal — every race's hero, factions, god, changeling — Book 1 or the series? (chat t159) — **L33**.
 - 🌊 Duality's three-part test vs "the name versus the act" — **L28**.
 
 ### Process
-- 🌊 Every line of prose is Patrick's (chat t257): what happens to 12's drafting rules and the Claude-drafted passages in 13/SCENES — **L34**.
+- 🌊 Every line of prose is Patrick's (chat t257): what happens to 12's drafting rules and the Claude-drafted passages in 13/SCENES — **L34**. **RESOLVED v5-cc in part (cc R106):** Claude drafts from Patrick's ideas through the engine; his lines are protected. 13's production plan is still open.
 - 🌊 Keep Claude's phrasings "cost gradient, not a gate" and "felt rather than reported, unreliable"? — **L35**.
-- 🌊 Real-world shorthand ("like the UN") — **L23** / NP #9. Clinical-label paraphrase in 07 — **L20**. Dragon decline bullet vs feudal empire — **L22**.
+- 🌊 Real-world shorthand ("like the UN") — **L23** / NP #9. Clinical-label paraphrase in 07 — **L20**. Dragon decline bullet vs feudal empire — **L22** (**RESOLVED v5-cc, cc R090:** a true society; the bullet is retired).

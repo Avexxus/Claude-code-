@@ -9,6 +9,8 @@
 > v5 — Oct 2026 (updated after the cross-file pass, `XFILE_consistency.md`). Numbers 36, 88 and 95 were settled by that pass and moved to the end; the other numbers are unchanged so cites elsewhere still hold. Companion files: `11_OPEN_THREADS.md` (the story-layer open list) and `FLAGGED_ADDITIONS.md` (Claude-proposed material awaiting your word).
 >
 > **v5-wk2 — 2026-10-31.** Items settled by the late-October rulings (`WEEK_RULINGS.md` section J, as corrected by the raw-chat audit) are marked **RESOLVED v5-wk2** under their old numbers. New questions from that pass are in **FROM THE LATE-OCTOBER PASS** just below (numbered L1–L35 so the old numbers still hold). Extra cite keys: `wk W##` = a late-October ruling; `chat tNNN` = a turn of the late-October session's raw chat (a different chat from the physics chat's `t###`). Sources: `changes/A_magic_wk.md`, `B_world_wk.md`, `C_story_wk.md` (CONFLICTS LEFT), `changes/AUDIT_t040-239.md`, `AUDIT_t240-end.md`, `changes/FIX_wk2.md`.
+>
+> **v5-cc — 2026-11-16 (pass, step 2: big changes).** Items Patrick's big-change rulings settle are marked **RESOLVED v5-cc (cc R###)** in place, never deleted: L4 (part), L5 (part), L9, L10, L12, L13 (part), L21, L22, L31, L34 (part), #1 (part), #2, #12 (part), #14, #16 (part), #47 (part), #62, #71, #75 (part). Ledger: `decisions/RULINGS.md` R089–R106.
 
 ---
 
@@ -19,18 +21,22 @@
 - **L1. Remnant can't be spent (wk W10) — so how is a stored or stolen soul's power drawn on?** Against it: reservoirs as "stored fuel"/"battery" and enchantments "finite… until spent" (06, 01, MSE); the drained dragon's batteries (t50) and the slave planet's "endless energy" (t54) (07); the giant stone "craftsman's power is the source" (t34) (04); the master "feeds it himself and his remnent" (t432) (08, 09, 13). *(A5, A14, B07-3, C3; continues old #1.)*
 - **L2. Stealing production — what is the mechanism?** The thief drives the victim's grip (Claude, chat t84), or "an amplifier to touch a wider pool" (you, chat t83: "Im not sure"). Now 🌊 in 01, 02, 03, 04, 05, 06, 07, 08, 10, 13, MSE. *(Audit W11.)*
 - **L3. Book 1's ending.** Book 1's window has no plea (wk W53). Do the sigh, the Lirael flashback, "at least I'll get to see her again" and the fade to white stay in Book 1, move to the later window book, or both? Does the confession aimed at the son (t731–t736) stay? Does any pre-window "refusal" of Derrek's pressure (t656) survive beside wk W50? — 08, 09, 13, SCENES, 02 Law 19. *(A3, C1, C2; continues old #4.)*
+- **RESOLVED v5-cc in part (cc R105):** their bodies can be destroyed and nothing in the world stops them dying; the story never allows Jon or Derrek to die (a story rule). Whether Jon's power counts as "from beyond the regress" is still open.
 - **L4. Who can threaten Derrek.** wk W38 plus your condition "if they are powerful and outsmart derrek" (chat t317) vs "Jon can kill Derrek" (t370): does Jon's time power, lent by the keeper (wk W35), count as power from beyond the regress? — 01, 02 Law 4b, 07, 08. *(A1; continues old #12.)*
+- **RESOLVED v5-cc in part (cc R089, R100):** the order is ruled; Books 1–3 sit inside the current run and end at the window; Book 4 is the cosmic book and Jon's book folds into it. The t330 tension and the "which waking" question stay open.
 - **L5. The series shape vs "earlier loops never planned or dramatized" (t330).** wk W42 (the series spans resets), W54 (a later book reveals the jumps and pleas), W55 (Jon's book wakes in the past). Also: must Jon's book keep it ambiguous which waking it is (Claude, chat t198), or is it simply a reset ("Presumably just doing a reset," chat t197)? — 01, 02 Law 19, 09. *(A2, audit W55; bears on old #75.)*
 - **L6. Jon: sincere, or empty?** "Openly sincere, warm, honest" (wk W44) and "the charm is his autopilot" (chat t249, t261) vs t744 "Only we know he doesnt feel anything" and the says-kind/does-cruel craft rule; 09/13 still call the Lirael line "his one real feeling" (t745). — 08, 09, 13. *(C5.)*
 - **L7. The Tower's identity.** Is the emperor whose Convergence trapped the city's Remnant in the stone (wk W15) the converged giant king of betrayal day (t86)? How does "the largest giant city, compressed" (wk W16) sit with "the blast nuked the entire capital" (t88)? — 01, 07, 08, 10, 13. *(A7, B07-7.)*
 - **L8. Two Tower deaths have lost their mechanic.** The changeling's soul attack (t342, t774) and the apprentice's rift technique (t768 — "latent pools of remnant," "spends everything") read as burning Remnant, which wk W10 rules out; nothing replaces them. Are the apprentice's "latent pools" the Tower's trapped Remnant (wk W15–W16)? Does the technique keep its name? — 05, 08, 09, 13, SCENES. *(A8, A9, C12, C13.)*
+- **RESOLVED v5-cc (cc R098):** the bond is an extrasensory organ, not a tether; reach scales with Remnant and distance (faint far off, a beacon at a homeworld, plain up close). Whether July will-binding survives up close is still open.
 - **L9. The elven bond doesn't track individuals (wk W08)** — vs July disposition/thought monitoring (jul23 t132) and escapees "felt through the bond as wrong and warped" (t228). Compatible (no location-tracking), or does one go? — 01, 04, 07, 10. *(A10, B07-6.)*
+- **RESOLVED v5-cc (cc R094):** Mika alone ordered it; Jon is just Mika's friend; the elves are independent through and through.
 - **L10. The exodus.** Jon led Mika and the elves away on the seedship (chat t263) — and July has Mika, as king, dictating the leaving (jul23 t132). Both, or does one go? — 07, 09, 10. *(Audit WR-2.)*
 
 **The rest**
 - **L11.** wk W14 — objects hold souls without a holder, ghosts need one — is Claude's chat t82 proposal you never answered. Adopt or drop? If adopted, which t512 vessels (own body, amulet, armor) need a holder? — 01, 02, 04, 05, 06, 07, 13, MSE, PI. *(Audit W14, A6.)*
-- **L12.** The Blight as a title with individual motives (wk W36) vs "the parts who seek maximum dissolution" (t176, t178). — 02 Law 13, 03, 07. *(A4, B07-1.)*
-- **L13.** "Keeper" now names two things: the maze in-betweener's keeper (t158–t160) and the keeper at each fractal level (wk W35–W36). Rename one? — 01, 06, 07. *(B07-2.)*
+- **L12. RESOLVED v5-cc (cc R102):** both retire; the Blight is a placeholder for the enemies of our reality. The Blight as a title with individual motives (wk W36) vs "the parts who seek maximum dissolution" (t176, t178). — 02 Law 13, 03, 07. *(A4, B07-1.)*
+- **L13. RESOLVED v5-cc in part (cc R102):** the fractal-level title retires; "keeper" stays only as a plain word for our Unified One. Whether that still collides with the maze's keeper is open. "Keeper" now names two things: the maze in-betweener's keeper (t158–t160) and the keeper at each fractal level (wk W35–W36). Rename one? — 01, 06, 07. *(B07-2.)*
 - **L14.** Lirael: "forced to kill her with her own attack" (t386, t616) vs "killed her on purpose, again and again" (wk W45). — 05, 08. *(A11.)*
 - **L15.** "A god asks for your devotion; a demon offers you a deal" (t548) vs wk W57 (religions are networks of pact champions) and W32 (no formula); also 10's "god-blessing and demon-deal are the same act." — 06, 08, 10. *(A12, B10-2; continues old #33.)*
 - **L16.** Humans reach godhood only by time-fusion or theft (wk W31) vs Law 4's "given enough Remnant and time a mortal simply becomes one" and Tier 1's "any user" (t668). — 02, 07. *(A13, B07-8.)*
@@ -38,8 +44,8 @@
 - **L18.** Does wk W13 (a bound soul feels dread) reach souls held inside a changeling (left unanswered on purpose before)? — 07. *(B07-4.)*
 - **L19.** Hell drifted to dissidents and vagrants (wk W25) vs "dissent is handled by rigid enforcement, not exile; only soul/body theft sends an elf there" (t682–t683). — 07, 10. *(B07-5, B10-1.)*
 - **L20.** The no-clinical-labels rule vs 07's paraphrase "effectively psychopaths" for changelings (your own "highly sociopathic"/"psychopaths" quotes are kept). Reword the paraphrase? — 07. *(B07-9.)*
-- **L21.** The Historian's founding pair: chat t51 says "his student stepped forward he was killed"; t650 says his master was torn apart; wk W54 keeps it ambiguous. Does the society's founding text (master torn apart, survivor) stay as written? — 07, 08, 09. *(B07-10, audit missing #2.)*
-- **L22.** Dragons: 10's July decline bullet ("each dragon its own independent king… not enough dragons") vs 07's feudal empire (t260). Pre-existing. — 07, 10. *(B10-3.)*
+- **L21. RESOLVED v5-cc (cc R104):** the Arcavist, the Historian and Barnaby are one person, the fourth; Derrek killed his master, the third, and later Barnaby. "Torn apart by the 2" vs "Derrek kills" is left as written. The Historian's founding pair: chat t51 says "his student stepped forward he was killed"; t650 says his master was torn apart; wk W54 keeps it ambiguous. Does the society's founding text (master torn apart, survivor) stay as written? — 07, 08, 09. *(B07-10, audit missing #2.)*
+- **L22. RESOLVED v5-cc (cc R090):** dragons are a true society (cities, universities, firms, fleets; fewer than humans or elves); the "independent king" bullet is retired. Dragons: 10's July decline bullet ("each dragon its own independent king… not enough dragons") vs 07's feudal empire (t260). Pre-existing. — 07, 10. *(B10-3.)*
 - **L23.** "Like the UN" (wk W60) is kept as your comparison; it falls under old #9 (real-world comparisons). — 10, 12. *(B10-4.)*
 - **L24.** The gnome changeling enslaved his whole village by ritual (t778) vs the 1–2 souls pace (wk W16) and one driver only at a sustainable pace (wk W22): an unsustainable case, or a different ritual? — 07, 08. *(C4; bears on old #55.)*
 - **L25.** Jon's own "temporal perception" through his Spirit nature vs wk W39 (Derrek sees time; Jon jumps). — 08. *(C6; bears on old #67.)*
@@ -48,10 +54,10 @@
 - **L28.** Does 09's strict three-part duality test survive beside "duality = the name versus the act" (wk W29, W57)? — 09, 12. *(C9.)*
 - **L29.** "Both can absorb" (jul23 t119–t120) vs "Derrek never lets anyone into his own body" (wk W51). — 06, 08. *(C10.)*
 - **L30.** The Orc King as the orc of the changeling cast (wk W23) vs his built entropy pact and soulless dead; the rework is held. — 08. *(C11.)*
-- **L31.** 08's heading "'gardening' is a mask word" (t550) now reads against wk W44 (Jon hides nothing but the Lirael secret). The body text is revised; rename the heading? — 08 (also 09, 10). *(C14.)*
+- **L31. RESOLVED v5-cc (cc R094):** Jon is not the elves' leader or god; gardening as his role with the elves is retired. 08's heading "'gardening' is a mask word" (t550) now reads against wk W44 (Jon hides nothing but the Lirael secret). The body text is revised; rename the heading? — 08 (also 09, 10). *(C14.)*
 - **L32.** wk W67: are the legal market's stock (clones, convicted elves, stateless dark elves — Claude, chat t350) and the chip's slaver company as the supply chain (Claude, chat t348) yours? Now 🌊. — 01, 06, 07, 10. *(Audit OV-1.)*
 - **L33.** The cast goal — show each race's hero, factions, god and changeling (chat t159) — for Book 1 or the whole series? — 09. *(Audit missing #12.)*
-- **L34.** Every line of prose is yours (chat t257). Do 12's "Drafting story and scenes" rules (written for Claude's drafts) retire or narrow to beats, and what is the status of Claude-drafted passages already in 13 and SCENES? — 12, 13, SCENES. *(Audit M1.)*
+- **L34. RESOLVED v5-cc in part (cc R106):** Claude drafts the prose from your ideas through the engine; your own lines are protected (BANK 11-09, 11-16). What happens to 13's production plan and cleaning rule is still open. Every line of prose is yours (chat t257). Do 12's "Drafting story and scenes" rules (written for Claude's drafts) retire or narrow to beats, and what is the status of Claude-drafted passages already in 13 and SCENES? — 12, 13, SCENES. *(Audit M1.)*
 - **L35.** Keep Claude's phrasings as codex wording? "A cost gradient, not a gate" (chat t60, t66 — the substance is yours, t65) and "felt rather than reported, unreliable" (chat t226 — the rarity and anti-"video gamey" rule are yours, t223, t225). — 02, 04, 12, WEEK_RULINGS. *(Audit W04, W09.)*
 
 ---
@@ -59,6 +65,7 @@
 ## TOP DECISIONS (the 12 that the most text depends on)
 
 ### 1. Can Remnant from outside a being enter it, or be spent by it?
+- **RESOLVED v5-cc in part (cc R097, R099):** your own Remnant is capped by your physical capacity; devices and grafted flesh add capacity, and soul magic crams more in (held by Will and your own coherence); your own fragment still can't be given away. Enchantment is Remnant held inside something. How reservoirs and drains are drawn on (L1) is still open.
 - **RESOLVED v5-wk2 (in part):** Remnant cannot be burned or spent — "we cant burn remnant" (wk W10; WEEK_RULINGS §J). Taking others' Remnant is "stealing their production" (wk W11; mechanism open → **L2**). Every "burn/spend/fuel" case below is overturned as written; how a stored or stolen soul's power is drawn on is **L1**.
 - **The rule as written:** Remnant cannot be given, lent, shared or siphoned; the only road is wholesale absorption (jul23 t108, t114, t116). Constitution Law 2: Remnant is fixed in the living, raisable only by harvesting, never fuel and never a pool.
 - **Canon that seems to move or spend outside Remnant:**
@@ -75,6 +82,7 @@
 - *Logged by:* 02 r1 C3, C5; 02 r2 C3; 03 r2 C2; 04 r1 C1, C2; 04 r2 C2; 05 r1 C3; 06 r1 C2.
 
 ### 2. Does pushing past your limit burn you (a named "overdraw"/burnout), or is the limit only exhaustion?
+- **RESOLVED v5-cc (cc R096):** fatigue stays the everyday bill; **burnout** is the body breaking when it carries more than it can hold, usually through amplifiers; Remnant is never destroyed. The BURNOUT tripwire is retired. How each scene (apprentice, master, Orc King) reads is the scene reconciles.
 - **Retired:** the Constitution's BURNOUT tripwire is "retired OUTRIGHT (both versions — incl. physical combustion fire-limit)"; the universal limit is exhaustion (02, 04).
 - **Other side:**
   - the apprentice "pushes past his limit", bursts into fire from inside and dies (t768, your scene);
@@ -180,6 +188,7 @@ The verifiers removed every 🔒 you never gave explicitly; they now read ✅ "c
 - *Logged by:* 10 r1 C1, r2 C2, v fix 4.
 
 ### 12. Who can kill a time god?
+- **RESOLVED v5-cc in part (cc R105):** in the world, nothing stops Jon or Derrek dying (Derrek killed Barnaby and his master); the story never allows it. Whether a mortal could, in principle, is answered "technically yes"; who may on the page is "no one".
 - **RESOLVED v5-wk2 (in part, for Derrek):** only a god armed with power from beyond the regress could threaten Derrek (wk W38), "if they are powerful and outsmart derrek" (chat t317). How Jon fits → **L4**. (a), the reverse case for Jon, is still open.
 - **What you ruled:** "I said the mortal before him cannot kill him. Nothing says another god cannot. And jon is a god." (t370) — about Derrek. The staged files now say: no mortal can kill Derrek; Jon can.
 - **Open:**
@@ -200,6 +209,7 @@ The verifiers removed every 🔒 you never gave explicitly; they now read ✅ "c
 - *Logged by:* 01 r2 C11, V1; 02 r1 C12, r2 C2; 03 r2 C3.
 
 ### 14. Is the pull of reunion a cosmic force, or theme only?
+- **RESOLVED v5-cc (cc R103):** theme only; breaks are local and vary by universe; "the pull compelled" and "every universe has its own pair" are retired.
 - **Sides:** t460/t463 "the universe itself birthed along side reunion… the force which compelled the portal to be open"; t228 heaven and the prison as the elves' "reunion and dissolution"; jul23 t134 the elves "use reunion at all cost" (an elven drive). v4 retired the Reunion↔Separation poles as cosmology.
 - **Status now:** after the cross-file pass, 01, 02 and 03 all carry the pull itself as ✅ (Patrick-stated, t460–463). The open part: does it reopen the retired poles? 03's boundary: the poles stay retired as character machinery (no pole-positions, no pole-motives).
 - **Touches:** 01, 02 (Law 12), 03, 09.
@@ -212,6 +222,7 @@ The verifiers removed every 🔒 you never gave explicitly; they now read ✅ "c
 - *Logged by:* 01 r2 C12; 02 r1 C6; 06 r1 C10.
 
 ### 16. Who built the barrier — and is it the puppeteer?
+- **RESOLVED v5-cc in part (cc R102):** endless Unified Ones defend from outside, and "keeper" is a plain word for ours (the puppeteer). Who built the barrier itself is not re-ruled.
 - **Sides:** v4 and t174: the Unified Ones (plural) built it · t184: "the protective shield the unified one had established" (singular). If singular, is it the same being as the puppeteer? 03 keeps the plural.
 - **Touches:** 03.
 - *Logged by:* 03 r1 C6, r2 C5.
@@ -392,6 +403,7 @@ The verifiers removed every 🔒 you never gave explicitly; they now read ✅ "c
 - *Logged by:* 07 r1 C3, C4; 10 v fix 7.
 
 ### 47. Dragon-rework leftovers
+- **RESOLVED v5-cc in part (cc R090, R045):** (a) a true society, fewer than humans or elves; (d) dragons design and others build; (e) dragons don't care whose dead are in the hull, so the cold-toward-crew beat fits. (b) and (c) are not re-ruled.
 - **(a) Numbers.** The "handful / very scarce" lock is retired (t260: houses, wives, children). You said only "Less of them still… a small group." v4's "prolific" was dropped without a marker — retire it? What is the scale?
 - **(b) Retreat.** jul08 t267 dragons retreated to rule "from the shadows" once humans closed the gap vs t300 some of the dragon king's descendants still rule openly. Both, or one?
 - **(c) Corporate shift.** jul08 t273–275 (old dragons in castles, the young in human systems, conglomerates) vs t300 remote palaces and t444 home-brew ships. They read as compatible; confirm.
@@ -476,6 +488,7 @@ The verifiers removed every 🔒 you never gave explicitly; they now read ✅ "c
 - *Logged by:* 10 r1 C11.
 
 ### 62. Has the betrayal day settled the giants' "igniting event"?
+- **RESOLVED v5-cc (cc R091):** yes. Betrayal day and the coup are one event, not coordinated; a few were warned, the rest was opportunism; uneven, so some giants survived.
 - **Sides:** v4 keeps "a key igniting event… deliberately undecided/mythic" (still parked in the ledger, t130); betrayal day — the advisor's strike — is now canon (t262–268). Separate, or settled by it?
 - **Touches:** 07.
 - *Logged by:* 07 r1 C15.
@@ -530,6 +543,7 @@ The verifiers removed every 🔒 you never gave explicitly; they now read ✅ "c
 - *Logged by:* 09 r2 C6.
 
 ### 71. Mika: is the Prince Mika, and did Mika lead the exodus?
+- **RESOLVED v5-cc (cc R094):** (b) Mika alone led the exodus; Jon is just Mika's friend. The v5-wk2 "Jon led Mika and the elves away" is retired.
 - **RESOLVED v5-wk2:** (a) **The Prince is Mika**; Lirael is his sister (wk W45; §J). (b) **Jon led Mika and the elves away on the seedship** — *"Him leading mika and the elves away on the seed ship"* (chat t263). WEEK_RULINGS §J first wrote "Mika's order; Jon gardened it"; the audit found "Mika's order" was never stated, so it is withdrawn (`changes/AUDIT_t240-end.md` WR-2). How t263 sits with July's "Mika dictated it" (jul23 t132) → **L10**.
 - **(a)** July ruled the Prince is Mika (jul23 t17, t73); the physics chat retired Mika as protagonist (t350) and kept him only as the friend homage (t762). 08 keeps the Prince as Lirael-era backstory.
 - **(b)** Mika as the elven king who dictated the exodus 500 years before Book 2 (jul08 t249–253; jul23 t18, t132) vs Jon leading the elves from Earth (t454). Could be both.
@@ -558,6 +572,7 @@ The verifiers removed every 🔒 you never gave explicitly; they now read ✅ "c
 - *Logged by:* 03 r2 C4; 09 r2 C2, V1; recovery NP1.
 
 ### 75. Book 3 "wraps around to where jon is jumping again" vs final run only
+- **RESOLVED v5-cc in part (cc R089, R100):** Book 3 is the late Darkest Age inside the current run, ending at the window; Jon's own book folds into Book 4. The t454 line itself is not retired yet (A-68).
 - **Sides:** t454 (Book 3 returns to Jon jumping; "people from the future are in this book") vs t328 / t366 (only the final run is shown; Jon stopped jumping).
 - **Touches:** 09.
 - *Logged by:* 09 r1 C3.
