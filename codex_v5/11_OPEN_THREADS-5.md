@@ -8,6 +8,7 @@
 > **Where the decisions live:** questions only Patrick can settle — the conflicts between two sources — are numbered in **`NEEDS_PATRICK.md`** (cited here as "NP #"). Claude-proposed material awaiting a yes or no is in **`FLAGGED_ADDITIONS.md`** ("F#"). This file keeps the story-layer threads: what is still to be built, and when.
 > **Cite key:** `t###` = the October physics chat; `jul08 t###` / `jul23 t###` = the July chats.
 > **v5-wk2 — 2026-10-31:** updated after the late-October rulings (`WEEK_RULINGS.md`, folded as v5-wk) and the raw-chat audit (v5-wk2). Threads the rulings settled are marked `✅ [v5-wk2]` with the ruling (`wk W##`) or raw-chat turn (`chat tNNN` — the late-October session, not the physics chat); old ✅ lines the rulings revised carry a `[REV v5-wk2]` note; new open questions are in **section I**, each pointing to its `NEEDS_PATRICK.md` "L#" item. Nothing deleted.
+> **v5-cc — 2026-11-16: pass, clean adds only.** One new open thread (sickness, cc R039, section I). No thread is closed by the clean adds; closures come with the reconcile and big-change rulings.
 
 Two sections: **(A) Active pending decisions** (things to decide soon-ish), and **(B) the Deferred-Questions Log** (specific questions explicitly tabled until the relevant moment, grouped by trigger). Plus **(C) reconciliation flags** raised by this session's pivots.
 [REV v5] Plus **(D)–(E)** threads banked in earlier sessions (status-updated), **(F) ✅ resolved by the v5 canon**, **(G) new open threads from the v5 pass** (grouped by trigger, like B), and **(H) process / housekeeping threads**. [NEW v5-wk2] Plus **(I) open questions from the late-October pass**.
@@ -330,6 +331,7 @@ Two sections: **(A) Active pending decisions** (things to decide soon-ish), and 
 - 🌊 Does a changeling's held soul feel dread too? — **L18**. Hell's drift vs elven justice — **L19**. The bond and disposition-reading — **L9**.
 - 🌊 Humans' road to godhood vs Law 4's "any mortal" — **L16**; god-devotion / demon-deal vs religion as pact networks — **L15**.
 - 🌊 The organ trade's stock and supply chain (Claude, chat t348, t350) — **L32**.
+- [NEW v5-cc] 🌊 **Sickness — Patrick's open questions, nothing ruled** (BANK 11-16 [OPEN · sickness]): "what about tiny chunks of remnant in parasites or bacteria? Would this world have more intelligent more durable microbes?… So maybe theres some super sicknesses. What about a sickness of the soul? If all life is filled with as much remnant as their body can carry would that mean each individual cell is holding remnant inside?" (cc R039). Outside-chat microbe ideas are not used.
 
 ### Jon, Derrek and the cast
 - 🌊 Who can threaten Derrek, and does Jon's lent power count as "beyond the regress"? — **L4**.

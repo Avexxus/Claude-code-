@@ -102,6 +102,10 @@
 - **v5-wk2 — the raw-chat audit applied.** The ledger was checked against the raw chat (turns 40–437): `changes/AUDIT_t040-239.md`, `changes/AUDIT_t240-end.md`. Corrections `[REV v5-wk2] (was: …)`; 30 missed Patrick decisions added as `[NEW v5-wk2]`, cited `(chat tNNN)`. Key fixes: exodus (Jon led Mika and the elves away, chat t263); W47 hatred line (t243, t301); W11 grip mechanism, W14, W55's ambiguity, W67's categories and supply chain → 🌊; W70's "moral weight" withdrawn; W38 condition (t317). New method rules in `12`: no active writing / Patrick calls the pass (t55, t57); every line of prose is his (t257). Log: `changes/FIX_wk2.md`.
 - **New sections to know:** `01` TERMS ADDED IN v5-wk; `03` The three worlds; `08` GODS — THE SLATE and THE CHANGELING CAST; `10` RELIGION, CLONES, THE ORGAN TRADE, THE UNDEAD; `12` No clinical labels in codex prose; `11` section I; `NEEDS_PATRICK` From the late-October pass; `FLAGGED_ADDITIONS` F174–F182. `WORLD_OVERVIEW.md` refreshed to the current canon.
 
+### [NEW v5-cc] Changelog — v5-cc pass, step 1: clean adds (2026-11-16)
+- **Clean adds applied.** Patrick's words from `decisions/BANK.md` (Oct 31–Nov 16) and `decisions/CATCHUP_2026-11-13_to_15.md` that conflict with nothing, logged as **R001–R071** in `decisions/RULINGS.md` and written in as `[NEW v5-cc]` lines cited `(cc R###)`. Files: `01` (new block TERMS ADDED IN v5-cc: TOOLKIT, SHEET), `03` (the bleed, rifts follow Jon, new section *The outer region*, how a reset works), `04`, `06`, `07` (toolkit and curses, dragons, cathedral ships, the Returned), `08`, `09`, `10`, `11` (sickness, open), `13`. No 🔒, no retirements, no `(was: …)` revisions in this step.
+- **Held for the next steps:** R072–R088 are clean adds skipped because they touch a reconcile or big-change item; the reconcile and big-change rulings (dials, burnout, ceilings, the bond, enchantment types, series order, betrayal day, the exodus, nesting, the Blight, pairs, the Arcavist, the death-reset) are not applied yet. `WORLD_OVERVIEW.md` is not refreshed until they are. Log: `work/pass_2026-11/apply_clean_log.md`.
+
 ---
 
 ## 🚫 RETIRED v5 (lines from the v4 index)
