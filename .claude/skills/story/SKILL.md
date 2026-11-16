@@ -51,10 +51,26 @@ If Patrick gives only a seed, pitch 3 short briefs, a few lines each, and let hi
 
 Bank his answers in `decisions/BANK.md` only if they touch the world. Story-local answers go in `00_brief.md`.
 
-## Stage 3: Drafting
+## Stage 3: Drafting, beat by beat (Patrick, 2026-11-16; replaces drafting whole chapters in batches)
+A beat is one turn of a scene: a goal and its pushback, or a reaction and a choice. It's usually 500 to 2,000 words, with room to breathe. Draft **in story order, one beat at a time**, and never start the next beat until Patrick has approved this one.
+
+For each beat:
+1. **`story-writer`** drafts `beats/draft/<id>_v1.md` from its card and from every approved beat before it. It gets space: no compressing to hit a word count.
+2. **`sense-checker`** asks whether it makes sense: motives, how the world behaves, cool moments with nothing under them, leaps, clipped joins, convenience, broken on-page rules, and telling instead of showing.
+3. **`payoff-keeper`** updates `ledger_seeds.md` and `ledger_rules.md` and judges whether each payoff is earned.
+4. **`story-writer`** fixes what the sense-checker and payoff-keeper ranked FIX FIRST, giving `_v2`.
+5. **`dialogue-editor`** makes the talk human: no exposition, no speeches, a distinct voice for each speaker. That gives `_v3`.
+6. **`line-editor`** runs the `natural` pass (and `grimdark` where the beat calls for it), then **`story-guard`** checks it.
+7. **Patrick** sees the beat and a short note covering what happens, what changed, and any question. When he approves, the beat moves to `beats/approved/`.
+
+When a scene's beats are all approved, **stitch** them into the scene. Then run `payoff-keeper` and `sense-checker` once over the whole scene, checking the joins and whether the scene escalates. Do the same for chapters. An outside reader (a cold reader or Grok) gets each finished chapter as a STORY_ONLY copy, with no notes.
+
+## Stage 3 (old batch mode, for Quick speed only)
+
 **`story-writer`** writes `drafts/v1.md` chapter by chapter from the cards, the slice, the cast, `work/sample/STYLE_PROFILE.md` and `work/sample/NATURAL_PRINCIPLES.md`. Add a short ledger at the end: canon used, local inventions, unsure points.
 
 ## Stage 4: The revision loop (each pass writes a log in `reviews/`; the story-guard runs after every pass that edits)
+0. **Dialogue:** `dialogue-editor` runs once over the whole stitched draft before the critics.
 1. **`dev-critic`** in three modes run in parallel: `lore` (canon), `logic` (motive, cause, power), `craft` (tone, voice, rhythm). Each writes its own report.
 2. **`story-writer`** revises against all three, writing `drafts/v2.md` plus a rebuttals file.
 3. **`judge`** rules on the disputes and applies the final fixes, writing `drafts/v3.md` and a fight log.
