@@ -1,6 +1,6 @@
 # A fresh Claude (another account), 2026-11-11 to 2026-11-16: audit of v1 and world talk
 
-Pasted by Patrick. That Claude had the compiled codex and `v1_STORY_ONLY.md`. **Its replies are not canon**; Patrick's own lines are banked in `decisions/BANK.md` (2026-11-16, "fresh Claude"). It read an **older compiled codex**, so several of its "codex says" points are stale against the BANK (Jon as protector, solitary dragons, "the Tower was Derrek's lab", burnout retired). Its findings against v1 are still useful. Several were already fixed in v2 or the v2 re-plan (Doc's "price" is gone, the rift was reworked, and so on).
+Pasted by Patrick; full text in `2026-11-16_fresh_claude_transcript_full.txt`. That Claude had the compiled codex and `v1_STORY_ONLY.md`. **Its replies are not canon**; Patrick's own lines are banked in `decisions/BANK.md` (2026-11-16, "fresh Claude"). It read an **older compiled codex**, so several of its "codex says" points are stale against the BANK (Jon as protector, solitary dragons, "the Tower was Derrek's lab", burnout retired). Its findings against v1 are still useful. Several were already fixed in v2 or the v2 re-plan (Doc's "price" is gone, the rift was reworked, and so on).
 
 ## Its "blaring" list (an early promise, later broken or never paid)
 1. **The traceability rule.** In ch1 Eli won't reach in the street ("every window" would see "whose reach it was"), and in ch2 Jon won't act on the drone. Both then fight openly in the yard, the crater and the Tower. Either state the exception or cut the promise.
