@@ -25,7 +25,7 @@
   - ✅ GATE 2 answered "1b 2b 3a 4b 5c 6b" (in 00_brief). Re-plan done; plan audit round 3 fixes applied. God identity pending with Patrick (drafting with pick A, a giant who became a god).
   - ✅ Stage 3: `drafts/v1.md` (22.6k words, with ledgers) and `drafts/v1_STORY_ONLY.md` (story only: give THIS to outside readers, never the notes; Patrick 2026-11-10). Ch 1–6 were drafted on the old model, 7–9 on the new: Patrick may ask an outside reader, blind, whether the style changes anywhere.
   - ✅ v1 critics done (`reviews/v1_*.md`); outside reads in `reviews/outside/`. Patrick then asked for the door as a rift, no quest markers, and GRIT. `06_v2_replan.md` holds the re-plan (overrides 02/03/04): Teo holds the rift; narration calls her "the hill woman"; fix list; grit brief.
-  - ⏸ PAUSED by Patrick 2026-11-16 ("changing tactics"): v2 parts 1–3 (ch 1–6) are written; part 4 (ch 7–9) was never started. Patrick is bringing a week of new material from Gemini, Grok and other accounts. Read that before resuming.
+  - ⏸ PAUSED by Patrick 2026-11-16 ("changing tactics"). v2 parts 1–3 (ch 1–6) exist; part 4 was never started. **The Book 1 plan in 02–06 is now OUT OF DATE**: read `decisions/CATCHUP_2026-11-13_to_15.md` (Patrick's Nov 13–15 claude.ai rulings: the new cast, the Tower, the throne room, Jon/Derrek, the eras, the cosmology) and the 2026-11-16 BANK entries. Next: Patrick's answers to the open calls, then re-plan Book 1 beat by beat. Start each message with ◆ (his rule).
 
 ## Open questions waiting on Patrick
 - Where the "Jon's mind was clear for the first time in a very long time" line goes. Claude's pick: show it from outside in Book 1 and give the inner line to the later window book.
