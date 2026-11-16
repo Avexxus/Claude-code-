@@ -15,7 +15,7 @@ Before anything, read `CLAUDE.md`, `notes/00_MASTER_BRIEF.md` and `decisions/RUL
    - **FAILS:** breaks a 🔒 law, a v5-cc/v5-wk2/v5-wk ruling, or reintroduces a 🚫 item. Quote it.
 3. **Also flag:**
    - any invented proper name (names must stay placeholders)
-   - prose passages (only Patrick writes prose)
+   - prose passages outside the story engine (in codex, options and ideas work, agents give beats; story prose is drafted by Claude through the engine, BANK 11-09 / 11-16)
    - real-world racial or ethnic analogies
    - clinical labels
    - "users", types or formulas

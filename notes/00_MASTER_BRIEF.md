@@ -47,7 +47,7 @@ Each note ends with a **must-know** list of 15 constraints for its area. Section
 ## 3. Twenty rules every agent must follow (merged from the nine must-know lists)
 
 1. **Only Patrick makes canon.** Label all output 🌊 Claude proposal. Never use 🔒 or ✅. Nothing goes into the codex unless Patrick calls for that pass.
-2. **Every line of prose is Patrick's.** Give beats, options and consequences only. Claude-drafted passages in 13/SCENES are records, not material to build on (L34).
+2. **Prose:** Claude drafts story prose from Patrick's ideas through the story engine, and his own lines are protected (BANK 11-09, 11-16; supersedes t257). In codex work, give beats, options and consequences only. Claude-drafted passages in 13/SCENES are records, not material to build on (L34).
 3. **World is rigid, story is clay.** Never bend a world law to make a story idea fit.
 4. **Remnant is never burned, spent, fuel or transferred** (W10). Only wholesale absorption moves it. "Stealing production" has an open mechanism (L2), so don't invent one as fact.
 5. **Three dials plus fatigue; no physics audit, no math, no "users", types, element classes, grids, triads or formulas.** Everyone is "just a skilled user." Build the person first and add the magic's flavor last.
@@ -99,7 +99,7 @@ Taken from register §6 (Claude's own ranking, 🌊). Clusters 1–3 are one sit
 4. **L5 + NP#3 — the series shape and Jon's memory.** These are one question.
 5. **L4 / NP#12 / NP#15 — where time-god power comes from**, which also settles who can kill whom.
 6. **L6 — whether Jon's feelings are felt or autopilot.**
-7. **L34 — prose is Patrick's.** Decides how agents work from here on.
+7. **L34 — prose (superseded 11-09/11-16: Claude drafts through the engine).** Decides how agents work from here on.
 8. **L15 + L16 — restating gods and pacts** after W30–W32.
 
 Cheap wins worth doing next: **NP#10, the lock pass** (one sitting that tidies law status everywhere), NP#5 (hell), NP#6 (the tether), and L24 (the gnome changeling).
