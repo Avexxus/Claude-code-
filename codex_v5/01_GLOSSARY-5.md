@@ -322,8 +322,8 @@ The window at the center of the Tower, where every book ends: "It always ends at
 ### INNER SENSE ✅ [NEW v5-wk] [REV v5-cc]
 [REV v5-cc] **No longer a dial. Sensing (sense and touch) is part of Skill; the perception text below is kept as that part of Skill** (cc R095). Patrick: "Will makes more sense to me. Skill would cover sense and touch." The third dial is now **WILL** (see TERMS ADDED IN v5-cc). (was, as written in v5-wk:) **An unexplained perception that comes from Remnant, separate from the appendage** — both trainable and innate (wk W03). Patrick: "you mostly feel with a second inner sense" (wk W05). "Feel" returns as skill: the inner sense is **a dial, not a gate** (wk W05; the old "feel-to-grip as a hard rule" stays retired). Basic magic needs only control; deeper levels need finer sense — **a cost gradient, not a gate** (wk W04). **It stays mysterious** — the grip is mechanized, the sense is not (wk W06). **Sensing other beings' Remnant** is a rare master-level skill (wk W07); on the page soul-sensing is rare, felt rather than reported, and unreliable — never "video gamey," no constant scanning or detecting (wk W09). **NOT** the elven bond (see ELVEN BOND).
 
-### THE THREE DIALS ✅ [NEW v5-wk]
-**Remnant (strength), control (skill), and the inner sense** — three independent dials (wk W03; Constitution 2). Example: **the "numb titan"** — huge Remnant, poor sense (wk W03). Effort/fatigue stays the bill (Constitution 2).
+### THE THREE DIALS ✅ [NEW v5-wk] [REV v5-cc]
+[REV v5-cc] **Remnant (how much), Will (force of will: conviction, moral weight, wanting it), and Skill (your training, including sense and touch)** — three independent dials (Constitution 2 🔒; cc R095). Patrick's examples: "A poorly trained and timid giant can still produce nightmares to other races… because they are to scared to force it to obey"; "a small gnome who has the smallest potential remnant who has trained and has force of will still just cant quite beat a dragon in power" (BANK 11-16 [THREE AXES]). The "numb titan" (huge Remnant, poor sense) now reads as poor Skill. Effort/fatigue stays the bill; burnout is the body breaking past it (cc R096). (was: "**Remnant (strength), control (skill), and the inner sense** — three independent dials (wk W03; Constitution 2). Example: **the 'numb titan'** — huge Remnant, poor sense (wk W03). Effort/fatigue stays the bill (Constitution 2).")
 
 ### STEALING PRODUCTION ✅ [NEW v5-wk]
 **Taking others' Remnant = "stealing their production": [REV v5-wk2] the mechanism is 🌊 open — the thief driving their grip, or "using an amplifier to touch a wider pool" (Patrick, chat t83: "Im not sure") (was: "the thief drives their grip" — Claude's t84 framing, never confirmed)** (wk W11). Remnant itself cannot be burned or spent (wk W10). Derrek's orc chips are this (wk W51; see THE ORC DEVICE). **NOT** burning, spending or fuel.
@@ -369,6 +369,12 @@ The kit every being who tends a breach shares: **sense** (find the rift), **slic
 ### SHEET ✅ [NEW v5-cc]
 **A universe.** "The sheets are each universe. Its how we explained their placements next to each other and how we can move between them" (Patrick, CU B2). World-layer word only; the story never names sheets (CU App A §3 [P]). `03_COSMOLOGY` TERMINOLOGY (cc R009).
 
+### WILL ✅ [NEW v5-cc]
+**The third dial: force of will** — conviction, moral weight, wanting it. Patrick: "Like your moral weight. How confident are you. How much do you really want this. Its like force of will. Like the part of me that really believes I can produce this flame" (BANK 11-16 [THREE AXES]); "7 yes. Will makes more sense to me" (cc R095). Will also holds crammed-in Remnant together, beside the holder's own coherence (cc R097). **NOT** Skill; **NOT** the old inner sense. Constitution 2.
+
+### BURNOUT ✅ [NEW v5-cc]
+**The body breaking when it carries more than it can hold, usually through amplifiers.** Fatigue stays the everyday bill; burnout is past it. Remnant can't be destroyed, so the flesh fails and the Remnant releases. Patrick: "the body is what breaks because remnant is not able to be destroyed. Imagine god channeling his magic and the suit he used is burnt. Thats how you should look at burnout" (cc R096). The in-world word. **NOT** Remnant burning or being spent. Constitution 2.
+
 ---
 🚫 **RETIRED terms/meanings:** "Everything is the One" (now: beings only); soul/matter "two desires"; "matter = the One at rest"; element as base-unit/real-substance; force as element-combination; the element wheel & coordinate-grid; "Fire = energy" as base principle; Inward/Outward as a system axis; the affinity compass; the Blight as a singular hungry maw; the time-god narrator; **"near-immortal" elves/giants** (now ancient mortals); **"mechanisms rigid, magnitudes bend" / the physics engine** (now science-flavored, scene-first); **"EM/Weak line is absolute" & nuclear-process labeling of effects** (mechanism-policing retired); **breaths/effects categorized by which force achieves them** (now cool wielded things, unlabeled).
 
@@ -401,6 +407,12 @@ The kit every being who tends a breach shares: **sense** (find the rift), **slic
 - 🚫 RETIRED v5-wk: **"The far-future story (now Book 1) is the final run" (THE LOOP).** → "The final run" is Jon's lie to himself; each book ends at the window (wk W42, W52).
 - 🚫 RETIRED v5-wk: **"t742 Jon answers 'at least I'll get to see her again'" as the window's answer.** → Jon never answers; the reader decides (wk W50).
 - 🚫 RETIRED v5-wk: **Changelings "infiltrated into all" / "infiltration of every party stands" (THE GALACTIC COUNCIL).** → Changelings are largely monsters; only a few clever ones remain at court (wk W19).
+
+🚫 **RETIRED v5-cc (pass 2026-11-16, big changes):**
+- 🚫 RETIRED v5-cc: **The inner sense as a dial (THE THREE DIALS, INNER SENSE, SKILL, MAGIC).** → Remnant, Will, Skill; sense and touch are Skill (cc R095).
+- 🚫 RETIRED v5-cc: **"Innate, fixed in the living, raisable only by harvesting" (REMNANT).** → Capped by physical capacity; added capacity and soul magic hold more (cc R097).
+- 🚫 RETIRED v5-cc: **Gardening as Jon's role with the elves; "breeding a warrior people" (GARDENING).** → Jon is Mika's friend, not his leader; the elves are independent (cc R094).
+- 🚫 RETIRED v5-cc: **"Book numbers and eras are placeholders" (THE TOWER).** → The order is ruled (cc R089).
 - 🚫 RETIRED v5-wk: **"The dragon strike on the giants' forge world breaks the stalemate in the final run."** → The stalemate holds officially; humans win functionally (wk W60); Derrek engineered the strike (wk W64).
 - 🚫 RETIRED v5-wk: **"The crime that sends an elf [to hell] is soul or body theft … not dissent" as hell's current use.** → Hell was originally for soul thieves; it drifted to dissidents and vagrants (wk W25).
 - 🚫 RETIRED v5-wk: **The elves "created" heaven and hell as fact.** → In-world belief; created or found is debated (wk W28, W29).
