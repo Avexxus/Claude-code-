@@ -64,6 +64,8 @@ For each beat:
 6. **`line-editor`** runs the `natural` pass (and `grimdark` where the beat calls for it), then **`story-guard`** checks it.
 7. **Patrick** sees the beat and a short note covering what happens, what changed, and any question. When he approves, the beat moves to `beats/approved/`.
 
+**Continuity:** before drafting anything, the `story-writer` reads `story_state.md`, `chapter_summaries.md`, `voice_notes.md`, `ledger_seeds.md` and `ledger_rules.md`. After each chapter is approved, `continuity-keeper` updates them and checks the new chapter against the state before it.
+
 When a scene's beats are all approved, **stitch** them into the scene. Then run `payoff-keeper` and `sense-checker` once over the whole scene, checking the joins and whether the scene escalates. Do the same for chapters. An outside reader (a cold reader or Grok) gets each finished chapter as a STORY_ONLY copy, with no notes.
 
 ## Stage 3 (old batch mode, for Quick speed only)
