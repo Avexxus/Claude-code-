@@ -1,0 +1,23 @@
+# Project slop list: phrases to avoid in story prose (one per line; # comments). Grows from wordcheck runs on our own drafts.
+# Regex allowed (Python syntax). The writer gets this list before drafting; wordcheck.py counts hits.
+a testament to
+tapestry
+\bdelve\b
+palpable
+the weight of (it|that|his|her|the)
+couldn't help but
+something (shifted|changed) in
+a beat later
+let out a breath (he|she) didn't know
+the silence (stretched|was deafening)
+\bsmirk(ed)?\b
+\bunspoken\b
+\bvisceral\b
+\bechoed\b
+shiver (ran|went) down
+eyes (gleamed|glinted)
+the air (thick|heavy) with
+time seemed to
+\bsomehow\b
+(as if|like) (a|the) (book|door) being (shut|closed)
+lost count in the four hundreds

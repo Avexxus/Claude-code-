@@ -68,6 +68,25 @@ For each beat:
 
 When a scene's beats are all approved, **stitch** them into the scene. Then run `payoff-keeper` and `sense-checker` once over the whole scene, checking the joins and whether the scene escalates. Do the same for chapters. An outside reader (a cold reader or Grok) gets each finished chapter as a STORY_ONLY copy, with no notes.
 
+## Pipeline v2: the default per chapter (2026-11-17; research in `work/PIPELINE_V2.md`)
+1. **Prep.**
+   - The writer reads `story_state.md` (including the Knowledge table and reveal schedule), `chapter_summaries.md`, `voice_notes.md`, `ledger_seeds.md`, `ledger_rules.md`, `style_anchors.md` and `scripts/slop_list.txt`.
+   - **`character-sim`** runs for the key scenes.
+2. **Draft.** `story-writer` writes at full size, scene by scene, with scenes rather than connective summary.
+3. **Check (in parallel):**
+   - **`sense-checker`**;
+   - **`payoff-keeper`**, with the seed cap of about 6 Book 1 seeds and 3 future-book seeds per chapter;
+   - **`continuity-keeper`** in check mode: five error categories, and both passages quoted;
+   - **`forecaster`** on the STORY_ONLY copy.
+4. **Fix.** The writer revises. Claude, as author, decides which flags to take. No single checker is trusted on plot logic: act on findings that quote the text.
+5. **Polish, in order:**
+   - **`dialogue-editor`**;
+   - **`word-watch`**, after `python3 scripts/wordcheck.py` (which includes the slop-list hits);
+   - **`line-editor`**, the natural pass;
+   - **`story-guard`**.
+6. **Read.** **`reader-panel`** runs 5 personas on the STORY_ONLY copy. Patrick and Grok read it too; outside reads are advisory.
+7. **Approve.** Patrick approves. Then `continuity-keeper` updates the state files. The best passages go to `style_anchors.md` if Patrick likes them, and Patrick's own beats and lines are logged in `PROVENANCE.md`.
+
 ## Stage 3 (old batch mode, for Quick speed only)
 
 **`story-writer`** writes `drafts/v1.md` chapter by chapter from the cards, the slice, the cast, `work/sample/STYLE_PROFILE.md` and `work/sample/NATURAL_PRINCIPLES.md`. Add a short ledger at the end: canon used, local inventions, unsure points.

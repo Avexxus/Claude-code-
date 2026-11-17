@@ -10,6 +10,8 @@ def story(path):
     for m in ("<!-- NOTES -->","<!-- LEDGER -->"):
         if m in t: t=t.split(m)[0]
     return t
+import os
+SLOP=[l.strip() for l in open(os.path.join(os.path.dirname(__file__),"slop_list.txt"),encoding="utf-8") if l.strip() and not l.startswith("#")]
 for path in sys.argv[1:]:
     t=story(path); low=t.lower()
     words=re.findall(r"[a-z']+",low); n=len(words) or 1
@@ -25,5 +27,8 @@ for path in sys.argv[1:]:
         rep=[(g,k) for g,k in grams.items() if k>=3 and not all(x in STOP for x in g.split())]
         rep.sort(key=lambda x:-x[1])
         if rep: print(f"repeated {size}-word phrases:", "; ".join(f"{g} ×{k}" for g,k in rep[:15]))
+    hits=[(s,len(re.findall(s,low))) for s in SLOP]
+    hits=[h for h in hits if h[1]]
+    print("slop-list hits:", "; ".join(f"{s} ×{k}" for s,k in hits) or "none")
     starts=collections.Counter(" ".join(s.split()[:2]).lower() for s in re.split(r"(?<=[.!?])\s+",t) if s.split())
     print("most common sentence openings:", ", ".join(f"{g!r} {k}" for g,k in starts.most_common(10)))

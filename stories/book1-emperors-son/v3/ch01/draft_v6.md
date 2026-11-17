@@ -2,7 +2,7 @@
 
 The ground in the Scald stayed warm all night, and nobody down there had ever found out why.
 
-Vosk walked up out of it with the dwarf's price in his head. Eleven hundred, she'd said, in marks, not imperial, and she'd said it to the wall over his shoulder while she wiped her hands. He had forty-one marks in a sock under his bunk and it had taken him nine years. He had come off the evening shift and gone straight down to her, and now he was heading back with the night gone, past the shut stalls and the sleepers on their mats, feet tucked into each other's coats for the company, under pipes that sweated a slick with a skin on it, and the heat rose through the soles of his boots the whole way and into his shins, and his shins ached with it the way they ached after a double shift, which was what he had ahead of him.
+Vosk walked up out of it with the dwarf's price in his head. Eleven hundred, she'd said, in marks, not imperial, and she'd said it to the wall over his shoulder while she wiped her hands. He had forty-one marks in a sock under his bunk and it had taken him nine years. He had come off the evening shift and gone straight down to her, and now he was heading back with the night gone, past the shut stalls and the sleepers on their mats, feet tucked into each other's coats for the company, under pipes that sweated a slick with a skin on it, and the heat rose through the soles of his boots the whole way and into his shins, and his shins ached with it as they ached after a double shift, which was what he had ahead of him.
 
 Nearer the Tower the air didn't sit right. It had a shine in it at head height. Bits of light drifted in the cross-streets, slow, none bigger than a seed, and they cast no shadow on anything they passed. A girl of about eight stood in the mouth of an alley with a net of fine wire on a pole, waiting for one to float close enough. Her hands were wrapped to the elbow in rag. She kept her eyes on the light. You didn't touch drift with skin. Everybody knew someone who had.
 
@@ -38,15 +38,15 @@ At the bottom step she said, "Walk well," and headed off into the Scald with her
 
 ---
 
-The Long Stair was four thousand and some steps, and there was a reader at every landing. A disc of dark glass set in the wall at eye height for a human, at the chest for him. When you passed one, it looked. For a human, Vosk had been told, it was only a light, a name maybe, a soft chime. With an orc the chip in the neck woke up and answered it, and the answer went cold down both your arms into your hands, every hundred steps, all the way up. You got used to that.
+The Long Stair was four thousand and some steps, and there was a reader at every landing. A disc of dark glass set in the wall at eye height for a human, at the chest for him. When you passed one, it looked. For a human, Vosk had been told, it was only a light, a name maybe, a soft chime. With an orc the chip in the neck woke up and answered it, and the answer went cold down both your arms into your hands, every hundred steps, to the top. You got used to that.
 
 The readers could also tell the chip to hurt you. That you didn't get used to.
 
 Halfway up, the stair left the old ground and passed through the sumps, where the city's water ran back down to be cleaned. After that the foundations, and then the underside of the mid-levels, where it was suddenly cooler and there were lights that worked, and grey walls with the Emperor's seal stamped on them at every landing, an oval with nothing in it.
 
-The mid-levels were never all the way asleep. The traffic lanes ran overhead in strings of light, three deep, the lowest close enough that you could hear the hulls tick as they cooled, and the feeds ran on every wall with the sound off. PLAGUE HOLD EXTENDED, THREE SYSTEMS. LEGION RECRUITMENT AT RECORD. TERRACE PROPERTY VALUES. Somebody had thrown filth at the ribbon and it had stuck there, brown, over the word VALUES.
+The mid-levels were never fully asleep. The traffic lanes ran overhead in strings of light, three deep, the lowest close enough that you could hear the hulls tick as they cooled, and the feeds ran on every wall with the sound off. PLAGUE HOLD EXTENDED, THREE SYSTEMS. LEGION RECRUITMENT AT RECORD. TERRACE PROPERTY VALUES. Somebody had thrown filth at the ribbon and it had stuck there, brown, over the word VALUES.
 
-The ground up here was wrong too, only quieter about it. The floors had been laid level and leaned anyway, all of them in one direction, so that a drink spilled on the Spur ran off toward the Tower whichever way the street went. Everybody had the headache. It sat behind the eyes and in the ears, all day, every day, and there was a stall on every landing selling a blue pill for it that never worked, and people bought the pill and complained to each other about it instead of saying good morning. In the gutter water now and then there was a thin smear of light that slid away from a straight stare, and the cleaners hosed it down the drains with everything else. Plants in window boxes grew sideways. Dogs didn't last.
+The ground up here was wrong too, only quieter about it. The floors had been laid level and leaned anyway, all of them in one direction, so that a drink spilled on the Spur ran off toward the Tower whichever way the street went. Everybody had the headache. It sat behind the eyes and in the ears, all day, every day, and there was a stall on every landing selling a blue pill for it that never worked, and people bought the pill and complained to each other about it instead of saying good morning. Sometimes in the gutter water there was a thin smear of light that slid away from a straight stare, and the cleaners hosed it down the drains with everything else. Plants in window boxes grew sideways. Dogs didn't last.
 
 The flesh market at Ninth Spur was opening. Vosk cut through it, because it was quicker and the stalls were full of men too busy to see him. They were hosing down the slabs. Steam rose off the water. The cold-cases were going up on their trestles, and every case had a stamp on the end the size of a hand, black on white, CLONE STOCK — NO SOUL, with the grade under it. A woman in an apron was laying out tongues in rows on ice, and a man at the next stall was sorting a basket of eyes by colour, and a dwarf further down sold hands in pairs, matched, with a paper tag on each thumb. Vosk had worked a season here when he was small, carrying ice. He knew what an orc arm sold for, which was less than a goat's.
 
@@ -90,7 +90,7 @@ Teo was sitting on the counter by the cold-box with his heels against the doors 
 
 "From who?"
 
-"The account." Eli turned the purse over. It was heavier than he'd expected money to be. Money was a number on a slate; he'd never held eleven hundred of anything. "I asked at breakfast and it came back before he'd put the slate down. And somebody rang the house."
+"The account." Eli turned the purse over. The purse was heavier than he'd expected money to be. Money was a number on a slate; he'd never held eleven hundred of anything. "I asked at breakfast and it came back before he'd put the slate down. And somebody rang the house."
 
 "Who?"
 
@@ -102,7 +102,7 @@ Teo was sitting on the counter by the cold-box with his heels against the doors 
 
 Teo gave the purse a long look and went back to the slate.
 
-The account had come with the house, and the house had come with Eli, before he could remember. It paid the steward and the cook and the tutors, when there had been tutors, and the orcs in the barracks, and it had paid for his first flyer and his second, and for the window that had gone in after he put a chair through it at fifteen. It had never asked what anything was for. Your father's people, the steward called it, whenever it paid out, and Eli had stopped asking which people years ago.
+The account had come with the house, and the house had come with Eli, before he could remember. It paid the steward and the cook and the tutors, when there had been tutors, and the orcs in the barracks, and it had paid for his first flyer and his second, and for the window that had gone in after he put a chair through it at fifteen. It never asked what anything was for. Your father's people, the steward called it, whenever it paid out, and Eli had stopped asking which people years ago.
 
 "He asked you for money," Teo said.
 
@@ -114,7 +114,7 @@ The account had come with the house, and the house had come with Eli, before he 
 
 Teo finished the apple and glanced round for somewhere to put the core. Eli didn't look up. The core left Teo's fingers and floated across the kitchen, not fast, out of the open yard door, and dropped on the step, where somebody would sweep it.
 
-Teo studied his empty hand. He put the thumb in his mouth.
+Teo considered his empty hand. He put the thumb in his mouth.
 
 On the wall behind him the feed was running with the sound off. Grey men at a grey table. The ribbon underneath said ELVEN DELEGATION RECALLED, then THE QUEEN DECLINES TO COMMENT, and a line about rates.
 
@@ -182,7 +182,7 @@ Eli didn't look at it. "Good," he said.
 
 They left the house just after eleven.
 
-On the way down the white path they passed the Ilders'. The Ilders' yard man was out in the dark sweeping round the front step, and he was standing on the paving to do it, right at the edge, with his boots an inch off the grass. Eli nodded to him. The man didn't nod back, which was the Ilders all over; they never trained them. The youngest had been given a fob in the spring and you could hear it from the kitchen most mornings, slap, slap on the wet lawn.
+Going down the white path they passed the Ilders'. The Ilders' yard man was out in the dark sweeping round the front step, and he was standing on the paving to do it, right at the edge, with his boots an inch off the grass. Eli nodded to him. The man didn't nod back, which was the Ilders all over; they never trained them. The youngest had been given a fob in the spring and you could hear it from the kitchen most mornings, slap, slap on the wet lawn.
 
 The gate of Ninth Terrace was a ring of dark glass in an arch of white stone, and Eli walked through it without slowing, as he walked through every door. Something in the glass looked at him. A light came up green on the stone at his shoulder, and a soft voice said, "Good evening," without a name, and the arch let him out onto the public ramp. It did the same for Teo.
 
@@ -194,7 +194,7 @@ Vosk wasn't with them. The front gate didn't read orcs. It bit them.
 
 The mid-levels at night were louder than by day. Eli had been coming down since he was fifteen, for food, for the clubs on Ancel Row, for no reason. Noise poured down from the lanes overhead and up from the streets underneath, and there were so many feeds you could have read by them. Everyone down here had the headache; there was a stall of the blue pills on every landing, and he'd stopped seeing the stalls at about sixteen, and the headache not long after. Every human face that passed under a reader got its light. Green, green, green. You stopped seeing that too.
 
-They skipped the Long Stair. Teo led them to a service shaft off the sumps, stood at the top of it with his slate until the clock turned over, and climbed down first without a word, and the ladder rungs were slick and warm, and the air got warmer every rung.
+They skipped the Long Stair. Teo led them to a service shaft off the sumps, stood at the shaft head with his slate until the clock turned over, and climbed down first without a word, and the ladder rungs were slick and warm, and the air got warmer every rung.
 
 At the bottom of the shaft the floor was the wrong size.
 
@@ -202,7 +202,7 @@ It was a street. It had a gutter, and a curb, and on the other side another curb
 
 Eli stood with his hands on the curb. The stone was smooth where people had held it getting up the ramp. Teo was already at the top.
 
-The Scald was hot. Eli had known it would be. He hadn't known the heat would have a direction. It came from ahead and above, as if there were a fire on a high shelf, and it pushed on his face and his chest, and the further they went the harder it pushed. He took his coat off and carried it, and put it back on because of the purse. Sweat ran into the small of his back. The air tasted of metal and burning fat. There were a lot of people, orcs mostly, and they moved round Eli in the crowd without touching him, a gap always opening half a step before he got there and closing behind.
+The Scald was hot. Eli had known it would be. He hadn't known the heat would have a direction. It came from ahead and above, like a fire burning on a high shelf, and it pushed on his face and his chest, and the further they went the harder it pushed. He took his coat off and carried it, and put it back on because of the purse. Sweat ran into the small of his back. The air tasted of metal and burning fat. There were a lot of people, orcs mostly, and they moved round Eli in the crowd without touching him, a gap always opening half a step before he got there and closing behind.
 
 He thought that was courtesy. He said so to Teo, who didn't answer.
 
@@ -238,7 +238,7 @@ Teo stepped in very close beside him.
 
 "I know what's in it." Teo kept his head still. "Every stall, Eli. Nobody's looking at him. They're looking at the coat."
 
-Eli glanced round. A man at a stall of pans studied his pans. Two orc women by a hook of lamps looked at each other. Across the floor a girl got up off a crate by the arch and slipped in through the plastic strips, not hurrying. "It's a good coat," he said, and put his arm round Teo's shoulders and gave him a shake. "You've gone grey. Vosk, look at him."
+Eli turned to see. A man at a stall of pans studied his pans. Two orc women by a hook of lamps looked at each other. Across the floor a girl got up off a crate by the arch and slipped in through the plastic strips, not hurrying. "It's a good coat," he said, and put his arm round Teo's shoulders and gave him a shake. "You've gone grey. Vosk, look at him."
 
 Vosk didn't look. He turned off into an alley halfway along the market's side wall, between two stalls, and they followed him.
 
@@ -252,7 +252,7 @@ She looked at Eli. At Teo. At Vosk.
 
 "He's paying," said Vosk.
 
-"He's paying." Her eye went back to Eli, his coat, his hands, his boots. "Course he is. You're late." She glanced past them at the shutter. "It's hot. I told you it was hot."
+"He's paying." She ran her eye over Eli again, his coat, his hands, his boots. "Course he is. You're late." She jerked her head at the shutter. "It's hot. I told you it was hot."
 
 "It's boiling," Eli agreed, and flapped his coat.
 
@@ -282,7 +282,7 @@ She counted it on the table in stacks of fifty, wetting her thumb, quicker than 
 
 Her live eye went to his wrist.
 
-Eli unbuckled the watch and put it in her hand. It had been a birthday. It kept the time on four worlds he'd never been to and it had a little moon on it that went round. She put it in her apron without a glance.
+Eli unbuckled the watch and put it in her hand. A birthday present. It kept the time on four worlds he'd never been to and it had a little moon on it that went round. She put it in her apron without a glance.
 
 In the far corner, behind the tanks, a thin dwarf boy of maybe ten sat on a stool with a cup. Eli hadn't seen him. The boy's eyes went to Eli's bare wrist. To the pocket of Eli's coat where the purse had been, and Eli's boots, and Eli. He put down the cup and slipped out through a curtain at the back.
 
@@ -306,11 +306,11 @@ There was more blood than Eli had expected, and it was darker. It ran down into 
 
 "It's all right," said Eli. "It's all right. You're doing well. You're doing so well."
 
-The thing came free. It was the size of a fingernail, with its threads trailing, and she dropped it in a dish, and in the dish it moved. Once, a small curl of the threads.
+The thing came free, the size of a fingernail, with its threads trailing, and she dropped it in a dish, and in the dish it moved. Once, a small curl of the threads.
 
-Teo had gone to stand by the door. He was watching the shutter. Out in the market, one of the three musics had stopped.
+Teo had gone to stand by the door, watching the shutter. Out in the market, one of the three musics had stopped.
 
-The new one came out of a sealed packet. It was bigger than the old one, darker, ridged on one side, and someone had taken a file to the mark on it, not well enough. Eli could make out part of a word. LEGION.
+The new one came out of a sealed packet. Bigger than the old one, darker, ridged on one side, and someone had taken a file to the mark on it, not well enough. Eli could make out part of a word. LEGION.
 
 "Soldier's," said Velk. "Leash is out."
 
@@ -320,7 +320,7 @@ She glanced at Eli with her live eye. "You understand what you've bought him."
 
 "Yes," said Eli.
 
-She studied him, and closed the cut with glue and a strip that pulled tight as it dried, and undid the straps, all of it fast. There was a blister coming up white on the ball of her thumb. Vosk stayed in the chair. He sat with his elbows on his knees and his head hanging, breathing hard, and blood dripped off the end of his nose onto the floor between his boots.
+She watched him, and closed the cut with glue and a strip that pulled tight as it dried, and undid the straps, all of it fast. There was a blister coming up white on the ball of her thumb. Vosk stayed in the chair. He sat with his elbows on his knees and his head hanging, breathing hard, and blood dripped off the end of his nose onto the floor between his boots.
 
 Then he lifted his head.
 
@@ -420,7 +420,7 @@ Every orc kneeling in the market sagged. All at once, the pan man, the two women
 
 Vosk put his hand up.
 
-The air at his palm went white. Then the noise hit, and the floor heaved under Eli's feet and dropped away again, and everything round Vosk went, and hardly any of it toward the King. A stall to his left burst into its boards and its pots and a woman who had been kneeling behind it, and all of it flew sideways through the air together and into the wall. Hooks on their chains swung out level and swung back. The sawn carcass fell. A post by the soup stall broke in half. A pot went past Eli's face close enough to lift his hair, and the wall at his back cracked. Two of the young men were down; one lay under the soup stall with his legs out, and the other wasn't anywhere Eli could see.
+The air at his palm went white. Then the noise hit, and the floor heaved under Eli's feet and dropped away again, and everything round Vosk went, and hardly any of it toward the King. A stall to his left burst into its boards and its pots and a woman who had been kneeling behind it, and all of it flew sideways through the air together and into the wall. Hooks on their chains swung out level and swung back. The sawn carcass fell. A post by the soup stall broke in half. A pot went past Eli's face close enough to lift his hair, and the wall at his back cracked. Two of the crew were down; one lay under the soup stall with his legs out, and the other wasn't anywhere Eli could see.
 
 Vosk hadn't moved. He looked at his hand. The palm had split across, three times, and it was steaming. He tried to close it, and it closed slowly, finger by finger.
 
@@ -448,7 +448,7 @@ Across the floor Vosk was still down on one knee, still looking at him, waiting 
 
 Teo swung a soup ladle at the young man's head.
 
-A big iron ladle off the wrecked stall, and he swung it with both hands, and it landed on the shoulder instead, and the cutter jerked off Eli's ear and round and opened Teo's palm in passing. Teo made no sound. He swung again. This time it found the side of the head and made a flat sound, and the young man let go and sat down. Teo hit him again on the top of the head on the way down, carefully, as if driving a peg. He dropped the ladle, got Eli by the collar with the hand that worked, and pulled him along the wall toward the bridge end.
+A big iron ladle off the wrecked stall, and he swung it with both hands, and it landed on the shoulder instead, and the cutter jerked off Eli's ear and round and opened Teo's palm in passing. Teo made no sound. He swung again. This time it found the side of the head and made a flat sound, and the young man let go and sat down. Teo hit him again on the top of the head as he went, carefully, as if driving a peg. He dropped the ladle, got Eli by the collar with the hand that worked, and pulled him along the wall toward the bridge end.
 
 "Bridge," he said.
 
@@ -462,9 +462,9 @@ Vosk rose off his knee. This time he kept his good hand down. He turned, the who
 
 Then it all came out of him at once.
 
-There was no aim in it. Most of it went down. The floor under his own feet went to gravel in a ring, and the cracks ran out from him in every direction. The floor under the King split down the middle and went up in two slabs, and so did the floor under the soup stall, and under the kneeling people along the far wall, who were up now and running, and some of them rose with it. The hooks tore out of the ceiling in rows and came down in their chains. A pipe burst in the wall a yard from Eli's head and blew steam and black spray. Ahead of them at the bridge end one of the young men went backwards over the edge into the cut without a sound, and the one beside him lay down flat with his arms over his head and stayed there as Teo pulled Eli straight past him. The bridge end was open now.
+There was no aim in it. Most of it went down. The floor under his own feet went to gravel in a ring, and the cracks ran out from him in every direction. The floor under the King split down the middle and went up in two slabs, and so did the floor under the soup stall, and under the kneeling people along the far wall, who were up now and running, and some of them rose with it. The hooks tore out of the ceiling in rows and came down in their chains. A pipe burst in the wall a yard from Eli's head and blew steam and black spray. Ahead of them by the bridge one of the crew went backwards over the edge into the cut without a sound, and the one beside him lay down flat with his arms over his head and stayed there as Teo pulled Eli straight past him. The bridge was open now.
 
-Vosk was walking, walking at the arch, one step and then another, and with every step more of him gave. The skin on the backs of his knuckles split open over the bone, all four, and then the backs of both hands. Blood ran from his nose and his ears and the corners of his eyes. Steam poured off his shoulders in sheets. The fingers of his good hand had come open, and he was trying to shut them, Eli could see him trying, and they bent back instead, all four, and stayed back. He kept walking. He wasn't pushing it anywhere. It went where it went, through the floor, through the stalls, into the ceiling, and he walked himself at the King and let it.
+Vosk was walking, walking at the arch, one step and another, and with every step more of him gave. The skin on the backs of his knuckles split open over the bone, all four, and then the backs of both hands. Blood ran from his nose and his ears and the corners of his eyes. Steam poured off his shoulders in sheets. The fingers of his good hand had come open, and he was trying to shut them, Eli could see him trying, and they bent back instead, all four, and stayed back. He kept walking. He wasn't pushing it anywhere. It went where it went, through the floor, through the stalls, into the ceiling, and he walked himself at the King and let it.
 
 The King had one hand flat in the air and he was giving ground. Not far. One step. Another. Bits of the floor were hitting him and he let them. His chest was smoking, and some of the chips sewn into it had burst and were running. Over the arch, where a row of hooks had torn out, the ceiling sagged, and a crack ran along it to the wall, and no one was watching it.
 
@@ -572,7 +572,7 @@ Teo kept hold of Eli's wrist and held to a walk. He lifted his chin at the heap,
 
 "He's under there," Teo said. "You want to be up here with us when he comes out?"
 
-The young man glanced at the heap, and at Eli a moment more, as at a purse somebody else had dropped, and turned and went to the heap and got down on his knees with the others and began pulling stones off it with his hands.
+The young man eyed the heap, and Eli a moment more, as he might a purse somebody else had dropped, and turned and went to the heap and got down on his knees with the others and began pulling stones off it with his hands.
 
 The last one crossed to where Vosk lay and knelt on his chest with one knee, and turned his head to one side by the jaw, and took a long thin hook off his belt and put the point of it in the new strip on his neck.
 
@@ -602,13 +602,13 @@ The light came up green at his shoulder. The soft voice said, "Good evening." Th
 
 They walked up the white path between the water channels, under the trees, with the house windows dark on both sides. Eli's house had a light on in the kitchen. Someone always left it on.
 
-Teo ran water in the kitchen sink and held Eli's hands under it, one and then the other, and scrubbed them with the brush the cook used for the pans, and the water went brown and then pink and then clear, and Teo kept scrubbing after it was clear, and at last he stopped. He stood there with the brush. The side of his thumb was raw to the quick, and the cut across his palm had opened again in the hot water. His own hands had started to shake now, at the sink, and he stared at them, put the brush down, and put them in his armpits.
+Teo ran water in the kitchen sink and held Eli's hands under it, one and then the other, and scrubbed them with the brush the cook used for the pans, and the water went brown, and pink, and then clear, and Teo kept scrubbing after it was clear, and at last he stopped. He stood there with the brush. The side of his thumb was raw to the quick, and the cut across his palm had opened again in the hot water. His own hands had started to shake now, at the sink, and he stared at them, put the brush down, and put them in his armpits.
 
 "She'll want to know what happened to her brush," he said. Not to Eli. To the sink.
 
 Eli sat down at the table. He checked his wrist for the time, and the wrist was bare.
 
-The fruit bowl was where he'd left it, and the letter was under it, pale, with the corner showing. He slid it out. It was heavy for a letter. He put his thumb on the seal, flat, and held it there. Then he slid the letter back under the bowl, and pushed the bowl down on it with both hands, and kept them there.
+The fruit bowl was where he'd left it, and the letter was under it, pale, with the corner showing. He slid it out. Heavy, for a letter. He put his thumb on the seal, flat, and held it there. Then he slid the letter back under the bowl, and pushed the bowl down on it with both hands, and kept them there.
 
 Outside, in the yard, under the long house, the barracks bell was going for the night count. He heard the steward's voice come up through the window, flat, reading off the slate. A number, and somebody answered. A number, and somebody answered.
 

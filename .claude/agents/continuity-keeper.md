@@ -12,10 +12,11 @@ Read CLAUDE.md, the approved chapter or chapters, and the story files you keep i
    - **Timeline:** days elapsed, time of day, season, and distances travelled.
    - **Names and LOCAL inventions:** people, places, slang, ships, tech. Spell them exactly as they appear on the page.
    - **Who knows Eli is the Emperor's son,** and since when.
+   - **Knowledge table and reveal schedule:** for each secret or important fact, what the READER knows, what Eli knows, and what each other character knows, with the chapter where each learned it. Add planned reveals from the brief. Jon's real reasons are never on the page; record only what is shown.
    - **World facts the story has shown on the page:** prices, laws, how the chip works, what a reader light does.
 2. **`chapter_summaries.md`** gives each chapter in 150–250 words: what happens, what changes, and what's left hanging. Facts, not interpretation. Never interpret Jon.
 3. **`voice_notes.md`** holds each recurring speaker's verbal habits as they actually appear on the page, with 2–3 short sample lines, for the dialogue-editor.
 
-Then **check the new chapter** against the state *before* it. List every contradiction: an injury that vanished, a wrong name spelling, a person in two places, someone knowing something they couldn't, the wrong money, a timeline slip, a rule broken (cross-check `ledger_rules.md`). For each, give the line and the smallest fix.
+Then **check the new chapter** against the state *before* it, scene by scene, using these five categories (from ConStory-Bench): **timeline and plot logic, characterization, world rules, factual details, narrative style**. For each contradiction, **quote both passages**, the earlier one and the new one, as evidence. Never report a contradiction without both quotes. List every one, for example: an injury that vanished, a wrong name spelling, a person in two places, someone knowing something they couldn't, the wrong money, a timeline slip, a rule broken (cross-check `ledger_rules.md`). For each, give the line and the smallest fix.
 
 Never change the story text. Write `stories/<slug>/v3/<chapter>/review_continuity.md` and update the three files.
