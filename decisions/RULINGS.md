@@ -184,3 +184,7 @@ Patrick on the pass: "the codex doesnt have to be perfect. Just get it done" (20
 - **R146** · C-61 · **The barrage is felt, not seen.** Patrick: "I think the changeling ya no seeing it. Just the weight of his raw renmant thru the captured souls flooding out" (BANK 11-07). The brother beat stays with B-38. → `07`, `08`, `13` and SCENES (🌊 notes). Closes L8 in part.
 - **R147** · C-62 · **The Returned come later.** Patrick: "The returned is way later. They have reality bending tech that fits the far future" (BANK 11-16 [BOOK 3 · era]). → `07` THE RETURNED.
 - **Leftover (cc R095):** "Remnant and skill" in `02` Law 7b and "Remnant × skill" in `04`'s power scale (and `04`'s gate heading) → "Remnant, Will, Skill".
+
+- **R148 · Flesh holds Remnant; metal must be bound** (Grok review follow-up, 2026-11-17). Patrick: "Organics just hold it better. It prefers them... Or it has ti be trapped. Like in metal. Some form of magic needs to be learned until they are able to bind the remnant into the metal" (BANK 11-16 [STORAGE]). → `06` ONE RULE. Applied.
+- **R149 · Giants on the axes** (Grok review follow-up). Patrick: "The giants had sheer power so they never needed skill and once the tide turned on them it led to less determination also" (BANK 11-16 [RACES on the axes]). → `07` GIANTS. Applied; the craft question stays open (C-45R).
+
