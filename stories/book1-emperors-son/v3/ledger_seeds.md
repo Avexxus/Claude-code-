@@ -1,58 +1,66 @@
 # Seed ledger: Book 1 v3 (The Emperor's Son)
-🌊 Story clay. Kept by payoff-keeper. Started 2026-11-17 from `v3/ch01/draft_v1.md`.
-Cites: `ch01:L###` = line in `v3/ch01/draft_v1.md`. **FB** = future-book seed, deliberately unpaid in Book 1 (book guess in brackets). **ACC** = accidental seed: on the page, not in the plan.
+🌊 Story clay. Kept by payoff-keeper. Started 2026-11-17 from draft_v1; **rebased 2026-11-17 onto `v3/ch01/draft_v7.md`.**
+Cites: `ch01:L###` = line in `v3/ch01/draft_v7.md`. **FB** = future-book seed, unpaid in Book 1 by design. **ACC** = accidental seed (on the page, not in the plan). **TEX** = demoted to plain texture (no promise; don't reinforce).
 Plant grades: **OK** = light and visible · **HEAVY** = risks telegraphing · **FAINT** = may not be remembered.
+Cap (Patrick 2026-11-17): about 6 open Book 1 seeds + 3 FB per chapter. Loops planted and paid inside ch01 are listed separately and don't count.
 
-## Book 1 seeds
+## Book 1 seeds: open after ch01 (the 6 inside the cap)
 
-| ID | Seed | Planted | Reinforced | Payoff (planned / actual) | Grade · status |
+| ID | Seed | Planted | Reinforced | Payoff (planned) | Grade · status |
 |---|---|---|---|---|---|
-| S-001 | **The letter**: hand-delivered by a grey-coat courier, no address, oval seal; "It's kept twenty-four years"; put under the fruit bowl, unopened | ch01:L121–129 | ch01:L607 (seal cracked by bowl, set face down) | Throne room: "Did you forget my letter, boy?" (brief §6) | OK. Open: book-length gap needs 2–3 reinforcements; brief Gate-1 item 3 (contents, whether Eli ever opens it) still undecided |
-| S-002 | **Teo's warnings**: "He didn't ask you to come" / the girl, "Eli." / "Pay her and we go. Now." Also "Don't eat anything" (L261), "Eli" from the door (L389) | ch01:L111, L291, L405 | ch01:L603 "I told you" (to the sink) | Later: "I told you that like 3 times" | OK, but the count is 5 not 3, and L603 pre-spends the line. See review |
-| S-003 | **Legion chip, leash removed**: "on their net… nobody looks for an orc on it"; "You understand what you've bought him." / "Yes." | ch01:L357–361 | ch01:L51, L583 (LEGION RECRUITMENT ribbon) | Partly paid in ch01 (it lets Vosk draw, L369–503). The chip itself is hooked out of the body (L569). Later payoff ("the network") not yet planned | HEAVY: Velk explains it. Status: needs a later payoff plan |
-| S-004 | **Eli's dog-kindness**: squeeze-and-shake on the scar; plate and cloth on the step; "carry the ice for the cook"; clap on the arm; "You're doing so well"; "He's mine" | ch01:L147–159, L183, L351 | ch01:L227 ("He asked was you mine"), L537 ("He's mine. Leave him.") | Brief §1: unchipped orcs, horror, the throne | OK, the best-planted seed. Reads as love, which is the point |
-| S-005 | **The gate always opens**: green light, "Good evening", *no name*; the account never says no; grey coats "not look" at him | ch01:L101–103, L177, L185 | ch01:L577 (stair readers green through blood) | In-chapter: L589–597 (gate reads him green, filthy and bloodied). Book: father's reach revealed | OK. The "without a name" detail (vs L45 "a name maybe") is a good extra hint; keep it quiet |
-| S-006 | **Eli's freeze**: known reach since six (door, flyer from the lake); hand up, "Nothing came"; the shaking that won't stop | ch01:L487–491 | ch01:L495 (Teo pulls the hand down), L581 | Not named in the brief. Likely the master's "listen, don't push" | OK. Needs a planned payoff and one ch2–3 reinforcement |
-| S-007 | **Teo's cool head**: the route, slow breathing ("oral finals", flyer over the sumps), ladle, slap, "Walk. Don't run." Cost shown after: sick once, hands shake at the sink | ch01:L163, L187, L427, L459, L493–501, L563 | ch01:L585, L601 | Teo's death: "You brought this?" (brief §6) | OK |
-| S-008 | **The Queen**: one feed ribbon, "INQUISITION ESCORT INCLUDES DUELIST KNOWN AS 'THE QUEEN'" | ch01:L119 | — | Her arrival and the duel; the grief charge (brief §6) | OK. "Neither of them looked at it" is a small wink; it could go. Also plants the Inquisition (brief §3) |
-| S-009 | **Vosk's 41 marks in the sock**: "Give it to the cook" | ch01:L5, L81–85 | ch01:L547 | **Unplanned.** Eli must do it, forget it, or fail at it | OK and very visible. Status: a promise; needs a ch2 beat |
-| S-010 | **Vosk's own aim**: Hurrak walks out "past the gate that didn't bite"; "quicker on my own"; a chip "nobody pulls on"; "I picked it. Nobody spent me." | ch01:L37, L153, L359 | ch01:L303 ("You said you'd come on your own"), L547 | In-chapter: Eli's presence is what fails it | FAINT on the cause. The escape aim reads; the idea that Eli's presence triggered the ambush needs one more beat (review #4) |
-| S-011 | **The fob / Ilder**: the boy at the window watches the yard orc hop; Vosk's thumb on his own scar | ch01:L77–79 | ch01:L599 (fob by the sleeping boy's bed) | **Paid in ch01:** L537 "His dad's fob. Made me dance." | EARNED (turns: Vosk was once the hopping orc) |
-| S-012 | **"Walk well"** as the orc farewell | ch01:L39 | — | **Paid in ch01:** L557 "Walk. Walk well. Walk." | EARNED |
-| S-013 | **The King's smell**: "hot metal and a sweetness behind it" | ch01:L17 | — | **Paid in ch01:** L419 | EARNED |
-| S-014 | **Vosk's old nosebleed off the walls** (latent sensitivity) | ch01:L11 | — | **Paid in ch01:** L365, L375 (feels the Tower once the leash is gone) | EARNED, lightly done |
-| S-015 | ACC **The shaved-head girl**: at the Stoop, on the bridge, in Hookline; Vosk watches her; she kneels, then runs past Eli | ch01:L277–295 | ch01:L425, L479 | **Unplanned.** Reader expects: she's the King's eyes, or she comes back | HEAVY: Teo points at her twice. Needs a decision |
-| S-016 | ACC **Teo slows at the gate**: "Eli had never asked him why" | ch01:L177 | ch01:L597 ("as he always did") | **Unplanned.** Reader expects a Teo secret (a different read? staff-born?) | HEAVY: said twice with "never asked why". Needs a decision. Ties to notes' open question on Teo's background |
-| S-017 | ACC **Teo knows things**: reads the dwarven salvage stamp ("It was a ship"), "Somebody bigger", finds the shaft | ch01:L187, L211, L245–253 | — | **Unplanned.** Clusters with S-016 | OK alone; together with S-016 it suggests a hidden Teo |
-| S-018 | ACC **Vosk looks at Eli "as if it was something he'd seen before"**, right after the chip lets him feel the Tower | ch01:L383 | ch01:L537 (eyes slide to the Tower) | **Unplanned.** Reads as: a sensitive sees Eli's father in him | OK and strong. Adopt as a plant for the father reveal |
-| S-019 | ACC **The King survives and wants Eli**: looks at him like tongues on ice; "he'll have that"; the rubble moves with heat | ch01:L447–449, L551, L569 | — | **Unplanned.** The brief never brings the King back | A dangling threat. Promise or close |
-| S-020 | ACC **Cores**: the lift's "POOL CORE — CERTIFIED" that tightens like a hand; Scald cores the dwarves "call something else"; soup hot-box with "a little orc-grey core"; "Don't eat anything" | ch01:L61, L259–261 | — | **Unplanned.** Implies cores are made from orcs | Strong, will be remembered. Check against the codex; plan a payoff or a later echo |
-| S-021 | ACC **"Tell Hurrak's. No."**: Hurrak's what? | ch01:L547 | — | **Unplanned.** Could be read as an orc network, a natural bridge to the unchipped orcs | FAINT, but readers will want an answer. Adds an open question if adopted |
-| S-022 | ACC **The cook**: drowned the kittens; Vosk carries her ice; gets the sock | ch01:L113, L159, L547 | — | Vehicle for S-009 | OK |
-| S-023 | **Jon glimpse**: a man on a stair landing eating a peach, face unseen, makes room for them | ch01:L579 | (fruit bowl, apples, orange: L91, L105, L117) | Ch2 Jon. Needs a peach or fruit echo there or it vanishes | FAINT by design. "The only clean thing" keeps it barely visible. Fine if ch2 echoes it |
-| S-024 | ACC **Teo's apple, eaten bottom-up; the core he can't put down** | ch01:L105 | ch01:L131, L151 | **Unplanned.** Three mentions in one scene | Texture now; a gift for Teo's death scene if wanted |
+| S-001 | **The letter**: grey-coat courier who waits till it's in his fingers; blank front; the oval seal "off the stair landings"; under the fruit bowl; "they've had twenty-four years. They can have tonight." Absorbs old S-108 (the oval: L43 "an oval with nothing in it", L121 "ten thousand times on landings and crates and the backs of buses") | ch01:L119–127 | ch01:L625 (thumb on the seal, slid back, both hands on the bowl), L633 | Throne room: "Did you forget my letter, boy?" (brief §6) | OK. Book-length gap: needs 2–3 reinforcements. Gate 1 item 3 (contents) still open |
+| S-002 | **Teo's warnings, unheard**: (1) "He didn't ask you to come" (2) "Take the coat off… They're looking at the coat" (3) "Get him up. We go. Now." | ch01:L109, L235–239, L363 | — (the old "I told you" at the sink is gone; L619 is now the brush) | "I told you that like 3 times" | OK. Count is now exactly 3 and nothing pre-spends it. The later line must turn, not repeat |
+| S-004 | **Eli's dog-kindness**: Vosk sits on the step "which was where he sat", by the core "where somebody would sweep it"; plate, fork, cloth; squeeze-and-shake on the scar; second-best coat "covered about half of him"; "See, no trouble" and the clap; "You're doing so well"; "Teo. Look at him." | ch01:L113, L137–143, L159, L169, L191, L315, L359 | ch01:L217 "He asked was you mine" (Eli laughs) | Brief §1: unchipped orcs turn it to horror | OK, the best-planted seed. Reads as love |
+| S-005 | **The father's reach, unseen**: gate green, "Good evening", no name; the account "never asked what anything was for", pays before the steward's slate is down; **a woman rings to check the figure** | ch01:L91–103, L185 | ch01:L193, L597–599 (green through blood), L607–613, L623 (he could ring the account; "left it") | Book: the reach revealed. In-chapter turn paid (see Loops) | OK. The rung-house woman is the only active sign of a watcher. Keep her unexplained |
+| S-006 | **Eli's freeze and his plea**: reach shown (core L113, coin L263, flyer at fifteen L453); "Nothing came"; "Vosk, put it down. Put it down. Please." and the arm breaks; backs off "faster than Teo was pulling" | ch01:L445–457, L471 | ch01:L485 ("Come back"), L493, L599 ("Put it down. Please." on the stair), L621 | Tower: Eli's collapse (§5); likely the master's "listen, don't push" | OK. Needs one ch2–3 reinforcement and a named payoff in the plan |
+| S-007 | **Teo's cool head, and its cost**: the rota and shaft clock; exam-calm; "Walk. Don't run."; slow breathing (oral finals, flyer over the sumps); ladle; slap; the bluff "He's under there". Cost: sick once; thumb raw; hands shake at the sink. Absorbs old S-024 (apple bottom-up, thumb picking) | ch01:L87, L175, L195, L361, L389, L423, L461–463, L575, L585 | ch01:L603, L617 | Teo's death: "You brought this?" (§6) | OK |
 
-## Future-book seeds (FB, unpaid in Book 1 by design)
+## Book 1 seeds: over the cap (ranked; each needs the action named)
 
-| ID | Seed | Planted | Reinforced | Book guess | Grade |
+| ID | Seed | Planted | Reinforced | Action | Grade |
 |---|---|---|---|---|---|
-| S-101 | FB **The Stoop**: a man-high curb, a seamless giant door, drill holes a thumb deep; the door is the only *cool* thing; "Somebody bigger" | ch01:L189–211 | — | Book 3 (the capital) | Slightly HEAVY: a full set piece with three lines of comment. Fine for an FB seed, but keep it out of Book 1 from here on |
-| S-102 | FB **Hurrak's song**, with the left-out verse "his own name in his mouth like a stone" | ch01:L37 | ch01:L41 (hummed), L547 ("Tell Hurrak's") | Book 2/3 | OK. Doubles as S-010 |
-| S-103 | FB **Velk's stock**: things that "came out" and "don't go back" (tilting cube, spill-less jar, coin on edge, unlookable rope, clapperless bell); "Depot's taking a third"; "his cut on top" | ch01:L309–325 | ch01:L387–395 (Eli tries to buy the coin) | Book 2 (the Returned, the wild west) | OK |
-| S-104 | FB **The ship-rib bridge**: ribbed, "warm like a horse", dwarven salvage stamp; "It was a ship." | ch01:L233–253 | ch01:L571 (warm all the way across) | Books 2/3 (cathedral ships) | OK. Teo's line spells it out, which is acceptable for an FB seed |
-| S-105 | FB **The 94-year-old dwarf**: ticking chest box grown into the skin, grafted child-pink skin; "start saving now" | ch01:L267–275 | ch01:L425, L463 (box stops, restarts) | Dwarves lengthening their lives (Book 2+) | OK. Risk: readers may take him for Book 1's old ship-owning dwarf (see review) |
-| S-106 | FB **Velk's tune**, which turns round on itself; "Eli half knew it" | ch01:L333 | — | Book 4 only, never explained | Tiny, as asked. Logic risk: if it's Derrek's tune, how does Eli know it? And readers will expect Derrek to hum it in the throne room (review #3) |
-| S-107 | FB **The walls that talk; the psychics** with their foreheads to the stone | ch01:L9–11 | ch01:L195 (Stoop stone "grown not cut") | Book 2/3 (the capital's wrongness) | OK |
-| S-108 | FB/B1 **The faceless oval**: stair seals, buses, the tutor's "face for the loyal", "not a matter of loyalty"; the letter's wax; the Legion chip; the crack across it | ch01:L49 | ch01:L123, L357, L607 | B1 throne room (Derrek) plus later books | OK. Repetition watch: "the oval with nothing in it" ×3 verbatim. Cap: once per chapter |
-| S-109 | FB **Sickness of the old ground**: the jaw grown over the eye; fused fingers | ch01:L13 | — | Book 3 (radiation ghosts, wrongness) | OK |
+| S-019 | ACC **The King lives and wants Eli**: reads Eli "like the steward read a bill"; "he'll have that… Worth more than any chip in it"; gives ground under the arch; the heap moves, heat from under it | ch01:L411–413, L483, L563 | ch01:L585–587 | **Close in ch02** in one line (news he's dead or crippled), or the plan adopts him as a Book 1 threat and drops something else. No beat in the brief uses him | OK, but dangling |
+| S-009 | **Vosk's 41 marks in a sock** (nine years) | ch01:L5 | ch01:L45 (the sum on the landing), L77 (hand flat over the sock) | **Close in ch02**: one beat (Eli at the bunk, or the steward clears it). "Give it to the cook" is gone, so nothing tells Eli; the reader still holds it | OK, very visible |
+| S-025 | ACC **Velk's chain upward**: tin "with a mark scratched in the lid"; "Depot takes a third… Then his cut. And whatever he sends up to whoever"; Teo's "Whose cut?" unanswered; her eye goes to the tin when the chip won't take; she leaves with it | ch01:L273–275, L281 | ch01:L325, L373 | **Demote to TEX**: cut the glance at L325 ("Her eye went to the tin with the mark on the lid"). The rest can stand as world texture | HEAVY for an unplanned item: 4 lingering mentions |
+| S-008 | **The Queen**: one ribbon, "THE QUEEN DECLINES TO COMMENT" | ch01:L117 | — | **TEX** in practice; she needs a full entrance later anyway. Risk: right after ELVEN DELEGATION it reads as an elven queen. The Inquisition plant (old "INQUISITION ESCORT") is gone | FAINT |
+
+## Loops planted and paid in ch01 (not counted against the cap)
+S-003 chip/leash · S-010 Vosk's aim · S-011 fob/Ilder · S-013 the King's signs · S-014 Vosk and the Tower · S-026 "was you mine" · S-027 the watch · S-028 the count. Verdicts are in `ch01/review_payoffs_v7.md`.
+
+| ID | Loop | Plant | Reinforced | Payoff | Carries on? |
+|---|---|---|---|---|---|
+| S-003 | "Soldier's. Leash is out." / "You understand what you've bought him." / "Yes." | ch01:L321–329 | ch01:L47, L601 (LEGION ribbon) | L337–349 (Tower; "And them. All of them"), L427–481 (the draw), L559 "Nobody… Spent me." | The chip itself is hooked out (L589). "The network" needs a new carrier if the plan wants it (unsure vs canon) |
+| S-010 | Vosk's own aim: "quicker on my own", "I know the way", "Eli. Not in the coat.", Velk's "You said you'd come on your own"; Eli's "They know what a Terrace coat is" | ch01:L153–163, L159, L251 | ch01:L235–241, L295, L397 | L413 "Terrace boy… in a coat like that. Worth more than any chip"; L555 "I picked it." | No |
+| S-011 | The Ilder boy, the fob, the hopping orc; "they never trained them"; "slap, slap" | ch01:L73–75, L183 | — | L527–535 "His dad's. Fob… Made me. Dance." | Echo L599 |
+| S-013 | Pole Street: kneeling to the wall, the plastic-strip doorway, heat in gusts, wire-stitched necks, "Eating. He's eating tonight." (old smell plant is gone) | ch01:L13–29 | ch01:L231 (arch with strips), L241 | L385–393, L427 (the crowd sags; "out through the backs of their necks") | No |
+| S-014 | "He leaned back and stared up at it… He didn't feel anything." (old nosebleed plant is gone) | ch01:L61–63 | — | L337–341 "It's right there"; L569 "Oh. It's right there." | No |
+| S-026 | "He asked was you mine." Eli laughs | ch01:L217–219 | — | L543 "He's mine. Leave him." / L545 "I don't remember" | Feeds S-004 |
+| S-027 | The watch: four worlds, a little moon | ch01:L293 | ch01:L369 | L621 "the wrist was bare" | No |
+| S-028 | The count and lates: "past the bell for the night count", "Late. Logged.", "Your lates are off. Both of them." | ch01:L5, L67–69, L145 | — | L627–635 "Vosk?" up at the kitchen light; the mark | No |
+
+## Future-book seeds (FB)
+
+| ID | Seed | Planted | Reinforced | Book guess | Status |
+|---|---|---|---|---|---|
+| S-104 | FB **The rib bridge**: one curved girder, "ribbed like a spine"; "Warm like a horse"; "Don't touch it." (the stamp and "It was a ship" are gone) | ch01:L225–229 | ch01:L591 | Books 2/3 (cathedral ships) | **Keep (1).** Light now |
+| S-102 | FB **Hurrak's song**, with the left-out verse "his own name in his mouth like a stone" | ch01:L35 | the gate that "didn't bite" echoes L187–189 | Book 2/3 | **Keep (2)** |
+| S-101 | FB **The street at giant scale**: a curb to Eli's chest, the far curb a long way off, the shacks on poured fill (the giant door and "Somebody bigger" are gone) | ch01:L199–203 | — | Book 3 (the capital) | **Keep (3).** Right weight now: no comment on it |
+| S-103 | FB **Velk's stock**: the tilting cube, the coin on its edge; "Out." | ch01:L261, L273 | the coin carries Eli's reach (L263) | Book 2 (the Returned) | **TEX.** Over the cap; it now does a Book 1 job (the coin) |
+| S-107 | FB **The wall-listeners**: humans with foreheads to the old walls, orc children minding shoes | ch01:L9 | ch01:L597 (shoes in their hands) | Book 2/3 | **TEX.** One paragraph and one echo; don't reinforce in Book 1 |
+| S-109 | FB **The old ground's wrongness**: the jaw over the eye, fused fingers; leaning floors, sideways plants, gutter light; the headache and the blue pill | ch01:L11, L49 | ch01:L193, L345, L601 | Book 3 | **TEX.** L345 quietly links the headache to the Tower; enough |
+
+## Retired IDs (gone from v7; do not reuse)
+S-012 "Walk well" payoff (the line survives at L37 as custom only: R-010) · S-015 the shaved-head girl (now one-line runner girl, L241: texture) · S-016 Teo slows at the gate · S-017 Teo reads the salvage stamp · S-018 Vosk places Eli's face (L355 is now "He studied Eli's face… 'No,'"; the father-plant through a sensitive is gone) · S-020 the orc-grey cores (one twitching lift core left, L59: texture) · S-021 "Tell Hurrak's" · S-022 the cook (only the brush, L619) · S-023 the Jon peach (no Jon glimpse in v7) · S-024 merged into S-007 · S-105 the 94-year-old dwarf · S-106 Velk's tune (plan item dropped; Book 4 needs a new plant) · S-108 merged into S-001.
 
 ## Overdue
-None yet. Chapter One is the first beat.
+None. Ch01 is the first beat. Watch S-001 (no reinforcement planned yet before the throne room).
 
-## Repetition watch (ch01 counts; caps from ch02)
-- "the way you'd / the way a…" similes: about 15 in ch01. **Cap: 5 per chapter.**
-- "the oval with nothing in it" (verbatim): 3. **Cap: 1 per chapter**, saving the full phrase for the throne room.
-- "quite + adverb" (politely, sharply, softly, hard): 4. **Cap: 2.**
-- Thumb on the scar: 4. Fine as a custom; cap 2 per chapter once Vosk is gone.
-- "very slightly": 3 (2 of them for Teo's gate slowdown).
-- "Green, green": 3. Fine.
+## Repetition watch (ch01 v7 counts; caps from ch02)
+- Similes ("the way…", "as if", "like a…"): about 16. **Cap 5 per chapter.**
+- "the oval with nothing in it" verbatim: 1. Keep the full phrase for the throne room.
+- "quite + adverb": 2. **Cap 2.** "very": 3. **Cap 3.**
+- Green (reader/gate lights): 9, clustered in 4 places. Fine for ch01; **cap 3 per chapter** after.
+- "It's all right" (Eli): 4, two doubled pairs. Fine as his refrain; **cap 2 per chapter.**
+- Headache / blue pill: 3 / 5. **Cap 1 each per chapter.**
+- Thumb on the scar: 3 orc + 1 Eli squeeze. With Vosk gone, **cap 2 per chapter.**
+- Steam: 9, all in the fight. Fine.
