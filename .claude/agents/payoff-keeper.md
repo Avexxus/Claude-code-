@@ -17,6 +17,7 @@ After each new beat:
    For each payoff, rule EARNED, THIN (needs a reinforcement, and say where), TELEGRAPHED (soften the plant, and say how), or UNSEEDED (needs a plant, and say where it would fit naturally).
 3. **Flag every rule broken** without an on-page reason, and every rule that was set and then never used again.
 4. **Flag overdue seeds:** planted long ago with no reinforcement and no planned payoff. They are either a promise to keep or a cut.
-5. Watch repetition. A motif repeated so often it turns into a tic gets a count and a cap.
+5. **Seed density (Patrick, 2026-11-17: "You cant have 24 seeds in chapter 1").** Cap each chapter at about 6 new Book 1 seeds and 3 light future-book seeds. Over the cap, rank them and name which to demote to plain texture (mentioned once, no lingering) or cut. A detail the camera lingers on counts as a seed whether the plan meant it or not.
+6. Watch repetition. A motif repeated so often it turns into a tic gets a count and a cap.
 
 Never change the story text. Write `stories/<slug>/reviews/beat_<id>_payoffs.md` (short, ranked) and update the two ledgers.

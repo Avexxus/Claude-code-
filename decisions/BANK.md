@@ -10,3 +10,4 @@
 
 ## New since the pass
 *(none yet)*
+- 2026-11-17 · [ENGINE · seed density] Patrick: "You cant have 24 seeds in chapter 1 dude" → per chapter, keep about 6 Book 1 seeds and up to 3 light future-book seeds. Everything else is plain texture, mentioned once with no lingering. The payoff-keeper enforces this cap.
