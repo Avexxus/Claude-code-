@@ -13,6 +13,8 @@
 > **v5-cc — 2026-11-16 (pass, step 2: big changes).** Items Patrick's big-change rulings settle are marked **RESOLVED v5-cc (cc R###)** in place, never deleted: L4 (part), L5 (part), L9, L10, L12, L13 (part), L21, L22, L31, L34 (part), #1 (part), #2, #12 (part), #14, #16 (part), #47 (part), #62, #71, #75 (part). Ledger: `decisions/RULINGS.md` R089–R106.
 >
 > **v5-cc — 2026-11-16 (pass, fix 1 after canon check 1).** RESOLVED v5-cc in place: L1 (part, cc R112), L16 (cc R107), #6 (b) (cc R115), #15 (cc R109). #47 (d) is corrected to **not** resolved. New items L36–L38 below. Ledger: R107–R116.
+>
+> **v5-cc — 2026-11-17 (pass, step 4: reconciles).** RESOLVED v5-cc in place: #3 (cc R118), #5 (cc R120), L2 (cc R132), L7 (cc R136), L8 (part, cc R135, R146), L18 (cc R128), L24 (cc R145). The reconciles that need you are in **Pass 2026-11 · open calls** below (26). Ledger: R117–R147.
 
 ---
 
@@ -22,6 +24,7 @@
 **The ten most load-bearing**
 - **RESOLVED v5-cc in part (cc R112):** held souls are amplifiers only, never batteries — "I think battery implies draining… using another's gives you more range"; nothing drains. How reservoirs and the chamber drain read in each scene is still open.
 - **L1. Remnant can't be spent (wk W10) — so how is a stored or stolen soul's power drawn on?** Against it: reservoirs as "stored fuel"/"battery" and enchantments "finite… until spent" (06, 01, MSE); the drained dragon's batteries (t50) and the slave planet's "endless energy" (t54) (07); the giant stone "craftsman's power is the source" (t34) (04); the master "feeds it himself and his remnent" (t432) (08, 09, 13). *(A5, A14, B07-3, C3; continues old #1.)*
+- **RESOLVED v5-cc (cc R132):** amplifier — "I think its an amplifier only" (BANK 10-31); "drives their grip" retires.
 - **L2. Stealing production — what is the mechanism?** The thief drives the victim's grip (Claude, chat t84), or "an amplifier to touch a wider pool" (you, chat t83: "Im not sure"). Now 🌊 in 01, 02, 03, 04, 05, 06, 07, 08, 10, 13, MSE. *(Audit W11.)*
 - **L3. Book 1's ending.** Book 1's window has no plea (wk W53). Do the sigh, the Lirael flashback, "at least I'll get to see her again" and the fade to white stay in Book 1, move to the later window book, or both? Does the confession aimed at the son (t731–t736) stay? Does any pre-window "refusal" of Derrek's pressure (t656) survive beside wk W50? — 08, 09, 13, SCENES, 02 Law 19. *(A3, C1, C2; continues old #4.)*
 - **RESOLVED v5-cc in part (cc R105):** their bodies can be destroyed and nothing in the world stops them dying; the story never allows Jon or Derrek to die (a story rule). Whether Jon's power counts as "from beyond the regress" is still open.
@@ -29,7 +32,9 @@
 - **RESOLVED v5-cc in part (cc R089, R100):** the order is ruled; Books 1–3 sit inside the current run and end at the window; Book 4 is the cosmic book and Jon's book folds into it. The t330 tension and the "which waking" question stay open.
 - **L5. The series shape vs "earlier loops never planned or dramatized" (t330).** wk W42 (the series spans resets), W54 (a later book reveals the jumps and pleas), W55 (Jon's book wakes in the past). Also: must Jon's book keep it ambiguous which waking it is (Claude, chat t198), or is it simply a reset ("Presumably just doing a reset," chat t197)? — 01, 02 Law 19, 09. *(A2, audit W55; bears on old #75.)*
 - **L6. Jon: sincere, or empty?** "Openly sincere, warm, honest" (wk W44) and "the charm is his autopilot" (chat t249, t261) vs t744 "Only we know he doesnt feel anything" and the says-kind/does-cruel craft rule; 09/13 still call the Lirael line "his one real feeling" (t745). — 08, 09, 13. *(C5.)*
+- **RESOLVED v5-cc (cc R136):** the Tower is the converged city with the emperor dissolved into it; everything outside it was vaporized (BANK 11-16 [BETRAYAL DAY]; BANK 11-01).
 - **L7. The Tower's identity.** Is the emperor whose Convergence trapped the city's Remnant in the stone (wk W15) the converged giant king of betrayal day (t86)? How does "the largest giant city, compressed" (wk W16) sit with "the blast nuked the entire capital" (t88)? — 01, 07, 08, 10, 13. *(A7, B07-7.)*
+- **RESOLVED v5-cc in part (cc R135, R146):** the apprentice taps the Tower as an amplifier and burnout kills his body; the changeling's barrage is felt as weight, not seen. The technique's name and the brother beat (B-38) stay open.
 - **L8. Two Tower deaths have lost their mechanic.** The changeling's soul attack (t342, t774) and the apprentice's rift technique (t768 — "latent pools of remnant," "spends everything") read as burning Remnant, which wk W10 rules out; nothing replaces them. Are the apprentice's "latent pools" the Tower's trapped Remnant (wk W15–W16)? Does the technique keep its name? — 05, 08, 09, 13, SCENES. *(A8, A9, C12, C13.)*
 - **RESOLVED v5-cc (cc R098):** the bond is an extrasensory organ, not a tether; reach scales with Remnant and distance (faint far off, a beacon at a homeworld, plain up close). Whether July will-binding survives up close is still open.
 - **L9. The elven bond doesn't track individuals (wk W08)** — vs July disposition/thought monitoring (jul23 t132) and escapees "felt through the bond as wrong and warped" (t228). Compatible (no location-tracking), or does one go? — 01, 04, 07, 10. *(A10, B07-6.)*
@@ -44,13 +49,13 @@
 - **L15.** "A god asks for your devotion; a demon offers you a deal" (t548) vs wk W57 (religions are networks of pact champions) and W32 (no formula); also 10's "god-blessing and demon-deal are the same act." — 06, 08, 10. *(A12, B10-2; continues old #33.)*
 - **L16. RESOLVED v5-cc (cc R107):** "Any being of any size given enough time and enough practice can become a god" (BANK 11-01). Humans reach godhood only by time-fusion or theft (wk W31) vs Law 4's "given enough Remnant and time a mortal simply becomes one" and Tier 1's "any user" (t668). — 02, 07. *(A13, B07-8.)*
 - **L17.** Law 1: with the grip mechanized (wk W06), does "science can never explain the CAN — that seam belongs to the One" now mean only the inner sense? — 02. *(A15.)* [REV v5-cc] *(The inner sense is no longer a dial; sensing is part of Skill (cc R095). So the question is now: what does "the CAN belongs to the One" cover?)*
-- **L18.** Does wk W13 (a bound soul feels dread) reach souls held inside a changeling (left unanswered on purpose before)? — 07. *(B07-4.)*
+- **L18. RESOLVED v5-cc (cc R128):** a held soul, changelings' included, feels only vague, general things, "maybe some strangeness but sensation comes from sensory organs" (BANK 11-02). Does wk W13 (a bound soul feels dread) reach souls held inside a changeling (left unanswered on purpose before)? — 07. *(B07-4.)*
 - **L19.** Hell drifted to dissidents and vagrants (wk W25) vs "dissent is handled by rigid enforcement, not exile; only soul/body theft sends an elf there" (t682–t683). — 07, 10. *(B07-5, B10-1.)*
 - **L20.** The no-clinical-labels rule vs 07's paraphrase "effectively psychopaths" for changelings (your own "highly sociopathic"/"psychopaths" quotes are kept). Reword the paraphrase? — 07. *(B07-9.)*
 - **L21. RESOLVED v5-cc (cc R104):** the Arcavist, the Historian and Barnaby are one person, the fourth; Derrek killed his master, the third, and later Barnaby. "Torn apart by the 2" vs "Derrek kills" is left as written. The Historian's founding pair: chat t51 says "his student stepped forward he was killed"; t650 says his master was torn apart; wk W54 keeps it ambiguous. Does the society's founding text (master torn apart, survivor) stay as written? — 07, 08, 09. *(B07-10, audit missing #2.)*
 - **L22. RESOLVED v5-cc (cc R090):** dragons are a true society (cities, universities, firms, fleets; fewer than humans or elves); the "independent king" bullet is retired. Dragons: 10's July decline bullet ("each dragon its own independent king… not enough dragons") vs 07's feudal empire (t260). Pre-existing. — 07, 10. *(B10-3.)*
 - **L23.** "Like the UN" (wk W60) is kept as your comparison; it falls under old #9 (real-world comparisons). — 10, 12. *(B10-4.)*
-- **L24.** The gnome changeling enslaved his whole village by ritual (t778) vs the 1–2 souls pace (wk W16) and one driver only at a sustainable pace (wk W22): an unsustainable case, or a different ritual? — 07, 08. *(C4; bears on old #55.)*
+- **L24. RESOLVED v5-cc (cc R145):** slowly, as the village healer — "People took their sick to him. He then sucked out their soul and lied" (BANK 11-01). The gnome changeling enslaved his whole village by ritual (t778) vs the 1–2 souls pace (wk W16) and one driver only at a sustainable pace (wk W22): an unsustainable case, or a different ritual? — 07, 08. *(C4; bears on old #55.)*
 - **L25.** Jon's own "temporal perception" through his Spirit nature vs wk W39 (Derrek sees time; Jon jumps). — 08. *(C6; bears on old #67.)*
 - **L26.** Why Jon stops: wk W40 (he learns he is manipulated; tired of killing Lirael) vs the ✅ never-were lesson ("no run can be perfect"). Still part of the reason, or world fact only? — 08, 09. *(C7; residue of old #70.)*
 - **L27.** The reset-fog defeat (forward time strips Derrek's genius) vs wk W41 (Derrek planned for a non-jumping Jon). — 08, 09. *(C8.)*
@@ -67,6 +72,35 @@
 - **L36. 🔒 Law 4b: "genuinely deathless by mechanism" vs "nothing stops them dying."** Law 4b calls Jon and Derrek true immortals by mechanism; your answer 16 says "technically they have bodies that can be destroyed… nothing stops them dying. No the story cannot allow it" (cc R105). Both texts are kept with a 🌊. Amend 4b (Jon and Derrek leave the true-immortal list; only the story keeps them alive), keep it (their mechanism is the death-reset, BANK 11-01), or something else? — 02 Law 4b, 01 TRUE IMMORTAL. *(Canon check 1, B5; A-59.)*
 - **L37. Betrayal day: how were humans and orcs drawn in?** You ruled one event, "not coordinated entirely by dragons… A few people were warned… dragons just found the giants capital dead" (cc R091). The codex had Claude's reading that the pressing dragons then drew humans and orcs in with the old promise of "freedom as equals"; now 🌊. Were humans and orcs part of it, and how? Were the dragons who struck the rulers "the few who were warned"? — 07 revolt, coup, fall; 10 three masters; WORLD_OVERVIEW. *(Canon check 1, B2.)*
 - **L38. Lirael waiting at a later window (your scene, wk W46).** You retired Derrek gathering her fragments: "I just think no lirael. Its to hard to find vague specs of remnant" (BANK 11-07; cc R110). Your scene of Lirael waiting at a later window rested on that gift. Does it go too? — 08, 13, SCENES.
+
+## Pass 2026-11 · open calls
+*[NEW v5-cc] The pass's reconcile items marked "Needs Patrick: yes" (triage files in `work/pass_2026-11/`), plus the questions the pass left open. Nothing below is applied; the codex carries 🌊 pointers here. One line each: ID · the question · Claude's pick (🌊 proposal).*
+- **B-24 (with A-43)** · The master's black hole: Law 7c says a severed room holds only his own body and Remnant, but you have him harness the Tower. · Pick: the Void lies over a Tower room, so the Tower stone inside the seal is "what he brought in"; t432 becomes his body spent, not his Remnant fed.
+- **B-25** · Metal binding of souls (W14 / L11): is it held continuously, or done once? · Pick: done once, a learned craft ("fired and left," t504); a ghost (no vessel) still needs a holder.
+- **B-26** · Magic weapons: living flesh (11-01) or dwarven masterwork metal (11-16)? · Pick: both; flesh weapons hold souls easily, bound metal is the dwarves' harder art.
+- **B-34** · The equalizer for non-mages, now that held Remnant only amplifies your own reach. · Pick: it survives through the compelled soul doing the work (cc R035).
+- **B-36** · The forge world's slave planet "drained… for endless energy" (t54). · Pick: the slaves' souls are bound into the grown works and hulls as amplifiers, not energy.
+- **B-38** · The changeling's barrage is now felt, not seen: what becomes of the brother's sickened look? · Pick: recast as something felt (his brother's weight is the last to pass).
+- **B-39 (with A-28)** · Derrek's stolen magnifiers vs W51 "never lets anyone into his own body". · Pick: B's pick — souls held inside him as magnifiers, never drivers; W51 becomes "no one ever drives his body". (A's pick was the reverse: own power only.)
+- **B-40** · The one chip, the orc device and the bond-spoof chip. · Pick: the orc device is the universal chip (full control only for the unruly); the network is the chipped population's production, amplified by premium chips; bond-spoofing is a premium feature.
+- **B-41** · Who knows about soul theft, and the tainted-core trade. · Pick: people fear soul thieves but don't know their tech runs on bound souls; only the industry knows tainted cores.
+- **A-27** · One tether (the pact), so does Law 16's "fading on the holder's side" apply to Jon and Derrek? · Pick: the curse-tether never fades, noted as Law 16's exception.
+- **A-31** · Jon's share of time is reset/jump; does "fast-forward" go? · Pick: drop it (a rewind has no forward); sight stays Derrek's (closes L25).
+- **A-32** · How elves feel resets now the bond is a sense organ, not soul-sensing. · Pick: in the new run the bond feels the absences as an ache; how stays unexplained.
+- **A-35** · The One "never followed on-page" vs a dedicated late story; and "the cosmic deity who created everything" vs Law 0b. · Pick: a scope note (background in every ordinary story); read "created everything" loosely.
+- **A-37** · Rifts "in the sky" (t742) vs "Not the sky". · Pick: rifts are ground sites; Book 1's last image is the huge Tower rift; t742 kept as earlier words (closes NP#17).
+- **A-43 (with B-24)** · Same as B-24, from the cosmology side. · Pick: as B-24.
+- **C-45R** · Giants: peak Remnant, little trained skill — does "master craftsmen" / "signature mastery" survive? · Pick: brute will plus a cultural rite (Convergence), not study; "smart, cunning" stays as wits.
+- **C-51** · The in-world name for sentenced elves ("dark elves" is a placeholder). · Pick: the elves have their own slur for them; you name it; "Drow" stays out.
+- **C-54** · "Eterna": Earth's new name, or the elves' own world? · Pick: Earth's in-world name; the elves seek exodus from it.
+- **C-55** · How humans won: does the coalition stay beside the slow grind? · Pick: the grind is the engine; the coalition and wars are episodes inside it.
+- **C-56** · Dwarves "subject to dragon will": one word. · Pick: "pressed by" dragon power; they owned their land and bought neutrality.
+- **C-64** · The pod worlds (cattle by comfort): canon or story clay? · Pick: 🌊 texture in `10` far future.
+- **Law 4b / L36** · Deathless "by mechanism" vs "nothing stops them dying" (cc R105). · Pick: amend 4b to "ageless, not unkillable"; the story rule keeps them alive.
+- **The gap between books** · "5k or more, maybe longer" per gap (cc R089) against one run of about 10,000 years (Law 19, W42) holding Books 1–3. · Pick: "about 10,000 years" is typical, not fixed; this run is longer.
+- **Derrek's seat in Book 3** · Emperor of whom, and ruling from where, while the Tower city is the dragons' capital? · Pick: emperor of the humans, ruling from a human capital; he takes the Tower later.
+- **L37** · Betrayal day: were humans and orcs drawn in, and how? · Pick: Claude's old reading — the pressing dragons drew them in with "freedom as equals".
+- **L38** · Does Lirael waiting at a later window go with the fragments (cc R110)? · Pick: keep it as your scene, 🌊, with its mechanism left unexplained.
 
 ---
 
@@ -103,6 +137,7 @@
 - *Logged by:* 02 r1 C4; 04 r1 C3; 05 r1 C3; 06 v NP1; MSE v.
 
 ### 3. What does Jon remember across resets?
+- **RESOLVED v5-cc (cc R118):** "C by this point he remembers things" (BANK 11-07). He wakes blank each reset (the brain is rewound with the body) and memory returns over the run.
 - **Sides:**
   - Jon keeps memory: Claude's restatement at t331 (unchallenged); v4 09 hinge "Jon learned to RETAIN MEMORY"; t354 "the reader and the 2 men … will remember him … on the next loop"; final-run Jon "has been here countless times" and acts on earlier-loop knowledge (t690, t709).
   - Jon loses memory: t728 the patron "robbed jon his memories"; t732 your added confession line "your cursed to always forget"; t734 "Every time jon wakes up blank. And derrek is forced to restart the cycle."
@@ -123,6 +158,7 @@
 - *Logged by:* 01 r2 (THE LOOP); 02 r1 C7, r2 C5; 03 r1 C4; 09 r1 C2, r1 flag 40, v NP2; 13 r1 C1, C2.
 
 ### 5. "Hell" names three things. Are any of them the same place?
+- **RESOLVED v5-cc (cc R120):** one hell, the elves' prison world — "Its not even hell. Its a normal world like ours. They just name it such" (BANK 11-07); "demons and gods is an in world name" (BANK 11-01). No demons' plane.
 - **Sides:**
   - the elves' dark prison for soul and body thieves (t604, t682);
   - the human FTL route, "humans traverse hell to warp" (t438);

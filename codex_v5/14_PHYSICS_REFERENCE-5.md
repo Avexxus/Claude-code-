@@ -147,7 +147,7 @@
 ### 14.4 Decoherence — "the forgetting horizon" (flavor term, placeholder)
 - **Decoherence:** a quantum system's delicate "both at once" state washes out as it tangles with its surroundings; the information isn't destroyed, it spreads out until it can't practically be gathered back.
 - *Canon hooks:* the **forgetting horizon** [REV v5-jul] (placeholder — Claude's gloss at t167, carried along in later discussion but never coined or confirmed by the author as a name; t630 ruling) (was: "our in-world flavor term") is the flavor term used for a being that has come apart so far it cannot pull itself back together — the Law of the Regress (every plane is a being that decohered past the forgetting horizon; the One let go completely) and the in-betweeners' coherence and splitting (t164–172). The Returned learned "decoherence" and phasing in the maze (t148–150). Canon: `03_COSMOLOGY.md`, `06_EXTERNAL_POWERS.md`, `07_BEINGS.md`. Physics flavor only.
-- *[NEW v5-wk] Canon hook:* **resurrection is possible in principle** — decoherence: nothing destroyed, odds near zero; Derrek, who sees time, could trace the fragments (wk W51; `06_EXTERNAL_POWERS.md`, `08_CHARACTERS.md`). Flavor only.
+- *[NEW v5-wk] Canon hook:* **resurrection is possible in principle** — decoherence: nothing destroyed, odds near zero; [REV v5-cc] the fragments can't be traced back (BANK 11-07; cc R122) (was: "Derrek, who sees time, could trace the fragments") (wk W51; `06_EXTERNAL_POWERS.md`, `08_CHARACTERS.md`). Flavor only.
 
 ### 14.5 Black holes and event horizons
 - A **black hole**: matter crushed to a point so dense that nothing, not even light, gets back out. Its boundary is the **event horizon**.
