@@ -11,3 +11,4 @@
 ## New since the pass
 *(none yet)*
 - 2026-11-17 · [ENGINE · seed density] Patrick: "You cant have 24 seeds in chapter 1 dude" → per chapter, keep about 6 Book 1 seeds and up to 3 light future-book seeds. Everything else is plain texture, mentioned once with no lingering. The payoff-keeper enforces this cap.
+- 2026-11-17 · [ENGINE · outside readers] Patrick: "Im trusting you to know when grok has good ideas and whats settled. Your the author. These are just notes not hard requirements. Just consider it one of yiur agents. They have a job. Note taker and outsider reader. So you still get ultimate authority if you like it or not" (Grok and other outside readers are advisory, like any agent. Claude, as author, decides what to take. Canon and Patrick's words still win.)
