@@ -4,7 +4,7 @@
 
 The ground in the Scald stayed warm all night, and nobody down there had ever found out why.
 
-Vosk walked up out of it with the dwarf's price in his head. Eleven hundred, she'd said, in marks, not imperial. She'd said it to the wall over his shoulder while she wiped her hands, and then she'd put two fingers on the back of his neck to show him where. He had forty-one marks in a sock under his bunk. It had taken him nine years.
+Vosk walked up out of it with the dwarf's price in his head. Eleven hundred, she'd said, in marks, not imperial. She'd said it to the wall over his shoulder while she wiped her hands, and then she'd put two fingers on the back of his neck to show him where. Tomorrow night, she'd said, or it went to someone else. He had forty-one marks in a sock under his bunk. It had taken him nine years.
 
 He had come off the evening shift and gone straight down to her, straight past the bell for the night count, and now he was heading back with the night gone, past the shut stalls and the sleepers on their mats, feet tucked into each other's coats for the company, under pipes that sweated a slick with a skin on it. The heat rose through the soles of his boots the whole way and into his shins, and his shins ached with it as they ached after a double shift, which was what he had ahead of him.
 
@@ -190,7 +190,7 @@ The Ilders' man got up. He came along the paving with the rake and stopped by Vo
 
 Vosk nodded.
 
-"That's three nights." The man looked at his own boots, and the inch. "Their young one's getting the hang of it," he said, and went back up the paving with the rake.
+"That's three nights." The man looked at his own boots, and the inch. "Their young one's getting the hang of it," he said. "Kid's fob. Does their own. His dad's does anybody's." He went back up the paving with the rake.
 
 Vosk did the tree by the front step last, and quickly, and kept his eyes on the dirt.
 
@@ -238,7 +238,7 @@ Eli went off up the white path toward the culvert end, walking backwards for a f
 
 ---
 
-The steward woke Eli at a quarter past eleven by standing at the foot of the bed until he woke.
+The steward woke Eli at a quarter past eleven that morning by standing at the foot of the bed until he woke.
 
 "There's a woman at the door, sir."
 
@@ -248,7 +248,7 @@ Eli turned over. "So let her in."
 
 "Then let her out."
 
-The steward didn't smile. He held his slate flat against his chest with both hands. "She has something for you. She won't give it to me. She has been on the step since eight."
+The steward didn't smile. He held his slate flat against his chest with both hands. "She has something for you. She won't give it to me. She has been on the step since eight. She said not to wake you."
 
 Eli came up on one elbow. "Since eight?"
 
@@ -512,7 +512,7 @@ When he got home the cook had moved the fruit bowl to wipe the table, and the le
 
 He put the bowl back on it.
 
-The steward was in the hall when he came out, with the purse on the hall table in front of him and his hand flat beside it, not on it.
+The steward was in the hall when he came out, with a purse on the hall table in front of him and his hand flat beside it, not on it.
 
 "A man brought it at four, sir. He waited."
 
@@ -548,7 +548,7 @@ The steward said nothing to that. When Eli came down again in the coat with the 
 
 ---
 
-The money came in a dwarven purse, the kind with a clasp that bit, and Eli had put it on the kitchen table next to the fruit bowl so he could see it while he talked.
+The purse was on the kitchen table next to the fruit bowl, where he could see it while he talked.
 
 "Eleven hundred," he said. "In marks."
 
@@ -556,15 +556,11 @@ Teo was sitting on the counter by the cold-box with his heels against the doors 
 
 "From who?"
 
-"The account." Eli turned the purse over. It was heavier than he'd expected money to be. Money was a number on a slate. "Asked at breakfast. It was back before the steward had his slate down. And somebody rang the house."
-
-"Who?"
-
-"To check the figure. A woman. She had the steward say it again, and he said it again, and she said thank you and that was it." Eli laughed. "No one ever rings him. He's been in a mood all day."
+"The account." Eli turned the purse over. It was heavier than he'd expected money to be. Money was a number on a slate. "Asked at breakfast. It was back before the steward had his slate down. Somebody rang the house to check. A woman." Eli laughed. "No one ever rings him. He's been in a mood all day."
 
 "What did she want?"
 
-"The figure. I just said."
+"To check. I just said."
 
 Teo gave the purse a long look and went back to the slate.
 
@@ -658,11 +654,11 @@ Vosk wasn't with them. The front gate didn't read orcs. It bit them.
 
 "That's stupid," Eli had said in the yard. "Come through with us. I'll tell it." Vosk had said, "It bites," and gone off down the side of the house toward the culvert. He'd folded the second-best coat in four and left it on the step.
 
-They found him at the bottom of the public ramp twenty minutes later, standing still in the shadow of a pillar, with spit drying on his chin and his hands where people could see them.
+They found him at the bottom of the public ramp a few minutes later, standing still in the shadow of a pillar, with spit drying on his chin and his hands where people could see them.
 
 "See," said Eli. "No trouble." He clapped him on the arm.
 
-Vosk wiped his chin on his wrist.
+Vosk wiped his chin on his wrist. The slot didn't like orcs out after the count.
 
 The mid-levels at night were louder than by day. Noise poured down from the lanes overhead and up from the streets underneath, and there were so many feeds you could have read by them. Every human face that passed under a reader got its light. Eli had stopped seeing that at about sixteen. He walked down the middle of the walkway with his coat open and the purse knocking on his ribs, and people stepped round him, and he let them.
 
@@ -681,16 +677,6 @@ The doorman looked at Teo, and at Vosk behind Teo, and at the coat. He hooked th
 Past Ancel Row the Spur got narrower and darker, and the walkway leaned. The flesh market was shut, the cold-cases chained under tarps, and the gutters still ran pink from the evening hosing. At the Spur's head the lift's core sat in its glass box and twitched when a car went down. Vosk went round it. Eli bent to the glass to look at it, and Teo said, "Eli," and he came away.
 
 Teo took them past the lift to a pump house with its door propped open on a brick. Inside was a square hole in the floor with a rail round it, and a cable going down into the hole, black with oil, humming.
-
-Teo stood at the rail with his slate. Eli leaned on the rail beside him.
-
-"Well?"
-
-"Twenty past."
-
-"So?"
-
-"So it's twenty past."
 
 Vosk stood just inside the door with his back to the wall, where he could see the street. Eli walked once round the rail and came back to him.
 
@@ -822,7 +808,7 @@ Teo stepped in close beside him.
 
 "I know what's in it." Teo kept his head still. "Every stall, Eli. Nobody's looking at him. They're looking at the coat."
 
-Eli turned to see. A man at a stall of pans studied his pans. Two orc women by a hook of lamps looked at each other. Up on a crate by the arch, a girl sat with her elbows on her knees and her chin in her hands.
+Eli turned to see. A man at a stall of pans studied his pans. Two orc women by a hook of lamps looked at each other. Up on a crate by the arch, the net girl sat with her pole across her knees.
 
 "It's a good coat," Eli said, and put his arm round Teo's shoulders and gave him a shake, and let him go, and went to the soup.
 
@@ -1196,7 +1182,7 @@ Eli walked.
 
 They were nearly at the bridge end when three of the crew came back out of the dust from wherever they'd run to, grey to the eyes. One of them saw the two humans and stopped. He looked at Eli. He took a step.
 
-Teo kept hold of Eli's wrist and held to a walk. He lifted his chin at the heap, where the hand had another slab and was turning it over, and something under the stones had begun to shove.
+Teo kept hold of Eli's wrist and held to a walk. He lifted his chin at the heap, where something under the stones had begun to shove.
 
 "He's coming out," Teo said. "Want him to find you over here with us?"
 
