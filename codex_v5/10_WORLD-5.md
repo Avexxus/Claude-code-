@@ -283,3 +283,9 @@ Three dominant ("superior") races, constantly at war with one or both neighbors:
 - 🚫 RETIRED v5-cc: **Dwarves as "long-lived".** → Low Remnant, naturally short-lived, hardy; they extend their lives through craft (cc R093).
 - 🚫 RETIRED v5-cc: **"Jon led Mika and the elves away on the seedship"; Jon as the elves' hidden god, "breeding a warrior people."** → Mika alone; Jon is just Mika's friend (cc R094).
 
+### 🚫 RETIRED v5-cc (pass 2026-11-16, fix 1 after canon check 1)
+- 🚫 RETIRED v5-cc: **The Tower "still faintly feeling" (wk W16).** → Mindless (BANK 11-16; cc R111).
+- 🚫 RETIRED v5-cc: **"The last friendly giant" as a special figure.** → "Just some giants are friendly doesnt mean much other than that" (BANK 11-07; cc R116).
+- 🚫 RETIRED v5-cc: **"The coalition's knife" (dwarves' Darkest Age stance).** → One event, not coordinated entirely by dragons (cc R091).
+- *(Derrek's "random" curse is not listed: Patrick ordered every mention deleted, no retired entry — BANK 11-01; cc R115.)*
+
