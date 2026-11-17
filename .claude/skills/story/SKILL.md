@@ -60,6 +60,7 @@ For each beat:
 3. **`payoff-keeper`** updates `ledger_seeds.md` and `ledger_rules.md` and judges whether each payoff is earned.
 4. **`story-writer`** fixes what the sense-checker and payoff-keeper ranked FIX FIRST, giving `_v2`.
 5. **`dialogue-editor`** makes the talk human: no exposition, no speeches, a distinct voice for each speaker. That gives `_v3`.
+5b. **`word-watch`** (after `python3 scripts/wordcheck.py`) checks word choice and tics: it caps repeats and varies them without flattening the voice.
 6. **`line-editor`** runs the `natural` pass (and `grimdark` where the beat calls for it), then **`story-guard`** checks it.
 7. **Patrick** sees the beat and a short note covering what happens, what changed, and any question. When he approves, the beat moves to `beats/approved/`.
 
