@@ -1,0 +1,27 @@
+== stories/book1-emperors-son/v3/ch01/draft_v5.md: 9786 words
+top content words: vosk 68, came 67, went 67, back 53, looked 52, hand 51, didn't 48, something 34, through 32, wall 32, under 32, hands 27, head 26, floor 25, every 25, side 22, he'd 22, front 21, long 21, eli's 21, come 20, coat 20, round 19, other 18, face 18
+tics (count, per 1k):
+  "didn't": 48 (4.9)
+  'nobody': 14 (1.4)
+  'nothing': 18 (1.8)
+  'a long time': 3 (0.3)
+  'for a while': 3 (0.3)
+  "the way you'd": 1 (0.1)
+  'the way': 15 (1.5)
+  'as if': 8 (0.8)
+  'something': 34 (3.5)
+  'somewhere': 5 (0.5)
+  'very slightly': 1 (0.1)
+  'slightly': 1 (0.1)
+  'a little': 15 (1.5)
+  'never once': 1 (0.1)
+  "he didn't look": 2 (0.2)
+  "didn't look": 7 (0.7)
+  'then': 53 (5.4)
+  'just': 2 (0.2)
+  'only': 3 (0.3)
+  'still': 10 (1.0)
+repeated 5-word phrases: looked at him then he ×4; a ring of dark glass ×3; at the top of the ×3; at him then he looked ×3
+repeated 4-word phrases: the back of the ×5; in front of him ×4; at the top of ×4; the top of the ×4; looked at him then ×4; of the young men ×4; the wall behind him ×3; at the end of ×3; on the far side ×3; one at a time ×3; the foot of the ×3; walked out of the ×3; a ring of dark ×3; ring of dark glass ×3; the bottom of the ×3
+repeated 3-word phrases: in front of ×12; he looked at ×11; the back of ×10; looked at him ×10; looked at the ×8; came out of ×8; the bridge end ×8; the young man ×7; she looked at ×7; the end of ×6; looked at it ×6; at the top ×6; the top of ×6; put his hand ×6; back of the ×5
+most common sentence openings: 'then he' 14, 'it was' 11, 'he was' 10, 'he looked' 9, 'then the' 7, 'it had' 6, 'she looked' 6, 'he had' 5, 'in the' 5, 'at the' 5
