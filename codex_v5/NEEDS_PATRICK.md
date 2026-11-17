@@ -11,6 +11,8 @@
 > **v5-wk2 — 2026-10-31.** Items settled by the late-October rulings (`WEEK_RULINGS.md` section J, as corrected by the raw-chat audit) are marked **RESOLVED v5-wk2** under their old numbers. New questions from that pass are in **FROM THE LATE-OCTOBER PASS** just below (numbered L1–L35 so the old numbers still hold). Extra cite keys: `wk W##` = a late-October ruling; `chat tNNN` = a turn of the late-October session's raw chat (a different chat from the physics chat's `t###`). Sources: `changes/A_magic_wk.md`, `B_world_wk.md`, `C_story_wk.md` (CONFLICTS LEFT), `changes/AUDIT_t040-239.md`, `AUDIT_t240-end.md`, `changes/FIX_wk2.md`.
 >
 > **v5-cc — 2026-11-16 (pass, step 2: big changes).** Items Patrick's big-change rulings settle are marked **RESOLVED v5-cc (cc R###)** in place, never deleted: L4 (part), L5 (part), L9, L10, L12, L13 (part), L21, L22, L31, L34 (part), #1 (part), #2, #12 (part), #14, #16 (part), #47 (part), #62, #71, #75 (part). Ledger: `decisions/RULINGS.md` R089–R106.
+>
+> **v5-cc — 2026-11-16 (pass, fix 1 after canon check 1).** RESOLVED v5-cc in place: L1 (part, cc R112), L16 (cc R107), #6 (b) (cc R115), #15 (cc R109). #47 (d) is corrected to **not** resolved. New items L36–L38 below. Ledger: R107–R116.
 
 ---
 
@@ -18,6 +20,7 @@
 *Every CONFLICTS LEFT item from the three fold reports and every open item the raw-chat audit created, merged where they overlap. The ten that the most text depends on come first. Nothing here is decided; the files carry both sides or a 🌊.*
 
 **The ten most load-bearing**
+- **RESOLVED v5-cc in part (cc R112):** held souls are amplifiers only, never batteries — "I think battery implies draining… using another's gives you more range"; nothing drains. How reservoirs and the chamber drain read in each scene is still open.
 - **L1. Remnant can't be spent (wk W10) — so how is a stored or stolen soul's power drawn on?** Against it: reservoirs as "stored fuel"/"battery" and enchantments "finite… until spent" (06, 01, MSE); the drained dragon's batteries (t50) and the slave planet's "endless energy" (t54) (07); the giant stone "craftsman's power is the source" (t34) (04); the master "feeds it himself and his remnent" (t432) (08, 09, 13). *(A5, A14, B07-3, C3; continues old #1.)*
 - **L2. Stealing production — what is the mechanism?** The thief drives the victim's grip (Claude, chat t84), or "an amplifier to touch a wider pool" (you, chat t83: "Im not sure"). Now 🌊 in 01, 02, 03, 04, 05, 06, 07, 08, 10, 13, MSE. *(Audit W11.)*
 - **L3. Book 1's ending.** Book 1's window has no plea (wk W53). Do the sigh, the Lirael flashback, "at least I'll get to see her again" and the fade to white stay in Book 1, move to the later window book, or both? Does the confession aimed at the son (t731–t736) stay? Does any pre-window "refusal" of Derrek's pressure (t656) survive beside wk W50? — 08, 09, 13, SCENES, 02 Law 19. *(A3, C1, C2; continues old #4.)*
@@ -39,8 +42,8 @@
 - **L13. RESOLVED v5-cc in part (cc R102):** the fractal-level title retires; "keeper" stays only as a plain word for our Unified One. Whether that still collides with the maze's keeper is open. "Keeper" now names two things: the maze in-betweener's keeper (t158–t160) and the keeper at each fractal level (wk W35–W36). Rename one? — 01, 06, 07. *(B07-2.)*
 - **L14.** Lirael: "forced to kill her with her own attack" (t386, t616) vs "killed her on purpose, again and again" (wk W45). — 05, 08. *(A11.)*
 - **L15.** "A god asks for your devotion; a demon offers you a deal" (t548) vs wk W57 (religions are networks of pact champions) and W32 (no formula); also 10's "god-blessing and demon-deal are the same act." — 06, 08, 10. *(A12, B10-2; continues old #33.)*
-- **L16.** Humans reach godhood only by time-fusion or theft (wk W31) vs Law 4's "given enough Remnant and time a mortal simply becomes one" and Tier 1's "any user" (t668). — 02, 07. *(A13, B07-8.)*
-- **L17.** Law 1: with the grip mechanized (wk W06), does "science can never explain the CAN — that seam belongs to the One" now mean only the inner sense? — 02. *(A15.)*
+- **L16. RESOLVED v5-cc (cc R107):** "Any being of any size given enough time and enough practice can become a god" (BANK 11-01). Humans reach godhood only by time-fusion or theft (wk W31) vs Law 4's "given enough Remnant and time a mortal simply becomes one" and Tier 1's "any user" (t668). — 02, 07. *(A13, B07-8.)*
+- **L17.** Law 1: with the grip mechanized (wk W06), does "science can never explain the CAN — that seam belongs to the One" now mean only the inner sense? — 02. *(A15.)* [REV v5-cc] *(The inner sense is no longer a dial; sensing is part of Skill (cc R095). So the question is now: what does "the CAN belongs to the One" cover?)*
 - **L18.** Does wk W13 (a bound soul feels dread) reach souls held inside a changeling (left unanswered on purpose before)? — 07. *(B07-4.)*
 - **L19.** Hell drifted to dissidents and vagrants (wk W25) vs "dissent is handled by rigid enforcement, not exile; only soul/body theft sends an elf there" (t682–t683). — 07, 10. *(B07-5, B10-1.)*
 - **L20.** The no-clinical-labels rule vs 07's paraphrase "effectively psychopaths" for changelings (your own "highly sociopathic"/"psychopaths" quotes are kept). Reword the paraphrase? — 07. *(B07-9.)*
@@ -57,8 +60,13 @@
 - **L31. RESOLVED v5-cc (cc R094):** Jon is not the elves' leader or god; gardening as his role with the elves is retired. 08's heading "'gardening' is a mask word" (t550) now reads against wk W44 (Jon hides nothing but the Lirael secret). The body text is revised; rename the heading? — 08 (also 09, 10). *(C14.)*
 - **L32.** wk W67: are the legal market's stock (clones, convicted elves, stateless dark elves — Claude, chat t350) and the chip's slaver company as the supply chain (Claude, chat t348) yours? Now 🌊. — 01, 06, 07, 10. *(Audit OV-1.)*
 - **L33.** The cast goal — show each race's hero, factions, god and changeling (chat t159) — for Book 1 or the whole series? — 09. *(Audit missing #12.)*
-- **L34. RESOLVED v5-cc in part (cc R106):** Claude drafts the prose from your ideas through the engine; your own lines are protected (BANK 11-09, 11-16). What happens to 13's production plan and cleaning rule is still open. Every line of prose is yours (chat t257). Do 12's "Drafting story and scenes" rules (written for Claude's drafts) retire or narrow to beats, and what is the status of Claude-drafted passages already in 13 and SCENES? — 12, 13, SCENES. *(Audit M1.)*
+- **L34. RESOLVED v5-cc in part (cc R106):** Claude drafts the prose from your ideas through the engine; your own lines are protected (BANK 11-09, 11-16). What happens to 13's production plan and cleaning rule is still open. (Old question, kept: "Every line of prose is yours (chat t257). Do 12's "Drafting story and scenes" rules (written for Claude's drafts) retire or narrow to beats, and what is the status of Claude-drafted passages already in 13 and SCENES?") — 12, 13, SCENES. *(Audit M1.)*
 - **L35.** Keep Claude's phrasings as codex wording? "A cost gradient, not a gate" (chat t60, t66 — the substance is yours, t65) and "felt rather than reported, unreliable" (chat t226 — the rarity and anti-"video gamey" rule are yours, t223, t225). — 02, 04, 12, WEEK_RULINGS. *(Audit W04, W09.)*
+
+**[NEW v5-cc] From canon check 1 (2026-11-16)**
+- **L36. 🔒 Law 4b: "genuinely deathless by mechanism" vs "nothing stops them dying."** Law 4b calls Jon and Derrek true immortals by mechanism; your answer 16 says "technically they have bodies that can be destroyed… nothing stops them dying. No the story cannot allow it" (cc R105). Both texts are kept with a 🌊. Amend 4b (Jon and Derrek leave the true-immortal list; only the story keeps them alive), keep it (their mechanism is the death-reset, BANK 11-01), or something else? — 02 Law 4b, 01 TRUE IMMORTAL. *(Canon check 1, B5; A-59.)*
+- **L37. Betrayal day: how were humans and orcs drawn in?** You ruled one event, "not coordinated entirely by dragons… A few people were warned… dragons just found the giants capital dead" (cc R091). The codex had Claude's reading that the pressing dragons then drew humans and orcs in with the old promise of "freedom as equals"; now 🌊. Were humans and orcs part of it, and how? Were the dragons who struck the rulers "the few who were warned"? — 07 revolt, coup, fall; 10 three masters; WORLD_OVERVIEW. *(Canon check 1, B2.)*
+- **L38. Lirael waiting at a later window (your scene, wk W46).** You retired Derrek gathering her fragments: "I just think no lirael. Its to hard to find vague specs of remnant" (BANK 11-07; cc R110). Your scene of Lirael waiting at a later window rested on that gift. Does it go too? — 08, 13, SCENES.
 
 ---
 
@@ -126,11 +134,7 @@
 
 ### 6. The tether: its name, Derrek's "random" curse, and whether it is law
 - **(a) Name.** "Tether" now means two things: the time-god tether that drags Derrek along when Jon jumps (jul08 t359, t367, t369) and the pact's soul-magic tether (jul23 t115). Rename one, or keep both?
-- **(b) Random vs tethered vs continuous rule.**
-  - v4 / 08 / 09: Derrek's curse is uncontrolled; his powers "activate at random" and fling him across time.
-  - jul08 t369: "the tether does not care why they jumped. derrek goes with jon. end of story." (Derrek is always pulled with Jon.)
-  - t492: Derrek is the open emperor of humanity, ruling continuously; Claude flagged the clash with the random curse at t493 and you did not pick a fix.
-  - The recovery file's suggested reading (uncontrolled on its own, but tethered to Jon's jumps) is a proposal, not a ruling.
+- **(b) RESOLVED v5-cc (cc R115):** Derrek and Jon are tethered; the "random" curse is deleted from the codex on your order ("Mark that to just outright delete all mention of… Just remove it," BANK 11-01). The quoted sides are removed with it. jul08 t369 stands: "the tether does not care why they jumped. derrek goes with jon. end of story."
 - **(c) Level.** The tether now sits under the locked Constitution Law 17 as your "end of story" rule. Is it law, or story detail for 08/09?
 - **Touches:** 01, 02 (Law 17), 03, 08, 09, 10.
 - *Logged by:* 01 r2 C2; 02 r2 C4; 08 r1 C9, r2 C4; 10 r1 C10; recovery NP7.
@@ -217,6 +221,7 @@ The verifiers removed every 🔒 you never gave explicitly; they now read ✅ "c
 - *Logged by:* 02 r1 C1, r2 C6; 03 r1 C2, v; 01 v.
 
 ### 15. The puppeteer's magic vs "their only given power is time"
+- **RESOLVED v5-cc (cc R109):** "Well their only given power frim the unified one was time. They have used their infinite time to develope their magic" (BANK 11-01). t196's "borrowed magic" is retired.
 - **Sides:** "It is his magic the two of them borrow" (t196) vs Constitution Law 17: Jon and Derrek's only *given* power is time; every force and expression was learned.
 - **Touches:** 01 (TIME-GOD), 02 (Law 17), 03, 06.
 - *Logged by:* 01 r2 C12; 02 r1 C6; 06 r1 C10.
@@ -403,7 +408,7 @@ The verifiers removed every 🔒 you never gave explicitly; they now read ✅ "c
 - *Logged by:* 07 r1 C3, C4; 10 v fix 7.
 
 ### 47. Dragon-rework leftovers
-- **RESOLVED v5-cc in part (cc R090, R045):** (a) a true society, fewer than humans or elves; (d) dragons design and others build; (e) dragons don't care whose dead are in the hull, so the cold-toward-crew beat fits. (b) and (c) are not re-ruled.
+- **RESOLVED v5-cc in part (cc R090, R045):** (a) a true society, fewer than humans or elves; (e) dragons don't care whose dead are in the hull, so the cold-toward-crew beat fits. (b), (c) and (d) are not re-ruled. [REV v5-cc] (fix 1: was "(d) dragons design and others build" — wrong; (d) is the thesis-guard question, which design-not-build does not answer.)
 - **(a) Numbers.** The "handful / very scarce" lock is retired (t260: houses, wives, children). You said only "Less of them still… a small group." v4's "prolific" was dropped without a marker — retire it? What is the scale?
 - **(b) Retreat.** jul08 t267 dragons retreated to rule "from the shadows" once humans closed the gap vs t300 some of the dragon king's descendants still rule openly. Both, or one?
 - **(c) Corporate shift.** jul08 t273–275 (old dragons in castles, the young in human systems, conglomerates) vs t300 remote palaces and t444 home-brew ships. They read as compatible; confirm.

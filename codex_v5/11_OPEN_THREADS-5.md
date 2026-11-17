@@ -10,6 +10,7 @@
 > **v5-wk2 — 2026-10-31:** updated after the late-October rulings (`WEEK_RULINGS.md`, folded as v5-wk) and the raw-chat audit (v5-wk2). Threads the rulings settled are marked `✅ [v5-wk2]` with the ruling (`wk W##`) or raw-chat turn (`chat tNNN` — the late-October session, not the physics chat); old ✅ lines the rulings revised carry a `[REV v5-wk2]` note; new open questions are in **section I**, each pointing to its `NEEDS_PATRICK.md` "L#" item. Nothing deleted.
 > **v5-cc — 2026-11-16: pass, clean adds only.** One new open thread (sickness, cc R039, section I). No thread is closed by the clean adds; closures come with the reconcile and big-change rulings.
 > **v5-cc — 2026-11-16: big changes.** Threads closed by R089–R106 are marked **RESOLVED v5-cc (cc R###)** in place, never deleted: NP #2, #14, #62, #71; L9, L10, L12, L21, L22, L31; L13 and L34 in part.
+> **v5-cc — 2026-11-16: fix 1 after canon check 1.** RESOLVED in place: NP #6 (curse, cc R115), L16 (cc R107), the puppeteer's magic (cc R109), L1 in part (cc R112). New open threads L36–L38 in section I.
 
 Two sections: **(A) Active pending decisions** (things to decide soon-ish), and **(B) the Deferred-Questions Log** (specific questions explicitly tabled until the relevant moment, grouped by trigger). Plus **(C) reconciliation flags** raised by this session's pivots.
 [REV v5] Plus **(D)–(E)** threads banked in earlier sessions (status-updated), **(F) ✅ resolved by the v5 canon**, **(G) new open threads from the v5 pass** (grouped by trigger, like B), and **(H) process / housekeeping threads**. [NEW v5-wk2] Plus **(I) open questions from the late-October pass**.
@@ -204,7 +205,7 @@ Two sections: **(A) Active pending decisions** (things to decide soon-ish), and 
 - ✅ **Orc three-masters chain (ruled):** giants → dragons (after fighting for them) → humans; never self-freed; "earned it" purely the world's lie; goblin-enslavement = trauma-replication (`10`). 🟡 B3 liberation-rhyme proposed/standing, placement open (active deed vs. consequence of Derrek's fall).
   - 🚫 MOOT v5 — the B3 liberation-rhyme: retired with the Book-3 elf hero (`10` RETIRED; t304–312, t350, t454). The orc rebellion now lives in the far future as a contagion around the Orc King (t526).
 - **Darkest Age:** ✅ RESOLVED: the giants' era WAS named and was ERASED (dragon-controlled record) + decayed by deep time (dragons' Age is recent enough to be remembered — `03` generational depth); recorded as part of the giants' wound (`07`). Still open 🌊: the igniting event of the revolt — deliberately undecided, to emerge when that history is written.
-  - [REV v5] "Erased by the dragon-controlled record" turned out to be Claude's embellishment (jul08 t163/t164); `07` now tags it 🌊 (F28). The igniting event: betrayal day — the emperor's closest advisor's deliberate strike (t262, t268) — is now canon; whether it settles the "mythic igniting event" is **NP #62**. **RESOLVED v5-cc (cc R091):** yes — betrayal day and the coup are one uncoordinated event.
+  - [REV v5] "Erased by the dragon-controlled record" turned out to be Claude's embellishment (jul08 t163/t164); `07` now tags it 🌊 (F28). The igniting event: betrayal day — the emperor's closest advisor's deliberate strike (t262, t268) — is now canon; whether it settles the "mythic igniting event" is **NP #62**. **RESOLVED v5-cc (cc R091):** yes — betrayal day and the coup are one event, not coordinated entirely by dragons (fix 1 wording).
 
 ---
 
@@ -216,13 +217,13 @@ Two sections: **(A) Active pending decisions** (things to decide soon-ish), and 
 - ✅ **The siphon pact.** Retired: pacts grant technique, never Remnant (approved t630; jul23 t114, t174). A pact is the reverse of taking a soul (t666).
 - ✅ **Remnant transfer.** Not transferable — no gifts, loans or siphons; wholesale absorption is the one road (jul23 t108, t114, t116). (Its seam with rifts and reservoirs is still **NP #1**.)
 - ✅ [REV v5-cc] **RESOLVED v5-cc (cc R102):** the title set and the t176 definition both retire; the Blight is a placeholder for the enemies of our reality; "keeper" is a plain word. [REV v5-wk2: revised — keeper, consumer and Blight are titles at every fractal level, motives individual (wk W36); whether "seeks maximum dissolution" still fits → L12] **Who the Blight is.** Only the parts of the level above that seek maximum dissolution; the Unified Ones are those who hold together (t176, t178). Derrek and his patron never supported the Blight (t180).
-- ✅ **Derrek's patron.** The puppeteer: a potential universe that never decohered, deliberately unnamed, whose magic both men borrow, neither willingly (t196). Motive open by design (t199).
+- ✅ **Derrek's patron.** The puppeteer: a potential universe that never decohered, deliberately unnamed, whose magic both men borrow, neither willingly (t196). Motive open by design (t199). [RESOLVED v5-cc (cc R109): "borrowed magic" retired; only time was given, BANK 11-01.]
 - ✅ [REV v5-wk2: superseded — book numbers and eras are placeholders, the old orders are dead; Book 1 opens with the son fleeing and ends at the window; a later book returns to the window; a later book is Jon's (wk W52–W55)] **The book order.** Book 1 the far future (the son's journey, Jon's final run); Book 2 the modern magic dystopia and the elven tale; Book 3 the past; Book 4 the multiverse (t454, t458). Every book ends at the window, with only two men there (t456, t458). "Book" is a loose term (t314).
 - ✅ **Who the hero is.** Derrek's son, unique to this run, Derrek's own ploy, an adult man and powerful, the reader's stand-in (t350, t360, t372, t752–756).
 - ✅ [REV v5-wk2: the rule holds, but "the final run" is Jon's lie to himself — ~10,000-year runs, a thousand or more (wk W42); tension with later books → L5] **Only the final run is shown;** earlier loops never happened once reset (t328, t330).
 - ✅ [REV v5-wk2: Lirael is Mika's sister; Jon killed her on purpose, again and again, and only Derrek knows (wk W45–W46); "forced" vs "on purpose" → L14] **Lirael's fate in this run.** Long dead — Jon was forced to kill her with her own Collapse (t386, t616); a statue in the elven city (t392). (July's "she lives in the final loop", jul23 t174, is superseded.)
 - ✅ [REV v5-wk2: changelings are now largely monsters, few clever ones at court; 1–2 souls at a time; one driver only at a sustainable pace; failure modes decay and rupture (wk W16, W18–W22)] **Changelings.** Possessors, not shapeshifters (t112); self-made, a crime not a race (t116, t680); no changeling is ever born (t120); every changeling "incredibly powerful off rip" (t544); two roads, transfer or consume (t676).
-- ✅ [REV v5-wk2: narrowed — all gods born of flesh on one world; humans reach godhood only by time-fusion or theft; no god-vs-demon formula (wk W30–W32); → L16] **Angels, demons and gods.** Angels and demons are one kind of being, the same as changelings — soul mages (t666, t674); a god is any user grown incredibly powerful, by a physical or a psychic path (t668, t670).
+- ✅ [REV v5-wk2: narrowed — all gods born of flesh on one world; humans reach godhood only by time-fusion or theft; no god-vs-demon formula (wk W30–W32); → L16] [RESOLVED v5-cc (cc R107): any being of any size can become a god with enough time and practice, BANK 11-01] **Angels, demons and gods.** Angels and demons are one kind of being, the same as changelings — soul mages (t666, t674); a god is any user grown incredibly powerful, by a physical or a psychic path (t668, t670).
 - ✅ **Gnomes, goblins and trolls** built (see A).
 - ✅ **The sin-as-mask map** decoupled from race (see E).
 - ✅ **Elves outside giant control** (jul08 t225) — applied in `07` and `10`.
@@ -258,7 +259,7 @@ Two sections: **(A) Active pending decisions** (things to decide soon-ish), and 
 - Lines the verifiers restored about him — **NP #68**; his Book-2 "grimdark phase" — **NP #72**; "Spirit nature" wording — **NP #67**.
 
 ### When we write DERREK further
-- His curse: random, tethered, or both, beside his continuous open rule — **NP #6**.
+- His curse — **NP #6**: **RESOLVED v5-cc (cc R115):** tethered to Jon's jumps; the old alternative is deleted on Patrick's order (BANK 11-01).
 - His look — your "Palpatine" feeling (t224), never filed (F100).
 - Did he persuade the ancient advisor dragon whose blast made the Tower (t404 — you were unsure)? When did he first arrive, and who held the Tower before him — **NP #24**. [✅ v5-wk2: the dragon empire held the Tower before him (WEEK_RULINGS §J). He engineered the forge-world strike (wk W64); the betrayal-day advisor question stays open.]
 - v4 lines still to reconcile: "never evil" (**NP #63**), "the tragedy" (**NP #64**), "always fights from the shadows" (**NP #65**), "every flaw and motive concentrated" (**NP #66**), "proud of his student" and "supreme time god" (**NP #69**).
@@ -325,7 +326,7 @@ Two sections: **(A) Active pending decisions** (things to decide soon-ish), and 
 ## I. [NEW v5-wk2] 🌊 OPEN QUESTIONS FROM THE LATE-OCTOBER PASS (de-duplicated; the decisions are numbered L# in `NEEDS_PATRICK.md`)
 
 ### Magic & the world layer
-- 🌊 How is a stored or stolen soul's power drawn on, now that Remnant can't be spent? (reservoirs, batteries, the giant stone, the master's black hole) — **L1**.
+- 🌊 How is a stored or stolen soul's power drawn on, now that Remnant can't be spent? (reservoirs, batteries, the giant stone, the master's black hole) — **L1**. [RESOLVED v5-cc in part (cc R112): amplifier only, never a battery; nothing drains.]
 - 🌊 Stealing production: driving the victim's grip, or an amplifier to a wider pool? (chat t83–t85) — **L2**.
 - 🌊 Objects hold souls without a holder, ghosts need one — Claude's proposal (chat t82), unanswered — **L11**.
 - Blight as a title vs "seeks maximum dissolution" — **L12** (**RESOLVED v5-cc, cc R102**); 🌊 the two "keepers" — **L13** (title retired, cc R102; plain-word collision with the maze keeper still open); Law 1's "seam" after the grip was mechanized — **L17**.
@@ -352,4 +353,7 @@ Two sections: **(A) Active pending decisions** (things to decide soon-ish), and 
 ### Process
 - 🌊 Every line of prose is Patrick's (chat t257): what happens to 12's drafting rules and the Claude-drafted passages in 13/SCENES — **L34**. **RESOLVED v5-cc in part (cc R106):** Claude drafts from Patrick's ideas through the engine; his lines are protected. 13's production plan is still open.
 - 🌊 Keep Claude's phrasings "cost gradient, not a gate" and "felt rather than reported, unreliable"? — **L35**.
+- 🌊 [NEW v5-cc] 🔒 Law 4b's "deathless by mechanism" beside "nothing stops them dying" (cc R105) — **L36**.
+- 🌊 [NEW v5-cc] How (or whether) humans and orcs were drawn into betrayal day; were the coup's dragons "the few who were warned"? — **L37**.
+- 🌊 [NEW v5-cc] Does Lirael waiting at a later window survive W46's retirement (cc R110)? — **L38**.
 - 🌊 Real-world shorthand ("like the UN") — **L23** / NP #9. Clinical-label paraphrase in 07 — **L20**. Dragon decline bullet vs feudal empire — **L22** (**RESOLVED v5-cc, cc R090:** a true society; the bullet is retired).
