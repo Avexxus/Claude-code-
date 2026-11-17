@@ -37,11 +37,11 @@ def main():
     # Pending rulings go first: they override the codex files until a pass writes them in.
     bank = ROOT / "decisions" / "BANK.md"
     if bank.exists():
-        text = ("> **READ THIS FIRST.** These are Patrick's rulings since 31 October 2026. "
-                "They have NOT yet been written into the files below, and where they disagree, "
-                "**these rulings win.** The codex files are older.\n\n" + bank.read_text())
+        text = ("> **READ THIS FIRST.** These are Patrick's rulings banked since the last pass. "
+                "They are NOT yet written into the files below, and where they disagree, "
+                "**these rulings win.**\n\n" + bank.read_text())
         entries.append({"id": "pending-rulings", "name": "BANK.md",
-                        "label": "⚠ Rulings since Oct 31 (override)",
+                        "label": "⚠ Banked since last pass (override)",
                         "group": "Read first", "words": words(text), "text": text})
     for m in manifest:
         path = CODEX / m["name"]
