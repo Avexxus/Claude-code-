@@ -2,6 +2,13 @@
 
 *Last updated 2026-11-09. This file is the bridge between sessions: everything important is in the repo, and this says where.*
 
+
+## UPDATE 2026-11-17 (read this first)
+- **The codex pass is done.** R001–R147 are in `decisions/RULINGS.md` and written into `codex_v5/`. The old bank is archived at `decisions/BANK_passed_2026-10-31_to_11-17.md`, and `decisions/BANK.md` is fresh. 26 open world calls sit in `codex_v5/NEEDS_PATRICK.md` ("Pass 2026-11 · open calls"); they block nothing. Codex v5 page: version 4.
+- **Book 1 is being rebuilt as v3** in `stories/book1-emperors-son/v3/` from Patrick's Nov 13–15 beats (`decisions/CATCHUP_2026-11-13_to_15.md` §4–5) and `00_brief_v3.md`. Patrick gave Claude freedom: make the story calls yourself, don't ask step by step, and mark future-book seeds as FB in each chapter's notes and in `ledger_seeds.md`.
+- **Engine:** beat or chapter drafting → `sense-checker` + `payoff-keeper` → writer fixes → `dialogue-editor`. Then send a STORY_ONLY copy to Patrick for Grok.
+- **Patrick's rules for talking to him:** start each message with ◆, keep it short, no flattery, don't re-argue settled points.
+
 ## Who does what
 - **Patrick is the world-builder.** He owns the world layer: `codex_v5/` plus `decisions/BANK.md`.
 - **Claude is the story engine.** It writes the stories inside that sandbox, with heavy creative freedom (BANK 2026-11-09).
