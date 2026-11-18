@@ -15,7 +15,7 @@ This repo is the **home of Patrick's saga codex** and of **the story engine**. P
 | `work/options/`, `work/ideas/` | Agent output: options papers and idea batches. | No (🌊 proposals) |
 | `archive/` | The Retired Archive (v4 codex, old side files, compilations, `atlas.html`). For digging up ideas only. | **Never** |
 | `scripts/` | `build_codex_page.py` rebuilds the Codex v5 page from `codex_v5/`, plus its template and manifest. | — |
-| `.claude/agents/` | Codex: `canon-checker`, `options-writer`, `idea-scout`, `codex-editor`. Engine: `world-slicer`, `cast-builder`, `conflict-mapper`, `scene-carder`, `plan-auditor`, `story-writer`, `sense-checker`, `payoff-keeper`, `dialogue-editor`, `word-watch`, `continuity-keeper`, `character-sim`, `forecaster`, `reader-panel`, `dev-critic`, `judge`, `line-editor`, `story-guard`, `cold-reader`. | — |
+| `.claude/agents/` | Codex: `canon-checker`, `options-writer`, `idea-scout`, `codex-editor`. Engine: `world-slicer`, `cast-builder`, `conflict-mapper`, `scene-carder`, `plan-auditor`, `story-writer`, `sense-checker`, `payoff-keeper`, `dialogue-editor`, `word-watch`, `continuity-keeper`, `character-sim`, `forecaster`, `reader-panel`, `originality-check`, `dev-critic`, `judge`, `line-editor`, `story-guard`, `cold-reader`. | — |
 | `.claude/skills/` | Workflows: `story` (the engine), `options`, `rule`, `ideas`, `sync`. | — |
 | `stories/<slug>/` | Engine output: brief, planning files, drafts, reviews, FINAL, DIGEST, inventions. | No (story-local until promoted) |
 

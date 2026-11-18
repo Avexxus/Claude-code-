@@ -84,7 +84,7 @@ When a scene's beats are all approved, **stitch** them into the scene. Then run 
    - **`word-watch`**, after `python3 scripts/wordcheck.py` (which includes the slop-list hits);
    - **`line-editor`**, the natural pass;
    - **`story-guard`**.
-6. **Read.** **`reader-panel`** runs 5 personas on the STORY_ONLY copy. Patrick and Grok read it too; outside reads are advisory.
+6. **Read.** **`originality-check`** flags anything too close to an existing work, and tropes on autopilot. **`reader-panel`** runs 5 personas on the STORY_ONLY copy. Patrick and Grok read it too; outside reads are advisory.
 7. **Approve.** Patrick approves. Then `continuity-keeper` updates the state files. The best passages go to `style_anchors.md` if Patrick likes them, and Patrick's own beats and lines are logged in `PROVENANCE.md`.
 
 ## Stage 3 (old batch mode, for Quick speed only)
