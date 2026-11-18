@@ -1,5 +1,5 @@
 # Chapter summaries: Book 1 v3 (The Emperor's Son)
-🌊 Story clay. Kept by continuity-keeper. Facts, not interpretation. **Rebased 2026-11-17** onto the locked split. ONE and TWO replace `ch01/draft_v9` and the old single Chapter One summary. THREE added 2026-11-18.
+🌊 Story clay. Kept by continuity-keeper. Facts, not interpretation. **Rebased 2026-11-17** onto the locked split. ONE and TWO replace `ch01/draft_v9` and the old single Chapter One summary. THREE added 2026-11-18. FOUR added and TWO fixed (the v2.1 King redo and the loader backstory) 2026-11-18.
 
 ## ONE · The Gift
 *Text: `v3/ch01/new_ch01_v2.md` (about 8,200 words). POV: Vosk (L3–235), then Eli in close third (L239–643).*
@@ -24,8 +24,8 @@
 - The gate lets the two humans out. The slot bites Vosk. On Ancel Row the doorman greets "Mr Eli" and laughs at "Down". A sump cage takes them below and stalls by the sumps. Eli won't give Vosk the purse; Vosk tells him where the forty-one is, and Eli mocks the terms to his face.
 - In the Scald everyone watches the coat. Eli flicks a stuck drift light into a girl's net, and he crosses a warm, ribbed bridge to Hookline. He ignores Teo's second warning and buys soup; the girl slips into the arch.
 - Velk takes the money and his watch, cuts out Vosk's chip and fits a leash-free Legion chip. Vosk feels the Tower and "all of them". Eli keeps him sitting, over Teo's third warning, and a tax boy runs.
-- The crew and the King come for the chip and the coat. Vosk draws. A crewman holds a cutter at Eli's ear, and Eli begs Vosk to put his hand down; the King breaks Vosk's arm. Eli's reach fails under every eye. Teo frees him with a ladle.
-- Vosk walks into the arch and the arch falls on the King. Dying, Vosk says Eli once came off a step to defend him, that he is proud, and that he picked it. The King's hand comes out of the heap. A crewman hooks at Vosk's chip.
+- The crew and the King come for the chip and the coat. The King is an orc twice Vosk's size with a grafted body: mismatched pieces sewn with wire, riveted metal plates, bare bone, a second row of knuckles, and one chip at the back of his neck. His face is his own. Vosk draws. A crewman holds a cutter at Eli's ear, and Eli begs Vosk to put his hand down; the King breaks Vosk's arm. Eli reaches, remembering a loader he held off the Ilders' gate at fifteen, and nothing comes under every eye. Teo frees him with a ladle and his palm is cut.
+- Vosk walks into the arch and the arch falls on the King. Dying, Vosk says Eli once came off a step to defend him, that he is proud, and that he picked it. The King's patched hand comes out of the heap. A crewman hooks at Vosk's chip.
 - The Scald climbs the Long Stair. The gate says "Good morning". Eli leaves the account unrung and the letter under the bowl. At the count Vosk's number goes unanswered.
 
 **What changes:** Vosk is dead. Eli has lost the money and the watch and has failed to reach. Teo's palm is cut.
@@ -44,3 +44,18 @@
 **What changes:** Eli leaves the house and the Terrace, outside the gate's sight, on Jon's terms. Teo skips his clinic.
 
 **Left hanging:** the letter; the King's asking; how Jon got in; Teo's hand; the sock; the untold part of Jon's price; who rang last.
+
+## FOUR · The Beater
+*Text: `v3/ch04/draft_v5.md` (story text L1–529, about 7,940 words). POV: Eli, close third, throughout. Day 5, from the culvert to off-world.*
+
+**What happens:**
+- Jon leads them out along the Spur. Eli notices the headache and the lean for the first time. Teo is feverish, has no coat and stops three times. A young orc with crew wire on his knuckles and neck watches the coat and goes down a side stair. Eli says "Jon"; Jon walks on.
+- At a fry stall Eli's bad hand closes "most of the way" on a strip, "Further than yesterday."
+- At nine, at the berth checkpoint, a notice reads TERRORIST CELL with blank face boxes. The guard sees Teo's dressing and refuses him. Jon says "Wait there", and Eli obeys. They go round the back, through the orc gate, where the disc drops a loitering old orc and stays dark for the humans.
+- At the last berth sits the beater, a patched hauler loading bone meal stencilled ITHE. The pilot logs them as "meal" and wants no names. Jon says "Got elves to see" and "Ithe. There's a man there'll find you", and goes into the crowd.
+- A crate falls toward a young loader. Unwatched, Eli catches it and sets it back. He hides a nosebleed, and his hand locks on the sock. A man in house colours on a Seventh ship lifts a slate at him. Eli steps into the hold.
+- The beater climbs past the Tower, which has no top, and out into black. Teo reads "Earth" off the board. The wound has a red line past the elbow. Nothing rings out. The pilot trades pills for Eli's watch. Eli cleans the wound with a kit blade and tapes it. Teo asks for water.
+
+**What changes:** Eli is off-world without Jon, the watch or the account. Teo's wound is cleaned but spreading.
+
+**Left hanging:** Ithe and "a man there'll find you"; Jon's return; the house-colours slate; the Spur watcher; the pills, "a few days"; the water; the stern knock; the letter.

@@ -27,3 +27,10 @@
 - Grit.
 - The master's voice is distinct from everyone else's: few words, exact.
 - Scenes, not summary.
+
+## Fixes against the state (from `review_plan_continuity.md`)
+- **Jon's steer.** Jon gave no name, only "There's a man there'll find you" (4:L239). So nobody comes. They ask around, and the man who was meant to find them died months ago, with his yard shut. That's Jon being wrong.
+- **The reach and R-016 (it fails when watched).** Eli reaches big because he thinks the yard is empty. The students come round the corner mid-act, and the moment he knows he's being watched it goes wrong. That fits the rule and makes it worse.
+- **The pills.** Four white pills is two doses. They run out on the second day of the wait, so the third day is the clock.
+- **Chipped humans.** Plant them on Ithe: humans with a chip scar behind the ear, Legion washouts or yard boys who bought one. That's the master's "got the chip", shown before it's said.
+- **The stern knock** (owed from FOUR) pays off in the opening. It's the coupling going, and it's why the pilot dumps them at Ithe early.
