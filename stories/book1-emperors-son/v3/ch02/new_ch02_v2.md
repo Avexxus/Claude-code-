@@ -2,7 +2,7 @@
 
 Going down the white path they passed the Ilders'. The Ilders' man was out in the dark, sweeping round the front step, and he was standing on the paving to do it, right at the edge, with his boots an inch off the grass. Eli nodded to him. The man didn't nod back, which was the Ilders all over; they didn't train them. The youngest had been given a fob in the spring, and most mornings you could hear him at it from the kitchen, slap, slap on the wet lawn.
 
-At the arch the glass looked at Eli and said, "Good evening," and let him out onto the public ramp. It said the same to Teo.
+At the arch the glass looked at Eli and said, "Good evening," and let him out onto the public ramp. It said, "Good evening, Teo," to Teo.
 
 Vosk wasn't with them. The front gate didn't read orcs. It bit them.
 

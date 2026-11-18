@@ -6,7 +6,7 @@
 
 ### Shape
 1. **The days after.** Eli doesn't sleep. Teo's palm goes bad, and Teo's off-world place is still on hold, so he is stuck too. The Terrace carries on: the morning count goes on without Vosk, and the steward has a new orc by the third day. The unseen woman from the account calls again and asks the steward nothing about Eli, which is worse. The Ilders hold a party; Eli goes and can't stay.
-2. **The King's reach comes up.** Orcs can't come up the Long Stair, but word does. An Ilder yard orc, under the chip, says to Eli without looking at him: "He's asking." A feed carries the line "unrest in the Scald / a terrorist cell" (the Inquisition's frame, planted, with no names). Something of Vosk's comes back up: his sock of 41 marks, delivered by someone who shouldn't be able to reach the Terrace. That's the King's message and a threat.
+2. **The King's reach comes up.** Orcs climb the Long Stair to work every day (1:L43, 2:L553), so the King's word comes up with them. An Ilder yard orc, under the chip, says to Eli without looking at him: "He's asking." A feed carries the line "unrest in the Scald / a terrorist cell" (the Inquisition's frame, planted, with no names). Something left below in TWO comes back up to the house, delivered by an orc on the morning climb. Pick it from `story_state.md` (for example something of Eli's from the market, or Vosk's old chip that Velk hooked out). That's the King's message and a threat. (The sock stayed in Vosk's Terrace bunk: the steward clears the bunk, and Eli takes the sock.)
 3. **Jon.** He's in Eli's kitchen at dawn, eating fruit from the bowl the letter sits under. He doesn't touch the letter. The gate never logged him. He knows Vosk's name, the price of the chip and the King's name. He is warm and gangsterish, his smile never slips, and he says he'd "love ya" to come. **The narrator never interprets him.** We get only what Eli sees and hears.
    - His offer: he's putting a crew together for "a job that ends at the top of the Tower". He doesn't say why, and Eli doesn't ask the right questions.
    - The price: "everything has one." He names part of it and leaves part of it out.
@@ -20,7 +20,7 @@
 - The "terrorist cell" feed (the Inquisition hunt).
 - The crew Jon is gathering (name the master as "a teacher," no more).
 - Jon's price.
-- The King's message.
+- The King's message (the object that comes up).
 - Whether Eli took the letter.
 
 **Future-book seeds:** at most 1–2, light.
