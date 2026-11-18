@@ -1934,7 +1934,7 @@ The man turned the strips with his fingers. "Clone or the other?"
 
 "Whatever's hot."
 
-The man shovelled a cone full off the hot end of the plate. Jon paid him coin out of his trouser pocket and walked on eating, and left the change on the plate. A little way on he held the cone back over his shoulder without turning his head, and Eli, who was nearest, took a strip out of it.
+The man shovelled a cone full off the hot end of the plate. Jon paid him coin out of his trouser pocket and walked on eating, and left the change on the plate. A little way on he held the cone back over his shoulder without turning his head, and Eli, who was nearest, took a strip out of it with the bad hand. The fingers shut on it most of the way. Further than yesterday.
 
 Hot, and salt, and good. He ate it.
 
@@ -2124,7 +2124,9 @@ Eli stood and looked at the place. The queue shuffled up a step and closed it.
 
 "When will you," he said, to the walk.
 
-Behind him the pilot made a mark on her board.
+On the crate Teo had his head turned to the queue.
+
+Behind Eli the pilot made a mark on her board.
 
 "Ithe," she said, and breathed out once through her nose. It might have been a laugh.
 
@@ -2176,7 +2178,7 @@ The big one went on into the dark without answering.
 
 Something warm ran out of Eli's nose onto his lip. He wiped it with the back of his other wrist, and the wrist came away red. He turned to the open side of the cradle and the air past it, and wiped again, and again, and swallowed. His stomach came up into his throat. He swallowed that too. The headache had gone up a notch behind the eye and was beating now, quick, and in the pocket the bad hand had shut on the sock, wet, all the way round the knot, the way it had not shut in four days, and when he went to open it, it stayed. With his back to all of them he looked out at the haze, white, a long way down, and a flyer going across it very small, until the bleeding stopped.
 
-He wiped the wrist on the lining of the coat. The hand came open in the pocket a finger at a time. He took it out and looked at it then. The knot was printed in the palm, red, going white.
+He wiped the wrist on the lining of the coat. Then he got the other hand down into the pocket with it and prised the fingers up off the knot, one and then the next, the last one hardest. He took it out and looked at it then. The knot was printed in the palm, red, going white.
 
 The young orc came up last with the empty trolley for the hold and the loading canvas over his shoulder, a big square of it, filthy, that they'd had over the stack. In the hold he ran the trolley in against the bulkhead and set its brake with his foot. Then he took the canvas off his shoulder and shook it out once. He folded it in half, and in half again, the long way and then across, corners to corners, quick and square, and put it on the crate by the hatch, and pressed it flat with the side of his hand, and went past Eli and down the ramp.
 
@@ -2314,7 +2316,7 @@ He said it once, flat, from the bench, with his hand held out turned up where El
 
 She paid no mind to the faces. She weighed it in her hand once, and turned it over, and looked at the back, and put it inside her flight jacket where the tin had been. Nothing went on her board. Then she opened the tin on her knee.
 
-There were two kinds in it. White ones, flat and small. And three yellow ones, longer, in a twist of paper of their own. She counted white ones out into his palm, six, and then took the twist with the yellow ones and put that in his palm too, on top.
+There were two kinds in it. White ones, flat and small. And three yellow ones, longer, in a twist of paper of their own. She counted white ones out into his palm, six, and then took the twist with the yellow ones and put that in his palm too, on top. Stuck inside the lid was a card, pencil, in somebody's small square hand that was not much like hers, gone grey with thumbs. She read off it.
 
 "Two white now," she said. "Two tonight. Two in the morning. Yellow if he goes off his head."
 
@@ -2354,7 +2356,11 @@ Teo had stopped making the sound. He was breathing in short pulls through his no
 
 He got his knee off. He taped it. He went round and round the hand with the grey tape until the pad was buried and the tape went over the knuckles and round the wrist, and he bit it off with his teeth, and it looked like nothing. He laid it on Teo's chest. Teo's good hand came up off the bench and found it and held it there, at the wrist, and stayed.
 
-Eli sat back against the crate opposite. He had yellow on his trousers and on his cuffs, the second-best coat's cuffs, and on his hands, and he looked at it, and wiped his hands on the coat, and looked at them again.
+Then the shaking came. It started in Teo's knees and went up him, and his teeth went with it, and the bench chains ticked on the wall, and he held the taped hand to his chest and shook, with his eyes shut and the wet still running into his ears. Eli put a thumb out to it. Teo turned his face to the wall.
+
+The smell stayed. It sat in the hold over the fish and the grain, and what had come out of the hand had got in the crack between two slats of the bench and was coming through underneath and dripping off onto the floor, slow.
+
+Eli sat back against the crate opposite. He had yellow on his trousers and on his cuffs, the second-best coat's cuffs, and on his hands, and he looked at it, and wiped his hands on the coat, and looked at them again. They were shaking now, both of them, the good one worse.
 
 "There," he said. He was out of breath. "There. That's done. And when we're down, first thing, the best man in the place. I'll get a call out, they'll fly someone. And a room with a window, Teo. A big one. You can lie and look out of it all day and I'll read you the boring parts."
 
