@@ -10,13 +10,23 @@ She filled the kettle.
 
 It wasn't a question. She did them, and put them in front of him, and he sat with them until they had gone cold and set shiny on the plate, and she took them away again and scraped them into the bin on top of the brush.
 
-The steward came in at eight with his slate flat against his chest and stood by the table. The slate was quiet. He held it there.
+The steward came in at eight with his slate flat against his chest and stood by the table.
 
 "He's not coming back," Eli said.
 
 "Sir."
 
-He stayed a little longer. "Will there be anything, sir?"
+He stayed a little longer. Then he laid the slate down on the table by Eli's hand and turned it round to face him. It was the yard's page, the numbers in their column, and one line of it had gone amber. There was a box at the end of the line with nothing in it, and over the box it said CAUSE.
+
+"For the yard, sir," the steward said. "They'll want it filled."
+
+Eli looked at the box.
+
+"I can put unknown, sir."
+
+Eli didn't say anything. After a while the steward took the slate back.
+
+"I'll leave it open, sir. Will there be anything?"
 
 "No."
 
@@ -36,13 +46,13 @@ Teo woke at nine, all at once, the whole of him. He looked at his hands. The cut
 
 Eli went up and lay on his bed in his clothes.
 
-The window went from grey to white. Behind his ear the cut had dried into his collar, and every time he turned his head the collar pulled at it, so he lay on his side facing the wall and kept still. He shut his eyes. Hand up. The long thin hook off the belt, and the jaw turned to one side by somebody's fingers, and a knee on the chest. He opened them. The wall had a crack in the paint he had never seen, running down from the corner, and he followed it with his eyes to where it stopped and back up.
+Behind his ear the cut had dried into his collar, and the collar pulled at it when he turned his head, so he lay on his side facing the wall. He shut his eyes. Hand up. The long thin hook off the belt, and a knee on the chest. He opened them. There was a crack in the paint he had never seen, running down from the corner.
 
-Somebody knocked, the cook, and said through the door that there was water run.
+The cook knocked and said through the door that there was water run.
 
-He sat in the bath until it was cold. The water went grey around him, a fine grey that hung in it and didn't settle, and when he put his head under and came up there was grit in his teeth again, as if the Scald had come up with him in his hair and was only now letting go. He scrubbed behind his ear and it opened, and the water by his shoulder went pink in a thread, and he sat and watched the thread go out into the grey.
+He sat in the bath until it was cold. The water went grey around him, a fine grey that hung in it and didn't settle, and when he came up from under there was grit in his teeth. He scrubbed behind his ear and it opened, and a pink thread went out from his shoulder into the grey.
 
-It was afternoon. It was evening. He got up once and stood at the window and made a fist, and the hand closed partway and stopped there with the fingers curled, and he stood and studied it.
+At the window, later, he made a fist. The hand closed partway and stopped with the fingers curled, and he stood and studied it.
 
 He went down for water when the house was dark. The second-best coat was still on the step inside the yard door, folded in four, and there was a clean line on the tiles round it where the cook had swept.
 
@@ -50,7 +60,7 @@ That night the barracks sang.
 
 He heard it from the bed with the window up. It came across the yard from under the long house, low, a lot of voices and none of them loud, in the orc talk, and it went on. He couldn't follow it. It had a tune that rose on the last word of every line and came down again in the next one. Over and over in it there was one word he knew, the name the two little ones shouted when they played in the yard, and every time it came round the voices leaned on it. Once a single voice went on alone, an old one, cracked at the top, and the others waited for it and came in again under it.
 
-He lay and listened until it stopped. After it stopped he went on listening.
+He lay and listened until it stopped.
 
 ---
 
@@ -58,7 +68,7 @@ Before the bell he was at the window, with the sash up and his arms on the sill 
 
 The bell went, and he went down.
 
-He stood at the back of the yard by the wall in yesterday's shirt with the collar stiff, and the orcs filed out of the barracks in the grey canvas and stood in their rows with their breath going up. Some of them saw him there. They turned their faces to the front. On the step the steward had his slate up, and he didn't lift his head. He read a number, and an orc answered, and stood still a breath while the job went into his neck, and turned, and went. Eli counted along with them and lost it, and started again from the front, and lost it again. He waited for the wait.
+He stood at the back of the yard by the wall in yesterday's shirt with the collar stiff, and the orcs filed out of the barracks in the grey canvas and stood in their rows with their breath going up. Some of them saw him there. They turned their faces to the front. On the step the steward had his slate up, and he didn't lift his head. He read a number, and an orc answered, and stood still a breath while the job went into his neck, and turned, and went. Eli counted along with them and lost it, and started again from the front, and lost it again. He waited for the number nobody would answer.
 
 It didn't come. The numbers ran straight through to the end in the same voice, and the last orc went off toward the pumps, and the steward made a mark, and that was the count.
 
@@ -124,19 +134,19 @@ A pause.
 
 A pause.
 
-"No, madam. Nothing drawn." Longer. "Not since."
+"No, madam. Nothing drawn on the account." Longer. "Not since the eleven hundred."
 
 Eli held the rail.
 
-"One short, madam." The steward's free hand was flat on the hall table, the fingers spread. "Since yesterday. There'll be one sent up for the count tomorrow." A silence. "Yes, madam." A longer one, long enough for Eli to think she had gone. "Yes, madam."
+"One short, madam." The steward's free hand was flat on the hall table, the fingers spread. "Since yesterday. There'll be one sent up for the count tomorrow. The fee's to the house, madam." A silence. "No, madam. No cause." A longer one, long enough for Eli to think she had gone. "Yes, madam."
 
 The steward put it back and kept his hand on the table. When he turned and came up the stairs he stopped on the step below Eli.
 
-"Was that her?" said Eli.
+"Was that the woman?" said Eli. "From the account."
 
 "Sir."
 
-Eli waited. The steward waited, a step down, with the slate against his chest. Eli moved over to the wall and the steward went on up past him.
+Eli waited. The steward waited, a step down, with the slate. Eli moved over to the wall and the steward went on up past him.
 
 ---
 
@@ -154,7 +164,7 @@ He didn't take an apple.
 
 Teo had the slate on his knee and was going down it with the thumb of the good hand. Eli came and read over his arm.
 
-It was the gate. The Ninth Terrace gate's own page, the one any house on Ninth could open: in and out by the hour, a line for each, and under it the kerb, every flyer that set down and every one that went up. Teo was running it back. The Ilders' people, in, with crates. A flyer at the kerb at two for the Ilders', down, and up again. The cook's girl with the bread, early, in, and out. At the top, the morning they'd come up, Eli's own line went past, the hour and no name, and under it GOOD MORNING, TEO.
+It was the gate. The Ninth Terrace gate's own page, the one any house on Ninth could open: in and out by the hour, a line for everybody who went under the arch, and under it the kerb, every flyer that set down and every one that went up. Teo was running it back. The Ilders' people, in, with crates. A flyer at the kerb at two for the Ilders', down, and up again. The cook's girl with the bread, early, in, and out. At the top, the morning they'd come up, Eli's own line went past, the hour and no name, and under it GOOD MORNING, TEO.
 
 "What are you looking for?"
 
@@ -194,7 +204,7 @@ The good coat had come back from wherever the steward sent things, pressed, with
 
 ---
 
-The Ilders had lanterns strung over the lawn on wires, low, so that you walked about under them with light on the backs of your hands, and the lawn was full of people standing on it in good shoes with their glasses. The doors at the back of the house stood open onto it. Somebody inside was at the piano, playing a piece with a great many notes in it, very fast, and getting most of them. The Ilders' man stood at the edge of the paving with a tray, at the very edge, his boots on the stone, and when people wanted a glass they came off the grass to him and took one and went back on.
+The Ilders had lanterns strung over the lawn on wires, low, so that you walked about under them with light on the backs of your hands, and the lawn was full of people standing on it in good shoes with their glasses. The doors at the back of the house stood open onto it, and somebody inside was at the piano, playing something very fast and getting most of it. The Ilders' man stood at the edge of the paving with a tray, at the very edge, his boots on the stone, and when people wanted a glass they came off the grass to him and took one and went back on.
 
 Eli came off the grass and took one.
 
@@ -206,33 +216,27 @@ Dace was under the middle lantern in the plum coat with three people Eli half kn
 
 People turned round.
 
-"Ilder said you'd never." Dace had him by both shoulders. He turned Eli's face to the lantern with a finger under the chin, the swelling gone dark down one side of it, and his eyebrows went up and stayed there. "Oh, look at you. Somebody hit you. Who hit you? You went. You actually went. Ilder! He went!"
+Dace had him by both shoulders. He turned Eli's face to the lantern with a finger under the chin, the swelling gone dark down one side of it. "Oh, look at you. You went. Ilder! He went!"
 
 "We went," Eli said.
 
-"And? And?"
+"And?"
 
 "We had soup."
 
-"Soup!" Dace let go of him to tell the others. "He goes to the Scald and he has soup."
+Dace let go of him to tell the others. "Soup."
 
 Through the open doors, on the wall of the Ilders' front room, a feed was running with the sound off. Grey men at a grey table again, or the same ones. The ribbon underneath said UNREST IN THE SCALD. It said TERRORIST CELL SUSPECTED. It said LEGION, and a line of figures, and went round again.
 
-Dace read it out. "'Terrorist cell.'" He laughed into his glass. "In the Scald. What are they going to blow up? Have you seen it? It's already—" He made a shape with his free hand, a thing coming down. "Was it you, Eli? Was it your big one?" He turned to the people with him. "Eli's orc. He's huge. He wanted a better chip."
+Dace read it out. "'Terrorist cell.'" He laughed into his glass. "Was it you, Eli? Was it your big one?" He turned to the people with him. "Eli's orc. He's huge. He wanted a better chip, and Eli's paid for it, and he's going to pay him back"—Dace put a hand flat on Eli's chest and held him there, for the line—"a mark a month."
 
-"Better at what?" said a girl Eli didn't know.
-
-"That's what Lisane said. Nobody knows. And he's going to pay him back"—Dace put a hand flat on Eli's chest and held him there, for the line—"a mark a month."
-
-The girl did the sum on her fingers, and got lost, and looked up.
+A girl Eli didn't know did the sum on her fingers, and got lost, and looked up.
 
 "Eighty-eight years," said Dace, flat and low, in the voice Eli had done on the roof.
 
 They laughed. The girl laughed with her hand over her mouth. Dace waited for Eli to laugh, and when he didn't Dace laughed harder, at that.
 
 Lisane wasn't there. Nobody said where the Vennicks were.
-
-Up at a first-floor window the youngest Ilder was in his nightshirt with his forehead on the glass, watching the lanterns. He had something in his hand. Down on the paving the Ilders' man held the tray very still.
 
 Ilder had come out of the house behind them with a glass in one hand and the other hand in his pocket. He hung back from the group, and he didn't laugh this time either. His eyes were on Eli's face, on the dark side of it.
 
@@ -252,7 +256,9 @@ Ilder took the hand out of his pocket to change his glass over, and there was th
 
 Ilder waited, rubbing the mark.
 
-"Do the voice," Dace said. "Eli. Do it for them, you do it better than me."
+"Do the voice," Dace said, and got hold of Eli's sleeve. "Eli. Do it for them, you do it better than me."
+
+Eli pulled the sleeve out of his hand. Dace's elbow went, and his drink went down his own front, and somebody said oh.
 
 Eli bent and put his glass down on the grass, carefully, upright, and walked off the lawn.
 
@@ -312,7 +318,7 @@ Eli stopped.
 
 He went on sweeping. He swept up to where the hedge met the low wall of the water channel, and he put a hand in his pocket, and took it out, and set something down on the coping of the wall, flat, and took his hand away.
 
-"Came up this morning," he said. "Dwarf paid her cut in it."
+"Came up this morning," he said. "From Hookline. Dwarf paid her cut in it."
 
 "Who's asking?"
 
@@ -388,17 +394,13 @@ Eli put the boots down. He stayed standing.
 
 "You knew him," he said.
 
-"Knew of him." He turned the plum and bit it. "Did the trees here. Nine years, was it."
+"Knew of him." He turned the plum and bit it. "Did the trees here."
 
-"Nine."
+"Nine years."
 
-"Nine years." He nodded, chewing. "Then he wants a chip. Eleven hundred, wasn't it. Dwarf in Hookline. And two more on the night." His eyes went to Eli's wrist and came back to the plum.
+The man nodded, chewing. "Then he wants a chip."
 
-"I paid it," Eli said.
-
-"You did."
-
-"It was my money. He was going to pay it back, a mark a month, he had it all worked out, he was going to—" Eli stopped. Outside, the steward said a number, and somebody answered. "I paid it."
+"I paid for it," Eli said. "Eleven hundred. It was my money. He was going to pay it back, a mark a month, he had it all worked out, he was going to—" Eli stopped. Outside, the steward said a number, and somebody answered. "I paid it."
 
 "I know you did, son."
 
@@ -406,15 +408,15 @@ Eli put the boots down. He stayed standing.
 
 "They'll have had the chip out." He found the last of the plum with his teeth and ate it. "Rest of him goes by weight, down there."
 
-Eli's hand closed. It went all the way, the first time since the stair, and the nails went into the palm, and he held it shut at his side.
+Eli's hand closed partway, as it had at the window, and stopped. He pushed it. It shook, and went no further, and he held it like that at his side.
 
-Across the table the man set the stone in the row, and wiped his fingers on the cloth the cook left folded by the bowl, and sat back.
+Across the table the man wiped his fingers on the cloth the cook left folded by the bowl, and sat back.
 
 "He's asking after you," he said. "You'll have heard."
 
 "Who?"
 
-"Big lad. Under the arch." He held his hands apart over the table, wide, and then wider. "Eats on Pole Street. Three nights running, he had, before you went down."
+"Big lad. Under the arch." He held his hands apart over the table, wide, and then wider. "Eats on Pole Street."
 
 "The King," Eli said.
 
@@ -424,13 +426,13 @@ Across the table the man set the stone in the row, and wiped his fingers on the 
 
 "He is."
 
-"The Ilders' man told me." Eli came to the table with the fist still shut at his side, and put his other arm down flat on the wood by the row of stones, and turned the wrist over so the faces showed. "He sent this up."
+"The Ilders' man told me." Eli came to the table with the hand still crooked at his side, and put his other arm down flat on the wood by the row of stones, and turned the wrist over so the faces showed. "He sent this up."
 
 The man was looking at Eli.
 
 "He'll go on asking," he said.
 
-Eli's hand opened. He sat down, and the man took a plum and held it out to him across the table. "Go on. You've not eaten."
+Eli sat down. The man took a plum and held it out to him across the table. "Go on. You've not eaten."
 
 Eli took it. He held it in his hand.
 
@@ -444,23 +446,15 @@ Eli waited.
 
 Out past the window, past the long house roof, the Tower stood up out of the grey with the first of the light on it, pale, up and up into the cloud, where you couldn't see the end of it. Eli turned and looked at it. He'd looked at it every day of his life from this kitchen, from his bed, from the Vennicks' roof with his eyes shut and his face up.
 
-"He said it was right there," he said.
+"He looked at it," Eli said. "At the end. He was on the stones and he—" He stopped.
 
 The man waited.
 
-"At the end. He was looking at the wall and he said, oh." Eli heard his own voice go up. He brought it down. "Oh. It's right there. He told me once he'd stood in the culvert and looked at it, and it was just a tall thing. Just a tall thing. And then he's on the stones, and it's right there."
+"What's up there?"
 
-"It is," the man said.
+"Never been." The man looked at the plum in his hand and turned it to the light. "Better fruit than this, I'd hope."
 
-"So it's for something."
-
-The man smiled at him.
-
-"It's for something," Eli said. "What's up there?"
-
-"Good view, I'm told."
-
-Eli laughed. It came out of him before he knew it was there, one bark, and it hurt the side of his face, and the man laughed with him, and the stones sat in their row.
+Eli laughed. It came out of him before he knew it was there, one bark, and it hurt the side of his face, and the man laughed with him.
 
 "I'd love ya to come." He reached into the bowl and took a plum, and turned it over, and put it back, and took a different one. "I would."
 
@@ -470,15 +464,11 @@ The man's eyes went down to Eli's hand on the table, the one with the plum in it
 
 "I can't do it," Eli said. "Not when people are looking. I put my hand up and it just—" He took the hand off the table, plum and all. "Everything sits there."
 
-"There's a teacher," the man said.
-
-"For me?"
-
-"There's a teacher."
+"There's a teacher," the man said. He bit the plum. "You'll not like it much."
 
 "All right," Eli said. "All right. What do you need? Is it money? I can ring the account, it doesn't ask, it'll be back before—"
 
-"Everything's got a price, son." He bit the plum. "Some of it I'll tell ya."
+"Keep your money, son." He chewed. "I'll tell ya some of what I want."
 
 "Go on."
 
@@ -522,7 +512,7 @@ Eli shut the door behind him and stood against it.
 
 "There's a man in my kitchen," he said.
 
-He told it. He told it in the wrong order and went back. The plums. The King, and where the King ate, and the three nights. The Tower. The teacher. He held his wrist out and turned it so the four faces caught the window, and the little moon, and Teo studied the watch, and lifted his eyes to Eli's face, and went back to the watch, and his mouth stayed shut.
+He told it. He told it in the wrong order and went back. The plums. The King, and where the King ate. The Tower. The teacher. He held his wrist out and turned it so the four faces caught the window, and the little moon, and Teo looked at the watch, and lifted his eyes to Eli's face, and went back to the watch, and his mouth stayed shut.
 
 "He knew Vosk," Eli said. "He said his name. First thing, before anything. Sorry about Vosk."
 
@@ -532,7 +522,7 @@ He told it. He told it in the wrong order and went back. The plums. The King, an
 
 Teo watched him. He put the bad hand down flat on the bed and thumbed at the slate with the other, slow, and read, and thumbed, and read. He turned it round.
 
-It was the gate's page again, the one he'd had on the counter. He had run it back four mornings, to the top, where Eli's own line went past with the hour and no name, and under it GOOD MORNING, TEO. The crates. The flyer at the kerb at two. The Ilders' people in, in the evening, a lot of lines, and out again late, and their flyers down at the kerb and up. The cook's girl with the bread, in at five, out at ten past. After the bread there was nothing, not at the arch and not at the kerb, down to the bottom of the page, and the bottom of the page was now.
+It was the gate's page again, the one he'd had on the counter, run on to now. The Ilders' people out late, and their flyers up from the kerb. The cook's girl with the bread, in at five, out at ten past. After the bread there was nothing, not at the arch and not at the kerb, down to the bottom of the page, and the bottom of the page was now.
 
 "Nobody came in, Eli," Teo said.
 
@@ -544,11 +534,11 @@ Teo kept the slate turned to him.
 
 "You don't know what it's for," Teo said.
 
-"It's for Vosk."
+"No."
 
 Teo put the slate down on the bed, face down.
 
-"It's for Vosk," Eli said. "It's for—he said it was right there. You heard him. You were there. He said nobody, he said spent, and a man walks into my kitchen and says the top of the Tower. The top of it." He stopped. "Or it was all for a chip off a dwarf. Eleven hundred marks and a watch and a soup stall. I'm not having that."
+"It was eleven hundred marks," Eli said. "And a chip off a dwarf. And my watch, and a soup stall. That's what it was. And I came home and had a bath." He stopped. "She sweeps round his coat. The cook. It's on the step and she sweeps round it."
 
 Teo looked at the floor between his feet.
 
@@ -569,6 +559,8 @@ Downstairs the spoon went round against the side of a pot.
 Teo sat.
 
 "Say something, then! You've had three days. You said plenty in the Scald, you said plenty with your hand—" He stopped. He stood in the middle of the room and breathed. "Teo."
+
+Teo's hair was wet at the front, though the window was open and the room was cold. He put his thumb on the skin by the edge of the dressing and pressed, and took it away, and the place stayed white. He watched it. It came back slowly, pink, then more than pink.
 
 Teo got up. He went round the trunk to the window, and stood at the sill, and picked up the stone. He turned it over in his good hand. He put it in his trouser pocket, and left the cup in its ring. He sat down on the lid of the trunk and put his boots on. He laced the left one. He tried the right one with the bad hand, and the hand wouldn't close on the lace, and he did it with the good hand and his teeth, slow, and stood up.
 
@@ -608,7 +600,7 @@ He took a pear out of the bowl as he went by it, and went to the yard door. On t
 
 Eli bent and picked it up. He shook it out. The folds stood up in it in a cross, sharp. He put it on. It hung heavy on the left side, low, where the sock was down at the bottom of the pocket. His good coat was in the hall on its hook, pressed. He left it there.
 
-Jon was out on the step in the light with his back to them, eating the pear, his face turned to the long house. Eli stood by the table with his eyes on Jon's back. His hand went down to the table, by the bowl.
+Jon was out on the step in the light with his back to them, eating the pear, his face turned to the long house. Eli stood by the table with his eyes on Jon's back. He lifted the bowl. The pears rolled together in it. The letter was there, face down, the grey wax up, and he took it out from under, and it was as heavy as it had been on the first morning. He set the bowl down on the bare wood.
 
 When he went out after them, the letter was in the inside pocket of the coat, against his ribs, the corner of it digging in when he walked.
 
@@ -622,7 +614,7 @@ Jon walked on across the yard without turning round. Eli walked after him, faste
 
 They went past the long house and the barracks. The little ones were out on the barracks step with a bit of bread between them, and they stopped chewing and watched the three of them go by. The smaller one stood up. Neither of them said anything.
 
-The slot was a gap in the white wall above the culvert, one orc wide, with the soil sacks stacked on the far side of it. There was no arch and no glass, only the disc set in the stone at the height of an orc's chest. Jon went in first. He filled most of it, and he went through sideways, with the pear held up clear of the wall.
+The slot was a gap in the white wall above the culvert, one orc wide, with the soil sacks stacked on the far side of it. There was no arch and no glass, only the disc set in the stone at the height of an orc's chest. Jon went in first. He filled most of it, and he went through sideways, with the pear held up clear of the wall, and the disc didn't light for him.
 
 "Mind your head," he said.
 
