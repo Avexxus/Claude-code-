@@ -23,3 +23,11 @@ Take every flag in `review_sense.md`, `review_continuity.md`, `review_forecast.m
    - Teo can see the board.
 7. **Keep:** Eli cleaning the wound (the red line past the elbow is what Doc pays off), and "Clone or the other?" with Jon's "Whatever's hot".
 8. **Word caps** (the wordcheck run on v1 was over): "didn't" ≤25; "in front of him", "the top of", "the edge of", "the end of" and "at the top of" ≤2 each; openings ≤6.
+
+## From the payoff review
+9. Give the hunt notice a plain header, not an oval, so there are only two ovals in the chapter.
+10. **Cut** the "faint taste at the back of his jaw" after the crate, so it doesn't rhyme with an orc chip (that would invent something). The reach cost is the sickness and the nosebleed.
+11. **Keep** the man in house colours who "saw the coat and stood up". He's how his father's side learns that Eli left: the father's-reach seed, not a new one.
+12. The knock in the stern stays; ch05 pays it off (the beater's engine).
+13. Change "on a hook. Docks" to a neutral injury, so it can't read as Jon knowing about Teo's cut.
+14. Cut "uphill" (see 6).
