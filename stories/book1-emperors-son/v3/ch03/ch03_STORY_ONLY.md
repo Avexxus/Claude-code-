@@ -560,7 +560,7 @@ Teo sat.
 
 "Say something, then! You've had three days. You said plenty in the Scald, you said plenty with your hand—" He stopped. He stood in the middle of the room and breathed. "Teo."
 
-Teo's hair was wet at the front, though the window was open and the room was cold. He put his thumb on the skin by the edge of the dressing and pressed, and took it away, and the place stayed white. He watched it. It came back slowly, pink, then more than pink.
+Teo's hair was wet at the front, though the window was open and the room was cold. He put his thumb on the skin by the edge of the dressing and pressed, and took it away, and the place stayed white. He watched it. It came back slowly, pink, then more than pink. On the bed his mother's slate was lit with one line, CLINIC, SEVENTH, NOON, and her mark beside it. He turned it face down.
 
 Teo got up. He went round the trunk to the window, and stood at the sill, and picked up the stone. He turned it over in his good hand. He put it in his trouser pocket, and left the cup in its ring. He sat down on the lid of the trunk and put his boots on. He laced the left one. He tried the right one with the bad hand, and the hand wouldn't close on the lace, and he did it with the good hand and his teeth, slow, and stood up.
 
@@ -600,7 +600,7 @@ He took a pear out of the bowl as he went by it, and went to the yard door. On t
 
 Eli bent and picked it up. He shook it out. The folds stood up in it in a cross, sharp. He put it on. It hung heavy on the left side, low, where the sock was down at the bottom of the pocket. His good coat was in the hall on its hook, pressed. He left it there.
 
-Jon was out on the step in the light with his back to them, eating the pear, his face turned to the long house. Eli stood by the table with his eyes on Jon's back. He lifted the bowl. The pears rolled together in it. The letter was there, face down, the grey wax up, and he took it out from under, and it was as heavy as it had been on the first morning. He set the bowl down on the bare wood.
+Jon was out on the step in the light with his back to them, eating the pear, his face turned to the long house. Eli stood by the table with his eyes on Jon's back. He lifted the bowl. The pears rolled together in it. The letter was there, face down, the grey wax up, and he took it out from under, and it was as heavy as it had been on the first morning. Twenty-four years, he'd said. They could have tonight. That had been four nights ago. He set the bowl down on the bare wood.
 
 When he went out after them, the letter was in the inside pocket of the coat, against his ribs, the corner of it digging in when he walked.
 
