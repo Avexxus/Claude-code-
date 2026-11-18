@@ -396,7 +396,7 @@ Eli heard it. Loud, and it went on, because it broke in more than one place, abo
 
 Eli put his hand up.
 
-He'd done this before. At fifteen he'd pulled the whole flyer up out of the lake with the water pouring off it, and been sick for a day after. A cutter was nothing. A cutter was a fork. Take it off him. Take it.
+He'd done this before. At fifteen he'd held a runaway loader off the Ilders' gate for a count of nine, the whole weight of it leaning on the air, and been sick for a day after. A cutter was nothing. A cutter was a fork. Take it off him. Take it.
 
 Nothing came.
 

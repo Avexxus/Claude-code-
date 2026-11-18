@@ -14,3 +14,8 @@ Fix in ch1–3 when we revisit, and apply from ch4 on. Eli must visibly *care*, 
 - ch1: the gift, and the rooftop with his friends;
 - ch2: the descent and the market;
 - ch3: Jon at the table, and Teo's room.
+
+## From the originality check on ch1–3 (verdict: CLEAN)
+- DONE: Eli lifting the whole flyer out of the lake read as Yoda and the X-wing, so it's now a runaway loader held off the Ilders' gate.
+- DECLINED: trimming Vosk's proud line. It's Patrick's beat ("eloquent but broken").
+- Names: "Vosk" is also a minor Star Trek: Enterprise villain, which is a passing nod. Patrick's call; Claude's pick is to keep it. "Dace" reads as an Earth surname, so consider a race-flavoured rename when revisiting. "Teo" is Patrick's placeholder.

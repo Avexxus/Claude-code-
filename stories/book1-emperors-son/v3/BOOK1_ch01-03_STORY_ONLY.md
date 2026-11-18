@@ -1042,7 +1042,7 @@ Eli heard it. Loud, and it went on, because it broke in more than one place, abo
 
 Eli put his hand up.
 
-He'd done this before. At fifteen he'd pulled the whole flyer up out of the lake with the water pouring off it, and been sick for a day after. A cutter was nothing. A cutter was a fork. Take it off him. Take it.
+He'd done this before. At fifteen he'd held a runaway loader off the Ilders' gate for a count of nine, the whole weight of it leaning on the air, and been sick for a day after. A cutter was nothing. A cutter was a fork. Take it off him. Take it.
 
 Nothing came.
 
@@ -1838,7 +1838,7 @@ He took a pear out of the bowl as he went by it, and went to the yard door. On t
 
 Eli bent and picked it up. He shook it out. The folds stood up in it in a cross, sharp. He put it on. It hung heavy on the left side, low, where the sock was down at the bottom of the pocket. His good coat was in the hall on its hook, pressed. He left it there.
 
-Jon was out on the step in the light with his back to them, eating the pear, his face turned to the long house. Eli stood by the table with his eyes on Jon's back. He lifted the bowl. The pears rolled together in it. The letter was there, face down, the grey wax up, and he took it out from under, and it was as heavy as it had been on the first morning. Twenty-four years, he'd said. They could have tonight. That had been four nights ago. He set the bowl down on the bare wood.
+Jon was out on the step in the light with his back to them, eating the pear, his face turned to the long house. Eli stood by the table with his eyes on Jon's back. He lifted the bowl. The last pear rolled in it. The letter was there, face down, the grey wax up, and he took it out from under, and it was as heavy as it had been on the first morning. Twenty-four years, he'd said. They could have tonight. That had been four nights ago. He set the bowl down on the bare wood.
 
 When he went out after them, the letter was in the inside pocket of the coat, against his ribs, the corner of it digging in when he walked.
 
