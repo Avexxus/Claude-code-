@@ -2,7 +2,7 @@
 🌊 Story clay. Builds on locked ONE–THREE. Source: CATCHUP §4 [P] (the old dwarf).
 
 ## Where Book 1 goes from here (Claude's working order; flexible)
-- **4:** out of the capital, on a basic beater ship. (Patrick, 2026-11-18: no Returned ship yet.)
+- **4:** out of the capital, on a basic beater ship. (Patrick, 2026-11-18: Returned can appear, but not the powerful reality-shifting ship; that is at the midpoint.)
 - **5:** the teacher (the master).
 - **6:** Doc.
 - **7:** the rift and the drow.
