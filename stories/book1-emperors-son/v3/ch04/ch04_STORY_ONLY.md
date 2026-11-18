@@ -24,11 +24,11 @@ Jon was going away down the middle of the street at the same pace he'd crossed t
 
 "We'll stop when we're there. You'll see. It's going to be good."
 
-The street leaned. It had always leaned. The Spur ran out from the Tower toward the drop and the floor under it tipped back the other way, so that walking out along it you were climbing, a little, every step, and your ankles knew it before you did. Eli had walked it a hundred times and never once thought about it. He thought about it now because of Teo. Teo's feet kept going wrong. Twice they went from under him, and both times he went back, not forward, a step back down the street toward the Tower, and the second time Eli caught him by the good arm and held on.
+The street leaned. It had always leaned. The Spur ran out from the Tower toward the drop and the floor under it tipped back the other way, so that walking out along it you were climbing, a little, every step, and your ankles knew it before you did. Eli had never once thought about it. Teo's feet kept going wrong. Twice they went from under him, and both times he went back, not forward, a step back down the street toward the Tower, and the second time Eli caught him by the good arm and held on.
 
 "Got you."
 
-Teo took the arm back and walked.
+Teo took the arm back.
 
 In the window boxes the plants grew out sideways over the street, every one of them pointing the same way, back over Eli's shoulder. He turned to see what they were pointing at. The Tower filled the street behind him, pale, going up out of the roofs and out of sight.
 
@@ -44,21 +44,21 @@ He folded the paper up small. He stood, and went down the side stair two at a ti
 
 Jon walked on.
 
-Eli looked at Teo. Teo had seen. He had his eyes on the empty step, and then on Eli, and then on the road, and he walked.
+Eli looked at Teo. Teo had seen. He had his eyes on the empty step, and then on Eli, and then on the road.
 
-"It's half orcs, the Spur," Eli said. "They sit on steps. It's what steps are for." He laughed, and it hurt the side of his face. "Teo. It's a step."
+"It's half orcs, the Spur," Eli said. "They sit on steps. It's what steps are for." He laughed. "It's a step."
 
 Teo walked.
 
 ---
 
-The flesh market was open. They were hosing the slabs down, and the water ran off the trestles into the gutter and went off toward the Tower with everything else, pink. The cold-cases were up. CLONE STOCK — NO SOUL, black on white on every end, with the grade under. A boy went by with a basket of ice bigger than he was. A woman in an apron sorted kidneys into two trays, the good and the less good, quick, without looking at her hands, talking to the next stall about her sister.
+The flesh market was open. They were hosing the slabs down, and the water ran off the trestles into the gutter, pink. A woman in an apron sorted kidneys into two trays, the good and the less good, quick, without looking at her hands, talking to the next stall about her sister.
 
 Eli walked through it beside Teo, pointing.
 
-"Eyes," he said. "He does them by colour. And the real ones are under the counter. You have to ask." He'd seen it in a feed. He'd been through here four nights ago with the tarps down and seen nothing at all. "You have to know to ask, Teo."
+"Eyes," he said. "He does them by colour. And the real ones are under the counter. You have to ask."
 
-Teo was slower than he'd been at the culvert. Eli had to stop for him and wait, and walk, and stop again.
+The stall he was pointing at was doing feet. He'd seen the eyes in a feed. He'd been through here four nights ago with the tarps down and seen nothing at all.
 
 At the far end of the cases a man had a burner going under an iron plate, and strips of something on the plate, spitting, and a stack of cones twisted out of old feed sheet. Jon stopped there. First thing he'd stopped for since the kitchen.
 
@@ -80,9 +80,9 @@ Eli held the cone out to Teo. Teo looked at it, and back at the plate with the m
 
 ---
 
-The feeds ran with the sound off. A queue somewhere under an orange sky. A ship's hull going into dock. LEGION, and a figure. ELVEN DELEGATION · TALKS, and tall people coming down a white ramp in the rain, too far off to have faces. A minister smiling, then gone. TERRACE PROPERTY VALUES, and a line under it going down.
+The feeds ran with the sound off. ELVEN DELEGATION · TALKS, and tall people coming down a white ramp in the rain, too far off to have faces. A minister smiling, then gone. TERRACE PROPERTY VALUES, and a line under it going down.
 
-"Elves," Eli said. "Teo. Look. Elves." He walked backwards a few steps to keep them in sight. "Dace's father had one to dinner once. He said it stood the whole night. Wouldn't take a chair. They had to eat round it."
+"Elves," Eli said. "Dace's father had one to dinner once. He said it stood the whole night. Wouldn't take a chair. They had to eat round it."
 
 Jon finished the cone and folded the paper in four and put it in his pocket.
 
@@ -94,13 +94,13 @@ It was a long way out. They stopped for Teo three times. The first time he only 
 
 Teo looked at the coat and said "No," and Eli shrugged it back on. The third time Teo sat, on a bollard, with his head down between his arms, and Jon stood a little way off with his back to them and his hands in his pockets, and waited, and when Teo got up Jon walked on.
 
-Out along the Spur the buildings got lower and further apart and the street got wider and fuller: trolleys and carts, men in grey, dock hands with hooks hung on their belts, a gang of orcs on a scaffold scraping a wall white, a woman selling slates off a blanket with their screens all lit and all showing the same face. The air had a new smell in it, hot metal and something burnt, and under the noise of the lanes there was a deeper one, a hum that came up through the boots. The berths. Ahead the street ran in under a long low roof with lights in it, and across the mouth of it, where everything had to go through, there was a barrier, and a booth with a window, and beside the booth an arch with a reader set in it. A queue went under the arch one face at a time, and each face got its light and its soft chime.
+Out along the Spur the buildings got lower and further apart and the street got wider and fuller: men in grey, a gang of orcs on a scaffold scraping a wall white, a woman selling slates off a blanket with their screens all lit and all showing the same face. The air had a new smell in it, hot metal and something burnt, and under the noise of the lanes there was a deeper one, a hum that came up through the boots. The berths. Ahead the street ran in under a long low roof with lights in it, and across the mouth of it there was a barrier, and a booth with a window, and beside the booth an arch with a reader set in it. A queue went under the arch one face at a time, and each face got its light and its soft chime.
 
 Jon went down the side of the queue, past all of it, to the booth window. Eli and Teo went with him.
 
 The watch said nine.
 
-Eli saw it on his wrist, and he saw Teo see it too, and look away, back up the Spur, the way they'd come. Eli turned the wrist over and back. The little moon was low in its window.
+Eli saw it on his wrist, and he saw Teo see it too, and look away, back up the Spur, the way they'd come. Teo's mother on the step with her spoon. He's to be there at nine. Eli turned the wrist over and back. The little moon was low in its window.
 
 "What," he said.
 
@@ -132,7 +132,7 @@ Jon came off the ledge and stood across him, between him and the window, not qui
 
 Eli stopped with his mouth open on the next word.
 
-When I say do a thing, you do it. Then.
+*When I say do a thing, you do it. Then.* In the kitchen, round a plum, with the stones in a row on the table.
 
 He shut his mouth. He stood. Behind him Teo had sat down. He hadn't meant to, from the look of him; his legs had just stopped, and he'd gone down onto the kerb with his back against the booth, under the notice, and his head down between his knees. Eli went down beside him and got an arm round his shoulders. Teo was hot through the shirt. He was shaking, small and fast, all through.
 
@@ -148,7 +148,7 @@ When he looked up the guard was on his stool again with his cup, and the barrier
 
 "This way," said Jon.
 
-Eli got Teo up. Teo came up with his good hand on the booth and stood, and on his feet he lifted his head and looked at Jon's back going away along the barrier, and then at Eli. He held it there. Then he looked at the ground and walked.
+Eli got Teo up. Teo came up with his good hand on the booth and stood, and on his feet he lifted his head and looked at Jon's back going away along the barrier, and then at Eli. He held it there. Then he looked at the ground and went after Jon.
 
 ---
 
@@ -202,9 +202,7 @@ Nobody told him.
 
 At the foot of the ramp stood a woman with a board.
 
-She was human, forty or so, in a flight jacket that had had a name tape over the pocket once and had only the stitch holes now. Her hair was scraped back and tied with a bit of wire. She had a tin cup in the hand without the board, and her eyes were red at the rims. Each time a crate went past her up the ramp she made a mark on the board. She kept her eyes on it until they were close enough that she had to look up.
-
-She looked at Jon. Then past him.
+She was human, forty or so, in a flight jacket that had had a name tape over the pocket once and had only the stitch holes now. Her hair was scraped back and tied with a bit of wire. She had a tin cup in the hand without the board, and her eyes were red at the rims. Each time a crate went past her up the ramp she made a mark on the board, and between crates she shut her eyes where she stood, with the board against her chest, and opened them when the next wheels came onto the ramp. She had them shut when the three of them came up. She opened them on Jon. Then past him.
 
 "You said one," she said.
 
@@ -218,19 +216,13 @@ Her eyes went to Teo and stayed a while, on his face, and on the arm held under 
 
 "I could run her three months on that coat. Fuel and berths." A crate went by and she marked it. "Keep that thing out of sight."
 
-"Absolutely," said Eli. "Not a soul. I'm Eli, this is—"
+"Absolutely," said Eli. "Not a soul. I'm—"
 
-"No names." Her eyes stayed on the board.
+"Board's on." She marked the next crate. "It's got you as meal. Two over the count, wet. Say a name on my ramp and it writes the name, and then I'm carrying people, and they take the boat for that."
 
 He opened his mouth and shut it again and laughed, and looked at Teo to see if Teo was laughing, and Teo wasn't. Teo was looking at the nearest crate on the stack. He went to it and sat down on it, slowly, and then all at once, and put his good hand on his knee.
 
-Jon stood at the foot of the ramp with the pilot. He said something to her that Eli lost, low, with his head turned to the ship and not to her. She answered with her head turned the same way.
-
-"After this I don't know you," she said.
-
-"Fair enough."
-
-She drank out of the cup.
+Jon stood at the foot of the ramp with the pilot. He said something to her that Eli lost, low, with his head turned to the ship and not to her. She answered with her head turned the same way, and drank out of the cup.
 
 A crate went up the ramp. The orc pushing it was big through the back and had his eyes on the trolley's front wheel. Eli stepped out of his way and the orc went past.
 
@@ -300,7 +292,7 @@ Eli watched them come and go. They went round him in the hatch. They looked at t
 
 The last loaded trolley came up with the big one behind it pushing. Halfway up, the strap on the top crate let go. It went with a crack and the crate slid, slow, then not slow, off the side of the trolley and over the ramp rail, down toward the berth floor, and on the floor under it the young orc with the mended strap was bending to the stack with his back to the ramp.
 
-The big one had his head down behind the trolley. The pilot had her head down over her board. Nobody was looking up the ramp.
+The big one had his head down behind the trolley. The rest were bent to the stack. At the foot of the ramp the pilot stood between crates with her eyes shut and the board flat to her chest.
 
 Eli's hand was up. The crate stopped.
 
@@ -316,9 +308,9 @@ The big one set his shoulder to the trolley and pushed it on up past Eli into th
 
 The big one went on into the dark without answering.
 
-Something warm ran out of Eli's nose onto his lip. He wiped it with the back of his other wrist, and the wrist came away red. He turned to the open side of the cradle and the air past it, and wiped again, and again, and swallowed. His stomach came up into his throat. He swallowed that too. The headache had gone up a notch behind the eye and was beating now, quick, and his palm in the pocket was wet on the sock. With his back to all of them he looked out at the haze, white, a long way down, and a flyer going across it very small, until the bleeding stopped.
+Something warm ran out of Eli's nose onto his lip. He wiped it with the back of his other wrist, and the wrist came away red. He turned to the open side of the cradle and the air past it, and wiped again, and again, and swallowed. His stomach came up into his throat. He swallowed that too. The headache had gone up a notch behind the eye and was beating now, quick, and in the pocket the bad hand had shut on the sock, wet, all the way round the knot, the way it had not shut in four days, and when he went to open it, it stayed. With his back to all of them he looked out at the haze, white, a long way down, and a flyer going across it very small, until the bleeding stopped.
 
-He wiped the wrist on the lining of the coat. He took his hand out of the pocket and looked at it then. It looked like a hand.
+He wiped the wrist on the lining of the coat. The hand came open in the pocket a finger at a time. He took it out and looked at it then. The knot was printed in the palm, red, going white.
 
 The young orc came up last with the empty trolley for the hold and the loading canvas over his shoulder, a big square of it, filthy, that they'd had over the stack. In the hold he ran the trolley in against the bulkhead and set its brake with his foot. Then he took the canvas off his shoulder and shook it out once. He folded it in half, and in half again, the long way and then across, corners to corners, quick and square, and put it on the crate by the hatch, and pressed it flat with the side of his hand, and went past Eli and down the ramp.
 
@@ -328,7 +320,7 @@ It stopped there. He stood with it in his mouth. The orc went on, and the rest o
 
 The pilot came up the ramp with her board under her arm and stopped beside him in the hatch.
 
-"In or off," she said. "I'm not asking twice."
+"In or off," she said.
 
 Eli looked back along the walk. The passenger boat. The queue, with no big grey head in it. The white ship with the crest. The man in house colours had put his plate down on the rail and was standing at the foot of his own ramp with a slate in his hand, looking along the berths at the beater, at the hatch, at the coat in it.
 
@@ -368,7 +360,7 @@ The cloud lay out flat in every direction, bright, all the way to the sky. Out o
 
 "Teo," he said. "Teo. Look."
 
-The pilot said something to her board, flat and quick, in the voice people used for numbers, and the board answered her in the same voice. With the banging, Eli caught none of it. On the board a line came up green.
+The pilot said something to her board, flat and quick, in the voice people used for numbers, and the board answered her in the same voice, numbers and a name and numbers. With the banging, Eli caught none of it. On the board a line came up green.
 
 Teo had his head back against the wall and his eyes half shut.
 
@@ -488,7 +480,7 @@ He put the point in at the end of the cut, where it was white, and pushed, and t
 
 "Nearly," Eli said. "Nearly. Nearly."
 
-Along it, then. Down into it with the point, scraping, and he wiped the blade on his knee, and went in again. His good hand had stopped shaking. He noticed that, a long way off. He scraped until it came red at the bottom instead of yellow and then went on a little past that in case, and then it was bleeding, properly, red, running into the cup of Teo's palm, and he pressed the one pad down into it hard with the heel of his hand and held it there.
+Along it, then. Down into it with the point, scraping, and he wiped the blade on his knee, and went in again. His good hand had stopped shaking. The point went where he put it. He scraped until it came red at the bottom instead of yellow and then went on a little past that in case, and then it was bleeding, properly, red, running into the cup of Teo's palm, and he pressed the one pad down into it hard with the heel of his hand and held it there.
 
 Teo had stopped making the sound. He was breathing in short pulls through his nose. His eyes were shut and the tears were coming out from under the lids and down the sides of his face into his ears, and he left them.
 
@@ -526,7 +518,7 @@ Eli waited for the rest. The hum went on in the floor.
 
 "Ithe," he said. "Have you heard of it?"
 
-Teo's chest went up and down. He might have been asleep. Eli watched him to see.
+Teo's good hand lay where it was, on the tape. He might have been asleep. Eli watched him to see.
 
 The letter was against his ribs. He put his hand inside the coat and found it, the corner first and then the whole flat of it, warm from him, and the wax on the far side under his fingers, whole. He kept his hand there.
 
