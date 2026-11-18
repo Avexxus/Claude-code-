@@ -1,5 +1,5 @@
 # Chapter Four plan (v3): Claude's calls
-🌊 Story clay. Builds on locked ONE–THREE. Source: CATCHUP §4 [P] (the old dwarf).
+🌊 Story clay. Builds on locked ONE–THREE. Source: CATCHUP §4 [P]. The old dwarf comes later, at the midpoint.
 
 ## Where Book 1 goes from here (Claude's working order; flexible)
 - **4:** out of the capital, on a basic beater ship. (Patrick, 2026-11-18: Returned can appear, but not the powerful reality-shifting ship; that is at the midpoint.)
@@ -15,16 +15,16 @@
 **Job:** leave the capital and the world Eli knows, on the cheapest ship that will fly.
 
 1. **Through the capital below the Terrace,** led by Jon. This is the city at the Tower's foot as a working machine:
-   - the Tower's pressure, which only Eli feels;
+   - the Tower's pressure, the headache everyone stopped noticing years ago, which Eli now can't stop noticing;
    - the lean of the old ground;
    - flesh goods as ordinary goods;
    - the faceless seal;
    - a checkpoint where the Inquisition's "terrorist cell" notice is pasted, with no faces yet;
    - Jon walking through it with no trouble.
-   Use scenes, not a tour. One turn: the checkpoint reads Teo's fever, and something has to be done.
+   Use scenes, not a tour. One turn: a human guard at the checkpoint sees Teo's sweat and the dressing, and won't let a sick man through. Readers don't read fevers. Jon handles it, and Eli doesn't see how. The checkpoint must not log Eli: Jon takes them round it, or the guard waves them past by eye.
 2. **The beater.** A cheap human hauler in a public berth: old, patched, and smelling of other people's cargo. It's Jon's arrangement, a favour or a debt; never explain which. Its pilot is a tired human who wants no questions, or it's automated and barely works. (LOCAL; Claude picks.) Orc labourers load it; show them, while Eli doesn't see them as people yet. Nothing about it is special, and that's the point.
 3. **Jon's handover.** Jon puts them aboard and doesn't come. He's "got elves to see" or something like it, and he's gone. He's always absent. He leaves one instruction: where they're going (the teacher), and nothing about why.
-4. **Departure.** The beater lifts. Eli sees the Tower from above for the first time, and the capital around it. Earth falls away. Teo's fever is worse; the hauler's medical kit is a joke, and what helps costs Eli the first thing he gives up. The letter is still unopened in his coat.
+4. **Departure.** The beater lifts. The capital falls away, and the Tower keeps going up past the window into the cloud. Even from the ship they never see its top. Eli has flown over the city before, but never out of it. Earth (named on the page for the first time) falls away. Teo's fever is worse; the hauler's medical kit is a joke, and what helps costs Eli the first thing he gives up. The letter is still unopened in his coat.
    - **End:** in transit, in a ship that rattles, going somewhere Eli has never heard of.
 
 ## Seeds (about 6 Book 1 seeds and 2 future-book seeds)
@@ -37,6 +37,12 @@
 - "the teacher".
 
 **Future-book seeds:** 1–2, light, for example an old hull type in the berths.
+
+## The ledgers are owed
+- The dog-kindness repeat must crack a little this time.
+- What helps Teo is a stopgap; Doc pays it off.
+- The Terrace coat gets priced or noticed below.
+- One small reach beat for Eli.
 
 ## Must
 - Jon is never interpreted.

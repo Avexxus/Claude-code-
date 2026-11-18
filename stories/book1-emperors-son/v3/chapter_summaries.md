@@ -1,5 +1,5 @@
 # Chapter summaries: Book 1 v3 (The Emperor's Son)
-🌊 Story clay. Kept by continuity-keeper. Facts, not interpretation. **Rebased 2026-11-17** onto the locked split. ONE and TWO replace `ch01/draft_v9` and the old single Chapter One summary.
+🌊 Story clay. Kept by continuity-keeper. Facts, not interpretation. **Rebased 2026-11-17** onto the locked split. ONE and TWO replace `ch01/draft_v9` and the old single Chapter One summary. THREE added 2026-11-18.
 
 ## ONE · The Gift
 *Text: `v3/ch01/new_ch01_v2.md` (about 8,200 words). POV: Vosk (L3–235), then Eli in close third (L239–643).*
@@ -31,3 +31,16 @@
 **What changes:** Vosk is dead. Eli has lost the money and the watch and has failed to reach. Teo's palm is cut.
 
 **Left hanging:** the living King; the Legion chip in the crewman's hook; Velk's tin and the watch; the forty-one under the bunk; the letter.
+
+## THREE · Company
+*Text: `v3/ch03/draft_v5.md` (story text L1–625). POV: Eli, close third, throughout. Days 2–5.*
+
+**What happens:**
+- Day 2: the cook bins her bloodied brush. The steward shows Vosk's amber line with an empty CAUSE box and leaves it open. Teo refuses a clinic ("They log it") and goes home. That night the barracks sings.
+- Day 3: the steward strips Vosk's bunk. Effects "go up" unless there's a claim, so Eli logs Vosk as owing him eleven hundred and takes the sock. The account woman rings: "Nothing drawn… One short… No cause." Teo reads the gate's page. At the Ilders' party Dace mocks Vosk's terms. Ilder tells his side of the bite and learns Vosk is dead. Eli leaves his glass on the grass.
+- Day 4: a new orc takes the count. The Ilders' man sets the watch on a wall: "He's asking… Dwarf paid her cut in it." The new one is shocked at the slot, which lights for him and not for Eli. Eli has the late struck.
+- Day 5, dawn: a man eats plums in Eli's kitchen. "Sorry about Vosk." The King is asking. A crew, a job that "Ends at the top of the Tower", a teacher. The terms: come today, don't come back, do it when told. Eli says yes. Teo, his hand going bad, warns three times, then pockets his stone and comes. The man gives his name to Teo: "Jon." Eli takes the letter unopened and wears the second-best coat. The house bell rings as they go. The slot doesn't light for any of them.
+
+**What changes:** Eli leaves the house and the Terrace, outside the gate's sight, on Jon's terms. Teo skips his clinic.
+
+**Left hanging:** the letter; the King's asking; how Jon got in; Teo's hand; the sock; the untold part of Jon's price; who rang last.
