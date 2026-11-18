@@ -16,6 +16,12 @@ Teo came up the steps one at a time with his good hand flat on the wall. The bad
 
 Jon was going away down the middle of the street at the same pace he'd crossed the yard. Eli went after him. Teo came after Eli.
 
+"This is it, though," Eli said, dropping back. "Isn't it? This is the thing." He had Teo's good elbow and was steering him round a puddle Teo had already stepped round. "You've had that trunk packed for a year. You've read every page there is about off-world, I've watched you do it, at my table, with your tea going cold. And now you're going. Today. Teo, you're going." He squeezed the elbow. "And the hand, the minute we're there. Somebody proper. I'll find out who's best and that's who we'll have. That's the first thing I'll do."
+
+"I need to stop a minute," Teo said.
+
+"We'll stop when we're there. You'll see. It's going to be good."
+
 The street leaned. It had always leaned. The Spur ran out from the Tower toward the drop and the floor under it tipped back the other way, so that walking out along it you were climbing, a little, every step, and your ankles knew it before you did. Eli had walked it a hundred times and never once thought about it. He thought about it now because of Teo. Teo's feet kept going wrong. Twice they went from under him, and both times he went back, not forward, a step back down the street toward the Tower, and the second time Eli caught him by the good arm and held on.
 
 "Got you."
@@ -80,7 +86,11 @@ Jon finished the cone and folded the paper in four and put it in his pocket.
 
 At the landings the walls went from paint to grey stone, and on every one of them there was the seal, stamped, an oval with nothing in it. Eli had passed under a thousand of them. He looked at one now going by. Plain. A raised rim, and inside the rim smooth, and a little worn where people had touched it, or leaned on it, or put their backs to it waiting for something, so that the worn part was cleaner than the wall round it. His coat swung as he walked and the corner of the letter dug in under his ribs. His hand went flat on the coat over it and stayed there till the next landing.
 
-It was a long way out. They stopped for Teo three times. The first time he only stood. The second time Eli had the coat off one shoulder to put round him before he thought about the pockets, the sock in the one and the letter in the other, and Teo looked at the coat and said "No," and Eli shrugged it back on. The third time Teo sat, on a bollard, with his head down between his arms, and Jon stood a little way off with his back to them and his hands in his pockets, and waited, and when Teo got up Jon walked on.
+It was a long way out. They stopped for Teo three times. The first time he only stood. The second time Eli had the coat off one shoulder to put round him before he thought about the pockets, the sock in the one and the letter in the other.
+
+"Vosk would've carried you," he said. He said it bright. "Over one shoulder, all the way out, and not a word about it. You remember the tree. The big one by my window. I said I wanted it moved by Thursday and he carried it across the yard on his back, the whole thing, pot and all. He'd have had you there and back by now."
+
+Teo looked at the coat and said "No," and Eli shrugged it back on. The third time Teo sat, on a bollard, with his head down between his arms, and Jon stood a little way off with his back to them and his hands in his pockets, and waited, and when Teo got up Jon walked on.
 
 Out along the Spur the buildings got lower and further apart and the street got wider and fuller: trolleys and carts, men in grey, dock hands with hooks hung on their belts, a gang of orcs on a scaffold scraping a wall white, a woman selling slates off a blanket with their screens all lit and all showing the same face. The air had a new smell in it, hot metal and something burnt, and under the noise of the lanes there was a deeper one, a hum that came up through the boots. The berths. Ahead the street ran in under a long low roof with lights in it, and across the mouth of it, where everything had to go through, there was a barrier, and a booth with a window, and beside the booth an arch with a reader set in it. A queue went under the arch one face at a time, and each face got its light and its soft chime.
 
@@ -266,9 +276,13 @@ He turned round. "You know it? Where is it? How long does it take?"
 
 The hold was long and low, dark aft, and lit forward by two strips in the ceiling, one of which went off and on. Crates were stacked to the ribs down both sides and strapped, with a gangway between them a man wide, and halfway down, against the starboard wall, a bench that folded out on chains. The smell was worse inside. It had a sound too, a tick in the hull somewhere, and a hum that went up through the floor into his teeth and sat there, next to the headache.
 
-Eli helped Teo down the gangway. Teo shook the arm off, and then let it come back. He sat on the first crate past the bench, not on the bench, and put his back to the stack behind him and shut his eyes, and opened them.
+Eli helped Teo down the gangway. Teo shook the arm off, and then let it come back. He sat on the first crate past the bench, not on the bench, and put his back to the stack behind him and shut his eyes.
 
-"Look at this," Eli said. He stood in the gangway and turned round, taking it in. The ribs. The patched plates, inside as well as out, and a seam over the bench with a strip of grey tape run along it, and a second strip over that where the first had lifted. He put his thumb on it. It gave. "Teo. It's tape. She's held together with tape."
+"Not there. Here." Eli had him up again by the good arm. "The bench. There's a wall to it. You can lie down on it, look, it's practically a bed." He got Teo onto the bench and turned him so his back was square to the wall, and lifted the bad hand and laid it on Teo's chest for him, and put Teo's good hand over it, and stood back. "There. Isn't that better."
+
+"The crate's fine," Teo said.
+
+"The bench is better. Trust me." Eli turned round. "Look at this." He stood in the gangway and turned round, taking it in. The ribs. The patched plates, inside as well as out, and a seam over the bench with a strip of grey tape run along it, and a second strip over that where the first had lifted. He put his thumb on it. It gave. "Teo. It's tape. She's held together with tape."
 
 Teo looked at the tape. Then past it, at a plate riveted by the hatch, small and brass and gone green round the rim, with letters stamped in it, and a number, and a little mark like a fish.
 
@@ -318,7 +332,7 @@ Eli looked back along the walk. The passenger boat. The queue, with no big grey 
 
 Twenty minutes to the Seventh, in that. Less.
 
-He looked down the hold. Teo sat on his crate with his eyes shut and his head back against the stack and his hand in his shirt.
+He looked down the hold. Teo had gone back to his crate, and sat on it with his eyes shut and his head back against the stack and his hand in his shirt.
 
 Out on the white ramp the man lifted the slate.
 
@@ -482,7 +496,13 @@ He got his knee off. He taped it. He went round and round the hand with the grey
 
 Eli sat back against the crate opposite. He had yellow on his trousers and on his cuffs, the second-best coat's cuffs, and on his hands, and he looked at it, and wiped his hands on the coat, and looked at them again.
 
-"There," he said.
+"There," he said. He was out of breath. "There. That's done. And when we're down, first thing, the best man in the place. I'll get a call out, there's always a way, they'll fly someone. You'll have a room with a window, Teo. A real window, a big one, you can lie and look out of it all day and I'll read you the boring parts of whatever you're reading."
+
+"Is there water," Teo said.
+
+"And a bath. Oh, a bath. You'll sleep a week." Eli laughed and put his head back against the crate. "Vosk said you could sleep anywhere. On a wall. He found you asleep on the yard wall once and stood under it the whole hour in case you went off. Didn't he? You never knew."
+
+Teo's tongue went over his lips, and stopped.
 
 The hull ticked. In the stern the banging had gone back to a knock, every so often, uneven, something back there loose and swinging. The roar under the floor had dropped to a hum. Through the door the pilot sat with one hand on her knee, and her cup in its holder, and the black in the glass.
 
@@ -534,8 +554,8 @@ Aft, in the dark, the loose thing knocked, and was quiet, and knocked.
    - *Teo and the board:* the board speaks ("answered her in the same voice"); Teo repeats "Earth". Eli misses it in the banging ("caught none of it"), so "What?" is about hearing, not about not knowing the name. At the end Teo gives the words: "Clear of Earth."
 7. **Kept:** the wound cleaning with the red line past the elbow; "Clone or the other?" / "Whatever's hot."
 8. **Word caps** (hand count on story text; please confirm with `scripts/wordcheck.py`, since there's no shell in this run):
-   - "didn't": 5 (v1 had about 40).
-   - "the top of": 0. "at the top of": 0. "the end of": 1 (the cut). "the edge of": 0. "in front of him": 1 (the cart).
+   - "didn't": 7, counting one "Didn't he?" in dialogue (v1 had about 40).
+   - "the top of": 0. "at the top of": 0. "the end of": 2 (the strap, the cut). "the edge of": 0. "in front of him": 1 (the cart). "uphill": 0. Slop list: 0.
    - "made a mark": 2. "top of the glass": 0. "didn't turn/look round": 2.
    - Openings: I cut the "It was" and "There was" stacks and swapped several "He looked" lines. Each two-word opening should be at 6 or under; wordcheck should confirm.
 9. **Notice:** "NOTICE, it said at the head, in plain black." No oval. The two ovals left are the landing seal and the letter (its wax, by touch).
@@ -549,14 +569,21 @@ Aft, in the dark, the loose thing knocked, and was quiet, and knocked.
 - *Sense 10:* Teo looks "back up the Spur", not at the booth.
 - *Sense 11:* the first off-world beat: a palm on the cold plate, "Teo. It's black."
 - *Sense 12:* the letter's corner digs in at the landing seal; the v1 doorframe touch is cut, and the letter returns only at the close.
-- *Payoff 8:* the lift core beat is cut (retired); the steward-bill simile is cut; "Grey had got into the links" became "stiff with the dirt in it"; the bench straps became "belts"; Eli's "Right" ×0 (now "Yes. Good. Yes."); the eyes and hands list is cut to eyes only, and the dwarf is gone. The "as if" explaining similes are cut (the Teo-collar one, the stern one).
+- *Payoff 8:* the lift core beat is cut (retired); the steward-bill simile is cut; "Grey had got into the links" became "stiff with the dirt in it"; the bench straps became "belts"; Eli's "Right" ×0 (now "Yes. Good. Yes."); the eyes and hands list is cut to eyes only, and the hand-seller is gone. The "as if" explaining similes are cut (the Teo-collar one, the stern one).
 - *Forecaster S2:* the market is shorter (no core, one stall line).
-- *Ribbed ship:* the heat shimmer is cut; she's old, ribbed, ramp shut, unloaded. It's a plain hull, not a Returned ship.
+- *Ribbed ship:* the heat shimmer is cut; she's old, ribbed, ramp shut, unloaded. It's a plain old hull, not a drive ship.
 - **No rejections**, so there's no `reviews/rebuttals.md` entry this round.
+
+**Patrick's mid-pass note (via the coordinator): Eli cares, and misses Teo in the same beat.** Never stated; the warmth and the blindness sit side by side:
+- *The Spur:* "This is it, though… you're going. Today." He steers Teo round a puddle Teo has already stepped round, and promises "Somebody proper… That's the first thing I'll do." Teo: "I need to stop a minute." Eli: "We'll stop when we're there."
+- *The second stop:* the half-offered coat, then a bright Vosk story (the tree carried "pot and all") as comfort. Teo says "No."
+- *The hold:* Eli moves Teo off the crate onto the bench, arranges his hands on his chest for him: "Isn't that better." / "The crate's fine." / "The bench is better. Trust me." When Eli next looks, Teo has gone back to the crate.
+- *After the wound:* the grand plan (the best man, a room with a big window, "I'll read you the boring parts"). Teo: "Is there water." Eli answers with a bath and a Vosk memory. Teo's tongue goes over his lips. Nobody brings water.
+- The existing beats keep the energy: "Look at her," the tape, "Teo. Look," "Name it," and the watch handed over at once.
 
 ## LEDGER
 
-**Canon used:** the Tower (no top seen; the pressure headache; the lean; the plants; windows turned to it); Earth (first on the page, from a pilot's board: `01_GLOSSARY` v5-wk, W58); elves (feed only, and Jon's line); the Legion (feed); orc chips and readers (R-024/R-029 as set in ONE–THREE); clone stock "NO SOUL" (R-019); marks. Not on the page: the Emperor, the Inquisition, the King's name, Derrek, Remnant, any dwarf, any Returned ship.
+**Canon used:** the Tower (no top seen; the pressure headache; the lean; the plants; windows turned to it); Earth (first on the page, from a pilot's board: `01_GLOSSARY` v5-wk, W58); elves (feed only, and Jon's line); the Legion (feed); orc chips and readers (R-024/R-029 as set in ONE–THREE); clone stock "NO SOUL" (R-019); marks. Not on the page: the Emperor, the Inquisition, the King's name, the other held-back names, any dwarf on stage, the drive ship.
 
 **LOCAL inventions:**
 - **Names:** **Ithe** (LOCAL place: a crate stencil, "There's a man there'll find you"; no race given). No other names: the pilot refuses them.
@@ -577,4 +604,5 @@ Aft, in the dark, the loose thing knocked, and was quiet, and knocked.
 - **"Kneel on it"** gives Teo the field sense in the wound scene, and keeps him cool-headed. It isn't a Count B warning.
 - **ITHE on the crates** means the beater is going there, which makes the pilot's nose-laugh about the place, not the route. Check that it doesn't make Jon's line flat.
 - **Counts** are by hand. Run wordcheck for "didn't", the four-word phrases and the openings.
-- **Word count:** about 7,600 words of story (estimated by hand).
+- **Eli's Vosk memories** (the tree by his window carried "pot and all"; Vosk standing under the yard wall while Teo slept on it) are LOCAL backstory, not on the page before. Check they don't clash with ONE's yard.
+- **Word count:** about 8,000 words of story (estimated by hand).
