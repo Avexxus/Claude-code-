@@ -300,7 +300,7 @@ The big one set his shoulder to the trolley and pushed it on up past Eli into th
 
 The big one went on into the dark without answering.
 
-Something warm ran out of Eli's nose onto his lip. He wiped it with the back of his wrist, and the wrist came away red. He turned to the open side of the cradle and the air past it, and wiped again, and again, and swallowed. His stomach came up into his throat. He swallowed that too. The headache had gone up a notch behind the eye and was beating now, quick, and his palm in the pocket was wet on the sock. He stood with his back to all of them and looked out at the haze, white, a long way down, and a flyer going across it very small, until the bleeding stopped.
+Something warm ran out of Eli's nose onto his lip. He wiped it with the back of his other wrist, and the wrist came away red. He turned to the open side of the cradle and the air past it, and wiped again, and again, and swallowed. His stomach came up into his throat. He swallowed that too. The headache had gone up a notch behind the eye and was beating now, quick, and his palm in the pocket was wet on the sock. With his back to all of them he looked out at the haze, white, a long way down, and a flyer going across it very small, until the bleeding stopped.
 
 He wiped the wrist on the lining of the coat. He took his hand out of the pocket and looked at it then. It looked like a hand.
 
@@ -318,7 +318,7 @@ Eli looked back along the walk. The passenger boat. The queue, with no big grey 
 
 Twenty minutes to the Seventh, in that. Less.
 
-He looked down the hold. Teo was on his crate with his eyes shut and his head back against the stack and his hand in his shirt.
+He looked down the hold. Teo sat on his crate with his eyes shut and his head back against the stack and his hand in his shirt.
 
 Out on the white ramp the man lifted the slate.
 
