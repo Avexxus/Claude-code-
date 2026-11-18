@@ -34,3 +34,10 @@
 - **The pills.** Four white pills is two doses. They run out on the second day of the wait, so the third day is the clock.
 - **Chipped humans.** Plant them on Ithe: humans with a chip scar behind the ear, Legion washouts or yard boys who bought one. That's the master's "got the chip", shown before it's said.
 - **The stern knock** (owed from FOUR) pays off in the opening. It's the coupling going, and it's why the pilot dumps them at Ithe early.
+
+## Calls after the character sim (`charsim.md`)
+- **New character: SEFFA** (LOCAL), human, born on Ithe, the yard's cook, with a small reach of her own. Her wound is her brother Hollin (LOCAL), the master's student who bought a chip after the master said no. She gives Teo water, which pays off FOUR's "Is there water". She names the gnome who sits with the dying. She comes along to guide Teo there.
+- **The cause of the yes:** on day three Teo collapses, and Eli says "Not me. Him." The yes is for Teo. Use that leg only; the "Don't" to a student is cut.
+- **Eli goes with Teo and Seffa** (Claude's call). He can't let Teo go without him, which is his idea of himself as the good friend. The master's terms: "Bring him back breathing. Then we'll see." Eli hears that as a yes to himself. SIX opens on the road to the healer.
+- **The pills:** the flight is under a day, so the pills run out on day two.
+- The master's voice and his one terrifying act (the swinging load set down "like a cup", and the rain stopping for a count of one) are as in the sim.
