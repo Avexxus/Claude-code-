@@ -346,9 +346,11 @@ The plastic strips moved.
 
 The heat came first. Eli felt it on his face and the backs of his hands, a hard dry push that dried the wet out of his eyes, and every bowed head in the market went lower, and on the hooks overhead the fat on the sawn carcass started to run. The strips parted, and something came through the arch that had to turn its shoulders to fit.
 
-He was the shape of an orc, the heavy shoulders and the long arms, but half again as tall as Vosk and twice as broad, and the light rising off the cut lit him from underneath. His skin was crusted all over the chest and arms and the slabs of the shoulders in rows, and the rows were chips. Orc chips, grey, with their threads, hundreds of them, sewn into him one by one through the skin with wire, the way you'd sew buttons on a coat, and every one of them was wet, and every one, faintly, was moving. Above the waist he was bare. Below it he had a yard apron on, black rubber, stiff with old use, like the men at the presses wore.
+He was the shape of an orc, the heavy shoulders and the long arms, but half again as tall as Vosk and twice as broad, and the light rising off the cut lit him from underneath. The chest and arms and the slabs of the shoulders were made of pieces, sewn edge to edge with wire, and the pieces didn't match. A hand's width of thick grey hide ran into something finer and paler, and that ran into hide again. One patch on his upper arm had an old burn on it that had healed on somebody else. The seams stood up in dark ridges, and some of them wept. There were plates of dull metal let into him, one over the left side of the ribs and one down the length of a forearm, riveted at the rims, and the meat had grown up round the rivets. Bone came out of him where it shouldn't. A ridge of it stood bare and yellow along the top of one shoulder, and on the back of his right hand a second row of knuckles pushed up under the skin. Under the ribs on the right a seam hadn't held, and flesh bulged out through it, dark and shiny. At the back of his neck, where every orc carried it, was a chip. One orc chip, grey, with its threads going down into him, wet, the one part of him that was like everyone else's.
 
-Low on his ribs the wire was still bright, and the skin round it was puffed and red.
+His face was his own. Above the waist he was bare. Below it he had a yard apron on, black rubber, stiff with old use, like the men at the presses wore.
+
+Low on his ribs a new piece had gone on, not yet the colour of anything round it. The wire in it was still bright, and the skin along the seam was puffed and red.
 
 He didn't say anything. He looked at Vosk, and at the strip on Vosk's neck, and Vosk took a step toward him that Eli doubted he'd meant to take, and stopped.
 
@@ -428,7 +430,7 @@ Vosk opened his eyes. Over the arch, where a row of hooks had torn out, the ceil
 
 He walked at the arch, one step and another, and with every step more of him gave. The skin on the backs of his knuckles split open over the bone, all four, and the backs of both hands after. Blood ran from his nose and his ears and the corners of his eyes. Steam poured off his shoulders in sheets. The fingers of his good hand had come open, and he was trying to shut them, Eli could see him trying, and they bent back instead, all four, and stayed back. He kept walking. He couldn't put it anywhere. It went where it went, through the floor, through the stalls, up into the ceiling, and he carried it with him to the arch and let it.
 
-The King had one hand flat in the air and he was giving ground. One step back, under the arch. Another, into the strips. Bits of the floor were hitting him and he let them. His chest was smoking, and some of the chips sewn into it had burst and were running.
+The King had one hand flat in the air and he was giving ground. One step back, under the arch. Another, into the strips. Bits of the floor were hitting him and he let them. His chest was smoking, and the seams across it had opened and were running, and the plate over his ribs had lifted at one edge.
 
 Eli had his hand up. It was pointed at Vosk's back now. Come back.
 
@@ -516,7 +518,7 @@ His lips went on moving after that, and Eli bent close, and most of it was breat
 
 "Eli," said Teo.
 
-The heap of stone where the arch had been moved. A slab near the top tilted and slid and went down the side of the heap with a long scraping noise, and dust ran after it, and from under the heap, from deep under it, came heat. A hand came up out of the gap it left. It was as broad as a shovel, and there were chips sewn across the back of it in rows, and it took the next slab by the edge and pulled, and the slab came.
+The heap of stone where the arch had been moved. A slab near the top tilted and slid and went down the side of the heap with a long scraping noise, and dust ran after it, and from under the heap, from deep under it, came heat. A hand came up out of the gap it left. It was as broad as a shovel, patched across the back in pieces that didn't match, with the second row of knuckles standing up under the skin, and it took the next slab by the edge and pulled, and the slab came.
 
 "Eli. Now."
 
@@ -594,6 +596,11 @@ The steward made a mark, and read the next.
 
 <!-- NOTES -->
 
+**v2.1 King redo (Patrick, BANK 2026-11-18, the Orc King's look)**
+- The King has ONE chip now (at the back of the neck, like every orc's). The sewn-chip rows and the "buttons" simile are gone. His body is grafted: mismatched patches with wire seams, a burn "healed on somebody else", riveted metal plates, bare bone at the shoulder, a second row of knuckles, and flesh bulging through a seam that didn't hold. "His face was his own." What the grafts do is never said.
+- The later mentions now follow this: the fresh piece on his ribs (it still pays "three nights"), the seams opening under the arch, and the patched hand out of the rubble.
+- Patrick's ruling overrides the old protection on "the King's sewn-chip paragraph". Nothing else protected was touched, and no events changed. Narration similes: 5 (cap met). Line-by-line log: `v3/ch02/review_king_redo.md`.
+
 **v2 fix log (sense check `v3/ch02/review_sense_split.md`; author took every fix)**
 - #4 clock: "twenty minutes later" at the ramp is now "a few minutes later". The rail time is gone with the #8 cut, so the next clock is the cage "At half past". "Twenty-five past" wasn't needed.
 - #8 brake: the rail exchange is cut (Teo at the rail through "So it's twenty past"). Vosk at the door, "You've got your face on" and the flyer light are kept, since they're the wait, not the clock. The foreman's "Gentlemen" is kept. S-007 loses "So it's twenty past" and keeps the rest.
@@ -616,12 +623,12 @@ The steward made a mark, and read the next.
 9. **Grok 4: cut "Eleven hundred and a watch… Teo. Look at him."** It's replaced by "Eli let his breath go. He put his hand on Vosk's knee." Then comes Teo's warning 3. **Vosk starts to rise ("hands went to the arms of the chair"), and Eli keeps him down: "Sit, Vosk. Sit." / "Vosk sat."** A second music stops. The delay is Eli's, shown through action (Grok 2). Teo's "exam" calm is cut, and his breathing keeps only the flyer over the sumps (panel item 7).
 10. **The fight.** The King gets "Low on his ribs the wire was still bright", which pays the Ilders' man's "three nights" from ch1. The bill reading becomes "The steward went over a bill that way, before it went up", which pays ch1's steward-and-coat line without a "like". Cut: "as if Eli had made a noise in another room", "like a wall falling over", "as if somebody had him by the hair", "a sound Eli had never heard him make".
 11. **One line on why the reach fails (split plan):** "They were all looking at it… It had been like that on the roof with the chair, everyone looking, and the chair sitting there on its four feet." It pays S-006 and the ch1 chair.
-12. **Grok 1.** The second release starts a stampede. The crew "running in among them with their cutters still in their fists and nobody to use them on"; the bridge fills "rail to rail" and somebody goes off it. The bridge is not "open now". The arch comes down front first: "took the King across the chest and put him over on his back… on his legs and his middle". He is half-buried. During the speech, "a stone went down by itself"; after "Spent me", a chip-sewn hand comes out and pulls the next slab. Teo's bluff becomes a fact ("He's coming out"), so the crewman goes to dig for his own sake, not because he was tricked. The time Vosk buys is minutes, bought with the whole of him, and the King is still alive.
+12. **Grok 1.** The second release starts a stampede. The crew "running in among them with their cutters still in their fists and nobody to use them on"; the bridge fills "rail to rail" and somebody goes off it. The bridge is not "open now". The arch comes down front first: "took the King across the chest and put him over on his back… on his legs and his middle". He is half-buried. During the speech, "a stone went down by itself"; after "Spent me", a patched, grafted hand comes out and pulls the next slab. Teo's bluff becomes a fact ("He's coming out"), so the crewman goes to dig for his own sake, not because he was tricked. The time Vosk buys is minutes, bought with the whole of him, and the King is still alive.
 13. **The proud line (Patrick, BANK 11-17).** The words and their order are kept, and so is the eloquence. It is broken by a stalled breath, a restart ("I'm proud." / "I'm proud to die. For the."), and a lost word that his eyes go looking for ("Man," he said). "It came out whole, all at once" is cut.
 14. **Caps.** "It's all right" appears twice, both in the protected surgery. The death refrain is now "We'll get you out." "Green" appears 3 times (stair ×2, gate ×1). "very" appears 2 times. "quite" is cut. Thumb on the scar appears once (the split ear). The headache and the pill appear 0 times. The "since" tags are gone, and so is "Eli had been coming down since he was fifteen". There is 1 "never" in the narration outside protected text: the watch, "four worlds he'd never been to", which I kept as plain fact. The ending's "never once" is protected. **Similes:** 6 in the narration, all protected (horse, roots, wet paper, buttons, presses, peg), plus "like a lamp" in dialogue. That is over the cap of 5 only through protected text, and no new simile was added. The slop list was checked by eye and is clean.
 15. **The stair.** "He could dance." joins the fragments. That is all the narration gives on Ilder's crescent scar. The climbers (the sleeping child, the old man on the step) carry the Scald's exodus.
 
-**Protected, word for word:** "Hold his head" through "Leash is out"; the King's sewn-chip paragraph; "Teo swung a soup ladle…" through "as if driving a peg"; the hook into Vosk; "I don't remember" / "I know"; "He's mine. Leave him"; "Vosk, put it down. Put it down. Please."; the ending from "He could ring the account" through "read the next"; "Warm like a horse"; "I picked it"; "Nobody… Spent me". ("He wasn't laughing. He was interested." lives in ch1 and is untouched.)
+**Protected, word for word:** "Hold his head" through "Leash is out"; ~~the King's sewn-chip paragraph~~ (released by Patrick's 11-18 ruling, now rewritten); "Teo swung a soup ladle…" through "as if driving a peg"; the hook into Vosk; "I don't remember" / "I know"; "He's mine. Leave him"; "Vosk, put it down. Put it down. Please."; the ending from "He could ring the account" through "read the next"; "Warm like a horse"; "I picked it"; "Nobody… Spent me". ("He wasn't laughing. He was interested." lives in ch1 and is untouched.)
 
 **Seeds**
 - **Book 1 (6):**
@@ -648,7 +655,8 @@ The steward made a mark, and read the next.
 - the whistled two notes
 - the drift-net girl at the cut, who runs to the crew
 - the soup woman's arm-long ladle and the imperial note
-- the bright new wire on the King's ribs
+- the bright new wire on the King's ribs (now the seam of a fresh grafted piece)
+- the King's grafted body: mismatched patches, the burn "healed on somebody else", riveted plates, bare shoulder bone, the second row of knuckles, the one chip at the back of the neck
 - the climbers on the stair (the sleeping child, the old man)
 - carried over: Vosk, Velk, Ilder and the Ilders, Hookline, the Scald, Ancel Row, the Spur, the Long Stair; Teo is still a placeholder.
 
@@ -658,6 +666,7 @@ The steward made a mark, and read the next.
 - The drift girl adds a second runner on top of Velk's tax boy and the crate girl. Cut her return by the arch if it reads as overplotted. The "coat does tricks" line carries the chain on its own.
 - The King's hand out of the heap is the only on-page sight of him alive. If it's too strong for the ending's quiet, keep only the stones going down by themselves.
 - In the cage, "It's the first of it" may telegraph the death. If so, cut it, so the sock line is only a location.
-- The simile cap is over by 1, and only through protected text. Patrick should OK this or release one protected simile.
+- ~~The simile cap is over by 1.~~ Resolved in v2.1: the "buttons" simile went with the King redo, so the count is 5.
+- v2.1: "His face was his own" is the one line that keeps the King a person. If it reads as a wink, cut it. The second knuckle row is the only graft repeated (L349, L519), so the hand reads as his.
 
 **Word count:** about 8,600 (story text only). I estimated it by hand because I had no shell to run `scripts/wordcheck.py`, so run it to confirm.

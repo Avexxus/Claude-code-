@@ -992,9 +992,11 @@ The plastic strips moved.
 
 The heat came first. Eli felt it on his face and the backs of his hands, a hard dry push that dried the wet out of his eyes, and every bowed head in the market went lower, and on the hooks overhead the fat on the sawn carcass started to run. The strips parted, and something came through the arch that had to turn its shoulders to fit.
 
-He was the shape of an orc, the heavy shoulders and the long arms, but half again as tall as Vosk and twice as broad, and the light rising off the cut lit him from underneath. His skin was crusted all over the chest and arms and the slabs of the shoulders in rows, and the rows were chips. Orc chips, grey, with their threads, hundreds of them, sewn into him one by one through the skin with wire, the way you'd sew buttons on a coat, and every one of them was wet, and every one, faintly, was moving. Above the waist he was bare. Below it he had a yard apron on, black rubber, stiff with old use, like the men at the presses wore.
+He was the shape of an orc, the heavy shoulders and the long arms, but half again as tall as Vosk and twice as broad, and the light rising off the cut lit him from underneath. The chest and arms and the slabs of the shoulders were made of pieces, sewn edge to edge with wire, and the pieces didn't match. A hand's width of thick grey hide ran into something finer and paler, and that ran into hide again. One patch on his upper arm had an old burn on it that had healed on somebody else. The seams stood up in dark ridges, and some of them wept. There were plates of dull metal let into him, one over the left side of the ribs and one down the length of a forearm, riveted at the rims, and the meat had grown up round the rivets. Bone came out of him where it shouldn't. A ridge of it stood bare and yellow along the top of one shoulder, and on the back of his right hand a second row of knuckles pushed up under the skin. Under the ribs on the right a seam hadn't held, and flesh bulged out through it, dark and shiny. At the back of his neck, where every orc carried it, was a chip. One orc chip, grey, with its threads going down into him, wet, the one part of him that was like everyone else's.
 
-Low on his ribs the wire was still bright, and the skin round it was puffed and red.
+His face was his own. Above the waist he was bare. Below it he had a yard apron on, black rubber, stiff with old use, like the men at the presses wore.
+
+Low on his ribs a new piece had gone on, not yet the colour of anything round it. The wire in it was still bright, and the skin along the seam was puffed and red.
 
 He didn't say anything. He looked at Vosk, and at the strip on Vosk's neck, and Vosk took a step toward him that Eli doubted he'd meant to take, and stopped.
 
@@ -1074,7 +1076,7 @@ Vosk opened his eyes. Over the arch, where a row of hooks had torn out, the ceil
 
 He walked at the arch, one step and another, and with every step more of him gave. The skin on the backs of his knuckles split open over the bone, all four, and the backs of both hands after. Blood ran from his nose and his ears and the corners of his eyes. Steam poured off his shoulders in sheets. The fingers of his good hand had come open, and he was trying to shut them, Eli could see him trying, and they bent back instead, all four, and stayed back. He kept walking. He couldn't put it anywhere. It went where it went, through the floor, through the stalls, up into the ceiling, and he carried it with him to the arch and let it.
 
-The King had one hand flat in the air and he was giving ground. One step back, under the arch. Another, into the strips. Bits of the floor were hitting him and he let them. His chest was smoking, and some of the chips sewn into it had burst and were running.
+The King had one hand flat in the air and he was giving ground. One step back, under the arch. Another, into the strips. Bits of the floor were hitting him and he let them. His chest was smoking, and the seams across it had opened and were running, and the plate over his ribs had lifted at one edge.
 
 Eli had his hand up. It was pointed at Vosk's back now. Come back.
 
@@ -1162,7 +1164,7 @@ His lips went on moving after that, and Eli bent close, and most of it was breat
 
 "Eli," said Teo.
 
-The heap of stone where the arch had been moved. A slab near the top tilted and slid and went down the side of the heap with a long scraping noise, and dust ran after it, and from under the heap, from deep under it, came heat. A hand came up out of the gap it left. It was as broad as a shovel, and there were chips sewn across the back of it in rows, and it took the next slab by the edge and pulled, and the slab came.
+The heap of stone where the arch had been moved. A slab near the top tilted and slid and went down the side of the heap with a long scraping noise, and dust ran after it, and from under the heap, from deep under it, came heat. A hand came up out of the gap it left. It was as broad as a shovel, patched across the back in pieces that didn't match, with the second row of knuckles standing up under the skin, and it took the next slab by the edge and pulled, and the slab came.
 
 "Eli. Now."
 
