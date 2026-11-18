@@ -1,0 +1,25 @@
+== draft_v3.md: 7175 words
+top content words: went 73, back 51, hand 48, came 42, stood 30, turned 28, slate 24, looked 23, come 23, steward 22, held 22, under 20, took 20, house 20, side 19, stopped 19, yard 19, plum 19, wall 18, door 18, eli's 18, table 17, again 17, round 17, grey 17
+tics (count, per 1k):
+  "didn't": 17 (2.4)
+  'nobody': 4 (0.6)
+  'nothing': 4 (0.6)
+  'a long time': 2 (0.3)
+  'for a while': 2 (0.3)
+  'the way': 1 (0.1)
+  'as if': 2 (0.3)
+  'something': 7 (1.0)
+  'somewhere': 1 (0.1)
+  'a little': 2 (0.3)
+  'never once': 1 (0.1)
+  "he didn't look": 1 (0.1)
+  "didn't look": 2 (0.3)
+  'then': 10 (1.4)
+  'just': 3 (0.4)
+  'only': 3 (0.4)
+  'still': 12 (1.7)
+repeated 5-word phrases: at the end of the ×6; at the edge of the ×5; in the middle of the ×4; the end of the row ×4; at the top of the ×3; the edge of the paving ×3; a number and somebody answered ×3; plum out of the bowl ×3; end of the row and ×3; the top of the tower ×3
+repeated 4-word phrases: the end of the ×8; at the end of ×7; the top of the ×7; the edge of the ×6; came out of the ×6; at the edge of ×5; in the middle of ×4; the middle of the ×4; out of the bowl ×4; end of the row ×4; and turned it over ×3; in front of him ×3; the two little ones ×3; the side of his ×3; the yard the steward ×3
+repeated 3-word phrases: the end of ×12; the new one ×10; at the end ×9; the top of ×9; top of the ×8; end of the ×8; back to the ×7; came out of ×7; against his chest ×6; looked at the ×6; the wall and ×6; on the step ×6; the long house ×6; at the edge ×6; the edge of ×6
+slop-list hits: none
+most common sentence openings: 'the man' 9, 'he was' 9, 'the steward' 8, 'he stood' 7, 'there was' 7, 'it was' 6, 'he had' 6, 'at the' 6, 'he put' 6, 'he looked' 4
