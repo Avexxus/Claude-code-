@@ -25,3 +25,11 @@ Sources: `review_sense.md`, `review_continuity.md`, `review_forecast.md` and `re
    - Fix "three mornings" to the correct number.
    - The sacks come up where the crews stack them.
 10. **Length:** about 8k words. Add the missing words as pressure scenes and the payoffs above. No filler.
+
+## From the payoff review
+- Cut the soap clause (3:L253).
+- Demote the new orc to texture. Change "stitched with black thread" (3:L261) so it doesn't rhyme with the King's crew.
+- **The slot:** keep "There's the slot." Per call 2, the reader should be able to follow Eli's guess, so plant the slot's blind spot first.
+- **Teo's warnings:** the "I told you that like 3 times" line is Patrick's, and it belongs to the later fuel scene on the dwarf's ship, a separate count. Don't add more warnings in this chapter; trim it to at most 3.
+- **Teo's infected hand:** it pays off with Doc later; leave it open.
+- **Caps:** "studied" ≤3, Jon "smiled" ≤3, "ya" ≤3. Retire "right there" and "Eighty-eight years" after this chapter.
