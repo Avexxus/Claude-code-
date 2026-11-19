@@ -8,11 +8,13 @@ All through the dark it had been a knock, every so often, and Eli had slept agai
 
 The pilot said something to her board. The board said something back in its numbers voice, and a light came up red in among the green, and she took her cup out of its holder and put it on the floor between her boots.
 
-"Coupling," she said, to the glass. Then, over her shoulder: "Coupling. Off here."
+"Coupling," she said, to the glass. Then, over her shoulder: "Coupling's gone. You're off here."
 
 "Off where?"
 
 She let that go. The ship dropped, and caught, and dropped, and Teo's head came away from the wall and went back against it. Out in the glass there was ground now, flat and grey and running with water, with black heaps on it, and things standing up out of it on long legs that Eli took for trees until he saw they were cranes, dozens of them, hundreds, going away in rows into a haze the colour of weak tea. The light was wrong. It came in low and from one side, off a sun that was too small and too red and sat down near the rim of everything without warming any of it.
+
+Ithe, then.
 
 They hit belly first. She came down on something hard and flat and slid on it, and the bang in the stern went once more, very loud, and quit, and the hum died, and everything ticked.
 
@@ -32,11 +34,11 @@ From the stern there was a clang, and then another, and a panel came off and wen
 
 At the top of the ramp Eli turned with his hand out. "Te—"
 
-Her board. Its little light, green, by her elbow.
+Her board. Its little light, green, by her elbow. Say a name on my ramp, she'd said.
 
 "Come on," he said instead. "Mind the step."
 
-Teo came past him and down, one hand on the rail. Eli looked back down the hold, at the canvas folded in four on the crate by the hatch, at the pilot's back. The jacket was zipped to the neck. The watch was in there somewhere, against her.
+Teo came past him and down, one hand on the rail. Eli looked back down the hold, at the canvas folded in four on the crate by the hatch, at the pilot's back. The jacket was zipped to the neck. His watch was in there somewhere, against her.
 
 "Thank you," he said. "For the pills. And the—for all of it."
 
@@ -48,7 +50,7 @@ He went down.
 
 ---
 
-A pad for ore, long and black and slick, iron plate gone dull, with barges on it in a line, their bellies open, and a gang of men with a trolley already coming for the bone meal. Men. A dozen of them, in oilskins, with their hoods down and their faces red with the cold, and not one of them grey. Humans, doing it. He had never seen that.
+A pad for ore, long and black and slick, iron plate gone dull, with barges on it in a line, their bellies open, and a gang of men with a trolley already coming for the bone meal. Men. A dozen of them, in oilskins, with their hoods down and their faces red with the cold, and not one of them an orc. Humans, doing it. He had never seen that.
 
 They paid the coat no mind. They went up the ramp past him talking, about a shift, about somebody's sister, and came down again with the first crate on the trolley between them, and a big one at the front with his hood off was laughing. Laughing at nothing. He laughed a bit longer than there was anything to laugh at, with his mouth open and the rain going in it, and then stopped all at once and took his end.
 
@@ -74,7 +76,7 @@ Teo was sitting with his bad hand inside his shirt and the rain running off his 
 
 "He'll have been held up."
 
-Behind them the beater's ramp came up, grinding, with a stop halfway, and shut, and the hum came on under the hull, rough. She lifted off the plate a little crooked and found herself and went off low over the cranes toward the far end of the field, and was a dot, and was gone into the haze. The knock wasn't in her now. Or it was too far to hear.
+Behind them the ship's ramp came up, grinding, with a stop halfway, and shut, and the hum came on under the hull, rough. She lifted off the plate a little crooked and found herself and went off low over the cranes toward the far end of the field, and was a dot, and was gone into the haze. The knock wasn't in her now. Or it was too far to hear.
 
 Eli watched the place she'd gone.
 
@@ -148,7 +150,7 @@ Nobody in it. No light.
 
 ---
 
-It was a roof over nothing they could use. The shed was open along the front and stacked full to the back, pallets of pig iron in bars, grey, each pallet as high as Eli's chest and every one wrapped round with wire, and the stacks went right up under the eaves so that the only dry was a strip a hand wide along the front, where the water came off the roof in a sheet.
+It was a roof over nothing they could use. The shed was open along the front and stacked full to the back, pallets of pig iron in bars, grey, each pallet as high as Eli's chest and every one wrapped round with wire, and the stacks went right up under the eaves so that the only dry was a strip no wider than a boot along the front, where the water came off the roof in a sheet.
 
 Eli stood Teo against the gatepost, inside, in the dead crane's shadow, which was no use to anyone. He took in the yard. Swept earth, puddled. A water butt. A bench. A second, smaller shed at the far end with its door open on dark. The rain was going in his collar and down his back and he had stopped feeling it there. The front stack. Take the top off it, and the next, and there'd be floor under the eaves, and iron at the back to sit against.
 
@@ -186,21 +188,21 @@ All at once, everywhere, with a noise, and the roof sheet broke and splashed and
 
 Eli's knees went. He sat in the water.
 
-The far shed. The door that was open on dark. There was a man sitting in it, on the floor just inside, out of the rain, with his legs crossed and his hands on his knees and his eyes shut. Old, and thin, all knuckle and neck, his hair cut close and gone white, and sitting the way he must have been sitting when Eli looked at that door and saw dark.
+The far shed. The door that was open on dark. There was a man sitting in it, just inside, out of the rain, on an upturned crate, with a strap across his knees and his fingers going along it stitch by stitch, and his eyes shut. Old, and thin, all knuckle and neck, his hair cut close and gone white, and sitting the way he must have been sitting when Eli looked at that door and saw dark.
 
 He hadn't stood up. He didn't now.
 
 He put his thumb to his nose and took it away and looked at it, and wiped it down the leg of his trousers, slow, once. Then he put the heels of both hands into his eyes and rubbed. He went on rubbing.
 
-Eli's nose was running. He put his hand to it, the good one, and it came away red, a lot of red, more than the crate, and the rain thinned it on his palm to pink. His stomach came up. He got onto his hands and was sick into the puddle, twice, nothing in it but water, and his head was beating behind both eyes and down into his jaw so that his teeth hurt, and his bad hand, under him in the mud, was shut.
+Eli's stomach came up. He got onto his hands and was sick into the puddle, twice, nothing in it but water, and his head was beating behind both eyes and down into his jaw so that his teeth hurt, and his bad hand, under him in the mud, was shut.
 
 Shut so hard the knuckles stood up white. He tried to open it, and it stayed.
 
 The boys were looking at the far shed. Then the tall one looked at Eli.
 
-"Did you see the size of that?"
+"Did you see that? The whole pallet."
 
-"Inside," said the woman. "All of you. Inside. Go on." She had the boys behind her still, all four, without seeming to have done it. Her eyes weren't on the pallet, or on Eli in the mud, or the blood on him, or the coat. They were on the gatepost, where Teo was standing with his back flat to it and his good hand spread on the metal behind him.
+"Inside," said the woman. "All of you. Inside. Go on." She had the boys behind her still, all four, without seeming to have done it. Her eyes weren't on the pallet, or on Eli in the mud, or the coat. They were on the gatepost, where Teo was standing with his back flat to it and his good hand spread on the metal behind him.
 
 "Is he yours?" she said. "He's gone grey."
 
@@ -216,7 +218,7 @@ Eli got the bad hand open. He did it with the other one, kneeling, prising the f
 
 It wasn't a question the way he said it. He said it to the yard. He had a dry, light voice that went no further than it had to.
 
-Eli stood up. He did it in two goes. He wiped his nose on the back of his wrist and his wrist came away red and he put it behind him.
+Eli stood up. He did it in two goes. He wiped his mouth on the back of his wrist, and put the bad hand behind him.
 
 "I'm sorry. About the—I didn't think there was anyone. I'd never have, if I'd— I'm sorry. Is everyone all right?" He turned to the row of boys. "Are you all right?"
 
@@ -226,9 +228,9 @@ The row said nothing. The tall one grinned.
 
 The old man waited. Nothing else came, and he let it go, and looked out of the gate at the rain.
 
-"You lifted it blind," he said. "You opened your eyes and it fell."
+"You took hold," he said. "You didn't listen."
 
-Eli laughed. It hurt his face. "I didn't have my eyes shut."
+Eli laughed. It hurt his face. "Listen to what?"
 
 The old man waited.
 
@@ -240,7 +242,7 @@ The old man waited.
 
 "No."
 
-The old man got up. All at once, without his hands, from crossed legs to standing. Shorter standing than he'd looked sitting. He came to the doorway and stopped there, under the lintel, out of the rain, and looked past Eli's shoulder at the gate.
+The old man got up. He hung the strap on a nail inside the door first. Shorter standing than he'd looked sitting. He came to the doorway and stopped there, under the lintel, out of the rain, and looked past Eli's shoulder at the gate.
 
 "Don't use more than you can control," he said.
 
@@ -266,7 +268,7 @@ Nothing.
 
 "I'll wait, then. I don't mind waiting. I'll wait as long as you like. You'll see."
 
-The old man turned round and went back into the dark of the shed. He left the door as it was. He went in, and sat down, cross-legged, just inside, where he'd been, and put his hands on his knees.
+The old man turned round and went back into the dark of the shed. He left the door as it was. He went in, and sat down on the crate, just inside, where he'd been, and took the strap down off its nail.
 
 From the gatepost, Teo said, "Eli."
 
@@ -314,7 +316,7 @@ She looked down at Eli. "He said no to you, did he?"
 
 "So he doesn't mean it."
 
-She looked at him a bit longer, not unkind, and then she went back in, and the gate shut, and opened again a hand's width the way it had been.
+She looked at him a bit longer, not unkind, and then she went back in, and the gate shut, and opened again a crack, the way it had been.
 
 Inside, a boy shouted for Seffa, and she said, "I heard."
 
@@ -328,11 +330,11 @@ Teo was asleep, or doing it well.
 
 The night didn't get darker than brown. The sky sat low over the cranes, lit from under by the fires in the sheds, and the rain came out of it orange where the fires were and grey where they weren't. The cranes went on all night, the creak and the chains, loads going over that nobody was watching.
 
-The headache had gone. The old one. He found the place behind his eye where it had lived since the Spur, and there was nothing in it. Only his face, and his teeth, and the beat in his nose. It had stopped somewhere in the black between the two worlds and he hadn't felt it go.
+The headache had gone. The old one. He found the place behind his eye where it had lived since the Spur, and there was nothing in it. Only his face, and his teeth, and the ache in the bad hand. It had stopped somewhere in the black between the two worlds and he hadn't felt it go.
 
 Teo was shaking. It came up from his knees the way it had on the bench and went into his teeth, and he held the bad arm against himself under the blanket and shook, with his eyes shut, making no sound.
 
-Eli took the coat off. He got the letter out of the inside pocket first and put it inside his shirt, against his skin, and it was cold there and then it wasn't. He got the sock out and put it in his trouser pocket and it pulled the trousers down on that side. Then he put the coat over Teo, over the blanket, and tucked the long skirt of it down under Teo's boots.
+Eli took the coat off. He got the letter out of the inside pocket first and put it inside his shirt, against his skin, and it was cold there and then it wasn't. He got the sock out, with the coins gone cold in the toe of it, and put it in his trouser pocket and it pulled the trousers down on that side. Then he put the coat over Teo, over the blanket, and tucked the long skirt of it down under Teo's boots.
 
 Teo didn't open his eyes.
 
@@ -412,11 +414,11 @@ She came out at midday with a pot and went off down the Cut with it, and came ba
 
 "Go back to your shift."
 
-"I'm on my break. Listen." He saw Eli and Teo against the wall and his face went bright. His eyes went to the coat on Teo, and to Seffa, and off it. "Hello. Who's this? You're the one. You're him. Lifted half the old man's iron, they said, the whole pallet, I heard it down at four." He laughed. Behind his ear the hair was cut away in a square and the scar stood up white in the cold. "Was it heavy? I bet it wasn't heavy for you."
+"I'm on my break. Listen." He saw Eli and Teo against the wall and his face went bright. His eyes went to the coat on Teo, and to Seffa, and off it. "Hello. Who's this? You're the one. You're him. Lifted half the old man's iron, they said, the whole pallet, I heard it down on row four." He laughed. Behind his ear the hair was cut away in a square and the scar stood up white in the cold. "Was it heavy? I bet it wasn't heavy for you."
 
-"Hollin," Seffa said.
+"Oskel," Seffa said.
 
-There was a bar of pig iron in the lane, come off a barrow some other day and left, half sunk in the frozen orange mud. Hollin grinned at Eli, and the bar came up out of the mud with a suck, and hung in front of his face, turning, with the mud dropping off it in clods. No hand out. No eye on it. All of him was on Eli, to see Eli see.
+There was a bar of pig iron in the lane, come off a barrow some other day and left, half sunk in the frozen orange mud. Oskel grinned at Eli, and the bar came up out of the mud with a suck, and hung in front of his face, turning, with the mud dropping off it in clods. No hand out. No eye on it. All of him was on Eli, to see Eli see.
 
 His nose started to bleed. One side. It came down over his lip and he licked it and laughed.
 
@@ -426,11 +428,11 @@ His nose started to bleed. One side. It came down over his lip and he licked it 
 
 She hadn't raised her voice the first time. She raised it now. It went up the lane and off the slag.
 
-"Put it down, you stupid great—look at your face. You're stood in the road with your nose going like a tap, showing off to a stranger, for what?" She jerked her head at the gate. "He told you. He told you, and you took a year's money down to Ferrel. Put it down. Go back to your shift. Go and lift something."
+"Put it down, you stupid great—look at your face. You're stood in the road with your nose going like a tap, showing off to a stranger, for what?" She jerked her head at the gate. "He told you. He told you, and you took a year's money down to Ferrel and came back with that behind your ear. Mam'd have skinned you. Put it down. Go back to your shift. Go and lift something."
 
 The bar dropped. It went into the mud on its end and stood there.
 
-Hollin wiped his lip with the back of his hand and checked the red on it and laughed. He laughed a bit longer than there was anything to laugh at, and then he stopped, all at once.
+Oskel wiped his lip with the back of his hand and checked the red on it and laughed. It went on past anything that was funny, on and on, and stopped dead.
 
 "Bring the pie Thursday," he said. "The one with the onions."
 
@@ -454,7 +456,7 @@ He had an end of bread and he ate it, looking. He had a cold sore on his lip and
 
 "He might."
 
-"He told me no. For a year he told me no. I've been here two years." The boy finished his bread. "He doesn't even let us lift. You know what we do all day? We sit." He laughed, a short one. "On the floor. Eyes shut. Listen to the cranes, he says. Tell me which one's carrying. That's it, that's all of it."
+"He told me no. For a year he told me no. I've been here two years." The boy finished his bread. "He doesn't even let us lift. You know what we do all day? We sit." He laughed, a short one. "On the ground. Eyes shut. Listen to the cranes, he says. Which one's carrying, and how much, and when it's going to set down. You call it, then you open your eyes and see if it did. That's it, that's all of it."
 
 Eli laughed, and the boy grinned at him, pleased.
 
@@ -500,7 +502,7 @@ Across the lane the wind got into Pask's chain.
 
 Teo was quiet after that.
 
-The gate opened behind them, in the dark, a little wider than its hand. Seffa stayed in the gap. She stood in the brown light from the fires with her arms folded and looked at the two of them against the wall, and Eli could see her breath.
+The gate opened behind them, in the dark, a little wider than it stood by day. Seffa stayed in the gap. She stood in the brown light from the fires with her arms folded and looked at the two of them against the wall, and Eli could see her breath.
 
 "Who's minding him," she said, "while you're minding the gate?"
 
@@ -508,7 +510,7 @@ The gate opened behind them, in the dark, a little wider than its hand. Seffa st
 
 She stayed there a while.
 
-"There's a gnome," she said. "Over on Ammet. Next one over, where the ore boats go. He sits with the dying." She said it flat, the way she'd said there was a clinic. "I took my mother. Last winter."
+"There's a gnome," she said. "Over on Ammet. Next world over, where the ore boats go. He sits with the dying." She said it flat, the way she'd said there was a clinic. "I took my mother. Last winter."
 
 "And she—"
 
@@ -542,19 +544,19 @@ He was lying in the orange water with his face in it. Eli got him over. His eyes
 
 The yellow pills. Eli got the twist out of the coat pocket, his hands useless, and the paper tore and one went in the mud and he left it, and he got the other two between Teo's teeth and held his jaw shut, and Teo's throat didn't move. Eli held his jaw. He put his face down by Teo's face and said, "Swallow, swallow, please, Teo, swallow it," and the throat went once.
 
-The gate was a hand's width open.
+The gate was open, the way it always was.
 
 He got up. Nobody decided it. He went to the gate and put the flat of his hand on it and it swung in, and he went into the yard, into the swept earth with the water standing on it in sheets, past the pallet where it had been set down, past the boys in their row under the eaves, sitting on the ground with their eyes shut, and the tall one opening his. Across to the far shed and the door that was open on dark.
 
-The old man was sitting in it, just inside, with his legs crossed.
+The old man was sitting in it, just inside, on the crate, with the strap.
 
-Eli stopped at the door, in the rain. His shirt was mud down one side and blood down the front from the first day, gone brown, and he had nothing in his hands.
+Eli stopped at the door, in the rain. His shirt was mud down one side and stiff down the front, and he had nothing in his hands.
 
 "Not me," he said. "Him."
 
 The old man looked at him. The first time. At Eli's face, not past it, and it was only a look, and then it went past him, out of the door, across the yard to the gate.
 
-He got up from the floor without his hands.
+He put the strap down on the crate and got up.
 
 He came out into the rain and across the yard at an old man's pace, past the boys, who had all opened their eyes, and out of the gate, and Eli came after him. In the lane he stood over Teo in the mud. He stayed standing. He took in the arm thrown out, the tape, the fingers, the shoulder of the shirt where Eli had pulled the collar open and the pink went up the neck now under the jaw. A long time, and he touched nothing.
 
@@ -590,7 +592,7 @@ Teo's head came up. He turned it on Seffa's shoulder, slowly, and looked at Eli.
 
 ---
 
-The ore boat went at the next horn but one. A barge with a lid, orange with rust, at the far end of the field, and Seffa knew the man on the ramp and the man on the ramp knew Seffa, and nobody wrote anything down. Eli got the sock out and stood holding it out on the ramp.
+The ore boat went at the next horn but one. A barge with a lid, orange with rust, at the far end of the field, and Seffa knew the man on the ramp and the man on the ramp knew Seffa, and nobody wrote anything down. Eli got the sock out and held it out to the man on the ramp, the coins sliding down into the toe.
 
 "He eats off my pot," Seffa said, and looked at the sock. "Keep that."
 
@@ -606,6 +608,6 @@ Eli sat on the sacks at Teo's feet in his shirt, in the cold. His teeth were goi
 
 Teo lay with his eyes shut.
 
-Seffa looked at Eli across him, in the yellow light. She had a look on her he couldn't read. It went on a while. Then she reached over and pulled the coat up higher on Teo's shoulder, to the neck, over the pink, and tucked it, and took her hand back.
+Seffa looked at Eli across him, in the yellow light, and said nothing. Then she reached over and pulled the coat up higher on Teo's shoulder, to the neck, over the pink, and tucked it, and took her hand back.
 
 The bad hand was lying in Eli's lap. He closed it, and it went partway, and stopped, the fingers curled, and he left it like that and watched it, under the lamp, while the floor began to hum.
