@@ -12,43 +12,39 @@ Seffa had him already. She put a hand flat on his chest and laid him back on the
 
 "He's hot," Eli said.
 
-"He's hot, love." She tucked the collar in under his chin. "Hot's alive."
+"He's hot, love." She put the backs of her fingers under his jaw and held them there, and took them away, and tucked the collar in.
 
 Under the yellow lamp the pink had gone the colour of a bruise coming out. It ran up out of the collar and along under the jaw to the hinge of it, just below the ear, and the skin there was tight and shone. When Teo's head rolled over to the side Eli could see the vein going in it, quick and hard, a long way too quick.
 
-The barge hummed. It had hummed all day and on into the night, a sound you stopped hearing and then heard again all at once, in your back teeth. The lid stayed down. The lamp swung on its hook whenever the barge leaned and threw the shadows of the sacks up the hull and down again. Somewhere forward, past a bulkhead with a door in it that no one ever came through, men were playing at something with a lot of noise in it, and every so often a cheer came through the iron, flat and far off, and then not another for an hour.
+The barge hummed. It had hummed all day and on into the night, a sound you stopped hearing and then heard again all at once, in your back teeth. The lamp swung on its hook whenever the barge leaned and threw the shadows of the sacks up the hull and down again. Somewhere forward men were playing at something with a lot of noise in it, and every so often a cheer came through the iron, flat and far off, and then not another for an hour.
 
-Eli counted the horns. Four since Ithe, each a long one and a short. He had no idea what a horn meant on a barge, whether it was a watch or a mile or a man wanting his dinner, but he counted them, and he'd got to four.
+Eli counted the horns. Four since Ithe, each a long one and a short. He had no idea what a horn meant on a barge, but he'd got to four.
 
-"By the next one," he said. "Or the one after. And I'll do the talking, Teo, you'll just lie there. You won't have to say a word. I'll tell him all of it, the arm and the pills and the tape, and he'll have you up in no time. He'll be marvellous. Seffa says he's marvellous."
+"By the next one," he said. "Or the one after. And I'll do the talking, Teo, you'll just lie there. I'll tell him all of it, the arm and the pills and the tape, and he'll have you up in no time. Seffa says he's marvellous."
 
 "I said he was good to her," Seffa said.
 
 "There you are, then."
 
-She had the cup out. She'd been at it since the ramp. A finger's depth of water from the can by the steps, then Teo's head lifted in the crook of her arm and the rim put to his lip, and a little, and wait, and a little. Most of it went in. Some went down his neck into the collar, and she wiped that out with her thumb. She laid him down and said a number under her breath, and when she got to wherever the number went, she did it again.
+She had the cup out. She'd been at it since the ramp. A finger's depth from the can by the steps, his head in the crook of her arm, the rim to his lip, and a little, and wait, and a little. What went down his neck she wiped out of the collar with her thumb. She said a number under her breath, and when she got to wherever the number went, she did it again.
 
 "Let me," Eli said.
 
 "Hold that." She unhooked the lamp and gave it to him. "Not like that. Like it's a baby."
 
-He held it up in both hands, and the light came down over Teo's face, and Seffa looked at the jaw in it and said nothing about the jaw. The lamp was warm on his palms. It was the only warm thing he'd had hold of in days. He kept it up until his arms shook, and then for a while past that.
+He held it up in both hands over Teo's face, and Seffa looked at the jaw in the light and said nothing about the jaw. The lamp was the only warm thing he'd had hold of in days. He kept it up until his arms shook, and then for a while past that.
 
-Late in the night Teo's eyes came back.
-
-Eli saw it happen. They'd been going past him, at the hull and the lamp and the dark up under the lid, and then they stopped going and came to his face, and they were Teo's, sore at the rims and very tired.
+Late in the night Teo's eyes came back. They'd been going past Eli, at the hull and the lamp and the dark up under the lid, and then they stopped and came to his face, and they were Teo's, sore at the rims and very tired.
 
 "It's at my jaw," Teo said.
 
 "It's not. It's only—" Eli brought the lamp down. "A bit. It's a bit up. We're nearly there."
 
-Teo pushed the blanket and the coat off his chest with his good hand, all of it, down to his waist. Seffa reached over and he took the cup out of her fingers before she could get her arm under him. He got himself up on the elbow and drank, all of it, with his throat going, and held it out at arm's length without looking at either of them until Seffa took it. He lay down with his face to the hull.
+Teo pushed the blanket and the coat down to his waist with his good hand. He took the cup out of Seffa's fingers before she could get her arm under him, got up on the elbow and drank it all, with his throat going, and held it out at arm's length without looking at either of them until she took it. He lay down with his face to the hull.
 
 Seffa pulled it all back up.
 
-Eli hung the lamp on its hook. He sat on the sacks at Teo's feet in his shirt, and the cold came in at him off the hull, and he tried the hand. Partway. He held it there and pushed and it shook and went no further, and he put it between his knees.
-
-The barge leaned, and came back.
+Eli hung the lamp on its hook. He sat at Teo's feet in his shirt with the cold coming in off the hull, and tried the hand. Partway. He pushed and it shook and went no further, and he put it between his knees.
 
 "He'd know what to do," Eli said. "Jon. Wherever he's got to."
 
@@ -58,7 +54,7 @@ Teo said something into the hull.
 
 "He looked at it." Teo didn't turn over. "Said it'd want looking at."
 
-"Well. And so it will be. That's exactly—we're doing exactly what he said, aren't we. More or less. He'd be the first to—"
+"Well. And so it will be. We're doing exactly what he said, aren't we. More or less. He'd be the first to—"
 
 Seffa had her head back against the iron and her eyes shut. One of them opened, and looked at Eli, and shut.
 
@@ -138,9 +134,9 @@ Then a girl with a yellow face. Then an old man on a door, under a blanket, with
 
 Two old women sat on the flags near the door with their shawls up over their heads.
 
-"Forty year," one of them said. "Sat in there with that lot all day. Forty year. Never a cold."
+"Forty year," one of them said. "Sat in there with that lot all day. Forty year."
 
-"You never know who your neighbour is," said the other. "Might be two."
+"Might be two," said the other.
 
 "Give over, Mam."
 
@@ -324,7 +320,7 @@ Seffa was looking. Eli saw her. She'd let go of the elbow when Doc took the arm 
 
 "There," Doc said, to the arm. "There now."
 
-Teo's eyes had come back. They were on the canvas and then they weren't, they'd gone down the room, past the lamps on their wire and the pallets and the woman with the bucket, to the far end. To the brown blanket on its wire. They stayed there.
+Teo's eyes had come back. They were on the canvas and then they weren't, they'd gone down the room, past the lamps on their wire and the pallets and the woman with the bucket, to the far end. To the brown blanket on its wire, and the hem of it. They stayed there, and he held his breath.
 
 The stove ticked. Somebody down the left side coughed, and coughed. Out past the canvas the sea went in under the wall and out again.
 
@@ -432,9 +428,9 @@ The man looked at her.
 
 "Your dad," she said. "What did they call him?"
 
-"Garro."
+"Dellam."
 
-"Come and sit with Garro," Seffa said. "I'll bring you something hot. He's on his own back there." She had him turned already. "Come on."
+"Come and sit with Dellam," Seffa said. "I'll bring you something hot. He's on his own back there." She had him turned already. "Come on."
 
 He went down the room with her hand on his arm and his face all to pieces, and halfway he stopped and turned his head and looked back at Teo on the door, and Seffa said "Come on" and he came on, and the blanket went aside, and fell behind them.
 
@@ -472,7 +468,7 @@ They had to go back through the doorway. The faces moved out of the way for them
 
 Teo walked. He walked the whole length of the sea wall with the coat on and his boots on and the laces trailing, slowly, with his good hand on the stone of the wall, and he stopped once and went on.
 
-Seffa came after them a while later, when they were nearly at the quay, at a walk, with her bag over her shoulder. She didn't say anything about Garro or his son and Eli didn't ask.
+Seffa came after them a while later, when they were nearly at the quay, at a walk, with her bag over her shoulder. She didn't say anything about Dellam or his son and Eli didn't ask.
 
 At the foot of the ramp the man was standing where he'd stood that morning, with his arms folded.
 
