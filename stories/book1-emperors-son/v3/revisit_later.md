@@ -19,3 +19,10 @@ Fix in ch1–3 when we revisit, and apply from ch4 on. Eli must visibly *care*, 
 - DONE: Eli lifting the whole flyer out of the lake read as Yoda and the X-wing, so it's now a runaway loader held off the Ilders' gate.
 - DECLINED: trimming Vosk's proud line. It's Patrick's beat ("eloquent but broken").
 - Names: "Vosk" is also a minor Star Trek: Enterprise villain, which is a passing nod. Patrick's call; Claude's pick is to keep it. "Dace" reads as an Earth surname, so consider a race-flavoured rename when revisiting. "Teo" is Patrick's placeholder.
+
+## From Grok on ch5
+- One Jon line in ch5 (Eli thinking of him, or Teo's look). Never interpret him.
+- One marking of the hand's state in ch5.
+
+## Patrick's Eli calibration (BANK 2026-11-21) wins over every reader note
+His soft, future-tense, arranging care is the design. Don't harden it.

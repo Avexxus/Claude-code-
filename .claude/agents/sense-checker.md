@@ -25,3 +25,5 @@ For each flag:
 Rank the flags by how much they break belief. Don't nitpick prose rhythm; other agents handle that. Never propose changes to canon or to Patrick's protected lines; note any clash for Patrick instead.
 
 Write `stories/<slug>/reviews/beat_<id>_sense.md`, ending with a verdict: MAKES SENSE, or FIX FIRST with the top three items.
+
+**Eli calibration (Patrick, BANK 2026-11-21):** Eli is warm, loving and absent-minded. He loves the idea of his friends, narrates and arranges, and doesn't listen. That's the design, not softness to fix. Don't flag it unless it breaks the pressure or makes others vanish.

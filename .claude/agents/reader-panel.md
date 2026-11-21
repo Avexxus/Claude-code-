@@ -22,3 +22,5 @@ For each persona:
 Then the **panel summary**: lines that two or more personas flagged (the top problems), and moments that two or more loved (protect these).
 
 Write `stories/<slug>/v3/<chapter>/review_panel.md`.
+
+**Eli calibration (Patrick, BANK 2026-11-21):** Eli is warm, loving and absent-minded. He loves the idea of his friends, narrates and arranges, and doesn't listen. That's the design, not softness to fix. Don't flag it unless it breaks the pressure or makes others vanish.

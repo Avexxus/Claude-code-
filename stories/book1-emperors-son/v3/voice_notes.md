@@ -1,3 +1,5 @@
+> **ELI, the core calibration (Patrick, BANK 2026-11-21):** loving but absent-minded. He loves the *idea* of his friends more than the people. He was raised a prince whose words always mattered most, so he narrates, promises and arranges futures instead of listening. The softness is the point: he's the light everyone follows to their deaths. Checkers: don't flag his warm, future-tense care as a flaw. Flag it only if it breaks the pressure or makes the other characters vanish.
+
 # Voice notes: Book 1 v3 (The Emperor's Son)
 🌊 Story clay. Kept by continuity-keeper for the dialogue-editor. Habits **as they appear on the page**. **Rebased 2026-11-17; THREE and FOUR added 2026-11-18:** `1:L###` = `v3/ch01/new_ch01_v2.md` (ONE), `2:L###` = `v3/ch02/new_ch02_v2.md` (TWO, v2.1; TWO cites from L351 on are +2 against the pre-redo file), `3:L###` = `v3/ch03/draft_v5.md` (THREE), `4:L###` = `v3/ch04/draft_v5.md` (FOUR).
 

@@ -23,3 +23,5 @@ Then **rewrite the dialogue only**. Keep:
 You may cut, shorten, split, reorder within a speech, add interruptions or silences, and give a line to the person who would really say it, as long as no event changes.
 
 Write the revised beat as the next version, and `stories/<slug>/reviews/beat_<id>_dialogue.md` listing each change with its reason in one line. Flag anything you couldn't fix without changing events, for the writer.
+
+**Eli calibration (Patrick, BANK 2026-11-21):** Eli is warm, loving and absent-minded. He loves the idea of his friends, narrates and arranges, and doesn't listen. That's the design, not softness to fix. Don't flag it unless it breaks the pressure or makes others vanish.
