@@ -1,5 +1,5 @@
 # Chapter summaries: Book 1 v3 (The Emperor's Son)
-🌊 Story clay. Kept by continuity-keeper. Facts, not interpretation. **Rebased 2026-11-17** onto the locked split. ONE and TWO replace `ch01/draft_v9` and the old single Chapter One summary. THREE added 2026-11-18. FOUR added and TWO fixed (the v2.1 King redo and the loader backstory) 2026-11-18. FIVE added 2026-11-21.
+🌊 Story clay. Kept by continuity-keeper. Facts, not interpretation. **Rebased 2026-11-17** onto the locked split. ONE and TWO replace `ch01/draft_v9` and the old single Chapter One summary. THREE added 2026-11-18. FOUR added and TWO fixed (the v2.1 King redo and the loader backstory) 2026-11-18. FIVE added 2026-11-21. SIX added 2026-11-21 (draft_v4; Garro renamed Dellam).
 
 ## ONE · The Gift
 *Text: `v3/ch01/new_ch01_v2.md` (about 8,200 words). POV: Vosk (L3–235), then Eli in close third (L239–643).*
@@ -73,3 +73,17 @@
 **What changes:** Jon's man is dead. Eli has met the master and been refused, has no coat and no pills, and believes he has a yes. Teo has a line up his neck. Seffa is with them.
 
 **Left hanging:** "Then we'll see"; whether Pask was Jon's man; the master's shaking cup; who stood the cup on Eli's palm; Oskel and Ferrel; the pie Thursday; Seffa's four days; the soft letter; the account call.
+
+## SIX · The Healer
+*Text: `v3/ch06/draft_v4.md` (story text L1–527, about 7,100 words). POV: Eli, close third, throughout. Night 8 on the barge to Night 9 on the barge back. Added 2026-11-21.*
+
+**What happens:**
+- On the barge Teo's colour reaches the hinge of his jaw. Seffa feeds him water by count. Eli says Jon would know what to do, and Teo quotes Jon: "Said it'd want looking at." Teo has a fit, and Seffa holds him down with her whole weight. The boot hits Eli's face.
+- On Ammet, Seffa leads them along a sea wall to a gnome's house with no reader, where the dying wait in line. Eli asks to go first and offers the sock. He is refused.
+- Doc walks the line and takes Teo first. He cleans the rotten palm, telling goat stories. Behind a blanket a dying man's breath catches. Doc goes in, comes back and says "Three," to the stove. Then he runs his thumbs up Teo's arm, and the swelling and the colour go down. Seffa watches his face. His fingers are cold after. He refuses the sock and says he's "had a mind to travel". Eli promises to send a boat later.
+- Dellam's son comes out: "You took him first." He shoves Eli, and the coins spill under the pallets. Doc says only "I wasn't able to save him." Seffa takes the son back to sit with Dellam. Doc packs his bag and leaves.
+- Doc has paid his own passage on the barge home. Teo eats, puts his sausage end by Doc's boot and says "Right". Eli talks about the yard.
+
+**What changes:** Teo is healed and walking. Doc is with them by his own choice. Dellam is dead. Eli's money is gone.
+
+**Left hanging:** "Three"; Doc's cold hands; the sock; the master's answer; Seffa's "Somebody's got to feed you"; Eli's promised boat; the dry letter.

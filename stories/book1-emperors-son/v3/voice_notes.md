@@ -1,7 +1,7 @@
 > **ELI, the core calibration (Patrick, BANK 2026-11-21):** loving but absent-minded. He loves the *idea* of his friends more than the people. He was raised a prince whose words always mattered most, so he narrates, promises and arranges futures instead of listening. The softness is the point: he's the light everyone follows to their deaths. Checkers: don't flag his warm, future-tense care as a flaw. Flag it only if it breaks the pressure or makes the other characters vanish.
 
 # Voice notes: Book 1 v3 (The Emperor's Son)
-🌊 Story clay. Kept by continuity-keeper for the dialogue-editor. Habits **as they appear on the page**. **Rebased 2026-11-17; THREE and FOUR added 2026-11-18; FIVE added 2026-11-21:** `1:L###` = `v3/ch01/new_ch01_v2.md` (ONE), `2:L###` = `v3/ch02/new_ch02_v2.md` (TWO, v2.1; TWO cites from L351 on are +2 against the pre-redo file), `3:L###` = `v3/ch03/draft_v5.md` (THREE), `4:L###` = `v3/ch04/draft_v5.md` (FOUR), `5:L###` = `v3/ch05/draft_v4.md` (FIVE).
+🌊 Story clay. Kept by continuity-keeper for the dialogue-editor. Habits **as they appear on the page**. **Rebased 2026-11-17; THREE and FOUR added 2026-11-18; FIVE added 2026-11-21; SIX added 2026-11-21:** `1:L###` = `v3/ch01/new_ch01_v2.md` (ONE), `2:L###` = `v3/ch02/new_ch02_v2.md` (TWO, v2.1; TWO cites from L351 on are +2 against the pre-redo file), `3:L###` = `v3/ch03/draft_v5.md` (THREE), `4:L###` = `v3/ch04/draft_v5.md` (FOUR), `5:L###` = `v3/ch05/draft_v4.md` (FIVE), `6:L###` = `v3/ch06/draft_v4.md` (SIX).
 
 ## Eli
 - **Warm, quick, and commanding without noticing it.** His orders come as kindness ("Sit down… Teo, move.", "Eat your bird.", "Sit, Vosk. Sit.").
@@ -26,6 +26,10 @@
   - "Then barely teach me… I'm quick. Honestly." (5:L259)
   - "Something's happened to the man. That's all it is. Something's happened." (5:L135)
   - "He said yes. Did you hear him? I told you he would." (5:L605)
+- **In SIX:** the social voice again, now to a line of the dying: "Good morning… I'm so sorry. I'm hoping— He's very bad, you see." / "It's not that I think we're more— It's only that he's young. Honestly. Ask anyone." (6:L151–155), the third "Ask anyone". **Thanks as a verdict,** taking credit as he gives it: "Good. Yes. Good. That's it, that's what I'd have— Well done. Thank you." (6:L81). **Retells a story he's only half heard** and promises a better one: "It's a good story. Isn't it? I'll tell it better when I've heard the rest." (6:L275). **"I told you… I said"** ×3 at the healing (6:L313). **The future as a gift, deferred:** "I'll send for you… a whole wing… all the goats you like… Only not now… I'll send a boat." (6:L357). Money offered three times in the steward voice: "Whatever's usual, double" / "What do we owe you?… Whatever it is. Honestly. There's an account as well" / "I'm happy to pay for the—" (6:L159, L335, L393). **Explains people again:** "He'll have to say yes now… He'll see that." / "the old man'll like you, Doc… Everyone likes you." (6:L515). Jokes at the sleeping: "Mid-goat." (6:L507). His shortest line: "Oh. I'm sorry." to Seffa's "Mam." (6:L223).
+  - "I'll only ask. It can't hurt to ask." (6:L147)
+  - "He's off. Look at him. Mid-goat." (6:L507)
+  - "Bring him back breathing, he said. Well. He's breathing. He's *eating*." (6:L511)
 
 ## Teo
 - **Few words.** His questions are two words ("From who?", "For who?", "Whose cut?"), sometimes written with no question mark ("Are you going to open that").
@@ -46,6 +50,9 @@
 - **In FIVE:** fewest words of all. He points with two or three words and doesn't explain: "Behind his ear" ×2 (5:L55, L443; Eli's "What about it?" gets no answer, 5:L61). Flat corrections to Eli's hopes: "Nobody's coming, Eli." (5:L73); "It's past the shoulder." ×2, the second dropped into Eli's speech without comment (5:L395, L497). "They log it." ×2 (5:L121, L401). Counts, no question mark: "How many have you got" (5:L285); "Two left" (5:L291); "None" (5:L481). Answers Seffa straight, where he'd have said "I'm fine" to Eli: "Three days… Four." (5:L395). "I'm fine" once (5:L27). **"Right"** returns once, at the end, to Eli (5:L589). Delirium comes in broken orders about home: "—the cup… Put the cup. She'll want her—" / "—the brush. On the step. Nine. He's to be there at nine." (5:L537–541), his mother's "He's to" (3:L577).
   - "A minute." (5:L141)
   - "Nobody's coming, Eli." (5:L73)
+- **In SIX:** six quoted utterances in the whole chapter, one of them delirium. States the wound flat over Eli's hope: "It's at my jaw." (6:L37). **Quotes Jon back without comment,** said into the hull, not turning over: "He looked at it… Said it'd want looking at." (6:L53). **One-word orders** that turn Eli's habits back on him: "Lamp." (when Eli lowers it to listen, 6:L279); "Boots." (going after Doc, 6:L461). **"Right."** once, after an act (the sausage end by Doc's boot), and not to Eli (6:L523). Delirium again in his mother's "He's to": "She'll have it swept. He's to— Tell him he's to go." (6:L5). The rest is action: drinks the cup and holds it out "without looking at either of them" (6:L41).
+  - "It's at my jaw." (6:L37)
+  - "Boots." (6:L461)
 
 ## Jon (from THREE, `3:L###` = `v3/ch03/draft_v5.md`)
 - **Short and warm.** Mostly lines of two to eight words, said while he eats; the eating carries the pauses ("He said it round the plum, and bit the plum").
@@ -116,6 +123,28 @@
   - "It's a pot, love." (5:L305)
   - "He eats off my pot… Keep that." (5:L595)
   - "No… I'd not leave it, though." (5:L521)
+- **In SIX:** fewer words, more hands. Orders as care, short: "Hold that… Not like that. Like it's a baby." (6:L31); "Legs… Get his legs. Eli." (6:L69); "Come on… Help me with him." (6:L99). **Corrects Eli's gloss in one line:** "I said he was good to her" (to "Seffa says he's marvellous", 6:L21–23). Hard facts flat, with "love": "No reader. He's not on any list. Back of the line, love." / "They're all dying. That's what the line is." (6:L119–123). **Her own grief in one word:** "She was behind there." / "Mam." (6:L217–221). **Calms a stranger with a question about the dead,** then names him back to his son: "What was his name?… Your dad. What did they call him?" / "Come and sit with Dellam… He's on his own back there." (6:L423–431). **Talks to the hull** again: "Somebody's got to feed you," (6:L499). Says nothing at all through the fit and after it, and nothing about Dellam (6:L75, L469).
+  - "They're all dying. That's what the line is." (6:L123)
+  - "Somebody's got to feed you," she said, to the hull. (6:L499)
+
+## Doc (from SIX, `6:L###` = `v3/ch06/draft_v4.md`; a gnome; "Doc" is the queue's name)
+- **Talks while his hands work, and the talk is beside the point.** The goat stories run through the cleaning and the healing and stop when the work stops; he picks the thread up exactly: "Where was I… The fence." (6:L289). They start with a false check: "My brother had a goat. Did I say? No. Course I didn't, I've never met you." (6:L243); "Did I say the fence?" (6:L249); "Did I tell you about the second goat? No?" (6:L503).
+- **Orders in fragments, no please, as he goes:** "You. Shirt. Pick him up." (6:L193); "Lamp. Up. Higher. Over his arm. There. Now don't move it." (6:L213); "Hold his arm, girl. Not there, at the elbow. Lean on it." (6:L243); "Lamp," ×1 alone (6:L257); "Don't touch that… Hold the lamp. Talk to him." (6:L263).
+- **Addresses people by a word, not a name:** "you" ("Hello, you", 6:L185; "Hold still, you", 6:L253; "You. Shirt."), "girl" (Seffa, 6:L243). Never says Eli's name or his own.
+- **Deflates in kind, taking Eli's words literally:** "I'm not in your bunk… I'm on my bag." (6:L483); "Don't shout… I'm not deaf." (6:L315); "Somebody give him a drink, I'm not a well." (6:L327); "Put that back in your trousers" / "Is that a sock?" / "Then give it him back." (6:L337–347).
+- **Insults as diagnosis, with a question tail:** "Who taped this? A blind cobbler?" / "Hm… With your feet?" (6:L229–233).
+- **Corrects himself out loud:** "Off-world, are you? I can smell it. No, I can't. It's the coat. That one." (6:L189).
+- **Dialect:** "Course I didn't"; "give it him back"; "Where's it you're going?"; "Ta" (6:L243, L347, L355, L495).
+- **"Hm"** as a full verdict, ×2 (6:L233, L239). **"There"** to soothe: "There… There now." / "There. Now. Now then." (6:L319, L327).
+- **Gentle with the dying, in two to four words:** "There you are… Took your time." (6:L173); "Hello, you" (6:L185); "Twice a day… On it. Not in you." (6:L449). Says nothing to the chipped man (6:L179).
+- **Under accusation, one flat line, then silence:** "I wasn't able to save him." "He didn't say it kindly or any other way." (6:L407–413). Then "Well… That's my mind made up." (6:L443).
+- **Big decisions come small, with a homely simile:** "I've had a mind to travel." / "Fifty years I've had it. Longer. It keeps, a mind like that. Like a cheese." (6:L351–355); "Suit yourself." (6:L361).
+- **Said once, to the stove, not loud:** "Three," (6:L285). Not explained, and not to be repeated lightly.
+- **Questions:** he asks them, unlike Jon and the master, but mostly rhetorical or for a laugh ("How does a goat get up on a roof? You tell me.", 6:L297). One real one: "Where's it you're going?" (6:L355).
+- **Samples:**
+  - "Who taped this? A blind cobbler?" (6:L229)
+  - "—and he says, a fence is only a suggestion, to a goat. Hold still, you. You've a lovely jaw, I'd hate to lose it." (6:L253)
+  - "I'm not in your bunk. I'm on my bag." (6:L483)
 
 ## Oskel (from FIVE, `5:L###` = `v3/ch05/draft_v4.md`; chipped)
 - **Fast, loud, eager.** He repeats to hold attention: "Seff. Seff. Listen." / "I'm on my break. Listen." (5:L411, L415).
@@ -188,6 +217,10 @@
 - **The berth guard** (FOUR): flat refusals, said to the window rather than to the person: "Not him… Not through here." / "Round the back, then… Not my line." (4:L121, L145)
 - **The fry-stall man** (FOUR): "Clone or the other?" (4:L65)
 - **The stall woman** (FIVE, Ithe): one or two words per answer, and makes Eli wait for them; wipes a cup instead of saying yes. "Pask met the boats." / "Pask's dead." / "Before the rains." / "Kept a yard up the Cut. For boys. Him and the old one across." / "Cranes." / "Clinic's at the arch… There's a reader on the door." (5:L91–119)
+- **The ramp man** (FIVE–SIX, the ore barge): few words, spits, never writes. "When she's full… Dark. Maybe." (6:L105). Answers before he's asked: "He's gone aboard… Little feller. Paid." / "Out of a tin… Counted them out into my hand. Took him a while." (6:L473–477).
+- **The two old women** (SIX, Doc's line): the mother inflates, the daughter cuts her off. "Forty year… Sat in there with that lot all day. Forty year." / "Might be two," / "Give over, Mam." (6:L135–139). The daughter, blunt to Eli: "Ask him" / "Put that away… Before someone has it off you." (6:L157–161).
+- **Dellam's son** (SIX): one line, repeated and rising, said to the coat before the room: "You took him first." ×3; "Walked in this morning. In a coat. And you took him. In front of my dad." (6:L379–415). One word when Seffa asks: "Dellam." (6:L429).
+- **The woman from the old man's door** (SIX): echoes and sharpens others: "Since Thursday… Some of us." / "That's right… Since Thursday. That's right." / "He'll pay. Hear that? He'll pay." (6:L195, L389, L399).
 - **The tall boy** (FIVE): blunt, scornful of the drill, with a short laugh. "Did you see that? The whole pallet." (5:L201); "He's not going to… You know that." / "He told me no. For a year he told me no. I've been here two years." / "You know what we do all day? We sit." / "I never saw him do anything before… Not in two years. Not once." (5:L453–465)
 
 ## Fixed voices
