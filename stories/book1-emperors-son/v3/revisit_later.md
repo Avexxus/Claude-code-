@@ -51,3 +51,4 @@ His soft, future-tense, arranging care is the design. Don't harden it.
 ## From Grok on ch6
 - Let the near-riot's cost sit longer before Eli's "I feel better than I have since…".
 - One marking of the hand in ch6.
+- ch6: restore Patrick's own spook line in his wording (close to the cut 'You never know who your neighbour is'; catch-up [P]). Flagged by the taste agent, 2026-11-21.
