@@ -26,3 +26,24 @@ Fix in ch1–3 when we revisit, and apply from ch4 on. Eli must visibly *care*, 
 
 ## Patrick's Eli calibration (BANK 2026-11-21) wins over every reader note
 His soft, future-tense, arranging care is the design. Don't harden it.
+
+## From Gemini's ch1–5 pass (2026-11-21), with Claude's calls
+**TAKE, in the revisit pass:**
+1. **Timeline.** Fix one exact day count across ch1–5. Make "You've had three days", "four nights ago" and "in four days" agree; let continuity-keeper build a day-by-day calendar first.
+2. **Power rules on the page.**
+   - Deliberate, watched reaches fail.
+   - Casual, unwatched flicks work.
+   - Big lifts cost the body.
+   Make each instance read as intended. The roof chair failing and the tray flick working is good; make it legible.
+3. **Readers, the slot and the chip:** keep the distinction crisp in ch1. Stair readers send cold down the arm. The slot knows, and the chip punishes.
+4. **The letter:** make the refusal slightly clearer as avoidance of strings. Shown, not stated.
+5. **Repetition across chapters:** "eyes shut", "slate", "the cut", "the little moon in its window", "something in the stern". Vary them.
+6. **Ch1:** "Why are you on a double?" / "The Scald. Tonight." needs one more beat of clarity. Trim the mid-level description before the Terrace.
+7. **Ch2:** make the vertical geometry of the sump shaft, the street, the curb, the cut and the bridge clear. One line on how the King survived the arch (half-buried under the lip, already in v2; check it reads). Trim the chip surgery slightly. Make Eli's lines about the chip more evasive.
+8. **Ch3:** cut the repeated "You were. Small." / "You were smaller."; trim the slate and watch repeats in the middle.
+9. **Ch4:** tighten "He had all of it, every bit of how heavy it was…"; trim the walk to the berths; trim the scraping by a few sentences. Make the tape and the scraping read as buying bare time.
+10. **Ch5:** make "Something had closed on it" → the old man in the doorway clear; Teo going to the healer reads as surrender and necessity; replace "rain… in rods"; cut repeated rain and waiting descriptions.
+
+**DECLINE:**
+- Breaking Vosk's speech further. Patrick: "eloquent but broken".
+- Any hardening of Eli's softness. Patrick's calibration.
