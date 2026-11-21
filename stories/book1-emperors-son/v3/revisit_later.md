@@ -47,3 +47,7 @@ His soft, future-tense, arranging care is the design. Don't harden it.
 **DECLINE:**
 - Breaking Vosk's speech further. Patrick: "eloquent but broken".
 - Any hardening of Eli's softness. Patrick's calibration.
+
+## From Grok on ch6
+- Let the near-riot's cost sit longer before Eli's "I feel better than I have since…".
+- One marking of the hand in ch6.
