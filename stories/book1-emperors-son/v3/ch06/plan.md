@@ -35,3 +35,12 @@
 - Jon gets one light line (Eli wondering where he is). Never interpret him.
 - Eli's warm, absent care is the design.
 - Use scenes, not summary. Grit: the dying, sickness and the hospice smell, all concrete.
+
+## Fixes against the state (`review_plan_continuity.md`)
+- **Teo's line** is already up the neck to the jaw (5 end), not at the elbow. The clock is tight: no pills left. The opening must feel like a race.
+- **Seffa** is already travelling with them and going back to the yard after (5:L599). So her end beat isn't "staying". It's deciding to come further than the yard when they go on ("Somebody's got to feed you"), or keeping that as the hook for later. Claude's pick: hint it here and pay it off when they leave the master.
+- **Eli's refusal of Doc:** not "no money". Eli has the account (5:L263, L489), so his reason is "no bunk", or Teo needs the room, or "we're going back to a yard". Softer, because he likes Doc.
+- **The trouble that forces Doc out** is NOT an Inquisition notice; that's scheduled for EIGHT. Use the dying's families, a local debt, or a clinic official who wants Doc's count. Pick one.
+- **Eli's hand:** Doc notices it and says nothing, or touches it once without fixing it. Doc's healing of Eli is saved for later.
+- **No reader** at Doc's door: Ammet is a poor world and the clinic is off the grid. Say it once.
+- **No coat. The letter** is soft from the wet. Keep both consistent.

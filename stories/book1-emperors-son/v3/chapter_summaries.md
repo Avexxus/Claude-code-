@@ -1,5 +1,5 @@
 # Chapter summaries: Book 1 v3 (The Emperor's Son)
-🌊 Story clay. Kept by continuity-keeper. Facts, not interpretation. **Rebased 2026-11-17** onto the locked split. ONE and TWO replace `ch01/draft_v9` and the old single Chapter One summary. THREE added 2026-11-18. FOUR added and TWO fixed (the v2.1 King redo and the loader backstory) 2026-11-18.
+🌊 Story clay. Kept by continuity-keeper. Facts, not interpretation. **Rebased 2026-11-17** onto the locked split. ONE and TWO replace `ch01/draft_v9` and the old single Chapter One summary. THREE added 2026-11-18. FOUR added and TWO fixed (the v2.1 King redo and the loader backstory) 2026-11-18. FIVE added 2026-11-21.
 
 ## ONE · The Gift
 *Text: `v3/ch01/new_ch01_v2.md` (about 8,200 words). POV: Vosk (L3–235), then Eli in close third (L239–643).*
@@ -59,3 +59,17 @@
 **What changes:** Eli is off-world without Jon, the watch or the account. Teo's wound is cleaned but spreading.
 
 **Left hanging:** Ithe and "a man there'll find you"; Jon's return; the house-colours slate; the Spur watcher; the pills, "a few days"; the water; the stern knock; the letter.
+
+## FIVE · The Teacher
+*Text: `v3/ch05/draft_v4.md` (story text L1–611, about 7,950 words). POV: Eli, close third, throughout. Ithe days 1–3 (Days 6–8). Added 2026-11-21.*
+
+**What happens:**
+- The knock is the coupling going. The pilot puts them off on an ore pad, which Eli takes to be Ithe, and flies off with the watch. Human loaders unload, one with a chip scar behind his ear. Nobody comes.
+- A stall woman says Pask "met the boats" and is dead. The clinic has a reader ("They log it"). Pask's yard on the Cut is chained shut.
+- In the yard across the lane, Eli lifts a pallet of pig iron, thinking no one is looking. A woman and four boys come under it, and it tips. An old man in the far shed holds Eli's reach, stops the rain for a count of one, and sets the pallet down. His nose bleeds. Eli is sick, and his hand locks. The old man refuses him: "Don't use more than you can control." "Most masters barely teach." His students "got the chip."
+- They wait outside the wall. Seffa, the yard's cook, brings water, broth and a blanket. Eli puts his coat on Teo. On Day 2 the last pills go, and Teo's line is past the shoulder. Oskel, who is chipped, lifts a bar and bleeds, and Seffa sends him off. The tall boy says the old man has never done anything in two years. Seffa names a gnome on Ammet who "sits with the dying."
+- On Day 3 Teo collapses, delirious, and Eli gives him two yellow pills. Eli goes in: "Not me. Him." The master: "Seffa takes him. Now." / "Bring him back breathing. Then we'll see." / "Waiting's not why." Seffa takes them on an ore boat for nothing.
+
+**What changes:** Jon's man is dead. Eli has met the master and been refused, has no coat and no pills, and believes he has a yes. Teo has a line up his neck. Seffa is with them.
+
+**Left hanging:** "Then we'll see"; whether Pask was Jon's man; the master's shaking cup; who stood the cup on Eli's palm; Oskel and Ferrel; the pie Thursday; Seffa's four days; the soft letter; the account call.
