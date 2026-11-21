@@ -52,3 +52,8 @@
 - Run agents in the pipeline order. Run the story-guard after every editing pass.
 - Outside readers (Grok, a fresh Claude) plus a cold reader with no codex catch what the codex-aware checkers miss.
 - Commit and push after every step (the branch is in the session's git instructions).
+
+## UPDATE 2026-11-21
+- Book 1 v3 is **stopped** at ch6 (Patrick: "The test was good"). ch7 plan + continuity flags are kept in v3/ch07 in case it resumes.
+- Engine v3 ("the Foundry") design: `work/ENGINE_V3.md`; mined notes: `work/RECURRING_ISSUES.md`.
+- Patrick is overwhelmed by the whole design at once. Build it **one piece at a time**, and Patrick picks each piece. Roles: he world-builds and talks; Claude builds the system and generates the stories.
