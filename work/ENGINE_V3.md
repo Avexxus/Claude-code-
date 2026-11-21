@@ -158,7 +158,7 @@ Everything a deep story can contain, and which part of v3 owns it. ✅ = covered
   - Merging about 12 calls per chapter down to about 6 cuts rate-limit stalls by roughly half.
 
 ## 5. Build order (what I'd do, in sequence)
-1. **Catalogue → pre-flight.** Turn RECURRING_ISSUES into `WRITER_PREFLIGHT.md` and `PATRICK_TASTE.md`. *(Cheap, biggest quality win.)*
+1. **Catalogue → pre-flight + script gate.** Turn RECURRING_ISSUES into `WRITER_PREFLIGHT.md`, `PATRICK_TASTE.md` and `DECLINED.md`, and extend wordcheck.py into the gate. *(Cheap, biggest quality win.)*
 2. **World Kernel.** Distil the codex into the hard-rules sheet, then canon-check it against the codex.
 3. **Registry seed.** Load everything Book 1 has established (characters, names, places, inventions, timeline).
 4. **Merge agents.** Write logic-check, craft-check and taste-check; retire the overlaps into modes. Rewrite `story/SKILL.md` as v3; add RUN.md.
@@ -166,12 +166,44 @@ Everything a deep story can contain, and which part of v3 owns it. ✅ = covered
 6. **Thickening sprint, one era at a time.** idea-scout drafts the Era Bible from the codex. canon-checker vets it. Gaps become the first batch of A/B/C questions for Patrick. Start with **Book 2's era** (space wild west), the least built and the most fun to mass-print.
 7. **Calibration run.** Three short stories, one each in B1, B2 and B3, through the full v3 pipeline. Measure: which notes still slip through? Feed them back into pre-flight. *Then* open the tap.
 
-## 6. Open questions (filled from the catalogue once it lands)
-- The top recurring issues and how each becomes a pre-flight rule: see §7.
-- Which reviewer notes were wrong often enough to drop or down-weight a checker.
+## 6. What the catalogue changes (from `work/RECURRING_ISSUES.md`, 25 kinds ranked)
+The catalogue confirms the design and adds five things it lacked:
+1. **The plan must be drafted from `story_state.md`.** Every plan check found 11–14 breaks (kind 3) because the planner works from memory. Fix: scene-carder and the writer both open the state file first, and the plan check becomes a script-assisted diff.
+2. **A script gate after every draft, before any agent.** It runs wordcheck.py and checks verbatim repeats, cite and quote resolution in NOTES and ledgers, tracked-object mentions, chapter-closer similarity and overdue seeds. Four agents were counting the same tics by hand (waste c2), and wordcheck was often left unrun.
+3. **One merged, de-duplicated review.** The same flag was raised by 2–4 agents and merged by hand (waste c1). The logic and craft checks write to a single `review.md`, keyed by line number. "Checked and clean" items go to the ledger, not the report (waste c3).
+4. **A provenance filter on blind readers.** The panel, forecaster, cold reader and Grok/Gemini notes all hit Patrick's protected lines, settled calls, or rules they couldn't see (catalogue b). Their notes pass through a filter against `PROVENANCE.md` and the declined register before reaching the writer. The forecaster's fixes are checked against the Jon and Doc rules (R-034, R-047).
+5. **A shared "declined, and why" register** (`foundry/DECLINED.md`). The Eli softness was argued six times before the calibration, "break the speech" was raised three times after Patrick's "eloquent", and the nosebleeds came back three times. Every reviewer and every outside paste is checked against it.
 
-## 7. Recurring issues → prevention rules
-*(To be filled from `work/RECURRING_ISSUES.md`.)*
+**Reintroduction is the sneakiest failure** (catalogue a): Vosk's proud line swung back and forth over 5 passes, a new Yoda image appeared after the first was removed, and Garro was coined right after the Hollin fix. Fix: once a decision is made it goes into the pre-flight as a hard **DON'T** with an example, and the script gate greps for it.
+
+**Provenance gap:** nothing marks Patrick's real lines apart from AI-added "protected" ones (kind 24). Fix: `PROVENANCE.md` cites every [P] line to a BANK date. Without a BANK cite, a line is not protected.
+
+## 7. Recurring issues → where each is prevented
+| # | Kind (catalogue rank) | Prevention in v3 | Script? |
+|---|---|---|---|
+| 1 | Word tics and motifs | pre-flight caps + script gate | ✅ |
+| 2 | Neat, explaining dialogue | pre-flight DON'Ts + dialogue pass | partial |
+| 3 | Plans and notes contradicting the text | plan drafted from state; cite resolution | ✅ |
+| 4 | Broken on-page rules | `ledger_rules` in the pre-flight packet ("rules touched") | partial |
+| 5 | Object, injury and hand drift | inventory and clocks in the packet; tracked-object grep | ✅ |
+| 6 | Geography and timeline slips | calendar from day one; travel times in the Era Bible | partial |
+| 7 | Convenient arrivals | conflict-mapper offscreen clocks | — |
+| 8 | Acting for the plot | character-sim + Power table | — |
+| 9 | Telling | pre-flight + craft-check | — |
+| 10 | Interpreting Jon (and Doc) | rules R-034 and R-047 in the packet + declined register | partial |
+| 11 | Seed overload | seed budget in the packet | ✅ (count) |
+| 12 | Clue stacking | pointer budget per seed | partial |
+| 13 | Repeated beats and scene shapes | scene-carder shape field; book-level shape log | partial |
+| 14 | Rhythm on autopilot, buttoned closers | closer comparison across chapters | ✅ |
+| 15–16 | Stock phrases, repeated openings | script gate | ✅ |
+| 17–18 | Trope echoes, name collisions | name engine + Registry + originality-check | ✅ (names) |
+| 19 | Reader lost (unanchored terms) | term registry: first use must be anchored | ✅ |
+| 20 | POV and knowledge slips | Knowledge table + reader-knowledge plan | — |
+| 21 | Pacing sags | forecaster + panel; travel budget per chapter | — |
+| 22 | Overdue seeds | script gate flags them | ✅ |
+| 23 | Misreading the soft protagonist | voice card calibration + declined register | — |
+| 24 | AI lines treated as Patrick's | provenance with BANK cites | ✅ |
+| 25 | Stale ledgers | ledger update moves into the merged review step | — |
 
 ## Sources (new this round; v2 sources are in PIPELINE_V2.md)
 - NousResearch autonovel (autonomous novel pipeline: world bible, characters, outline, drafting with evaluation, revision cycles): https://github.com/NousResearch/autonovel
