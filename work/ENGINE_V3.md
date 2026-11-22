@@ -213,3 +213,47 @@ The catalogue confirms the design and adds five things it lacked:
 - Suspense via iterative planning (diminishing escape options), arXiv 2402.17119: https://arxiv.org/pdf/2402.17119
 - Expectation modelling via imagined continuations, arXiv 2412.15239: https://arxiv.org/pdf/2412.15239
 - Uncertainty and creativity in generation, arXiv 2602.16162: https://www.arxiv.org/pdf/2602.16162
+
+## 8. Backbone sketch (2026-11-22, for shaping, not detail)
+🌊 Claude proposal. The skeleton only. Every box is a question until Patrick picks.
+
+**Memory (what the engine knows)**
+- World Kernel + Era Bibles (world/)
+- Registry: characters, names, places, events, inventions (to build)
+- Flavor: Taste sheet, Voice sheet, Declined list, Idea pool (foundry/)
+- Gap queue: world questions waiting for Patrick (world/GAP_QUEUE.md)
+
+**Tools (deterministic, no model, cheap, always run)**
+- wordcheck + slop list
+- name-collision check
+- cite/quote resolver
+- timeline and clock calculator
+- registry query and write
+- the script gate that runs after every draft
+- git state and run log
+
+**Agents (each has one job and one output file)**
+- Commissioner: makes pitches from the Idea pool
+- Gap-detector: flags world-level questions before drafting
+- Planners: slicer, cast, conflicts, scene cards, plan audit
+- Writer: drafts from the pre-flight sheet
+- Checkers: logic, craft, Patrick-proxy (taste)
+- Editors: dialogue, line
+- Judge: rules disputes, final fixes
+- Readers: panel, cold reader
+- Registrar: writes facts back to the Registry
+
+**Flavor (injected, not an agent)**
+- Kernel, Taste rubric, Voice sheet, and the Declined list go into every agent's context.
+
+**Orchestrator (one runbook)**
+- One state machine per story, with gates, a run log for resume, and a one-screen digest to Patrick.
+
+**Questions that shape the build**
+- A. Autonomy: does the orchestrator decide everything and queue only world gaps, or does it stop at each stage for a yes?
+- B. Shape: one orchestrator skill that runs the whole line, or separate skills you call one at a time?
+- C. Flavor: inject the full Taste and Voice sheets into every agent, or only the writer and checkers?
+- D. Registry: auto-write facts after each story, or hold them until you approve?
+- E. Unit: start with one-shot shorts (fast feedback), or serialized stories?
+- F. Model tiers: strongest model for writer and judge only, or also for the checkers?
+- G. Gap queue: how often do you want questions, one batch per story or per week?
