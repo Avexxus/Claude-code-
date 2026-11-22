@@ -57,3 +57,9 @@
 - Book 1 v3 is **stopped** at ch6 (Patrick: "The test was good"). ch7 plan + continuity flags are kept in v3/ch07 in case it resumes.
 - Engine v3 ("the Foundry") design: `work/ENGINE_V3.md`; mined notes: `work/RECURRING_ISSUES.md`.
 - Patrick is overwhelmed by the whole design at once. Build it **one piece at a time**, and Patrick picks each piece. Roles: he world-builds and talks; Claude builds the system and generates the stories.
+
+## UPDATE 2026-11-22: pieces 1+2 done (Kernel + Taste)
+- `world/`: KERNEL.md (core, canon-checked, 17 fixes applied), ref/ (4 topic files), GAP_QUEUE.md (Q1–Q62, with Patrick's leans from his chats), canon_check_kernel.md.
+- `foundry/`: PATRICK_TASTE.md (rubric, L1–L61 / H1–H68), DECLINED.md, PATRICK_VOICE.md, IDEA_POOL.md (48 seeds), DIRECTION.md.
+- The claude.ai export was mined: only the 19 saga chats are in `sources/account_export/patrick_lines/`; personal chats were kept out. Digest: `work/export_mine/DIGEST.md`. Its section B lists 9 clashes between Patrick's own statements, waiting for his picks. Six world/ref fixes are marked ⏳ pending pass.
+- Next: Patrick picks the next Engine v3 piece (see work/ENGINE_V3.md §5).
