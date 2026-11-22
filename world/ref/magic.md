@@ -15,7 +15,7 @@
 - 🔒 Magic may ADD energy; conservation isn't enforced; steer-only is dead. A weak being can't crack a planet because they lack the Remnant and it would kill them, not because math forbids it. (02 Law 2; 04)
 - 🔒 The four forces and four elements are words for describing an act after it happens. Watch the act, then name it. (02 Laws 5, 6; 01 FORCE)
 - 🔒 Science, in any era, can explain WHAT mages do; it can never explain the CAN. (02 Law 1)
-- 🔒 Magic and science are one word in-world; faith, magic and science are one act under different names. Humans say "science" because dragons were their first teachers. (04 wk W57, W63; 02 Law 1)
+- ✅ Magic and science are one word in-world; faith, magic and science are one act under different names. Humans say "science" because dragons were their first teachers. (04 wk W57, W63; 02 Law 1)
 - ✅ Real physics is an optional palette for describing effects (heat, magnetism, light-bending, nerve disruption, binding, transmutation), never for ruling on them. (14; PROPERTY_INVENTORY)
 
 ### What magic is
@@ -30,7 +30,7 @@
 - ✅ An ensouled machine is a held soul; with receptors that soul can work magic. Simple machines run on electricity and need no Remnant; complex machines need flesh with Remnant held inside. (R130, R030)
 
 ### The grip (the appendage)
-- ✅ Remnant extends an appendage, a psychic hand, that grabs the universe. Length, size, shape and intensity scale with Remnant, Skill and focus. Fine work with it is tiring. (04 wk W01; 01 APPENDAGE; R036)
+- 🔒 Remnant extends an appendage, a psychic hand, that grabs the universe (02 Law 1). Length, size, shape and intensity scale with Remnant, Skill and focus. Fine work with it is tiring. (04 wk W01; 01 APPENDAGE; R036)
 - ✅ Grip vocabulary (flavor, no math): shaking particles = heat; pulling charges apart = lightning; crushing or ripping a nucleus = explosions; denting space = gravity; turning a quark = transmutation, THE HARDEST ACT; a botched transmutation rips the nucleus. (04 wk W02; 02 7b)
 - ⚖️ Transmutation, gold-making and the worst releases are the mythic top: rare arts of the mightiest, never a class. "Transmutation transmutes, full stop." Strong-force-flavored feats appear only at the very top. (02 Law 7b; 04 t136)
 - ✅ Dragons stay four-legged; the appendage is their hands, and building or holding tools with it is tiresome, so dragons design and others build. (04 wk W63; R036, R090)
@@ -61,7 +61,7 @@
 
 ### Enchantment, flesh vs metal, devices
 - 🔒 Enchantment is one rule: Remnant held inside something, in many uses and forms. Imbued gear, living metal, chips, the Tower: "It is all the same thing." Reservoirs, attunement objects and bound effects are uses, not kinds. (R099, R074; 06 ONE RULE; 02 0c)
-- ✅ Organics hold Remnant better: "It prefers them. So itll stay in it." Metal must be bound by a learned magic. That's why Book 1-era tech uses flesh. (R148)
+- ✅ Organics hold Remnant better: "It prefers them. So itll stay in it." Metal must be bound by a learned magic. That's why Book 1-era tech uses flesh. (R148; BANK 11-16 [STORAGE])
 - ✅ Body-like substrate holds best; younger flesh is higher quality; another elf is very high-quality material. (06 wk W12; R028)
 - ✅ Flesh augments keep the hold on your Remnant: "They make your augmentation from flesh so it retains ability to hold your remnant." (R032)
 - ✅ Grafted flesh adds capacity. The Orc King: grafted, grotesque body (mismatched skin, bone pushing out, metal plates), ONE chip only, so he holds more. Body horror, never identity. (BANK 11-18; R097)
@@ -81,7 +81,7 @@
 - ✅ It can override a living soul and take the body. (04 jul08 t329)
 - ✅ Two roads of soul theft: TRANSFER/MOVE (force your soul into another, often younger, body, leaving a corpse and taking all the souls) or CONSUME (take souls into your own body). A crime anyone can commit: "Its your father its your uncle its the priest at the church." (04 t676, t680; t120)
 - ✅ All changelings are incredibly powerful from the start ("OFF RIP"); no weak ones. (04 t544–545)
-- 🔒 One driver: the original self always drives, at a sustainable pace of 1–2 souls at a time. Past that, failure: the giant's decay into a house of horrors, the young dark elf's rupture. The tell is soul-body mismatch; smart ones shield it or hop bodies. (t122; 04 wk W16, W18, W20, W22)
+- ✅ One driver holds only at a sustainable pace of 1–2 souls at a time (the guardrail itself is 🔒 in 07). Past that, failure: the giant's decay into a house of horrors, the young dark elf's rupture. The tell is soul-body mismatch; smart ones shield it or hop bodies. (t122; 04 wk W16, W18, W20, W22)
 - ✅ A healthy elder can't be taken; a broken, dying one can be scavenged. Gods are untouchable. Elves can't be infiltrated from outside. (t113, t543)
 - ⚖️ Wholesale absorption: a weaker soul loses coherence in the swirl of a far greater one. Needs at least changeling-level power; a god-scale being can do it to many at once. Jon and Derrek can. (04 jul23 t116–120; 02 Law 14)
 - ✅ Binding a ghost is constant concentration: the holder pays every day. Kill the holder and the binding lapses; the soul is released, never destroyed. (04 t504–505; 03; R096)
@@ -103,8 +103,8 @@
 
 ### External powers: pacts, angels, demons
 - 🔒 Two umbrellas plus the Rule: PACTS (any deal with a being), ENCHANTMENTS (held Remnant), THE RULE (in-betweeners: `cosmos.md`). Thin frames, specifics built per scene. (06)
-- 🔒 A pact grants TECHNIQUE, never Remnant. The holder pays fatigue from their own limited Remnant. "A pact doesn't make you strong; it makes you unrepeatable." (06 jul23 t108–109; 02 Law 16)
-- ✅ Each patron's technique is its own signature. Taught abilities remain as the link fades; the tether fades on the holder's side, never the patron's: "You can stop attuning. You can't stop being findable." (06 jul23 t106, t114–115; 02 Law 16)
+- 🔒 A pact grants TECHNIQUE, never Remnant. The holder pays fatigue from their own limited Remnant. "A pact doesn't make you strong; it makes you unrepeatable" (Claude's line, accepted). (06 jul23 t108–109; 02 Law 16)
+- ✅ Each patron's technique is its own signature. Taught abilities remain as the link fades; the tether fades on the holder's side, never the patron's: "You can stop attuning. You can't stop being findable" (Claude's line, accepted). (06 jul23 t106, t114–115; 02 Law 16)
 - ✅ "A god asks for your devotion. A demon offers you a deal." A tendency, not a formula. A pact is a harvest reversed; for gods the tether feeds the god; a religion is a recruitment network of pact champions. (06 t548, t666; wk W32, W57)
 - 🔒 Angels and demons are one kind of being, the same as changelings: superior soul mages. Good and evil aren't the line between them. Changeling → angel/demon → god are blurred regions; no graduation. (06 t666–674; 02 Law 16)
 - ✅ A patron strong enough can puppet a lesser being's will; on the page that's a plot point, never framed as an earned rescue. (06 jul23 t122–126)
@@ -171,7 +171,7 @@
 - Soul-sensing stays rare and unreliable, never "video gamey" (wk W09).
 
 **Taste markers (what makes it Patrick's)**
-- No classes, ever. "As with all our characters she is just a skilled user" (t612). "Hes just a master" (t136). A label "strips the person of the mastery and dedication it took."
+- No classes, ever. "As with all our characters she is just a skilled user" (t612). "Hes just a master" (t136). A label strips the person of the mastery and dedication it took (04 t136, codex wording).
 - The dials are emotional, not only mechanical. Will is "the part of me that really believes I can produce this flame" (R095). Cowardice limits a giant; conviction lifts a gnome, and that's still not enough to beat a dragon.
 - Races differ in *how* they wield, not in what they're allowed: brute giants, scholarly dragons with "deep schools of magic" (R068), human swarms and chips, dwarves who "built systems for building tools that used remnant" (BANK 11-16).
 - Pacts are teachers, not batteries: "A user in book 1 using a gods remnant would be undefeatable. A user using a gods power with their own limited remnant keeps them grounded" (jul23 t108). Patrons appear in the ether as a meditating figure to those who attune (jul23 t112; he used a real-world religious name for the image: keep it off the page. inferred).

@@ -9,7 +9,7 @@
 ## A. HARD RULES
 
 ### Every race (shared law)
-- 🔒 Every being is flesh plus a fragment of the One (Remnant); soul and Remnant are the same thing. All races came out of the one shatter and all are born (`cosmos.md`). (02 0c; 07)
+- 🔒 Every being is flesh plus a fragment of the One (Remnant); soul and Remnant are the same thing. All races came out of the one shatter and all are born (`cosmos.md`); in-betweeners and higher-plane beings are not of it. (02 0c, Law 15; 07; jul23 t100)
 - 🔒 **The lifespan ladder.** Lifespan follows Remnant. Shortest to longest: orcs and dwarves (short) < humans < elves < dragons (second-longest) < giants (longest of the races) < great gods (seem eternal, aren't). More Remnant = flesh resists age and injury: resistance, never immunity. Everything that ages dies. (02 Law 4a; R093)
 - 🔒 Elves and giants are ancient mortals, never "near-immortal." (02 4a)
 - 🔒 Each race's "element" (giants earth, dragons air, elves water, changelings fire) is symbolic and cultural only. No mechanical racial lean; no race is "THE" anything. (07 Law 8 line; 10 orcs)
@@ -47,7 +47,7 @@
 - ✅ Politics: the houses the advisor raised against the dispossessed, who serve beneath dragons their families once ruled. The empire has never known peace since the coup; in the far future dragons buy cathedral ships to murder each other. (07 t270, t274, t298)
 - ✅ Hoards extend their empire and reflect status: gems, idols, magic items, scientific accomplishments. (R049)
 - ✅ Breaths are varied and wielded (fire, lightning, rot, frost, corrosion, poison, transmutation); one dragon may wield several. Transmutation defeats a prepared defense by changing *what it is*. (07 breaths)
-- 🔒 **Weakness:** supreme in bursts, then drained. A patient, evasive foe or a coordinated group can bring one down at terrible cost. (07 combat profile)
+- 🔒 **Weakness:** supreme in bursts, but can't hold peak; a long fight tires them (stamina, never Remnant). A patient, evasive foe or a coordinated group can bring one down at terrible cost. (07 combat profile)
 - 🔒 **Beatability:** no lone being overpowers a great ancient dragon (you survive, flee or outwit). A gifted individual may beat a young or weak one. One unaugmented human never beats a dragon one-on-one; an augmented human with a focusing implant can, at self-destructive cost. (07; jul08 t239, t261)
 - ✅ Humans ride captured *lesser* dragons; a powerful dragon would never sink so low. (R048)
 - ✅ Only some dragons, the weak-force transmuters, make fissile "prepared stones." (R051)
@@ -94,7 +94,7 @@
 - 🔒 **Body:** shortest-lived and most crowded, the weakest in magic of the major races, enormously gifted physically. (10)
 - ✅ People, not animals: they do magic and have traditions, heroes and tales. Calling their souls "tainted" is prejudice; all souls are the same. (R057, R058)
 - 🔒 **Three masters:** born into bondage under the giants, re-chained by the dragons, subjugated by humans. "They earned it" is purely the world's lie. Subjugated for defiance, not weakness: "refusing to accept being less, they were forced to be less." (10; jul08 t185)
-- 🔒 Grievance without archive: each orc remembers only their own lifetime, but the people know they were wronged "the way you know a bruise." Their own word for it is **hate**, and their culture runs on it. (10)
+- 🔒 Grievance without archive: each orc remembers only their own lifetime, but the people know they were wronged the way you know a bruise. Their own word for it is **hate**, and their culture runs on it. (10)
 - ✅ Greed is their most common expression, humanity's game played with no mask that works; from inside it is restitution. (10; jul23 t52)
 - 🔒 They lean on pact magic as the most open road left to them, not the only one. Orc rites are "everyone's religion with a poorer patron." (10)
 - ✅ No society to fracture; the fracture lives inside each orc. They never had kings, so "Orc King" is a symbolic title. (t522–t524)
@@ -156,7 +156,7 @@
 ### ECONOMY
 - ✅ You can't sell a soul; it is not a currency. You can sell a being, or a soul bound into something. Currencies (placeholder names): the imperial sheckle, the dwarven mark, the elven silver crown. (R033, R054)
 - ✅ The public believes Remnant is a battery; the truth is that it amplifies and is never spent (`magic.md`). (R034, R112)
-- ✅ The organ trade is a legal government market with a black market beneath, a dwarven and human enterprise. "The younger the flesh the better." Dragons are glad of the bodies to study. (t349, t341; R028)
+- ✅ The organ trade is a legal government market with a black market beneath, a dwarven and human enterprise. "The younger the flesh the better" (R144; BANK 11-08). Dragons are glad of the bodies to study. (t349, t341; R028)
 - ✅ Clones have souls and magic, and everyone pretends otherwise. Clone bodies are sold as "lower quality," then sold as real anyway. Far-future slavery hides behind the word "clone." (wk W66; R063, R088)
 - ✅ "Its hard to ignore the flesh markets and living machines… Anyone who hates it is crushed by the weight of people who will use it anyway." (R064)
 - ✅ Cathedral ships are converged dead flesh: whole giant families first, then orcs bought by the trillion, partly through the Returned. (t96, t276–t280, t624)
@@ -206,7 +206,7 @@
 
 **Changelings:** paranoia without folk remedies. "It's your father, it's your uncle, it's the priest at the church." (t680) "We started off with a shape shifter and it became a soul stealing wizard." (t780)
 
-**The far future:** fixed and brutal. "We fixed everything except what beings are" (WORLD_OVERVIEW). Extraction, not chaos: "Theres really no wild west. These pirates no longer exist. They were smashed." (R088)
+**The far future:** fixed and brutal. Mastery fixed nothing in beings (t480; "the brightness is the horror" is Claude's line, pending F128). Extraction, not chaos: "Theres really no wild west. These pirates no longer exist. They were smashed." (R088)
 
 **The capital:** wrongness. Radiation sickness, deformation, animals avoiding the Tower, and everyone powerful feeling it "like the sun." (R061, R129)
 

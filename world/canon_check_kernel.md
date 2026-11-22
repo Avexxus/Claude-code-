@@ -115,3 +115,15 @@ Worst 3: §4 and §7 put "the brightness is the horror… we fixed everything ex
 - The quotes cited t380, t466, t638, t604, t458, jul08 t24 and jul23 t52 are all in the codex.
 - R148 and R149 exist.
 - No stale rules: nothing in the Kernel has been overridden by a later ruling or by BANK.md since the pass.
+---
+
+## Applied (2026-11-22)
+All 17 fixes checked against the cited source, then applied to `world/KERNEL.md` (3,419 words; still 12 laws).
+- **HIGH 1–3:** law 7 now carries 4a and 4b (⚠️ L36); law 10 split (🔒 Law 17 + 4b/W38/t317; ✅ R105 story rule; ✅ faceless Emperor, Book 3 open; "seriously beats" and R123 dropped); "brightness is the horror" now labeled Claude's line, pending F128, with Patrick's t480 in its place (§4, §7).
+- **MED 4–9:** law 11 ⚖️ (W53 = Book 1 only); changeling pace qualified (W16/W20/W22); heaven/hell "created or found is open" (W28); Laws 3, 10, 20, 14 and 0c merged into laws 5, 7, 8 and §2; nine tripwires added to §6.
+- **LOW 10–17:** R038 as two verbatim quotes; ghosts "love among them"; Tower cites R061 + t88; dragons "can't hold peak (stamina, never Remnant)"; flesh quote cites R144/BANK 11-08; enchantment split 🔒 R099 / ✅ R148 + BANK 11-16; law 12 shatter exception; grip 🔒 (Law 1), mythic top ⚖️.
+- **characters_eras.md:** lines 19, 32, 108 → ✅ split; 38 → ⚖️ Book 1 only; 181 Emperor/Derrek fixed; 189 tripwire matched; 208 F128 label. Line 129 already correct.
+- **Spot-check, magic.md:** appendage 🔒 (Law 1); "one word" line 🔒→✅ (v5-wk, no new lock); one-driver line 🔒→✅ with pace qualifier; Book 1 flesh cite + BANK 11-16; "unrepeatable" and "findable" marked Claude's lines (accepted); "strips the person…" unquoted (codex wording, not Patrick's).
+- **Spot-check, cosmos.md:** shatter exception added; heaven/hell "created or found" marked open (W28).
+- **Spot-check, beings_world.md:** shatter exception; dragon "drained" → stamina; flesh quote cite R144; "we fixed everything except what beings are" (F128) removed; codex wording "the way you know a bruise" unquoted.
+- Checked and left: the 🔒 marks in cosmos.md (03/02 sections are 🔒, incl. the two-function reset); the 🔒 marks in beings_world.md drawn from 10 (those sections are 🔒); "A light in a dark world" (BANK 11-21) and "hey mate…" (07 t622) are both verified.

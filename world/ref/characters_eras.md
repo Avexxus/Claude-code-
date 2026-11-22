@@ -16,7 +16,7 @@
 - ✅ **The Tower rises the same day** (the emperor's last Convergence: `cosmos.md`). (R136, R111, R026)
 - ✅ The elves took no part in the coup; dwarves were arms dealers to both sides, present but uninvolved. (R092; 10)
 - ✅ The dragons stole the title of empire from the giants that day. Giants were exiled and are unwelcome near dragon land. The blast land stayed radioactive; dragons and enslaved orcs went back first. (R042, R078, R137)
-- 🔒 Under dragon rule humans were indentured, orcs re-chained and dwarves subject. Dragons ruled capably and carried the giants' science forward. (07 Darkest Age)
+- ✅ Under dragon rule humans were indentured, orcs re-chained and dwarves subject. Dragons ruled capably and carried the giants' science forward. (07 Darkest Age)
 - ✅ The Age of Dragons was long; humans didn't beat dragons quickly. (09 t496; WORLD_OVERVIEW)
 - ✅ Humans won through the dragons' fracture, with a charismatic coalition and defecting dragons; dragons kept palaces and some kingdoms. (t298–t300)
 - ✅ **The city never moved**: giant capital → dragon seat → human capital, the Tower at its heart. Derrek took the Tower from the heart of the dragon empire by uniting and arming humans; he didn't just show up. (09 t64, t494)
@@ -29,13 +29,13 @@
 - ✅ **Book 4 is outside the run: the multiverse**, undecided. Jon and Derrek go "to the multiverse station up the regress and back in time"; Jon's own book folds into it. (R100; 09 Book 4)
 
 ### Loop and run rules
-- 🔒 The loop is closed: once started, it has always been. The Tower is fused into all eras. (02 Law 19; 09 t68, t102)
+- 🔒 The loop is closed: once started, it has always been. (02 Law 19) ✅ The Tower is fused into all eras. (09 t68, t102)
 - ✅ Each run lasts about **10,000 years**; there have been **a thousand or more** runs. "About 5k times before" is a floor, not a count. Both men are "eldritch and broken in ageless bodies." (wk W42; 09 t328; 02 Law 19)
 - ✅ The book gaps are **about 5k years or more each**; Book 3 to Book 1 is about one run. (R089; 09 SERIES) ⚠️ The arithmetic against a ~10k run is open: GAP_QUEUE.
 - ✅ **Books 1–3 sit inside the current run**, and each ends at the window. Book 4 is the cosmic book. (R100; 02 Law 19)
 - 🔒 **Only the final run is shown.** Erased loops "literally never happened once he reset"; show them only as residue ("5k times before," scars, foreknowledge). (02 Law 19; t328, t330)
 - ✅ "The final run" is **Jon's lie to himself**, not a fact; nothing makes the cycle's end real. (wk W42)
-- ✅ **Books 1–3 show no jumps and no resets on the page.** Both men move straight forward this run: Derrek because he can't jump without Jon, Jon because he has stopped. When Jon "leaves" mid-book he is elsewhere, not jumping. (09 How Jon & Derrek exist; wk W53)
+- ⚖️ **Book 1 shows no time travel** (wk W53); Books 2–3 sit in the same run (R100), so no reset is expected, but that is a reading, not a ruling. In Book 1 both men move straight forward: Derrek because he can't jump without Jon, Jon because he has stopped. When Jon "leaves" mid-book he is elsewhere, not jumping. (09 How Jon & Derrek exist; wk W53)
 - 🔒 **The tether:** whenever Jon jumps, Derrek is pulled with him, every time. "the tether does not care why they jumped. derrek goes with jon. end of story." (02 Law 17; jul08 t369)
 - ✅ **Only Jon can reset. Derrek sees time; Jon jumps.** Derrek's craft is aiming Jon's jumps; he has "seen how it could go, not lived it," so he never slips. (09 t713; wk W39; R019)
 - ✅ What carries across a reset: Derrek's memory, the widened breach, the rift scars. Jon wakes blank and his memory returns over the run. (Reset mechanics: `cosmos.md`.) (R118, R012; 09 single timeline)
@@ -105,7 +105,7 @@
 ### Derrek (placeholder name)
 - ✅ Before the curse: Jon's teacher, "greatest master of humanity," one of the best wizards and scientists of his age. His power is his own and hand-built. (R016)
 - ✅ He ripped the universe open by mastery and **demanded** power from the Unified One out of entitlement; he was cursed and tied to Jon's jumps. He opened the portal wanting, "like dragons before him," to free his people. (R016; jul23 t26; jul08 t359; 08 t125)
-- 🔒 Time is his only given power; he learned everything else. He **can't reset or jump on his own**; he rides Jon's jumps. (02 Law 17; 09 t713)
+- 🔒 Time is his only given power; he learned everything else. (02 Law 17) ✅ He **can't reset or jump on his own**; he rides Jon's jumps. (09 t713)
 - ✅ **His sight** means he "never misses or slips lines." (R019)
 - ✅ "Absokute microscopic clarity and control": tiny explosions in every cell; reads hormones, pheromones and blood pressure, and tries to influence them. Pours out soul pressure; stolen souls held inside him as magnifiers. (R066; BANK 11-16 [DERREK · unleashed]) ⚠️ vs his closed body: GAP_QUEUE.
 - ✅ He led the creation of the chip as a mandate. (R017)
@@ -178,7 +178,7 @@
 ### Who can appear in a side story without breaking canon
 - ✅ **Anyone ordinary of any race, in any era**, including other sons of the Emperor ("endless sons"; Jon has "watched many emperors' sons"). (R124)
 - ✅ **Jon**: in Books 1–3's eras as a charming, eccentric stranger or mentor who comes and goes. He must not jump or reset on the page, lead the elves, reveal the Lirael secret, die, or be beaten by a lesser being. (wk W53, W44; R094, R105)
-- ✅ **Derrek**: rarely and at a distance, hidden unless "he sees something his attention must do." In the far future he is faceless, and **no one in-world may learn the Emperor is Derrek** except at the window. No lesser being kills or seriously beats him. (R123; 09 t332; 08 t364)
+- ✅ **Derrek**: rarely and at a distance, hidden unless "he sees something his attention must do." In Book 1's era he is faceless: no ordinary person knows who the Emperor is (08 t364); the Book 3 reveal is open (09). No mortal kills him (02 Law 4b). (R123; 09 t332)
 - ⚖️ **Gods** at a set presence level; a plot point, never a narrative rescue (`cosmos.md`). (wk W34)
 - ✅ **The Historian** may watch; he never interferes before the window. (08 t636, t650)
 - ✅ **The gnome changeling** is alive from betrayal day to Book 1 and can turn up in any era's courts. (SCENES t282–296; 08 t772)
@@ -186,7 +186,7 @@
 - ✅ **Mika** is alive through the exodus; Book 1 clay keeps him alive. (R094; wk W65)
 - ✅ **The Returned**: anywhere in the far future, never in Book 3. (R147; BANK 11-18)
 - ✅ **Giants**: rare on Earth after betrayal day, gone to the forge world by Book 2. (R078, R140, R116)
-- 🚫 Never: a lesser being killing Derrek; Jon or Derrek dying; a loop shown on the page in Books 1–3; Lirael alive in Book 1's era; Jon commanding elves; the Tower thinking or feeling; elves helping the coup. (R105, R111, R092; 02 Law 19)
+- 🚫 Never: a mortal killing Derrek; Jon or Derrek dying; time travel shown in Book 1 (wk W53); Lirael alive in Book 1's era; Jon commanding elves; the Tower thinking or feeling; elves helping the coup. (R105, R111, R092; 02 Law 19)
 - 🚫 Never the old book orders (medieval Book 1, Book 3 as the final loop). (R089)
 
 ---
@@ -205,7 +205,7 @@
 **The eras' feel**
 - **Book 3: wonder and myth.** The cosmology is invisible; the time-gods' intrusions look like fate and monsters. Dark-Souls-scale giant architecture, "grown, not built," no chisel marks, too big for those who came after: dragons "physically sitting inside the remains of the giant family who built those halls." (SCENES t22–34, t300) A giant caravan's orchestra "plays constantly so they make enough noise to not be crushed." (R040)
 - **Book 2: grit and frontier.** Smog, megacities that "glow like small suns" (jul08 t293), flying traffic lanes, implants, the elite "pumping out new devices," and out past it "rugged, untrained, free, fun, bloody." (R089; CU §3) The age of the edge, the last time anyone can run (inferred).
-- **Book 1: mastery as horror.** "The brightness is the horror… we fixed everything except what beings are." (09 tone) Bureaucratic and efficient: biometric readers on every stair landing, a flesh market hosing down its slabs, cores that twitch "the way cut meat twitches on a block." (Book 1 v3 ch1–2 story texture; inferred as the target feel) The stalemate is quiet because extraction works. (R088)
+- **Book 1: mastery as horror.** Humans "solved need and found they were never actually driven by need at all and it was always WANT" (t480). ("The brightness is the horror" is Claude's line, pending Patrick's yes: F128.) Bureaucratic and efficient: biometric readers on every stair landing, a flesh market hosing down its slabs, cores that twitch "the way cut meat twitches on a block." (Book 1 v3 ch1–2 story texture; inferred as the target feel) The stalemate is quiet because extraction works. (R088)
 - **Book 4: the curtain stripped back** (`cosmos.md` aura).
 
 **Jon**

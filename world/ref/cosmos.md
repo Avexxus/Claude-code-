@@ -18,7 +18,7 @@
 - ✅ The brain is body, not soul. A destroyed brain doesn't free the fragment; the fragment leaves only at death, an event. A brainless living body still holds its person, "locked inside as a vague state." (02 0c; 03; jul08 t331–343)
 
 ### Birth, death, the shatter
-- 🔒 All races coalesced in the one shatter; none were made later. Long-lived races stand a few lifetimes from the origin, short-lived ones thousands of generations away. The "generations" are fragment size, not creation order. (03 One shatter; 07 Creation generations)
+- 🔒 All races coalesced in the one shatter; none were made later. Long-lived races stand a few lifetimes from the origin, short-lived ones thousands of generations away. The "generations" are fragment size, not creation order. In-betweeners and higher-plane beings are not of the shatter. (03 One shatter; 07 Creation generations; 02 Law 15; jul23 t100)
 - ✅ New beings are born when diffuse Remnant gathers into the child at conception. No reincarnation: no character is secretly a past self. (03 How new beings are born; 07)
 - ✅ When a body dies, its Remnant releases back into the world (soul-binding, ghosts, resurrection odds: `magic.md`). (R024)
 - ⚖️ Our universe is dead beyond Earth: no native life anywhere else, ever. Far-future races settle empty worlds; Earth is everyone's homeworld. No aliens. (03 DEAD UNIVERSE; wk W58; 07 far-future banner)
@@ -76,7 +76,7 @@
 
 ### The three worlds
 - ✅ Each dimension has three worlds: ours, plus two lifeless clone-pockets the elves call heaven and hell. Pocket dimensions, never "universes." (wk W27; 03)
-- ✅ "Elves built heaven" is in-world belief. The elves own the rift device, like electricity: found and harnessed. (wk W28–W29)
+- ✅ "Elves built heaven" is in-world belief. The elves own the rift device; whether they created or found the worlds is debated and open (like electricity: found and harnessed). (wk W28–W29)
 - ✅ Heaven is a utopia wrapped in light and empty, because entering cuts you off. There's one hell: the elves' prison world, "a normal world like ours. They just name it such," full, with whole societies and "angry noise." No demons' plane. (R120; 07 t602–606)
 - ✅ The way in: in the older age, a crude hand-opened gate manned on both sides; in the far future, a ship drive. (R015)
 - ✅ The elven bond can't cross the seal between realities: inside a pocket dimension, warp included, an elf is cut off. (03; t230, t600)
