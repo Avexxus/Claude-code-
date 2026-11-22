@@ -70,6 +70,7 @@
 - ✅ The chip is a shock collar: one universal chip sold in different boxes for different classes; full control only when the wearer is unruly; can control anyone chipped. Not full mind control. Derrek led its creation as a mandate. (R143, R017)
 - ✅ The bond-spoof chip is a miniaturized focusing chamber, made by dwarves, perfected by dissecting live and dead elves. A key, not a teacher: it works only for someone already capable of soul magic, and lets them pass as an elf or break a bond-protected elf. (06 jul23 t151–156)
 - ✅ Cathedral ships are built by giants (via Convergence) from dead flesh: less Remnant, but they hold a lot. (R027, R045)
+- ⏳ **Flesh metal** is Patrick's name for Remnant-infused organic material: "they trap the soul within the metal and flesh is the best material to hokd remnant so they make flesh metal which has the properties of both." (chat 11-12 scifi P92–P93) pending pass
 - ✅ Dwarves made the Book-3-era masterwork gear (magic swords, enchanted necklaces). Enchantment is a learnable craft; a master enchanter need not be a strong user. (BANK 11-16 [DWARVES]; 06)
 - ✅ Drones can't feel souls in general; only specific spoofing or reading chips can. (R031)
 
@@ -159,7 +160,7 @@
 
 **How it looks in a fight**
 - "These are wizards. Big and tough doesnt mean throws punches." "He is compressing matter ripping space sure but describe how that would look" (R038). Show space bending, matter compacting, light going wrong, heat shimmer, charge. No thrown balls of fire.
-- Pressure as atmosphere: great beings press on a room and lesser minds struggle to keep thinking; power presses on the air before anything happens. Patrick's touchstones: "haki" and HxH-style shields to "certain types of pressure" (BANK 11-16). "He continues to pour out his soul pressure… Each one a magnifier he can hook up to. He really turns up the pressure" (BANK 11-16 [DERREK · unleashed]).
+- Pressure as atmosphere: great beings press on a room and lesser minds struggle to keep thinking; power presses on the air before anything happens. Patrick's touchstones: "haki" and HxH-style shields to "certain types of pressure" (BANK 11-16). "He continues to pour out his soul pressure… He really turns up the pressure" (BANK 11-16 [DERREK · unleashed]). The power is his own, with no stolen souls inside him: "derrek doesnt allow people into him" (chat 11-13 PHY P373–P375, CATCHUP §4 [P]) ⏳ pending pass.
 - The terrifying is intimate as well as huge: "tiny explosions in every cell of your body… read each hormone or feremone… He can read your blood pressure" (BANK 11-16).
 - Top-end imagery: a black hole pressed into being by a man holding himself together with "all of his body" (BANK 11-16 [THE MASTER]); "a literal nuke fired out of a dragons mouth" (BANK 11-16); holding matter in a gravity well while igniting a star at its heart (MSE §10); the Tower felt "like the sun blazing in the center of our solar system" (BANK 11-16).
 - Joy in power, for the right monster: "Derrek loves this. He is having the most fun he has ever had… marvels… about the sheer beauty of the destruction he has sown" (BANK 11-16).

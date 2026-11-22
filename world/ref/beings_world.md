@@ -52,7 +52,7 @@
 - ✅ Humans ride captured *lesser* dragons; a powerful dragon would never sink so low. (R048)
 - ✅ Only some dragons, the weak-force transmuters, make fissile "prepared stones." (R051)
 - ✅ **Tech:** they buy focusing chambers from the dwarves and cathedral ships from the giants, and don't care whose dead are in the hull. (R043, R027, R045)
-- ✅ Dragon ships run on rotating crews strapped into focusing chambers, the master as the final lever; chamber crews are prestigious, high-ranking military. The full-power plasma beam is limited to a few shots per fight (≈5 is scaffolding only, never on the page). (07 t442–t444)
+- ✅ Dragon ships run on rotating crews strapped into focusing chambers, the master as the final lever; chamber crews are prestigious, high-ranking military. (07 t442–t444) A dragon has about five full-power plasma beams in him "before he kills himself from sheer exhertion"; "if they have 20 coming still he will be overwhelmed" (≈5 is scaffolding only, never on the page). (chat 06-18 GB P468) ⏳ pending pass
 - ✅ **After their age:** young dragons moved their wealth into human commerce and law; the old stay in remote giant-built palaces too large for humans. (jul08 t273–t275, t300)
 - ✅ **Toward others:** everyone, giants included, is beneath them. Humanity's first teachers, and they "know they are successful off the backs of humanity." (R045; wk W63; jul08 t93)
 - 🚫 Never solitary, scarce world-lords or "each its own king"; never "builders" or mere takers; never brainless breath machines; never "proud fool" as a system rule. (R090; 07 RETIRED)

@@ -66,7 +66,7 @@
 - ✅ Earth feels like a slow, declining apocalypse, "More steam punk edge runner than modern," smoggy and polluted, "while the elite continue pumping out new devices." (R089)
 - ✅ The far reaches are "rugged, untrained, free, fun, bloody. Pirates, rebels, black markets, constant war." (09 tone; CU §3)
 - ✅ The human federation of planetary republics can't openly endorse slavery. (R085)
-- ✅ Flesh metal first appears, and the first opposition to it rises. (R089)
+- ✅ Flesh metal first appears, and the first opposition to it rises. (R089) Flesh metal = Remnant-infused organic material (`magic.md` · devices). (chat 11-12 scifi P92) ⏳ pending pass
 - 🚫 Never set it in "the modern day" or a magic post-apocalypse as an era; that survives only as the feel of Earth. (R089)
 
 **Book 1: the far future**
@@ -89,13 +89,13 @@
 - ✅ **Memory:** wakes blank each reset; memory returns over the run; "by this point he remembers things." (R118)
 - ✅ **No script.** He knows patterns and is skilled but never knows outcomes; "rehearsed" means skilled at fighting rule-beasts. (R119)
 - ✅ Derrek's top apprentice, the one Derrek saw as his equal; still uncertain underneath. (08 t554; jul08 t65)
-- ✅ **The true villain, the worst person in the series**, and openly warm, honest and sincere. His only hidden thing is the Lirael secret. (wk W44)
+- ✅ **The true villain, the worst person in the series**, openly warm on the surface. (wk W44) **He says he never lies, and that is his self-image:** he prefers silence and omission, and lies and manipulates when he has to. "He just straight up lies and manipulates alot." (chat 11-13 PHY P406–P408, CATCHUP §4 [P]) ⏳ pending pass
 - ✅ He killed Lirael (Mika's sister) **on purpose, again and again across loops**, because "Mika required a dead sister." Only Derrek knows. (wk W45)
 - ✅ He stops jumping because he learns he's being manipulated and is tired of killing Lirael. (wk W40)
 - ✅ Just Mika's friend: not the elves' leader, god or gardener. (R094)
 - ⚖️ The charm is his autopilot: he **says** charming things and **does** selfish or cruel ones with no change in tone. Never confirm it through a narrator. (08 t249, t746–749)
 - ⚖️ Only Derrek ever moved him to hatred; everyone else gets "slight disgust or pity." Lirael is the exception: "he did care and he does care for her." (08 t243, t301)
-- ⚖️ He won't push anyone to die, but builds the altar, arranges the conditions and lets the willing climb it. (08 t340, t554–555)
+- ⚖️ He deliberately leads people to their death: he builds the altar, arranges the conditions and lets the willing climb it. "Hes deliberately leading all these people to their death." (08 t340, t554–555; BANKp 11-16 [JON]) ⏳ pending pass
 - ⚖️ Signature atrocity: the cold pre-emptive killing of a liked character for things done in earlier loops, saying only "trust me." He tortures, always for the mission. (08 t709–710)
 - ⚖️ Indifferent to orcs: not malicious, just indifferent. (08 t705)
 - ⚖️ His arc is a fall, not a redemption: "This was never jons redemption. This was always his collapse." (08 t214)
@@ -107,7 +107,7 @@
 - ✅ He ripped the universe open by mastery and **demanded** power from the Unified One out of entitlement; he was cursed and tied to Jon's jumps. He opened the portal wanting, "like dragons before him," to free his people. (R016; jul23 t26; jul08 t359; 08 t125)
 - 🔒 Time is his only given power; he learned everything else. (02 Law 17) ✅ He **can't reset or jump on his own**; he rides Jon's jumps. (09 t713)
 - ✅ **His sight** means he "never misses or slips lines." (R019)
-- ✅ "Absokute microscopic clarity and control": tiny explosions in every cell; reads hormones, pheromones and blood pressure, and tries to influence them. Pours out soul pressure; stolen souls held inside him as magnifiers. (R066; BANK 11-16 [DERREK · unleashed]) ⚠️ vs his closed body: GAP_QUEUE.
+- ✅ "Absokute microscopic clarity and control": tiny explosions in every cell; reads hormones, pheromones and blood pressure, and tries to influence them. Pours out soul pressure. (R066; BANK 11-16 [DERREK · unleashed]) His power is his own: "derrek doesnt allow people into him"; "The scene where he calls on the souls inside is gone." (chat 11-13 PHY P373–P375, CATCHUP §4 [P]) ⏳ pending pass. Whether he is a soul thief at all: GAP_QUEUE Q34.
 - ✅ He led the creation of the chip as a mandate. (R017)
 - ✅ **He never supported the Blight.** He needs Jon to hate him so Jon keeps resetting; admitting it's for love would break Jon. He chose to be "the greatest evil the world had ever known" to save it. (08 t180, t182)
 - ✅ Core drive: to be seen by Jon, once, as his equal. "derrek ONLY EVER LOVED JON." (08 t235, t358)
@@ -133,7 +133,7 @@
 - ✅ Their war runs mainly **off screen**: Derrek hidden in his Tower, Jon elsewhere. We watch "the life of a hero living in the world they created." (09 t332)
 - ⚖️ Both are right for their own reasons; the window holds no hidden correct answer. (08 t724)
 - ✅ The keeper forces them to reset the world as part of their punishment (`cosmos.md`). (R010)
-- ✅ The saved-from-a-cult backstory is childhood-story origin only; don't port it into saga history. (R114)
+- ✅ The saved-from-a-cult backstory is childhood-story origin only; don't port its events into saga history. (R114) The people port whole: "Their scars their emotional states their trauma comes with them. Their memory is all they dont bring." (chat 11-13 PHY P371, CATCHUP §4 [P]) ⏳ pending pass
 
 ### Derrek's son: the Book 1 hero
 - ✅ Protagonist of Book 1 and the reader's stand-in: **a man, not a child**, capable, raised in the seat of power, a powerful user. The book is his rise; the Tower is the last few chapters. (08 t350, t752–758)
