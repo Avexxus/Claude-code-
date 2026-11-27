@@ -1,5 +1,5 @@
 # Rule ledger: Book 1 v3 (The Emperor's Son)
-🌊 Story clay. Kept by payoff-keeper. Started 2026-11-17 from draft_v1; rebased onto draft_v7; re-cited 2026-11-18 onto the locked split chapters and Chapter Three draft; Chapter Four (draft_v1) logged 2026-11-18; Chapter Five (draft_v1) logged 2026-11-18; **Chapter Six (draft_v1) logged 2026-11-21; R-016 re-cited to ch05 v4.**
+🌊 Story clay. Kept by payoff-keeper. Started 2026-11-17 from draft_v1; rebased onto draft_v7; re-cited 2026-11-18 onto the locked split chapters and Chapter Three draft; Chapter Four (draft_v1) logged 2026-11-18; Chapter Five (draft_v1) logged 2026-11-18; **Chapter Six (draft_v1) logged 2026-11-21; R-016 re-cited to ch05 v4. Chapter Eight (draft_v1) logged 2026-11-27 (see the Chapter Eight section at the end).**
 Cites: `1:L###` = `v3/ch01/new_ch01_v2.md` · `2:L###` = `v3/ch02/new_ch02_v2.md` · `3:L###` = `v3/ch03/draft_v1.md` (**stale**; ch03 is locked as `draft_v5`, cited `3v5:L###`) · `4:L###` = `v3/ch04/draft_v1.md` (**stale**; ch04 is locked as `draft_v5`, cited `4v5:L###`) · `5:L###` = `v3/ch05/draft_v1.md` (**stale**; ch05 is locked as `draft_v4`, cited `5v4:L###`; R-014 and R-016 are re-cited so far) · `6:L###` = `v3/ch06/draft_v1.md` (story text L1–521). Status: **SET** · **KEPT** · **BROKEN (reason)** · **UNUSED** (set and not used again).
 
 | ID | Rule | Set | Kept | Broken | Notes |
@@ -94,3 +94,32 @@ Retired: R-018.
 - **R-038** (the Tower can't be topped): unused since FOUR. Needed at the Tower.
 - **R-044** (reach closes on reach): unused since FIVE. Must be taught or used again in Book 1.
 - **R-009**: TEX.
+
+## Chapter Eight (draft_v1), logged 2026-11-27
+Review: `v3/ch08/review_payoff_v1.md`. Story text L1–~567. Cards: `v3/ch08/cards.md`. Decisions: `v3/ch08/audit_decisions.md`.
+
+**Kept (on the page):**
+- **R-014** (a big reach locks Eli's bad hand): KEPT. Gate (8:L211–221): fingers "locked, knuckle to knuckle"; nosebleed and blood (L223, L375). Scaled.
+- **R-016** (reach works unwatched, fails watched): KEPT but ambiguous (see Watch).
+- **R-021** (POV): **BROKEN** (see Broken without reason).
+- **R-023** (Teo has no reach): KEPT. Teo "felt the room read them" (L143) is perception, not a reach.
+- **R-027** (untrained draw can't be aimed): KEPT. The seam reach "went wide" (L509), "the same as it had at the moths."
+- **R-034** (Jon never interpreted): KEPT. "I jumped from here" is Jon's own line, not a reading. Jon's jump is now on the page; the codex must hold it.
+- **R-040** ("nothing rings out of here"): KEPT. No call from the beater; Jon's voice comes up a pit horn (see R-050).
+- **R-041** (Ithe's sky): KEPT. Low red sun, no warmth (L7). "The light over the heaps was too big for her" (L543).
+- **R-043** (listening): SUPPORTED. "He felt for the one catch the lock let him feel" (L215) is the listening theory on the page.
+- **R-047** (Doc's healing leaves no mark): KEPT in the sense that Doc heals no one and says "I've no bottle left" (L117). **Watch** L449 (see R-060).
+- **R-051** (master does not leave the Cut): not touched.
+- **R-052** (shed lamp moths): not touched.
+
+**Set and not yet used again:**
+- **R-044** (reach closes on reach): still unused after EIGHT (the gate is not a stronger reach on a weaker one). Unused since FIVE.
+- **R-053** (corridor takes back the steps it sees): set in EIGHT; the exit line (L497) is the question.
+
+**Broken:** R-021 (no on-page reason; a ruling is needed).
+
+**Rule conflicts to settle before ch09:**
+1. **Gift wording:** gate takes Eli's gift; grille says he has none (R-054).
+2. **Seam wording:** "reads only what is already read" (R-057) vs the earlier "reads only what it can grip" (R-016, MAGIC_DESIGN §3 as cited).
+3. **R-050** (the row-four relay) and the pit horn: two brass relays, still unruled.
+4. **R-021** (POV): amend or rewrite.
