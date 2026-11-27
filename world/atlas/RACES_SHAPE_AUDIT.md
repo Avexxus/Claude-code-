@@ -18,7 +18,7 @@ Legend: ✅ have it · ◐ partial · ❌ missing
 | Giants | ✅ | ◐ far-future camps only | ❌ | ❌ since the fall | ◐ "the forge world" | ◐ spite / quiet regrowth |
 | Dragons | ✅ | ◐ shape done, named factions later | ✅ | ✅ the circling pack | ✅ | ✅ |
 | Elves | ✅ | ◐ the Inquisition, dark elves | ❌ | ◐ king, "complete subservience" | ◐ Eterna, beacon worlds, exiles | ✅ reunion |
-| Humans | ✅ | ◐ the AI, Derrek, other powers, refuges | ✅ | ✅ AI + hidden emperor | ✅ | ◐ H1 hunger clash |
+| Humans | ✅ | ◐ the AI, Derrek, other powers, refuges | ✅ | ✅ AI + hidden emperor | ✅ | ✅ luxury, no target |
 | Dwarves | ✅ | ◐ "several emperors" | ◐ gnomes, the weak sold | ◐ bureaucratic autocracies | ◐ mine worlds | ✅ independence |
 | Orcs | ✅ | ❌ (fracture is internal) | ✅ bottom | ✅ none (no kings) | ❌ breeding worlds? free worlds? | ◐ hate, restitution |
 | Gnomes | ◐ | ❌ | ✅ indentured | ❌ | ❌ | ❌ |
