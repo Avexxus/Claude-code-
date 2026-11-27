@@ -134,6 +134,8 @@ Doc came down the rail from the yard with his bag, not hurrying. He went down on
 
 "He always says that," said the boy. Doc had the rag on it now. The boy hissed through his teeth. "My brother had a goat," Doc said, "would eat the label off a tin, and come back for the tin. Hold still. There."
 
+Eli stood where he was with his hands empty. The boy did not look at him again, and the quiet between them went on longer than Eli had any use for.
+
 The old man had opened his eyes. He was looking at Doc's hands on the arm, and then at Doc's face. Eli watched him watch.
 
 "He sees you," Eli said. "Doc. He sees you."
@@ -292,7 +294,7 @@ Teo held it out. Eli took it by the cord and got it wrong, and it knocked agains
 
 Water went over stone. Somebody called a number, and somebody else answered.
 
-"The door," said Jon. "By the old pit. On the ninth."
+"The door," said Jon. "By the old pit, the one with the chain off. On the ninth."
 
 "What door? Which ninth? Jon, what— Where's the—"
 
@@ -409,6 +411,8 @@ The old man picked up the strap. His thumb found the place he'd stopped at and w
 "On what I say."
 
 "Well," Eli said. "Then we'll see."
+
+It came out louder than he meant. The old man did not turn round. Eli stood in the cold with the words still in the air and waited for somebody to answer them, and nobody did, and after a while he understood that nobody was going to.
 
 The thumb stopped on the stitch. It went on.
 
