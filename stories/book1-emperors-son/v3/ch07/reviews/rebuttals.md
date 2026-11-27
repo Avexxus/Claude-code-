@@ -19,3 +19,80 @@ Rejected for draft_v2 only. The house rule is that each draft ends with a LEDGER
 
 **R6 · Continuity F5, F6, F8: state-row and gap items.**
 No story change. F5 is a state update (the strap is on the nail on Day 10 and on the crate on Day 12). F6 is a gap, not a contradiction. F8 is time passing. These are logged for the continuity-keeper.
+
+---
+
+# v5 rebuttals (draft_v4_guarded → draft_v5)
+
+Sources: `reads/cold_v4.md` (the only critic file in the repo). `reads/panel_v4.md` is named in the DIGEST but is not in the repo, so its findings could not be checked. No judge file for v4 exists.
+
+**V1 · Cold §1 and §8.1: no map of the Cut, no cast intro, "who is who".**
+Rejected. A map or cast intro is the exposition Patrick rejects (H14, H20, RI §9). The places and people are kept through use. The master now has a trade name (the strapmaker) so he can be called.
+
+**V2 · Cold §2–3: "the thing in him" is unnamed; "the fit" and "the account" unclear.**
+Partly taken. Decision A keeps the power unnamed. The fit and the account now each have one line through a character with a reason to say it (Seffa for the fit, Eli for the account). The power is shown by effect only.
+
+**V3 · Cold §2: the chip behind Oskel's ear is never explained.**
+Rejected. The chip is a shock collar (R143, KERNEL §2), and the codex keeps its mechanics off the page. The reader's gap is intended.
+
+**V4 · Cold §2: Doc's "Not that… Clean water" reads as if the water isn't clean.**
+Rejected. It is Doc's fragment-style order (voice notes, Doc), not a rule. Changing it would change his voice. No event changes.
+
+**V5 · Cold §3: "Why doesn't Jon say what the door is?" "Why doesn't Eli ask Teo?" "Why doesn't the master just say the rule?"**
+Rejected. Jon is never interpreted and answers sideways (R-034, voice notes). Eli asks and gets nothing; that gap is the point. The master's refusal to explain is his voice ("No.", no question marks). Patrick's brief is no explaining.
+
+**V6 · Cold §3: "Why does the row man leave the call on the board?"**
+Rejected. The book logs who asked, and the row man "put it through" (fix_log_v2 S1). Changing the mechanism would change an event; the decision says no change to events.
+
+**V7 · Cold §3: "Why doesn't Teo stop Eli at the crane?"**
+Rejected. Teo sees the swing and has no time; the text says the bundle "started to swing before Eli moved" and Eli is not stopped. Nothing new added.
+
+**V8 · Cold §4: "never turned his back on anything" contradicts the turn at line 59 and the pallet.**
+Taken. Cut. The line now reads "He did not get up."
+
+**V9 · Cold §4: "Pink" on Teo's jaw is ambiguous between Teo and Eli.**
+Rejected. The sentence is Eli's view of Teo; the subject is the grey and pink of Teo's face, carried from the line before. Low severity, and a rewrite would add a clause.
+
+**V10 · Cold §4: Oskel's times ("shift at two", "at dark") are compressed.**
+Rejected. Low severity. The reader needs the shift, not a clock.
+
+**V11 · Cold §4: the onions line refers to a prior conversation.**
+Rejected. It is Oskel's callback to FIVE (5:L435, the pie with the onions). Patrick's rule is to show, not to replay.
+
+**V12 · Cold §4: the ledger block in the file.**
+Taken for the delivery copy. `draft_v5_guarded.md` has no ledger. `draft_v5.md` keeps the ledger at the end, labelled as not story text.
+
+**V13 · Cold §5: Eli's cheer after the arm.**
+Rejected. Patrick's calibration (BANK 11-21): the softness is the point; flag only if it breaks the pressure or makes others vanish. The moth beat now makes Eli's cheer cost Teo something, which is the decision B answer.
+
+**V14 · Cold §5: Teo is "a closed door"; wants one real sentence of interiority.**
+Partly rejected. No interiority added (H14, no explaining). Teo now has one real action on the page, opening his own hand one finger at a time, and one flat warning that works ("Your hand. It's still on.").
+
+**V15 · Cold §5: the master teaches a boy to kill and insists on control, and the reader can't tell if he is cruel or protecting.**
+Rejected. The master's voice is the design ("Again", no question marks). The new "Still" to the sleeping boy shows his control, which is the reading the reader needs.
+
+**V16 · Cold §6: the onion scene is long and boring; trim by a third.**
+Rejected. Not in the decision list. The onion scene is the Seffa-Oskel cost (S-060, EARNED in the payoff review). Cutting it would change the pie beat.
+
+**V17 · Cold §6: "stayed", "Eli talked", "said the old man" repeat.**
+Taken for "stayed" (zero in narration) and "said nothing" (cut to one, then none). "Eli talked" kept at the walk up the Cut (intended); silent at dawn. Dialogue tags left as is, except where they moved.
+
+**V18 · Cold §7: Jon as the villain.**
+Rejected as a fix. Patrick's H29 says Jon is "the worst guy… deliberately leading all these people to their death." The reader's suspicion is the calibration. No change to Jon's voice.
+
+**V19 · Cold §8.3: explain the fit.**
+Taken. One line from Seffa.
+
+**V20 · Cold §8.4: explain the call (Jon, the door, the ninth).**
+Partly. The ninth is now the count day (the tall boy). Jon and the door are not explained, by design (R-034, Patrick's "Jon answers sideways"). The call is still in the hut; the book logs it.
+
+**V21 · Cold §8.7: settle Eli's injury and which hand.**
+Rejected. Not in the decision list. The swollen side of the face and the hand that shut are shown by effect and kept vague; ch06 has the record. Adding a sentence here would explain.
+
+**V22 · Cold §8.9: Teo's one real sentence of interiority.**
+See V14. Action, not interiority.
+
+**V23 · Cold §8.10: Doc's place in the group.**
+Rejected. H1–H3: "Hes just doc"; no announcement of his standing (BANKp 11-11).
+
+**Not addressed (no finding in the repo):** the panel scores and the "three of five personas" stop at the moth lesson. The panel file is missing; the moth beat is rewritten to hurt someone (decision B), which is the best available answer to that stop.
