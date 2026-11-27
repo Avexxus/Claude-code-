@@ -105,6 +105,73 @@ Cap (Patrick 2026-11-17): about 6 new Book 1 seeds + 3 FB per chapter. Loops pla
 | S-103 | Velk's stock | 2:L199–211 | — | Book 2 | TEX |
 | S-107 | The wall-listeners | 1:L11 | — | Book 2/3 | TEX |
 
+## Chapter Seven (draft_v1), logged 2026-11-27
+
+Review: `v3/ch07/review_payoff_v1.md`. Story text L1–~399. Plan: `v3/ch07/plan.md`.
+
+**Book 1 new seeds (5 of cap 6):**
+
+| ID | Seed | Planted | Reinforced | Payoff (planned) | Grade · status |
+|---|---|---|---|---|---|
+| S-114 | **The moth lesson**: find a moth blind by listening; "Listen. Don't look."; Eli kills it ("I felt it go"); "Again." | 7:L141–187 | 7:L209–211 (the hand after: "It's the cold") | Plan: paid later in the Tower (the blind find; the kill from the wrong side) | OK. Clear and not telegraphed |
+| S-115 | **The door, "on the ninth"** (Jon: "The door. On the ninth."; Eli: "Which ninth? Jon, what door"; Eli: "They're all on the month") | 7:L275–277 | 7:L295, L377 | Ch08: the rift and the prison | OK, with a risk: the ninth echoes Ninth Terrace and "Nine" (3:L577). Cut "Which ninth?" if the echo is loud (ledger unsure point 2) |
+| S-116 | **"I don't leave the Cut"** (no question mark; "No." ×2) | 7:L363–373 | 7:L393–395 (the master at his gate, eyes shut) | His later boarding (plan) breaks it with a reason (R-051) | OK. Clean |
+| S-117 | **The master's still look at Doc** (his eyes come past Teo and stay; Eli: "He sees you, Doc"; Eli talks over it) | 7:L25, L31–37, L131 | 7:L393 | Unpaid. Pays with S-061 (Doc's nature) later | OK. Eyes only; no explanation in narration. Keep it that way |
+| S-119 | **The tall boy's arm, "right in a week, Doc had said so"; the rag "gone brown already at the crease of the elbow"** (ACC) | 7:L99–103, L297, L391 | — | Not planned. Either the arm is right on time (ordinary healing) or Doc's no-vinegar dressing failed (a cost that lands on someone else, R-047) | OK as a hook. **Decide before ch08:** the brown rag is a promise of infection. Keep it, or cut "the rag had gone brown" |
+
+**Texture demoted (cut the promise, keep the object):**
+
+| ID | Seed | Planted | Action |
+|---|---|---|---|
+| S-121 | **The relay at row four** (tin hut, handset on cord, board of brass dials, the row man who "put it through" and leaves) | 7:L235–239 | TEX. Mechanism only. **Cut "the row man could have put a call through to anybody in the city if you asked him nicely" (7:L297).** That sentence makes it a rule (R-050) |
+| S-122 | **Ferrel holds Oskel's chip** ("Ferrel's got the lot, same as he's got your chip," 7:L315; reused name, 5:L429) | 7:L315 | ACC, TEX. **Cut "same as he's got your chip."** It's a new relationship claim, unplanned |
+
+**Future-book:** 0 new (cap 3). Reinforced: S-111 (human chip; 7:L211, L337), S-113 (Doc's brother, "My brother had a goat"; 7:L129). **Note S-064 (goats):** 7:L129 is a third goat passage in the book; the plan allowed one goat at work only. Keep it short. Don't finish the goat.
+
+**Payoffs judged in SEVEN:**
+- **S-031** "Bring him back breathing. Then we'll see." → **EARNED** (see the S-031 row).
+- **S-060** pie and onions → **EARNED, turned.** Pie missed (7:L305); onions on the sill for the boys (7:L321, L353).
+- **S-066** "Somebody's got to feed you" → **EARNED.** Seffa goes (7:L339–355, L389). Oskel answers "Who?" (7:L341), which the plan said nobody would do. Keep it; she doesn't answer.
+- **C1** the account forgotten (plan) → **EARNED.** "The account, I'll have it rung" (7:L67) → "He didn't say anything about the account" (7:L297).
+- **Jon knows Teo's hand** ("That's come right, then," 7:L249; pays 4:L245) → **THIN.** Only ch06 L53 touches Jon's knowledge. One more touch before ch08.
+- **S-038** Jon's absence → **THIN, partial.** Jon returns as a voice (7:L241–295). Stays open until he's seen.
+
+**Reinforcements to existing seeds (SEVEN):**
+- S-001 letter: 7:L389 (touch at the gate; TELEGRAPHED tic; see row above).
+- S-006 freeze: 7:L169–177 (the moth taken blind; it "went out wide… came back empty").
+- S-007 Teo's cool head: 7:L87 ("It's swinging"), L225 ("Four"), L243 ("Yes"). Teo's "Right." **not used**: retired as a closer, as planned.
+- S-036 second-best coat: 7:L85, L209–221 (the coat as routing tag), L223, L389. **Turned a fourth time** (R-028).
+- S-046 Eli's bad hand: 7:L109, L115, L187, L189, L191. **5 beats, at cap.** "Partway. He pushed, and it shook" (7:L189) repeats 6:L49 "partway, shook." Cut "and it shook."
+- S-048 master's held-back power: 7:L111 (the second "Don't use more than you can control," marked as second).
+- S-049 Oskel / the chip: 7:L211–217, L317 (laugh too long), L337 (square red at the edges). Reinforced.
+- S-050 Seffa: 7:L5, L59, L335 (the scar, a stove's rim), L339–355, L389. **The Seffa line for ch08:** she has chosen the road; the cost is the yard and Oskel.
+- S-053 tall boy: 7:L59, L99–103, L391. Carried as S-119 for the arm.
+- S-056 Eli's gifts: 7:L67 ("I'll have it rung"; "there'll be a room"). **One Eli promise (cap 1).** Plan said none. **Flag:** "the room" is new and unpaid. Cut it or carry it to ch08.
+- S-059 master never looks at Eli: 7:L25, L45, L393. Kept.
+- S-061 Doc heals too well: 7:L131 (the master watches Doc's hands; "He'd see what Doc was"). Reinforced. Payer still not named.
+- S-064 goats: 7:L129. Third passage. See above.
+- S-065 Doc owes nobody: 7:L65 (sits on his bag until the bell; "that was where he stayed"). Light.
+- S-033 Teo's hand: 7:L15, L23 (pink, closed at the edges, "did what they were told"). Closing note only.
+- S-057 too-long laugh: 7:L35, L375 (Eli's two laughs; at cap).
+
+**Overdue (after SEVEN):**
+- **S-008 the Queen's ribbon.** Planted 1:L583, last 4:L205. The ch06 plan said "plant in SEVEN, or cut." **Not planted.** Cut or plant in ch08.
+- **S-019 the King.** Nothing since THREE. No brief payoff. Name its Book 1 return or close it.
+- **S-032 Jon's price.** Last touched 4:L221. Three chapters.
+- **S-047 Jon is wrong.** Needs a second instance. None in SEVEN.
+- **S-106 tune.** Still never planted.
+- **S-061** payer: still unnamed. The master's look at Doc (S-117) is a reinforcement only.
+
+**Repetition watch (ch07, story text, approximate grep counts):**
+- "listen" ~13 (title motif). Propose cap 8 for this chapter.
+- "lamp" ~12. Doc's "Lamp" commands: 0 here (cap holds).
+- "shut" / eyes shut ~13 (cap was 4 in ch06). Propose cap 6. Cut two (7:L83 or L135; L393 or L395).
+- "coat" 5 in story text (the routing tag is in use; cap 5).
+- Teo's "Right." closer: **0**. Good.
+- Eli's laughs: 2. At cap.
+- Seffa's hands under arms: **0.** Good.
+- "three houses stacked" (7:L73) brushes S-063. Don't add numbers.
+
 ## Retired IDs (do not reuse)
 S-012 · S-015 · S-016 · S-017 · S-018 · S-020 · S-021 · S-022 · S-023 · S-024 · S-029 · S-040 · S-105 · S-106 Velk's/Derrek's tune (**still no plant**; Book 4 needs one) · S-108.
 
