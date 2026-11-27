@@ -1,5 +1,5 @@
 # Seed ledger: Book 1 v3 (The Emperor's Son)
-🌊 Story clay. Kept by payoff-keeper. Started 2026-11-17 from draft_v1; rebased 2026-11-17 onto draft_v7; re-cited 2026-11-18 onto the locked split chapters and Chapter Three draft; Chapter Four (draft_v1) logged 2026-11-18; Chapter Five (draft_v1) logged 2026-11-18; **Chapter Six (draft_v1) logged 2026-11-21, and the ch05 entries touched by v4 re-checked. Chapter Seven (draft_v1) logged 2026-11-27 (see the Chapter Seven section below).**
+🌊 Story clay. Kept by payoff-keeper. Started 2026-11-17 from draft_v1; rebased 2026-11-17 onto draft_v7; re-cited 2026-11-18 onto the locked split chapters and Chapter Three draft; Chapter Four (draft_v1) logged 2026-11-18; Chapter Five (draft_v1) logged 2026-11-18; **Chapter Six (draft_v1) logged 2026-11-21, and the ch05 entries touched by v4 re-checked. Chapter Seven (draft_v1) logged 2026-11-27 (see the Chapter Seven section below). Chapter Eight (draft_v1) logged 2026-11-27 (see the Chapter Eight section above Retired IDs).**
 Cites: `1:L###` = `v3/ch01/new_ch01_v2.md` · `2:L###` = `v3/ch02/new_ch02_v2.md` · `3:L###` = `v3/ch03/draft_v1.md` (**stale**: ch03 is locked as `draft_v5`, cited `3v5:L###`) · `4:L###` = `v3/ch04/draft_v1.md` (**stale**: ch04 is locked as `draft_v5`; new entries cite `4v5:L###`) · `5:L###` = `v3/ch05/draft_v1.md` (**stale**: ch05 is locked as `draft_v4`; new and fixed entries cite `5v4:L###`) · `6:L###` = `v3/ch06/draft_v1.md` (story text L1–521) · `7:L###` = `v3/ch07/draft_v1.md` (story text L1–~399; the author's LEDGER footer is not story text). **FB** = future-book seed. **ACC** = accidental (on the page, not in the plan). **TEX** = demoted to texture (no promise; don't reinforce).
 Plant grades: **OK** = light and visible · **HEAVY** = risks telegraphing · **FAINT** = may not be remembered.
 Cap (Patrick 2026-11-17): about 6 new Book 1 seeds + 3 FB per chapter. Loops planted and paid inside a chapter are listed separately.
@@ -171,6 +171,89 @@ Review: `v3/ch07/review_payoff_v1.md`. Story text L1–~399. Plan: `v3/ch07/plan
 - Eli's laughs: 2. At cap.
 - Seffa's hands under arms: **0.** Good.
 - "three houses stacked" (7:L73) brushes S-063. Don't add numbers.
+
+## Chapter Eight (draft_v1), logged 2026-11-27
+Review: `v3/ch08/review_payoff_v1.md`. Story text L1–~567 (the author's LEDGER footer is not story text). Plan: `v3/ch08/cards.md` (uses the cards' IDs S-123 to S-130). Decisions: `v3/ch08/audit_decisions.md`. S-120 is unassigned (not used in ch07 or ch08).
+
+**Book 1 new seeds (5 of cap 5):**
+
+| ID | Seed | Planted | Reinforced | Payoff (planned) | Grade · status |
+|---|---|---|---|---|---|
+| S-123 | **The lintel line**: cross unread and the rule takes the nearest counted part (top joint); the count restarts with the breaker | 8:L65–73, L131 | 8:L107–111 (the boy's left little finger, "I was quick"); 8:L435 (Seffa's explanation) | Paid in-chapter, 8:L441 (Teo's right index) | **EARNED.** Paid by Teo's own choice, not by the rule. Counted per cards; ledger convention would exempt an in-chapter loop |
+| S-124 | **Eli's reach is the only key in the party; the gate reads a gift, and only a gift** | 8:L191–217 | 8:L369 ("the wrong key"), L375–379 (the lintel fails) | Not paid in ch08 | OK. Set and reinforced. **Watch:** the gate took Eli's reach as a gift; the grille says "You haven't got one." Add one line (see R-054) |
+| S-125 | **Seffa's pot left under the landing lamp** (the last yard object) | 8:L251, L279 | 8:L275 ("So Seffa had the boy, and the rail, and the pot") | Pays at the yard or in ch09 | OK. Object set, not yet paid. Note: Ondry's "You had a pot" (L325) echoes the pot; keep it or cut it |
+| S-126 | **The thin place has two temperatures; the cold changes sides on the step** | 8:L51 | 8:L539 | Not paid (texture-weight) | OK. Kept as R-058 |
+| S-127 | **One out, one stays: the door's price** ("Five came in. Six go out. One stays."; Ondry: "I'm counted already") | 8:L383 | 8:L431 (the blank), L459 ("It wants his") | **Paid 8:L509–533** (the seam refuses the read body; Ondry stays) | **TELEGRAPHED, soften.** Three blanks (L77, L321, L429) plus "The old man was the blank" (L431) give it away before the seam. **Cut the L431 identity sentence.** Then EARNED |
+
+**Future-book seeds (3 of cap 3):**
+
+| ID | Seed | Planted | Reinforced | Book guess | Status |
+|---|---|---|---|---|---|
+| S-128 | **The lintel hand**: the rules cut in one square hand | 8:L69, L73 | 8:L153 ("a hand Eli did not like"), L367 | Book 2+ | OK. Placed twice; not paid |
+| S-129 | **The wall of thirty**: the first name struck through in the oldest hand; her name not printed; "Nobody counts him" (SIRRIN) | 8:L77, L357–363 | 8:L485 (the SIRRIN flake taken), L563 (flake in her fist, last image) | Book 2+ (her name) | OK as FB. **Open risk:** the flake is a Book 1 object on the page. If ch09 does not use it, cut the flake to texture |
+| S-130 | **The counter's cord of teeth and joints: what it keeps** | 8:L421, L425 | 8:L441 (one more bead), L509 | Book 2+ | OK. Placed twice; not paid |
+
+**Folded into existing seeds (not counted):**
+- Pencil tied short, "It's tied short for a reason" (8:L85–93) → **S-002** (Teo's warning, proven). Texture only; no new count.
+- "Sitter" (Ysvet's word for Doc, 8:L339, L419, L449, L455) → **S-061** (Doc's nature). Cut L419 and L455 to one use.
+
+**Texture demoted (cut the promise, keep the object):**
+- Corridor "did not take a step back for any of them… She did not know why" (8:L497). Question only. Not counted in FB.
+
+**Reinforcements to existing seeds (EIGHT):**
+- **S-001 letter:** not touched. Gap from 7:L389 is one chapter. Good.
+- **S-002 Teo's warnings:** 8:L87 ("No"), L131 ("It reads the ones that cross"), L185 ("It takes back what it sees"), L201 ("It says given. It doesn't say you."). Four warnings, all right, none yet "I told you." Do not add another before S-002 pays.
+- **S-004 Eli's kindness:** 8:L549 ("You're not handed back," said kindly). Light.
+- **S-005 the reach, unseen:** 8:L209–217 (the gate, shown in full). Source still unseen. Reinforced, not paid.
+- **S-006 freeze:** 8:L211–215 (two failed pushes, friends watching); L215 ("felt for the one catch"). Ambiguous under R-016 (see the rule ledger).
+- **S-007 Teo's cool head, cost:** 8:L63, L151, L441 (the finger chosen for the count). Cost paid in part; death still pending.
+- **S-032 Jon's price:** 8:L13 "I jumped from here." **Touched though deferred** by audit. Ch09 must not contradict Jon's jump.
+- **S-038 Jon's absence:** 8:L13, L381, L383 ("Jon isn't here"). Voice only. Reinforced.
+- **S-046 Eli's bad hand:** ~9 beats (8:L7, L37, L197, L211, L221, L375, L503, L509, L517). **Over cap (5).** New state: the grip "gave… like a wire" (L211). Payer (Doc) refuses (L225–233). Not paid.
+- **S-050 Seffa:** 8:L99, L135, L283 (sleeve), L295, L317 (grille burn), L343. Strong. Her sleeve is a cost, not a promise.
+- **S-053 tall boy:** 8:L95–113 (the joint), L175–187, L499, L559–561 (the rail). Carries S-119 and the price of "Rule's for slow ones."
+- **S-056 the room:** not touched. Ch07's "there'll be a room" is unpaid. Pay or cut.
+- **S-059 master never looks at Eli:** not in ch08.
+- **S-061 Doc heals too well:** 8:L449 (cold goes into Teo's skin, seen by Ysvet). **Borderline R-047.** Doc refuses Eli (L225–233, "Not you"). Payer still unnamed. Ysvet knows Doc's trade ("Sitter," L339).
+- **S-065 Doc owes nobody:** 8:L141 (coat folded under the table leg, "Nobody sat on it"), L273 ("I'll go with the one who's bleeding"). Light.
+- **S-036 second-best coat:** not a price in ch08. Coat used 8× as clothing (see repetition).
+- **S-115 the door, the ninth:** **PAID 8** (see paid table below).
+- **S-119 the tall boy's rag:** **PAID 8** (see paid table below).
+
+**Paid in Chapter Eight:**
+
+| ID | Seed | Plant | Reinforced | Payoff | Verdict |
+|---|---|---|---|---|---|
+| S-115 | **The door, "on the ninth"** | 7:L275–277 | 7:L295, L377; 8:L19 ("He asked if it was the ninth") | 8:L13 (Jon: "I jumped from here"); the pit is the door; the arch opens (L143) | **EARNED.** "The ninth" is asked and not answered, which is right. Numerals are heavy (see repetition) |
+| S-119 | **The tall boy's arm and the brown rag** | 7:L99–103, L297, L391 | 8:L9 (rag "gone stiff at the crease") | 8:L283 (Seffa unwinds it, binds with her sleeve: "It's dirt. Not a thread.") | **EARNED.** The hook becomes Seffa's cost. The one line of denial is enough |
+
+**Loops planted and paid inside EIGHT (not counted against the cap):**
+- "Rule's for slow ones" (8:L97) → "I was quick" (8:L113). **EARNED.**
+- Eli's "We'll carry him out" (8:L389, L491; the chapter's one Eli-promise, cap 1) → "Who carries him" → the seam refuses (L517). **EARNED.** Kept as a break.
+- "Nobody's" / the blank (8:L77–83) → "the old man was the blank" (8:L431) → Ondry stays. **EARNED** after the softening.
+- "He'll ring" (8:L55) → the horn hisses (8:L545). Light irony. OK.
+
+**Overdue after EIGHT (no payer, or deferred twice):**
+- **S-008 the Queen's ribbon.** Planted 1:L583; last 4:L205. Deferred to ch09 by audit (third deferral). **Plant in ch09 or cut.**
+- **S-019 the King.** Last THREE. Deferred to ch09. **Name the Book 1 return or close.**
+- **S-030 the terrorist cell hunt / Teo's withheld line.** Ledger said "ch08 squad." Not in ch08; not in audit deferrals. **Dropped silently. Decide.**
+- **S-047 Jon is wrong.** Unpaid since 5:L223. Misapplied per audit. **Second instance in ch09 or cut.**
+- **S-056 the room.** Ch07 promise; not in ch08. **Pay or cut.**
+- **S-061 Doc's payer.** Unnamed since ch06. **Name the chapter.**
+- **S-046 bad hand.** Payer is Doc; refused on the page. **Name the chapter.**
+- **S-106 the tune.** Never planted. Deferred (Book 4 needs one). **Plant in Book 1 or cut.**
+- S-032 is deferred by audit but touched in ch08 (see reinforcements). Not overdue.
+
+**Repetition watch (ch08 counts, story text):**
+- **Bad hand (S-046):** ~9 beats. Cap 5. Over.
+- **"coat":** 8 uses. Cap 5. Cut L115 and L341.
+- **"You said" / "I'm saying":** 3 and 2. Cap 2. Cut L137.
+- **"a hand's width":** 3 (L217, L443, L467). Cap 2. Cut L467.
+- **Spoken counts (numerals):** about 20. Allow here (the count is the chapter's subject). **Propose cap 12 for ch09.**
+- **Similes:** about 10. Cap 5. Cut two (L59 or L111; L501).
+- **"Sitter":** 4 uses (L339, L419, L449, L455). Cut to 2.
+- **Teo's "Right." as closer:** not used (L447 is mid-scene). Good.
+- **Eli's laughs:** 3 (L71, L235, L463). Over the cap of 2. Cut one (L71 "Well. We can do that" laugh, or L463).
 
 ## Retired IDs (do not reuse)
 S-012 · S-015 · S-016 · S-017 · S-018 · S-020 · S-021 · S-022 · S-023 · S-024 · S-029 · S-040 · S-105 · S-106 Velk's/Derrek's tune (**still no plant**; Book 4 needs one) · S-108.
