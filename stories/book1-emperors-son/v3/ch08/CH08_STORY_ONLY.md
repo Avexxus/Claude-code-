@@ -4,17 +4,19 @@ The horn on its bracket by the chain post gave a hiss when Eli leaned on it, and
 
 "Jon. It's us. We're at the pit. Jon."
 
-Somebody had run a line down from the row man's hut to this post, years back, for the chain-man. Green had got into the brass lip. They had come down the lane past Pask's gate in the grey, Teo at the front and Seffa with the pot knocking her hip and Doc with his bag at the back of his knee, and Eli talking the whole way. The tall boy had come down the lane after them from the yard gate, a long way behind, and he had not been sent home.
+Somebody had run a line down from the row man's hut to this post, years back, for the chain-man. Green had got into the brass lip. They had come down the lane past Pask's gate in the grey, out of the Cut, which was the iron yards and cranes along the cut on Ithe. Teo was at the front. He had read the ninth off the row man's book and said little else. Seffa came after him with the pot knocking her hip. She kept the yard's boys fed and did not care to be asked why. Doc had his bag at the back of his knee. He was the healer who sat with the sick, and he had no bottle left in the bag. Eli had talked the whole way. The tall boy, Kell, had come down the lane after them from the yard gate, a long way behind, and he had not been sent home. His arm had gone under the iron on four.
 
 Low over the heaps the sun was up, red, and it gave no warmth at all. The frost on the wire fence had a skin of light in it. Back from the post, Teo stood with his coat buttoned to the neck and his bad hand in the pocket. He was not looking at the horn. He was looking at the crow on the far lip of the pit, which had not gone up.
 
 Seffa had the canvas bag on one shoulder and the big pot on its strap at her hip. Doc stood at the back. The tall boy had his right arm held against his ribs, the brown rag wound on the forearm and gone stiff at the crease.
 
-It was the ninth. Teo had read it off the row man's book that morning, with his finger on the line, and Eli had said good without hearing what he was saying good to.
+It was the ninth. Teo had read it off the row man's book that morning, with his finger on the line, and Eli had said good without hearing what he was saying good to. Somewhere under the rock, if the old men in the Cut were right about anything, a woman had kept the count since before the cranes.
 
 On the brass, the relay clicked.
 
-"I jumped from here," said Jon. His voice came up out of the brass flat, from a long way down. "Walk in front, son. Don't stop."
+Jon had gone down ahead of them, years back, off this same rim. The horn was the rows' relay. His voice came up it from the rows and went no further.
+
+"I jumped from here," said Jon. His voice came up out of the brass thin, from a long way off. "Walk in front, son. Don't stop."
 
 "Jon, where are—"
 
@@ -76,7 +78,11 @@ Square capitals ran across the lintel. Eli read them aloud, which was what he di
 
 Smaller, under it, in the same square hand: CROSS ONLY WHEN READ.
 
-No one laughed with him. He stopped on his own.
+The room did not laugh with him. He stopped on his own.
+
+Under the rule a band of names ran along the stone, cut small, a dozen to a row, each with a notch beside it. Teo's lips moved along it. "That's the count," he said, to the wall. "A name's read when it comes off the band and into the count. A notch with nothing cut in it is a blank. It never reads through a blank."
+
+"I didn't ask," said Eli.
 
 A wall of names stood beside the table. They were cut in columns, a tally down the margin of each and a name against every mark, and several hands had cut them. Some were neat. Some were scratched in with the point of something that had slipped. Some had a line drawn through them in a different stroke. Doc walked the length of it with his bag at his knee, and put his hand out to the names as he passed, and never touched one.
 
@@ -164,13 +170,9 @@ Same pillar, same tallies. He knew it by a scratch on the left side that had bee
 
 "We walked," said Eli.
 
-"We walked eleven," said Teo. "It's back at ten."
+"It's back at ten," said Teo.
 
-"Walk again."
-
-Teo did not walk. Seffa did. She went past Eli with the pot knocking and ran three strides, hard and short, the way she'd run for the boys' pot at the trough. She stopped with her feet apart. The pillar was behind her. Nine strides behind. Twelve.
-
-Three had been taken back. Eli watched the dust go in lines under her boots.
+Seffa did not wait to be told. She went past Eli with the pot knocking and ran three strides, hard and short, the way she'd run for the boys' pot at the trough. She stopped with her feet apart. The floor had taken three back. Eli watched the dust go in lines under her boots.
 
 "She's quick, Seff," he said. "She'll have us out before the bell. You'll see."
 
@@ -206,7 +208,7 @@ Both hands went out. The good one opened. The bad one would not open; the finger
 
 "It says given. It doesn't say you."
 
-"I'll open it. You'll see. I said I would." Smiling, he could feel the smile go up the side of his face. He put the bad hand flat on the plate.
+"I'll open it. You'll see. I said I would." Smiling, he could feel the smile go up the side of his face. He pressed the bad hand to the plate.
 
 Out it went, the thing he had always had, the thing that had made the cranes' men look up and that had put the moths in his palm. He pushed it into the iron as he had always given things, wide and all at once, and kept hold of the edges of it.
 
@@ -226,7 +228,7 @@ Something warm ran over his lip. He tasted it before he saw it, and it was on hi
 
 Crouched by him, Doc looked at the hand, and at the plate, where the drop had gone dark in the iron. "Hm." He held out his own hand, palm up, and waited. "Let's see."
 
-His good hand went out. Doc looked at it a while, and took his own hand back and put it in his coat.
+His good hand went out. Doc looked at it a while, and took his own hand back and put it in his pocket.
 
 "Not you," he said. "You've bled on the lock."
 
@@ -246,7 +248,7 @@ They went through the gate. The light was on the far side, and the corridor ran 
 
 ---
 
-Under the gate was a landing, a square of stone with a lamp on a hook over it. The stair came down into it from above and went on from the far side. There were two ways. The lower gallery ran off to the left into the dark, and somewhere down it a great many voices were reading, one after another, a little late. The upper rail ran off to the right: a catwalk on iron brackets along a row of cells, and every cell had a grille set into its front and no door.
+Under the gate was a landing, a square of stone with a lamp on a hook over it. The stair came down into it from above and went on from the far side. There were two ways. The lower gallery ran off to the left into the dark, and somewhere down it a great many voices were reading, one after another, not quite together. The upper rail ran off to the right: a catwalk on iron brackets along a row of cells, and every cell had a grille set into its front and no door.
 
 Seffa put the pot down on the flags and knelt by the boy. He had sat down on the bottom step without being asked.
 
@@ -256,7 +258,7 @@ Again the stump had opened on the stair. The wet had come through the rag and ru
 
 What a thread was, he did not know. He nodded as if he did.
 
-Her good wool sleeve came off, the one from her coat, and she folded it round the finger and tied it off with her teeth. She put the rag back on his forearm and knotted it where it had been. When she stood up she left the pot where it stood on the flags, with the lid tied to its strap, and did not look at it. Seffa was the best of all of them at this, Eli thought, at tying things up and carrying them. He said so, to the landing. Nobody looked up.
+Her good wool sleeve came off, the one from her coat, and she folded it round the finger and tied it off with her teeth. She put the rag back on his forearm and knotted it where it had been. When she stood up she left the pot where it stood on the flags, with the lid tied to its strap, and did not look at it. Seffa was the best of all of them at this, Eli thought, at tying things up and carrying them. He said so, to the landing. The landing did not look up.
 
 "Someone's reading," said Eli. He was already at the lower mouth with his face turned toward the voices. "They'll know the way out. Listen to them. They'll be on their way up, I should think, or—"
 
@@ -280,7 +282,7 @@ It was not. He had come down the stair from the gate with the rest of them. Eli 
 
 Teo looked at the lower mouth a while. Then he went down toward it, and Eli went with him. Teo did not speak, and Eli did not ask him to.
 
-After them came Doc. "I'll go with the one who's bleeding," he said, and his bag went down the step ahead of him.
+After them came Doc. "Seffa's got the boy, and she's got the ladder," he said. "Somebody's to keep you off that count." His bag went down the step ahead of him.
 
 Once from the lower mouth he looked back. Seffa had the boy's good arm and was steering him up the ladder, and the big pot sat on the flags under the lamp where she had left it. They went up the wall until the lamp was between them and he could not see either of them. "We'll be just behind, love," he called up. "You'll hear us."
 
@@ -294,37 +296,39 @@ Lamps in the wall slots had dimmed while they came down the gallery and had come
 
 On a sack in the middle of the floor the old man sat, with his knees drawn up under his chin. He was coughing. It went on and on, a wet dragging cough that did not stop when it should have stopped, and his whole chest went with it. His mouth was open. The gum behind his lips was pale and shining, with four teeth loose in it.
 
-A woman knelt beside him with her palm flat on his chest. She was thin to the bone. Her hair was tied back with a strip of something. She was not coughing. Her eyes were shut, and they opened, and they were silver in the dark.
+A woman knelt beside him with her palm on his chest. She was thin to the bone. Her hair was tied back with a strip of something. She was not coughing. Her eyes were shut, and they opened, and they were silver in the dark.
 
-"Don't put a hand on the grille," she said, up to the rail. She said it flat, and not loud.
+"Don't put a hand on the grille," she said, up to the rail. She said it without any lift in it, and not loud.
 
 The iron rang over him, and he looked up. Seffa's hand had been on the upper grille, and it came off slow. There was a line of grey across her palm where the iron had been.
 
 "Five," the woman said. She said it to the old man's chest, between breaths. "You had a pot."
 
-That got no answer from him.
+He did not answer that.
 
 "We're—" said Eli.
 
 "Don't."
 
-No name came from her, and she asked for none. She did not stop counting. Doc had come close to the bars with his hand already through them and flat, reaching for the old man's chest.
+No name came from her, and she asked for none. She did not stop counting. Doc had come close to the bars with his hand already through them and open, reaching for the old man's chest.
 
 "Stand back from the grille," she said.
 
 Doc did not move. She looked at his hand.
 
-"Sitter," she said.
+"Sitter," she said. "You sit with them and take something off the top, and call it a kindness."
 
-Doc's hand came back through the bars and went into his pocket. He went and stood against the wall with his face shut like a door. Eli did not know what the word meant, and did not ask.
+Doc's hand came back through the bars and went into his pocket. He went and stood against the wall with his face shut like a door. Eli heard the word and did not ask what it cost.
 
 A cough came up from low in him and went on, and his knees pulled higher, and he could not get his breath in front of it. She laid her palm on his chest over the shirt. She shut her eyes. Eli watched her cheeks go in. He watched her throat move once and her mouth shut on it. She turned her face into her sleeve and coughed, hard, one time.
 
 Flecked, the cuff came away, red spots on the grey wool. She held the sleeve down against her arm.
 
+Her palm stayed where it was on his chest. What she had taken from him was still in her hand, and she kept it there.
+
 "She's wonderful," Eli said quietly, to Teo. "Look at her. She's just getting it up for him. Like a nurse. She's got him sorted."
 
-No answer from Teo. He was watching her hands.
+Teo did not answer. He was watching her hands.
 
 The knife was in her left hand. The blade was short and dark. Her right hand she kept close to her side, the fingers curled in against the palm.
 
@@ -358,17 +362,11 @@ Over the grille, the lintel was cut in the same square hand. She read it out wit
 
 "OUT WHEN EVERY NAME IS READ."
 
-Flat, she said: "The grille takes a gift as given. Yours it'll take."
-
 "Then it's open," said Eli.
 
-"It doesn't open for gifts. It opens for names."
+"It takes names." She said it once, and did not look round. "It takes no gifts. Your reach was given to the gate. The gate isn't this."
 
-"Let me try," said Eli.
-
-"Then try."
-
-Onto the lintel stone went the bad hand, and pushed. Eli felt the reach go out of him into the stone. The iron took the grip and held it, and gave nothing back. The lintel did not open. The hand shook on the stone, the fingers pulling at the air, and a thin line of red came out of Eli's nose and ran to his lip, and he did not wipe it.
+Eli opened his mouth to argue it, and did not. He put the bad hand on the lintel stone and pushed. Eli felt the reach go out of him into the stone. The iron took the grip and held it, and gave nothing back. The lintel did not open. The hand shook on the stone, the fingers pulling at the air, and a thin line of red came out of Eli's nose and ran to his lip, and he did not wipe it.
 
 "Try again," she said.
 
@@ -388,7 +386,7 @@ From the bars he had turned, his face loose and bright and wet at the nose. "We'
 
 Her eyes stayed on the bars. Eli could not tell whether she believed him, and she did not say.
 
-Somewhere over their heads a bell went, once, in the lintel: a flat iron note that came down through the stone and into Eli's teeth. Everybody stood, because the lintel said to. Eli got to his feet. Doc stood up from the wall. Above them Seffa pulled the boy up by his good arm.
+Somewhere over their heads a bell went, once, in the lintel: a hard iron note that came down through the stone and into Eli's teeth. Everybody stood, because the lintel said to. Eli got to his feet. Doc stood up from the wall. Above them Seffa pulled the boy up by his good arm.
 
 Her back to the wall, the woman faced the grille. She did not move anything but her eyes. Her right hand was tucked in against her side, out of the grille's reach.
 
@@ -398,7 +396,7 @@ All the while the old man hummed. He did it when the cough let him, low, the tun
 
 Out of the back wall at the ledger came the counter.
 
-The wall did not part. The cut names went into the rock, column by column, and something came out of the place where they had been. A frame came out, the shape of a standing desk that someone had folded wrong. It had too many joints. The arms were folded at the wrong elbows, and one of them doubled back on itself so that the hand sat at the shoulder. The face was set sideways in the chest, at the height of the grille. The skin was tally paper, pressed flat and ruled in pencil-grey, and the lines were the count.
+The wall did not part. The cut names went into the rock, column by column, and something came out of the place where they had been. A frame came out, the shape of a standing desk that someone had folded wrong. It had too many joints. The arms were folded at the wrong elbows, and one of them doubled back on itself so that the hand sat at the shoulder. The face was set sideways in the chest, at the height of the grille. The skin was tally paper, pressed smooth and ruled in pencil-grey, and the lines were the count.
 
 Taller in the cell than the cell's door would have let it be, if there had been a door.
 
@@ -406,7 +404,7 @@ Talk stopped in him. He had not known it could. He listened as he had been told 
 
 Its count began. It came out of the chest in a voice made of many voices, each one a little late, the way a line of men calls a number down a shed. Names came first, and numbers. Eli's own chest moved with them. He felt each number go up in the bodies at the grille, and none of them had been told to stop breathing, and they stopped.
 
-Living first, it read. It read Teo's name back to him off the lintel, the whole of it, in the flat of its many voices, and it read his right hand. Teo's first finger lifted off the bar and set back down. Teo looked at it as if somebody else had done it.
+Living first, it read. It read Teo's name back to him off the lintel, the whole of it, in the one tone of its many voices, and it read his right hand. Teo's first finger lifted off the bar and set back down. Teo looked at it as if somebody else had done it.
 
 Next the boy's name, and Seffa's from the upper grille, and Doc's. It read Eli's, and did not hurry over it. Eli heard his own name said in a hundred late voices and had to look at the floor.
 
@@ -432,7 +430,7 @@ Over the bars Teo looked at the old man. The old man had his eyes shut and his p
 
 "You can't," she said, to the bars.
 
-With his right foot over the line, Teo reached through the bars with his right hand, over the groove, into the cell.
+The old man's hand had come off his chest. It lay open on the sack, a hand's width from the bars, and he was not reaching for it. With his right foot over the line, Teo reached through the bars with his right hand, over the groove, and took hold of it. The groove was under his foot, where it had been all along.
 
 It took the top joint of Teo's right index. The joint went up onto the cord across its chest, one bead more, and the count stopped and began again from the top. It read Teo's name first. It read it through, the whole length of it, and then the boy's, and Eli's, and Doc's, and Seffa's. It read the old man again. It went back down the column to the stone, and the stone was still a blank, and the counter went back into the wall with one more bead on its cord. It had not finished. It would finish at first light.
 
@@ -446,9 +444,9 @@ Kneeling, Doc tore a strip from the hem of his own shirt. He wound it round the 
 
 Her right hand came up.
 
-Eli had not seen her show it before. One finger short at the top joint. The stump had healed flat and pale. "The corridor's line took it," she said. "Not my own lintel. I crossed that line once, years back, to reach mine. I never crossed my own."
+Eli had not seen her show it before. One finger short at the top joint. The stump had healed smooth and pale. "The corridor's line took it," she said. "Not my own lintel. I crossed that line once, years back, to reach mine. I never crossed my own."
 
-She said it once, and looked at the boy's hand, wrapped in a strip of Doc's shirt, and not at them.
+She said it once, and looked at Teo's hand, wrapped in a strip of Doc's shirt, and not at them.
 
 "How many more," said Teo.
 
@@ -456,7 +454,7 @@ She did not answer. She tapped the grille bar once with her knuckle.
 
 Laughter came out of him high and wrong. "Well. That's it, isn't it. It's gone back in the wall, and we're— We're—" He looked at Teo's hand, and stopped. "Right."
 
-Nobody agreed with him.
+The room did not agree with him.
 
 Ragged, the old man's breath came. It came in through the gap in his teeth with a catch at the top of every pull. The grille stood open. The party stood on the far side of it with their hands and their blood, and she stayed where she was with her back to the wall and the knife in her left hand, and did not go to the gap.
 
@@ -464,7 +462,7 @@ Ragged, the old man's breath came. It came in through the gap in his teeth with 
 
 "I go where I like," she said. "Nobody hands me back. Nobody puts a door on me."
 
-Flat, through the gap, to Eli, she said it. Since the bell it had all been counts. This was the first thing she had said that was not one.
+Through the gap, to Eli, she said it. Since the bell it had all been counts. This was the first thing she had said that was not one.
 
 "Yes. Yes. Of course."
 
@@ -486,7 +484,7 @@ Between them, Eli and Doc lifted the old man off the sack. He weighed hardly any
 
 "Who."
 
-No answer came for that. Eli had his mouth open to say it again, and did not.
+That one he could not answer. Eli had his mouth open to say it again, and did not.
 
 Wide enough for a man's shoulders, the grille opened, and they went through it. They walked back down the gallery and up the stair. The count-house was empty, the arch open, the table with its ledger and its short pencil standing where they had left them. The corridor did not take them back. Eli looked at the floor the whole way anyway.
 
@@ -502,7 +500,7 @@ At the threshold, with the old man's weight across his good arm and the bad arm 
 
 He pushed.
 
-Into the stone the reach went. It did not go through as a grip. It went wide, the same as it had at the moths, and the rock slackened out toward the edges of the seam, and it came back up. Nothing gave. The hand locked on the stone and Eli's face went white, and he did not stop pushing. It had been a good reach. He had given it the whole of himself, and the arch had taken none of it, and no one had ever told him a gift could be refused like that.
+Into the stone the reach went. It did not go through as a grip. It went wide, the same as it had at the moths, and the rock slackened out toward the edges of the seam, and it came back up. Nothing gave. The hand locked on the stone and Eli's face went white, and he did not stop pushing. It had been a good reach. He had given it the whole of himself, and the arch had taken none of it, and he had never been told a gift could be refused like that.
 
 "It takes a name only when it's read through," said the woman. "His never was. He's the blank."
 
@@ -512,7 +510,7 @@ Into the stone the reach went. It did not go through as a grip. It went wide, th
 
 On the arch a tally ticked once. A small dry sound. The old man's weight went heavy, and stayed heavy. Eli felt it go. His good arm gave under it, and the old man sat down hard on the threshold on the warm side, with his heels in the dirt and his back to the arch. The seam did not close on him. It did not need to.
 
-The cough started. Eli sat down on the stone beside him and held his own wrists in his lap. "It's— we can—" he said, and did not say what. "We can," he said again. No one told him no.
+The cough started. Eli sat down on the stone beside him and held his own wrists in his lap. "It's— we can—" he said, and did not say what. "We can," he said again. He was not told no.
 
 The old man looked up. The first time he had looked at her with his eyes and not his palm.
 
@@ -532,9 +530,9 @@ Her palm came off him, and she stood up. Her eyes were on the rock. She stood wi
 
 On the step the cold came round to her left, and the warm stayed on her right, where the cough had been.
 
-Up he got. Doc came back to the arch and got a hand under his good arm and lifted, and the seam let him through, and he did not look back.
+Eli got up. Doc came back to the arch and got a hand under his good arm and lifted, and the seam let him through, and he did not look back.
 
-She was the last through. She did not look back at the arch. From the far side, with her back to it, she said to the seam, in the flat voice she used for numbers, "Seven went in. Six come out. One stays."
+She was the last through. She did not look back at the arch. From the far side, with her back to it, she said to the seam, in the level voice she used for numbers, "Seven were in. Six come out. One stays."
 
 ---
 
@@ -556,9 +554,9 @@ At the rail before the bridge the tall boy stopped. He had been left at the yard
 
 "Where you can see me," said the boy.
 
-Seffa looked at him for a long time. She did not put her hand on him. He did not lift his. He stood at the rail with the stump against his chest and let her look. The cart on the far bank began to move, and Seffa turned and came on across the bridge. She had no pot. Eli saw her hands, empty, and her bag knocking at her hip. "You'll be right with the arm," he said to the rail. Nobody answered him, and he had not thought they would. The tall boy stayed at the rail and did not look round either. On the far bank Oskel came down to the cart with his hands in his pockets, and saw the bound hand on the rail, and said nothing about it.
+Seffa looked at him for a long time. She did not put her hand on him. He did not lift his. He stood at the rail with the stump against his chest and let her look. The cart on the far bank began to move, and Seffa turned and came on across the bridge. She had no pot. Eli saw her hands, empty, and her bag knocking at her hip. "You'll be right with the arm," he said to the rail. He had not expected them to say anything, and they didn't. The tall boy stayed at the rail and did not look round either. On the far bank Oskel came down to the cart with his hands in his pockets, and saw the bound hand on the rail, and said nothing about it.
 
-After the others he walked, with his good hand in his pocket and the bad one hanging. Behind them, at the foot of the pit, the seam had gone back to rock. The light was coming up over the heaps. Somewhere past the rock the count would be read through to the end, a little late, and the door would be done. He could not hear it from here. He thought he could hear a cough.
+After the others he walked, with his good hand in his pocket and the bad one hanging. Behind them, at the foot of the pit, the seam had gone back to rock. The light was coming up over the heaps. Somewhere past the rock the count would be read through to the end, in order, and the door would be done. He could not hear it from here. He thought he could hear a cough.
 
 "We'll go back for him," Eli said. "When we've got the—"
 
