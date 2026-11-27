@@ -35,3 +35,12 @@ Claude's pick: **A keep vague, B make it hurt, C grow it**.
 - **A. The power:** keep "the thing in him" vague.
 - **B. The moth scene:** make it hurt someone it matters to.
 - **C. Length:** grow toward about 6k.
+
+## Revision v5 (decisions A/B/C applied)
+- **Length:** about 5,400 words by machine count (was 4,600). Short of 6k; the writer's own estimate was higher.
+- **A (power):** "the thing in him" stays vague.
+- **B (moth):** the reach goes past the moth and closes on Teo's bad hand on the step. He opens it finger by finger, it stays shut through the morning, and he walks out with it shut in his pocket. Eli says "It's the cold." The old man still says "Again."
+- **Risk:** this is the first time the reach physically locks another person's hand. If that reads as off-rule, we cut the hand beat and find another cost for B.
+- **Still open:** "then" (22) and "he had" openings (11) are slightly over their caps. Reads on v5 haven't run yet.
+
+**Claude's verdict:** closer. Ready for one fresh read (cold reader and panel) on v5 before you judge it.
