@@ -19,7 +19,7 @@ Legend: ✅ have it · ◐ partial · ❌ missing
 | Dragons | ✅ | ◐ shape done, named factions later | ✅ | ✅ the circling pack | ✅ | ✅ |
 | Elves | ✅ | ◐ the Inquisition, dark elves | ❌ | ◐ king, "complete subservience" | ◐ Eterna, beacon worlds, exiles | ✅ reunion |
 | Humans | ✅ | ◐ the AI, Derrek, other powers, refuges | ✅ | ✅ AI + hidden emperor | ✅ | ✅ luxury, no target |
-| Dwarves | ✅ | ◐ "several emperors" | ◐ gnomes, the weak sold | ◐ bureaucratic autocracies | ◐ mine worlds | ✅ independence |
+| Dwarves | ✅ | ✅ family firms (count later) | ✅ wealth | ✅ oligarchy | ✅ plain, busy | ✅ magic-tech |
 | Orcs | ✅ | ❌ (fracture is internal) | ✅ bottom | ✅ none (no kings) | ❌ breeding worlds? free worlds? | ◐ hate, restitution |
 | Gnomes | ◐ | ❌ | ✅ indentured | ❌ | ❌ | ❌ |
 | Goblins / trolls | ◐ | ❌ | ✅ bottom | ❌ | ❌ | ❌ |
@@ -27,6 +27,8 @@ Legend: ✅ have it · ◐ partial · ❌ missing
 | The Returned | ✅ | ◐ the first-out monopoly | ◐ | ❌ | ❌ outside the maze | ✅ never bound again |
 | Lesser dragon kin | ❌ | ❌ | ✅ underclass | ❌ | ❌ | ❌ |
 | Other elder races / beasts | ❌ (GAP Q20) | | | | | |
+
+**Later categories added (BANK 11-27):** Faith and gods (every race; gods are real, with witnessed feats).
 
 **Order (Claude's pick):** Dragons → Humans → Dwarves → Giants → Elves → Orcs → the small races → Returned and dark elves. Dragons come first because they're Patrick's own example and the thinnest of the big races at the structural level.
 
