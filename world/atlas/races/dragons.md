@@ -14,16 +14,20 @@
   - Their pride says "still supreme." A realist minority says "dragons have fallen."
 - **Factions:** deliberately left for later.
 
+## SHAPE additions (Patrick, corrections 11-27)
+- **Class is a ladder on every world.** Slum-born, merchant's son, lord, planet king: every rung exists on every world, fringe and core alike. The capital's rungs simply outrank the fringe's.
+- **Working with humans is normal.** It's profitable, and humans are the dragons' shield (giants and elves would happily go to war with dragons if humans let them). Any shame is a quiet collective sigh about how far dragons have fallen. No dragon is personally looked down on for it.
+- **Dragons design, others make.** They never had the hands for it. Humans and dwarves always built their designs. Now automated labs help, but the dragon mind plus human mass manufacturing is still the partnership. A brilliant designer is a celebrity.
+- **The lesser kin** are an underclass, not slaves. They have some rights and plenty of numbers, are bigger than humans, and have high-tier Remnant, just below true dragons. (Only orcs are the slave race.)
+
 ## DETAIL (Claude, derived) 🌊
-- **The pack's rules.** Coalitions are the real government. Power is counted in seats and alliances held, not in titles. Being "near the top" is a standing a dragon has to keep earning. The pack always ganging up on whoever rises gives every dragon court its paranoia. Story engine: a dragon who's quietly getting too strong, and everyone noticing.
-- **The heir problem.** Great dragons outlive whole human dynasties, but their hold doesn't pass to their heirs. A dead great dragon's holdings make a feeding frenzy, which is a ready-made war or heist setting.
-- **The slum.** The dragon slum is a fringe world: a thin hoard, a third-rate school, old human-built infrastructure, and the shame of having no one to look down on except the lesser kin and the humans. A fringe-born dragon climbs through **scholarship** (a core university takes them on), through **usefulness to a coalition**, or through **human money** (going over to human commerce, which the old families sneer at).
-- **The brain drain.** Rim worlds are run by the dragons who failed to leave, or who were sent there. There's bitterness both ways.
-- **Embedded dragons.** Dragons sit on human boards, in human academies and in human legal firms. They're seen as brilliant and arrogant, and humans need them and resent them. Their own families look down on them for living "among the throng."
-- **Tech as the new hoard.** Patents, prototypes and bleeding-edge weapons are what status means now. A hoard is part vault, part research lab.
-- **The failed wars.** Every generation, some local power tries war and gets swarmed. These defeats are remembered as warnings, or explained away by the deniers.
+- **The pack's rules.** Coalitions are the real government. Power is counted in seats and alliances held, not in titles. Being "near the top" is a standing a dragon has to keep earning. A dragon who's quietly getting too strong makes the whole court paranoid. That's a story engine.
+- **The heir problem.** A dead great dragon's holdings don't pass cleanly. The rest fight over them, which is a ready-made war or heist setting.
+- **The design celebrity.** A dragon's fame comes from what they designed: patents, prototypes, a famous ship class. The hoard is part vault, part lab, part portfolio. Rivalries are fought over credit.
+- **The partnership.** Every big dragon venture has its human (or dwarven) production partner. The relationship is close and unequal, and both sides need it. There's a lot of story in the human foreman who understands the design better than the dragon thinks.
+- **Fringe vs core.** A fringe world has its own full ladder and its own proud king, who is a minor figure at the capital. Its universities can't keep their brightest, and its lords know it.
+- **The rare uprising.** Every so often a regional power reaches too far, against the pack or against humans, and the history books remember how it ended.
+- **The lesser kin.** A large, capable people with second-class standing: valued as officers, enforcers, pilots and mid-level mages, but never let into the pack. A lesser-kin character with true-dragon ambition is a ready story.
 
 ## Still open (shape)
-- The end of his cut-off thought: "...or the elves who are"
-- Q6: the lesser kin (the wingless two-legged kin and the reptilian peoples)
 - Named factions (later, by Patrick's choice)
