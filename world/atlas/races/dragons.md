@@ -11,7 +11,7 @@
   - Their share of power is the lowest it's ever been, but they're still rich and still technically ahead.
   - They're embedded in human institutions, and they profit from a monopoly on bleeding-edge tech.
   - They plot, but there's no united war. Local powers that start wars with humans get crushed by numbers.
-  - Their pride says "still supreme." A realist minority says "dragons have fallen."
+  - Pride says "still supreme." Plenty of realists say "dragons have fallen, humans have risen," pointing to the dwarves' unconquered empire and the thriving, unstagnated elves.
 - **Factions:** deliberately left for later.
 
 ## SHAPE additions (Patrick, corrections 11-27)
