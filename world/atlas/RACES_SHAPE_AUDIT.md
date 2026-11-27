@@ -16,7 +16,7 @@ Legend: ✅ have it · ◐ partial · ❌ missing
 | Race | Core | Factions | Class | Gov't | Worlds | Wants |
 |---|---|---|---|---|---|---|
 | Giants | ✅ | ◐ far-future camps only | ❌ | ❌ since the fall | ◐ "the forge world" | ◐ spite / quiet regrowth |
-| Dragons | ✅ | ◐ houses vs dispossessed | ◐ lesser kin underclass | ❌ | ❌ | ◐ |
+| Dragons | ✅ | ◐ shape done, named factions later | ✅ | ✅ the circling pack | ✅ | ✅ |
 | Elves | ✅ | ◐ the Inquisition, dark elves | ❌ | ◐ king, "complete subservience" | ◐ Eterna, beacon worlds, exiles | ✅ reunion |
 | Humans | ✅ | ◐ believers vs realists | ❌ | ◐ the Emperor, federation, Council | ◐ new from BANK 11-27 | ✅ everything |
 | Dwarves | ✅ | ◐ "several emperors" | ◐ gnomes, the weak sold | ◐ bureaucratic autocracies | ◐ mine worlds | ✅ independence |
