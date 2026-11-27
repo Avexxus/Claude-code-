@@ -182,9 +182,7 @@ He shut them. He pointed. "Left."
 
 Eli stood with his eyes shut and his hand out and listened. The boys breathed. In the row one of them turned over and said something with his mouth full of sleep, and the old man said, not loud, "Still," and the boy went quiet. The lamp ticked on its hook. Somewhere in the dark the moth went round and round, not near and not far, and its sound came and went with the air moving over the frost. He pushed his thing out toward it, slowly. It went out wide. It came back empty. He tried again, smaller, and it went along the wall of the shed, past the post, over the dry dust of the boards, and found something, and closed.
 
-It was in his hand. He could feel the shape of it against his palm, all its wings folded at once, and the fear in it, a flicker, and then less than that.
-
-Then something else was in the reach. It was warm, and it was close, and it had not been there a moment before. Teo's hand, inside the coat. Eli felt it the way he'd felt the moth: the bones of it, and the skin gone tight over them, and the fingers curled in against the wool.
+The moth's legs scratched at the air, quick, then slower. Its wings went flat all at once, the way a sail goes when the wind drops.
 
 "Eli," said Teo, from the step.
 
@@ -198,15 +196,7 @@ The moth fell on the boards with its wings flat and lay there. It lifted one win
 
 When Eli opened the hand there was a grey dust across the palm, the kind that came off the wings. He rubbed at it with his thumb, and it went into the lines of his fingers and stayed there.
 
-On the step the coat pulled tight across Teo's shoulder, and Teo made no sound at all. Eli opened his eyes. Teo had his good hand round the wrist of the other, under the coat, and was opening the fingers one at a time, the way Eli had on the rail. The last one was the hardest.
-
 "I felt it go," Eli said. He was grinning. He could feel the grin pull at the swollen side of his face. "Did you see that? It went all the way along, like something running out through—"
-
-"Your hand," said Teo. "It's still on."
-
-Eli looked. His hand had shut round the moth and stopped partway, the fingers still bent, the knuckles pale in the yellow light. He opened it. It opened about as far as it had to.
-
-"Oh. Sorry. Sorry, Teo, I didn't—"
 
 "Again," said the old man.
 
@@ -223,12 +213,6 @@ He opened the hand. The old man only looked at him. Eli kept his eyes off the bo
 When he looked up again the step was empty and the coat was gone from it.
 
 In the morning there was frost on the inside of the shed walls, and Eli's hand was white and stiff and wouldn't do what it had done the night before. He tried it on the strap. Partway. He pushed, and it went no further.
-
-Teo's hand would not open at all. He had it in the pocket of the coat, shut. At the stove he drank his tea out of the cup in the good hand, with the other one dead weight in the pocket, and the coat hung crooked on that side all morning.
-
-"It's the cold," Eli told him.
-
-Teo let that go past him.
 
 At the trough that morning Seffa had her sleeves up to the elbow, wringing out the cloths from the boys' row, and Eli came and stood at her side and watched her do it.
 
