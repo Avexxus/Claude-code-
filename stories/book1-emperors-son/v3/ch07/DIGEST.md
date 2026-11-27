@@ -30,3 +30,8 @@
 - **C. Length:** tighten to about 4,600 as is, or let the moth scene and the walk out grow to reach about 6k?
 
 Claude's pick: **A keep vague, B make it hurt, C grow it**.
+
+## Patrick's decisions (approved)
+- **A. The power:** keep "the thing in him" vague.
+- **B. The moth scene:** make it hurt someone it matters to.
+- **C. Length:** grow toward about 6k.
